@@ -1,0 +1,493 @@
+Marine Policy 42 (2013) 1–4
+
+Contents lists available at SciVerse ScienceDirect
+
+Marine Policy
+journal homepage: www.elsevier.com/locate/marpol
+
+The changing face of global ﬁsheries—The 1950s vs. the 2000s
+Reg A. Watson a,n, Daniel Pauly b
+a
+b
+
+Institute for Marine and Antarctic Studies, University Tasmania, Taroona, TAS 7001, Australia
+Sea Around Us Project, Fish. Centre, University of British Columbia, Vancouver, BC, Canada V6T 1Z4
+
+a r t i c l e i n f o
+
+abstract
+
+Article history:
+Received 19 December 2012
+Received in revised form
+22 January 2013
+Accepted 22 January 2013
+Available online 28 February 2013
+
+Spatialized catch and effort data, representing the world’s marine ﬁsheries in the 1950s and the 2000s
+are presented in form of cartograms, i.e., global maps in which the surface areas of continents are made
+proportional to the magnitude of the annual catches and ﬁshing effort by their ﬂeets. This is
+complemented by an analysis of the ﬂows of seafood between the continents in whose waters the
+ﬁsh were captured, in the 1950s and the 2000s, and the continents where ﬂeets originated. Such broadbrush analyses of temporal changes and trade patterns are helpful to understand major trends of
+ﬁsheries, which, are increasingly dominated by scarcity of ﬁsh, and competition, notably off the coast of
+West Africa, and in newly accessed polar waters.
+& 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Global ﬁsheries landings
+Global ﬁsheries effort
+Fishing capacity
+
+1. Introduction
+Modern humans have exploited marine resources since we
+emerged as a species (see, e.g., [1]). When harsh conditions
+threatened the small population of early humans, coastal marine
+resources allowed them to survive [2]. But since then, human
+have thrived, and have strongly impacted marine, and particularly
+coastal species and ecosystems [3], especially in the last 150
+years, which saw the industrialization of ﬁsheries [4]. Notably,
+global ﬁshing patterns have strongly changed since the Food and
+Agriculture Organization of the United Nations published its ﬁrst
+collection of global ﬁsheries landings in the mid 1950s [5]. Fishing
+ﬂeets have been challenged by stock collapses [6], while empowered
+by improved technologies and logistic support. Many ﬁsheries are
+now multinational enterprises (see, e.g., [7,8]). Since the adoption, in
+the late 1970s/early 1980s of exclusive economic zones (EEZ) by
+maritime countries [9], the roving ﬂeets of distant-water countries
+have had to negotiate coastal zone access arrangements. Though
+maps of where ﬁshing occurs have always accompanied this activity,
+these documents were seen as commercially valuable, and were not
+willingly disclosed, as ﬁshing is, of course, a very competitive
+business. Trying to see the big picture has therefore been extremely
+difﬁcult, while increasingly necessary to examine potential impacts
+on marine ecosystems, and those commercial and non-commercial
+plants and animals embedded in them. Additionally, the impacts of
+climate change will challenge our ability to plan and mitigate [10].
+The Sea Around Us project, which began in 1999 ([11,12]), has
+used publicly available ﬁsheries landing statistics, to map where
+
+n
+
+Corresponding author. Tel.: þ61 3 6224 8574
+E-mail address: rwatson@ecomarres.com (R.A. Watson).
+
+0308-597X/$ - see front matter & 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.marpol.2013.01.022
+
+global landings were taken on a ﬁne-scale [13,14]. Subsequently,
+this same project mapped global ﬁshing effort as well [15–17].
+These mapped databases allow ﬁshing activity to be associated on a
+spatial scale of use to policy makers and ecologists alike, especially
+when the data they presented were reﬁned to allow a breakdown by
+ﬁshing country and associated ﬁshing gear. Such data breakdowns
+allowed for comparison with oceanographic and satellite data such
+as primary productivity [18–20], as one of the most potent measures
+of ﬁshing intensity is how much of local primary production is
+appropriated in form of ﬁsheries catches. Mapping global ﬁsheries
+catches has also been valuable in detecting irregularities, such as
+hidden or inﬂated catch reporting, as was the case for China [21].
+Studying and understanding the trajectory of changes in the marine
+environment induced by anthropocentric activities, and particularly
+ﬁshing, is important to formulating marine policy. Here changes that
+have occurred since global catch statistics began to be published
+annually in the 1950s are explored.
+
+2. Material and methods
+2.1. Global catch and effort data
+The ﬁshing landing data were sourced from the Sea Around Us
+project [12,13], as compiled from a range of sources including the
+FAO ﬁsheries database, supplemented by regional datasets, and
+augmented in a few cases, with reconstructed datasets, e.g., from
+[22]. It is quality-checked, and mapped to a system of 300 by 300
+spatial cells using a rule-based approach based on original spatial
+information, the access of ﬂeets to coastal waters (through reports
+or explicit access agreements), and the distribution of the
+reported ﬁsh marine taxa, as inferred from geography and
+
+2
+
+R.A. Watson, D. Pauly / Marine Policy 42 (2013) 1–4
+
+Fig. 1. Cartogram where the inﬂation or deﬂation of the area of a continental region is based on global ﬁsheries landings averaged for the 1950s and the 2000s (see text for
+data sources and processing).
+
+Table 1
+Annual ﬁsheries landings (kg per capita) and effort (Watts per capita) for ﬂeets of
+continents in the 1950s and the 2000s.
+Landings
+
+3. Results and discussion
+3.1. Global landings
+
+Effort
+
+Fleets
+
+1950s
+
+2000s
+
+1950s
+
+2000s
+
+Europe
+Asia
+Africa
+S. America
+Oceania
+N. America
+
+16.2
+6.1
+5.6
+8.2
+7.8
+15.5
+
+19.8
+9.8
+6.1
+44.1
+39.2
+16.2
+
+2.3
+0.4
+0.6
+0.7
+1.4
+1.0
+
+6.4
+2.4
+1.3
+1.8
+31.0
+3.9
+
+habitat afﬁnities in FishBase [23] for ﬁshes, and SeaLifeBase
+[24] for invertebrates [25].
+Fishing effort data was sourced from the Sea Around Us project
+[17]. This data was standardized and collated, based on engine
+power (Watts) and ﬁshing days [16] from a range of public domain
+sources including the FAO’s Coordinated Working Party on Fisheries
+Statistics (FAO-CWS), and European Union Common Fishing Policy
+Statistics (EU) for non-tuna ﬁshing, the Secretariat of the Paciﬁc
+Community (SPC), International Commission for the Conservation of
+Atlantic Tunas (ICCAT), Inter-American Tropical Tuna Commission
+(IATTC), Indian Ocean Tuna Commission (IOTC) and FAO’s Atlas of
+Tuna and Billﬁsh for tuna ﬁshing (FAO-Atlas), and the Commission
+for the Conservation of Antarctic Marine Living Resources (CCAMLR)
+for ﬁshing effort in the Antarctic region. The resultant harmonized
+global dataset was mapped to 300 by 300 spatial cells using a variety
+of processes, depending on spatial information present in the
+original sources. The data from SCP, ICCAT, IATTC, IOTC, FAO-Atlas,
+and the CCAMLR data provided spatial information, whereas, the
+FAO-CWS and EU statistics did not, and thus required further spatial
+modelling. Fishing effort was ﬁrst apportioned to ﬂeet-accessible
+ports, then mapped to spatial cells in adjacent waters using a twoscale gravity-model, based on the value of mapped landings taken
+from surrounding waters based on modelled landings from the Sea
+Around Us project’s databases.
+
+2.2. Cartogram
+Global ﬁsheries (landings and effort) data by continents were
+used to produce cartograms, i.e., maps where the land area of
+each continent was made proportional to some interesting
+quantity (here: catch weight and ﬁshing effort). For this, ESRI’s
+ArcMap 10 Cartogram Geoprocessing Tool Ver 2 [26] was used.
+
+The global distributions of ﬁsheries landings in the 1950s and
+early to mid-2000s are shown in Fig. 1.
+Here, the area of continents is distorted by the share their
+ﬂeets take of the global total. As can be seen in the 1950s, Europe
+and Asia dominated ﬁsheries landings, while South America,
+Africa, and Oceania had relatively small catches. By the 2000s,
+massive changes have occurred: Europe’s share had considerably
+shrunk, Asia was more dominant; and South America, and the
+ﬁsheries for Peruvian anchoveta (Engraulis ringens) on its west
+coast, produced a large share of global landings. North America’s
+share had dwindled, while Oceania’s share had remained more or
+less constant.
+On a per capita basis, the increases in landings between the
+1950s and the 2000s in South America and in Oceania were more
+evident (Table 1).
+Per capita increases in Europe and North America had not kept
+pace with those elsewhere, and this is the reason why they have
+become, with Japan, major importers of seafood [27].
+As the catches from the world’s oceans are ultimately related
+to solar-supported primary productivity in marine ecosystems
+[20,28,29] it is decidedly ﬁnite, and overall, global catches show
+signs of diminishing [21]. The highly mobile nature of global
+ﬂeets, and competition for the rights to access the comparatively
+richer inshore areas now protected by exclusive economic zone
+declarations, has meant, that ﬂeets dynamically compete on a
+global basis for their share of ocean production. Perverse subsidies can exacerbate matters by maintaining ﬁsheries even when
+they are no longer proﬁtable [30,31]. Many areas of the world’s
+oceans are now fully exploited [17,20]. Foreign ﬂeets are forced to
+move on once landings diminish.
+It is worth examining how the ﬂow of ocean production,
+manifested by ﬁsheries landings, has changed since the 1950s.
+Table 2 shows the percent ﬂow from each ocean basin to the ﬂeets
+based in global continents. Here, one can see that in the 1950s,
+the powerhouse of ﬁsheries were the European ﬂeets in the
+northern Atlantic, and the East Asian ﬂeets in the Paciﬁc, which
+jointly accounted from nearly 2/3 of the ﬂow of ﬁsheries landings.
+By the 2000s, landings were now more than three times
+annually what they were in the 1950s. By then, however, Europe’s
+share of global ﬁsheries production had halved, with a substantial
+portion now taken from the Indian Ocean by Asian ﬂeets, and
+from the Paciﬁc, by ﬂeets from South America. Fleets from Asia,
+and China in particular, are now active in coastal African waters
+[32], while European ﬂeets have also had to derive more and more
+
+R.A. Watson, D. Pauly / Marine Policy 42 (2013) 1–4
+
+3
+
+Table 2
+Comparison of average percent of annual catch ﬂows from ocean basins to ﬂeets of continents in the 1950s vs. the 2000s. In each pair of numbers the ﬁrst refers to the
+1950s and the second to the 2000s. Flows over 10% appear in bold.
+Fleets
+
+Africa
+
+Antarctic
+Arctic
+Atlantic
+Indian
+Mediterranean
+Paciﬁc
+3
+
+Total (  10 t)
+
+4.33/5.13
+0.72/0.51
+0.28/0.46
+1,236/4,872
+
+S America
+
+Total ( x 103 t)
+
+Asia
+
+Europe
+
+N&C America
+
+Oceania
+
+ /0.09
+
+ /0.01
+0.02/11.39/4.35
+ /0.01
+
+ /0.02
+
+0.13/0.62
+4.94/11.43
+0.40/0.61
+31.30/32.35
+
+ /0.05
+0.08/0.01
+33.28/14.17
+ /.31
+2.55/0.91
+2.42/2.63
+
+0.11/0.16
+
+3.76/5.59
+
+0.32/1.34
+
+2.70/16.64
+
+ /137
+23/10
+11,677/21,405
+1,338/9,910
+748/1,577
+9,387/46,683
+
+8,519/35,946
+
+8,883/14,416
+
+3,515/7,938
+
+100/1,218
+
+920/15,332
+
+23,173/79,722
+
+1.26/2.58
+
+Fig. 2. Cartogram where the inﬂation or deﬂation of the area of a continental region is based on global ﬁshing effort (annualized kilowatts) for the 1950s and the 2000s
+(see text for data sources and processing).
+
+of their landings from the Atlantic areas bordering Africa [33].
+Overall, the share of production taken from the Atlantic has been
+reduced, while that from the Paciﬁc has increased. Distant-water
+ﬁshing ﬂeets now operate in more and more remote locations,
+notably in the southern hemisphere [17,19], all the way to the
+slope and shelf of the Antarctic continent [34].
+3.2. Fishing effort
+The global change in ﬁshing effort is somewhat similar to that
+of ﬁsheries landings, but there are important differences (Fig. 2).
+As with ﬁshery landings, the dominant ﬂeets (based on the
+average deployment of vessel power) in the 1950s, originated
+from Europe and Asia. Since then, there has been an extraordinary
+increase in the relative power of the ﬂeets from Asia. Though all
+ﬁsheries ﬂeets have expanded during this time, it is the huge
+increase in the larger vessels, especially purse seiners, pursuing
+oceanic tunas that have been most dramatic [17].
+Looked at on a per capita basis, the capacity of the ﬂeets from
+all continents has increased (Table 1), with most ﬂeets increasing
+by 2–3 times since the 1950s. This is indicative of the highly
+competitive nature of global ﬁsheries, and because ﬁshing now
+occurs in increasingly remote locations, requiring greater processing on board, and greater vessel endurance. The deployment of
+large and high platforms of modern tuna purse seiners, augmented by helicopters, and the latest satellite data, has become more
+common. Some of the increase in the power of European ﬂeets
+would undoubtedly have derived from the subsidized construction of huge trawlers, which could not be accommodated in the
+European waters, and now ﬁsh elsewhere.
+Fisheries have, overall, moved southward since the 1950s [17,19],
+and the shelf and the slopes around the Antarctic continent have
+been reached [34], there in great interest in developing ﬁsheries in
+the thawing Arctic [35]. In addition, continuing an age-old tradition,
+ﬂeets from Europe, and now Asia, especially China, have become
+
+more and more active along the African coast [17,32,33] which can
+pose equity questions [36,37]. Recently, there was much controversy
+in southern Australia, after a 142-meter long, originally-Dutch,
+‘supertrawler’ was invited (and then un-invited), after years of
+negotiation, to exploit Greenback horse mackerel (Trachurus declivis)
+and other pelagic ﬁshes, which, due to a range of factors, including
+reportedly a change in distribution through ocean warming, were no
+longer viable for local ﬂeets to target. Around the world, similar
+marine resources, deemed to be ‘under-harvested’, will receive more
+and more scrutiny by roaming global ﬂeets. One common understanding related to the declaration of exclusive economic zones in
+marine areas, is that resources that are not harvested by national
+ﬂeets in these areas, should be made available for harvest by foreign
+ﬂeets. For all ﬁsheries management agencies, this is a time for
+increased vigilance. They must not simply focus on issues relating
+to their own resources, but track carefully those of their region, and
+indeed those of a global nature. Changes wrought through climate
+change will alter the level and distribution of ocean catch potential
+[38]. More than ever, it is necessary to look at changes in the big
+picture, and act on the policy implications of their major trends.
+
+Acknowledgements
+This is a contribution funded by the Sea Around Us project, a
+collaboration between the University of British Columbia and the
+Pew Environment Group.
+References
+[1] Richter C, et al. Collapse of a new living species of giant clam in the Red Sea.
+Curr Biol 2008;18(17):1349–1354.
+[2] Marean CW. When the sea saved humanity. Sci Am 2010;303(2):55–61.
+[3] Jackson JBC. Historical overﬁshing and the recent collapse of coastal ecosystems. Science 2001;293:629–638.
+[4] Roberts C. The unnatural history of the sea. London: Island Press; 2007.
+
+4
+
+R.A. Watson, D. Pauly / Marine Policy 42 (2013) 1–4
+
+[5] FAO. Statistics and Information Service of the Fisheries and Aquaculture
+Department 2012 FAO yearbook. Rome: FAO: Fishery and Aquaculture
+Statistics; 2010.
+[6] Pauly D. Beyond duplicity and ignorance in global ﬁsheries. Sci Mar
+2009;73(2):215–224.
+[7] Knecht, GB. Hooked: pirates poaching and the perfect ﬁsh. Rodale City; 2006.
+[8] Rosenblum M. ‘Free-for-all’ decimates ﬁsh stocks in the southern Paciﬁc.
+Center for Public Integrity. 2012. /http://www.publicintegrity.org/2012/01/
+25/7900/free-all-decimates-ﬁsh-stocks-southern-paciﬁcS.
+[9] Ebbin SA, editor. Springer; 2005.
+[10] Cheung WWL, et al. Shrinking of ﬁshes exacerbates impacts of global ocean
+changes on marine ecosystems. Nat Clim Change 2012;2(11). http://dx.doi.or
+g/10.1038/nclimate1691.
+[11] Pauly D. The Sea Around Us project: documenting and communicating global
+ﬁsheries impacts on marine ecosystems. AMBIO: J Hum Environ 2007;34(4):
+290–295.
+[12] /http://www.seaaroundus.orgS.
+[13] Watson R, et al. Mapping global ﬁsheries: sharpening our focus. Fish Fish
+2004;5:168–177.
+[14] Watson R, et al. Catching some needed attention. Mar Policy 2005;29:281–284.
+[15] Gelchu A, Pauly D. Growth and distribution of port-based ﬁshing effort
+within countries’ EEZ from 1970 to 1995. Fisheries Centre Research Reports;
+2007. 15(4).
+[16] Anticamara J, et al. Global ﬁshing effort (1950–2010): trends, gaps, and
+implications. Fish Res 2011;107:131–136.
+[17] Watson R, et al. Global marine yield halved as ﬁshing intensity redoubles.
+Fish Fish, http://dx.doi.org/10.1111/j.1467-2979.2012.00483.x, in press.
+[18] Pauly D, Christensen V. Primary production required to sustain global
+ﬁsheries. Nature 1995;374:255–257.
+[19] Swartz W, et al. The spatial expansion and ecological footprint of ﬁsheries
+(1950 to present). PLoS One 2010; 5 e15143, 6 p.
+[20] Watson R et al. Primary productivity demands of global ﬁshing ﬂeets. Fish
+Fish, http://dx.doi.org/10.1111/faf.12013, in press.
+[21] Watson R, Pauly D. Systematic distortions in world ﬁsheries catch trends.
+Nature 2001;414:534–536.
+[22] Zeller D, et al. Arctic ﬁsheries catches in Russia, 34. USA and Canada:
+Baselines for neglected ecosystems. Polar Biology; 2011Arctic ﬁsheries
+
+[23]
+[24]
+[25]
+
+[26]
+[27]
+[28]
+[29]
+[30]
+[31]
+[32]
+
+[33]
+[34]
+[35]
+[36]
+[37]
+[38]
+
+catches in Russia, 34. USA and Canada: Baselines for neglected ecosystems.
+Polar Biology; 2011 955-973.
+/www.ﬁshbase.orgS.
+/www.sealifebase.orgS.
+Close C, et al. Distribution ranges of commercial ﬁshes and invertebrates. In:
+Palomares MLD, et al. editors. Fishes in databases and ecosystems. Fisheries
+Centre Research Reports; 2006. 14(4) p. 27–37.
+/http://arcscripts.esri.com/details.asp?dbid=15638S.
+Swartz W, et al. Sourcing seafood for the three major markets: the EU, Japan
+and the USA. Mar Policy 2010;34(6):1366–1373.
+Pauly D. One hundred million tonnes of ﬁsh, and ﬁsheries research. Fish Res
+1996;25(1):25–38.
+Longhurst AR. Ecological geography of the sea. 2nd ed San Diego: Academic
+Press; 2007.
+Sumaila UR, et al. A bottom-up re-estimation of global ﬁsheries subsidies.
+J Bioecon 2010;12:201–225.
+Sumaila UR, et al. Subsidies to high seas bottom trawl ﬂeets and the
+sustainability of deep-sea demersal ﬁsh stocks. Mar Policy 2010;34:495–497.
+Pauly D, et al. Catches [of the Chinese distant-water ﬂeet]. In: Blomeyer R,
+et al. editors. The role of China in World Fisheries. European Parliament,
+Directorate General for Internal Policies, Policy Department B: Structural and
+Cohesion Policies—Fisheries. Brussels; 2012. p. 21–29 and 81–85.
+Alder J, Sumaila UR. Western Africa: a ﬁsh basket of Europe past and present.
+J Environ Dev 2004;13(2):156–178.
+Ainley D, Pauly D. Fishing down the food web of the Antarctic continental
+shelf and slope. Antarctic Rec [in press].
+Jeffers J. Climate change and the Arctic: adapting the changes in ﬁsheries
+stocks and governance regimes. Ecol Law Q 2010;37:917.
+Kaczynski VM, Fluharty DL. European policies in West Africa: who beneﬁts
+from ﬁsheries agreements? Mar Policy 2002;26:75–93.
+Le Manach F, et al. Who gets what? Developing a more equitable framework
+for EU ﬁshing agreements. Mar Policy [in press].
+Cheung WWL, et al. Large-scale redistribution of maximum ﬁsheries catch
+potential in the global ocean under climate change. Global Change Biol
+2010;16:24–35.
+
+

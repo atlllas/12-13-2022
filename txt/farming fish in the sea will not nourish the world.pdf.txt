@@ -1,0 +1,1030 @@
+PERSPECTIVE
+https://doi.org/10.1038/s41467-020-19679-9
+
+OPEN
+
+Farming ﬁsh in the sea will not nourish the world
+
+1234567890():,;
+
+Ben Belton1,2 ✉, David C. Little3, Wenbo Zhang
+Michael Skladany6 & Shakuntala H. Thilsted2
+
+4,
+
+Peter Edwards5,
+
+Recent literature on marine ﬁsh farming brands it as potentially compatible with sustainable
+resource use, conservation, and human nutrition goals, and aligns with the emerging policy
+discourse of ‘blue growth’. We advance a two-pronged critique. First, contemporary narratives tend to overstate marine ﬁnﬁsh aquaculture’s potential to deliver food security and
+environmental sustainability. Second, they often align with efforts to enclose maritime space
+that could facilitate its allocation to extractive industries and conservation interests and
+exclude ﬁshers. Policies and investments that seek to increase the availability and accessibility of affordable and sustainable farmed aquatic foods should focus on freshwater
+aquaculture.
+
+A
+
+rapidly growing and high-proﬁle science and policy literature presents marine aquaculture as the forefront of environmentally responsible food production1–7. Futurologists
+and aquaculture advocates have long promoted ‘farming the seas’ as a technological and
+spatial ﬁx for apparent constraints to terrestrial food production. We identify a ‘new wave’ of
+marine aquaculture literature that diverges from this narrative in three important ways. (1) It
+replaces ad hoc claims about the potential of marine aquaculture with a coordinated set of
+narratives. In combination, these rebrand marine ﬁnﬁsh farming from an ecologically damaging
+and inequitable activity, to one potentially compatible with sustainable resource use, conservation, and human nutrition goals. (2) It locates the future of marine aquaculture in offshore
+waters; a vast zone previously beyond the bounds of existing technology, now positioned as a
+new frontier for expansion8–10. (3) It is advanced by new coalitions of actors, including conservation NGOs and ﬁsheries scientists which previously tended to oppose marine aquaculture.
+We make the case that this shift in the contemporary scientiﬁc debate stems from an alignment with the emerging policy discourse of ‘blue growth’11,12 and provide a two-pronged
+critique.
+First, we contend that the ‘new wave’ of literature is empirically inaccurate regarding the
+potential of marine aquaculture to contribute to global food and nutrition security and environmental sustainability, especially with respect to offshore ﬁnﬁsh farming. The economics of
+operating in exposed offshore environments necessitate production of high market value, carnivorous ﬁsh species that would remain inaccessible to low-income consumers and the foodinsecure, even given signiﬁcant technological advances.
+Second, we suggest that contemporary science and policy narratives around marine aquaculture, and the alliances of actors that propagate them, contribute—through their alignment
+with the blue growth policy agenda—to a global drive to create and enclose maritime territory
+
+1 Department of Agricultural, Food and Resource Economics, Michigan State University, East Lansing, MI, USA. 2 WorldFish, Bayan Lepas, Pulau Pinang,
+Malaysia. 3 Institute of Aquaculture, University of Stirling, Stirling, Scotland, UK. 4 College of Fisheries and Life Science, Shanghai Ocean University, Shanghai
+201306, China. 5 School of Environment, Resources and Development, Asian Institute of Technology, Khlong Luang, Pathum Thani, Thailand. 6 Department of
+Criminology, Anthropology, and Sociology, Cleveland State University, Cleveland, OH, USA. ✉email: beltonbe@msu.edu
+
+NATURE COMMUNICATIONS | (2020)11:5804 | https://doi.org/10.1038/s41467-020-19679-9 | www.nature.com/naturecommunications
+
+1
+
+PERSPECTIVE
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-19679-9
+
+through the extension of private property rights that would
+accelerate allocation of the oceans to extractive industries and
+conservation interests. Marine enclosures facilitated by ‘blue
+growth’ could exclude and displace coastal ﬁshers, who presently
+account for the vast majority of ocean users13,14, potentially
+eroding the signiﬁcant contributions that small-scale ﬁsheries
+make to human nutrition14,15.
+Our critique is based on inductive analysis of key themes in
+recent peer-reviewed literature and policy documents on marine
+aquaculture, identiﬁed through an extensive review. Throughout
+this paper, we present statements and quotes from the literature
+to illustrate how narratives around mariculture are constructed
+using claims that draw on, and advance, the blue growth agenda.
+The paper is structured as follows. First, we identify the major
+themes in recent marine aquaculture literature, and examine how
+these reproduce, and diverge from, the earlier literature. Second,
+we assess the empirical validity of recent claims about the
+potential of marine aquaculture to contribute to food and
+nutrition security and environmental sustainability. Third, we
+show how marine aquaculture is being reframed as compatible
+with conservation objectives. Fourth, we critically evaluate recent
+estimates of spatial potential for the expansion of marine aquaculture. Fifth, we explore how new alliances of actors formed
+around marine aquaculture contribute to a larger drive to commodify the oceans.
+We conclude that marine ﬁnﬁsh aquaculture would largely fail
+to deliver the food and nutrition security and environmental
+sustainability gains claimed due to biological, technical, and
+economic constraints. On the contrary, the expansion of marine
+aquaculture may intensify pressure on marine resources, and fuel
+exclusionary and inequitable social outcomes similar to those
+associated with ‘green grabs’ by conservation organizations on
+land16,17. We contend that the future of most farmed aquatic food
+production—including that with the greatest potential to contribute to food and nutrition security and equity goals—lies not in
+the sea, but on land. At sea, small-scale capture ﬁsheries have
+greater potential to meet food and nutrition security and equity
+goals than most forms of marine ﬁnﬁsh farming.
+(Re)imagining marine aquaculture
+The idea that ‘farming the seas’ is an inevitable next step for
+humanity rapidly approaching limits to the growth of terrestrial
+food production is an old one. Quotes articulating a perceived
+need for marine aquaculture spanning almost six decades from
+1952 to 2009, are presented in Table 1. All invoke urgent limits to
+terrestrial food production, counterposed with the yet-to-berealized spatial ﬁx of expansion into marine environments.
+This deterministic mix of Malthusian anxiety and biotechnological utopianism18 is also central to the new wave of marine
+aquaculture literature. Recent literature emphasizes—in broad
+terms—a global crisis, entailing a growing, seafood-hungry
+population, collapsing capture ﬁsheries, freshwater scarcity,
+competition for agricultural land, and conﬂicts over coastal space.
+This scenario, it is claimed, will drive the future of aquatic food
+production into increasingly distant offshore regions of the
+
+oceans7–9,19,20. The effect of this crisis narrative is to frame a
+series of contextually speciﬁc and highly variegated processes as
+universal trends. To cite but one example, whereas global capture
+ﬁsheries decline is often taken as a given, many ‘collapsed’ stocks
+have recovered21, and many tropical multi-species, multi-gear,
+artisanal ﬁsheries—which particularly make important contributions to food and nutrition security—display a high degree of
+resilience to ﬁshing pressure22.
+We identify three ways in which the new literature diverges
+from the old. (1) It marshals additional layers of mutually reinforcing claims. (2) It involves a diverse mix of actors, including
+groups once broadly opposed to marine aquaculture. (3) It contributes to advancement of a new market-based political project23: ‘blue growth’.
+‘New’ claims in the contemporary literature can be summarized as follows. First, (reversing earlier popular representations)
+rather than driving inequitable outcomes for human food and
+nutrition security, marine aquaculture “has the potential to
+beneﬁt malnourished populations”24. Second, (also reversing
+earlier representations by environmentalists) marine aquaculture
+“could be one of the most ecologically sustainable forms of food
+production”3. Third, marine ﬁsh farms can be “compatible with
+conservation objectives”, including the establishment of marine
+protected areas (MPAs)25. Fourth, geospatial modelling reveals a
+“vast amount of space suitable for marine aquaculture”5. Fifth, an
+apparent disjuncture between the urgent need for marine aquaculture and its unrealized potential can be explained in terms of
+policy failures8,26 that can (and, normatively, should) be remedied through marine spatial planning6 and expansion of private
+property regimes at sea3.
+Following sections of the paper elaborate on and critically
+evaluate each set of claims. We contend that the cumulative logic
+of these claims aligns with the blue growth agenda of deepening
+marine private property regimes, and that this goal underpins
+support for marine aquaculture by some conservation advocates
+and ﬁsheries scientists.
+Food and nutrition security and environmental sustainability
+In this section, we critically evaluate claims in the recent scientiﬁc
+and policy literature on the potential of marine aquaculture to
+contribute to food and nutrition security and environmental
+sustainability. We ﬁnd that these claims fail to adequately account
+for the bio-economic characteristics of the organisms farmed and
+technologies required to produce them. As a result, they obscure
+the likely distributional consequences and environmental
+externalities of expanding production and exaggerate potential for
+sectoral growth.
+Recent literature emphasizes food production as marine
+aquaculture’s core function. This is evident from papers and
+policy documents with titles such as, Global opportunities for
+mariculture development to promote human nutrition24, How
+can mariculture better help feed humanity?27, Food from the
+Oceans7, and The future of food from the sea2,3. Collectively, the
+literature asserts that increased production of farmed marine food
+has the potential to enhance seafood consumption by humans3.
+
+Table 1 Historical claims about the future of food production.
+Statement
+
+Date
+
+• The oceans may someday produce a greater proportion of the food consumed by humans than is grown on the land96.
+• We are now entering…the era of mariculture… As the world’s population expands, land farming will be increasingly unable to meet the ever
+greater demands for food97.
+• Following the cultivation of land for food, society must take the next step: largescale domestication of the ocean98.
+• [Mariculture] will constitute the next food revolution in human history99.
+
+1952
+1970
+
+2
+
+NATURE COMMUNICATIONS | (2020)11:5804 | https://doi.org/10.1038/s41467-020-19679-9 | www.nature.com/naturecommunications
+
+2005
+2009
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-19679-9
+
+PERSPECTIVE
+
+Table 2 Recent statements about marine aquaculture, food and nutrition security, and environmental sustainability.
+Food and nutrition security
+• Increased mariculture production could help ameliorate global malnutrition24.
+• Mariculture offers a crucial supply of protein, and… can support nutritionally vulnerable communities1.
+• [Offshore ﬁnﬁsh aquaculture] operations could be sited in developing countries to increase food security through income generation or increased
+access to seafood9.
+Environmental sustainability
+• Part of the growing interest in offshore aquaculture is the potential for improved sustainability. By moving farther offshore into the less protected ocean
+environment, open-ocean farming has the potential to reduce some of the many negative impacts associated with more nearshore practices and even
+create positive impacts through greater resource efﬁciency use28.
+• Offshore aquaculture is increasingly viewed as a mechanism to meet growing protein demand for seafood, while minimizing adverse consequences on
+the environment19.
+• Offshore mariculture aquaculture could enable increased seafood production and economic development while alleviating pressure on coastal
+ecosystems and wild ﬁsheries10.
+
+Although some publications have little to say about how this
+additional seafood would be distributed, others make explicit,
+though unelaborated, claims about its potential contributions to
+food and nutrition security (see Table 2).
+Representations of marine aquaculture as an environmentally
+sustainable form of food production draw on three sets of claims.
+(1) Seaweeds and most molluscs are extractive feeders, requiring
+little or no external feed inputs or supplementary nutrients3,7. (2)
+Siting marine ﬁsh cages in offshore environments exposed to
+strong currents and wave action minimizes point source pollution
+that can occur when farms are sited in protected nearshore
+environments10,19,28. (3) Improvements in feed formulation
+reduce the adverse environmental impacts of marine ﬁnﬁsh
+production3,7,29 (see Table 2). We address these points in
+turn below.
+First, the potential of seaweeds and ﬁlter-feeding molluscs
+(bivalves) to contribute signiﬁcantly to food and nutrition
+security falls short of their attractive resource use proﬁles. Leading seaweed industry experts estimate that global production of
+seaweeds stands at about half the quantity reported by the Food
+and Agriculture Organization of the United Nations (FAO)30.
+Seaweed is currently eaten directly in a limited range of forms;
+principally as soups, soup stock, sushi wrap, salads, and dried
+snacks31. Direct seaweed consumption per capita in Japan (which
+has the largest consumption per capita globally, along with
+Korea) has been reported at around 5.3 g/capita/day (<2 kg/
+capita/year). This level of consumption has been stable for decades32. Seaweeds consumed directly as food are likely to remain a
+minor component of future diets, with only niche markets outside
+East Asia33 and some Paciﬁc islands. Growth of global seaweed
+production over the past decade has been driven mainly by
+expanding Indonesian output, which is used mostly for industrial
+carrageenan extraction34. Seaweed extracts are used by the food
+industry as thickening agents and gels in ultra-processed foods,
+such as confectionary, ice cream, desserts, and processed meats31.
+These types of food are often of limited nutritional value and can
+contribute negatively to human health when consumed in
+excess35.
+The contribution of bivalves to world food supplies is also
+smaller than FAO statistics (based on ‘wet weight equivalents’
+that include the weight of inedible shell) would suggest (Table 3).
+Yield of edible meat from bivalves averages 17% of live weight,
+whereas, the edible yield of ﬁnﬁsh averages 87%. The apparent
+contribution of bivalves to world food supplies is thus biased
+dramatically upward in direct comparisons with ﬁnﬁsh36. There
+is potential to make greater use of mollusc extracts in highly
+processed functional foods37 but these are of limited relevance to
+global food and nutrition security. Bivalves are nutritious, and
+
+some farmed species such as mussels are relatively affordable.
+Nevertheless, demand in most markets, and thus contributions to
+food supply at the global scale, are presently rather limited. For
+these reasons, we conﬁne our analysis in the remainder of this
+article to the production of marine ﬁnﬁsh.
+Second, exposed marine environments are far more technically
+challenging arenas for ﬁnﬁsh farming than nearshore waters or
+land-based farms. Operational challenges and expenses increase
+with distance from shore, in the form of fuel costs and adaptations required to operate in high energy environments. Adaptations include reinforced and submersible cage structures, high
+levels of automation38, and large farm sizes to capture economies
+of scale39,40. As a result, R&D, ﬁxed capital, and operating costs
+for open-ocean aquaculture are high40. This makes offshore
+aquaculture a relatively high-cost way of growing ﬁsh that is
+presently able to compete with inshore aquaculture only under
+limited circumstances41. We contend that the economics of offshore marine ﬁnﬁsh aquaculture therefore necessitate industrialscale cultivation of high market value species or products to offset
+production costs39,40,42.
+Most high market value ﬁnﬁsh species with potential for use in
+marine aquaculture are carnivorous. Their production requires
+feeds containing marine ingredients (ﬁsh meal and/or ﬁsh oil), or
+substitutes such as microalgae derivatives that are under development and are currently expensive. As a result, the cost of
+production of most marine ﬁsh is high relative to herbivorous/
+omnivorous freshwater ﬁsh, such as carps, catﬁsh, and tilapia that
+readily assimilate high levels of cheaper terrestrial plant-based
+ingredients in diets43. The ability to breed and farm freshwater
+ﬁsh at low cost using relatively basic technologies44, makes them
+accessible to low- and middle-income consumers in countries
+with high levels of supply45, as well as to small- and mediumscale producers who beneﬁt from farming them. The opposite is
+true of marine aquaculture, especially offshore, where high ﬁxed
+and operating costs prevent participation by all but large investors. Job creation associated with offshore farms would be limited
+mainly to onshore ﬁsh processing which will increasingly be
+automated46.
+We believe that, even allowing for improvements in technical
+efﬁciency and scale economies, most species promoted as candidates for marine ﬁnﬁsh farming will be unable to compete on
+price with those that make up the bulk of freshwater aquaculture,
+and will not become accessible to low-income consumers.
+Salmon—the main ﬁnﬁsh presently farmed in marine environments—provides a relevant example. Salmon farming has been
+subject to half a century of intensive R&D, great leaps in production efﬁciency, massive levels of industrial consolidation, and
+consistently declining real farmgate prices47, yet, high production
+
+NATURE COMMUNICATIONS | (2020)11:5804 | https://doi.org/10.1038/s41467-020-19679-9 | www.nature.com/naturecommunications
+
+3
+
+PERSPECTIVE
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-19679-9
+
+Table 3 Quantity and shares of global farmed production of aquatic organisms in freshwater, brackish water and marine
+environments54.
+Freshwater
+
+Brackish water
+
+Quantity produced (million tonnes/year)a
+Aquatic plants
+0.1
+1.2
+Crustaceans
+3.1
+5.0
+Molluscs
+0.2
+0.1
+Finﬁsh
+44.4
+3.9
+Total
+47.9
+10.1
+Share of total, excluding aquatic plants (%)
+Crustaceans
+4.0
+6.3
+Molluscs
+0.3
+0.1
+Finﬁsh
+56.1
+4.9
+Total
+60.3
+11.3
+Share of total, excluding aquatic plants, adjusting for edible weightb (%)
+Crustaceans
+2.2
+3.4
+Molluscs
+0.1
+0.0
+Finﬁsh
+73.7
+6.4
+Total
+75.9
+9.9
+aFAO reporting year 2017.
+bEstimated using the following
+
+Total
+
+30.5
+0.3
+17.1
+5.2
+53
+
+31.8
+8.4
+17.4
+53.4
+111.1
+
+0.4
+21.5
+6.5
+28.4
+
+10.7
+22
+67.4
+100
+
+0.2
+5.5
+8.5
+14.2
+
+5.8
+5.6
+88.6
+100
+
+conversion factors: Crustaceans 0.36; Molluscs 0.17; Finﬁsh 0.8736.
+
+costs mean that salmon remains a relative luxury, inaccessible to
+anyone outside the global middle class.
+Planned investments in offshore aquaculture farms in China
+provide similar insight into the relationship between species
+choice, production economics, and distributional outcomes.
+Investments in offshore ﬁnﬁsh farming projects totaling >USD 1
+billion are planned, though none has been established to date48.
+Among ten major offshore aquaculture projects currently proposed in Chinese waters, three are slated to produce salmon, three
+to produce large yellow croaker, and the others a mix of luxury
+species that include Japanese seabass, puffer ﬁsh, tuna, and yellowtail amberjack49. Projects such as these, if eventually realized,
+would do little to contribute to global food and nutrition security,
+ameliorate malnutrition, or support nutritionally vulnerable
+people.
+The high market value marine ﬁnﬁsh species that would
+dominate offshore marine ﬁnﬁsh aquaculture require diets containing high levels of omega-3 fatty acids to ensure ﬁsh health and
+welfare, and to maintain nutritional value for humans50. Until
+now, marine ingredients derived from wild caught ﬁsh have been
+the principal source of omega-3 fatty acids in ﬁsh feeds. Alternative algal based aqua-feed ingredients are currently under
+development51 and some are now reaching the market. It seems
+probable that these products will start to substitute for ﬁsh oils as
+a key source of omega-3 in feeds, but the investment required
+means that prices are likely to remain high, limiting their use to
+the diets of high value species52, and meaning that they are
+unlikely to serve as an alternative source of protein (i.e., as a ﬁsh
+meal replacement).
+Proponents of marine aquaculture point to the role of
+improvements in feed formulation technology to overcome the
+‘ﬁsh meal trap’, by the substitution of plant-source proteins
+such as soybean cake for ﬁsh meal in the diets of carnivorous
+ﬁsh3,7,29. However, improvements in the efﬁciency of marine
+ingredient use for farmed salmon53 have been achieved in
+combination with expensive selective breeding programs. Such
+genetic improvement programs are generally only economically
+viable for species produced in very large volumes. Salmon
+accounted for 30% of marine ﬁnﬁsh aquaculture in 2018,
+among more than 100 marine ﬁnﬁsh species farmed54. It cannot be assumed that other marine species will follow a similar
+4
+
+Marine
+
+development pathway to salmon or achieve equally large
+improvements in performance.
+Signiﬁcant growth of marine ﬁnﬁsh aquaculture would therefore entail, at the minimum, a short-term increase in demand for
+marine feed ingredients. Current interest in intensifying the
+exploitation of mesopelagic ﬁsh stocks7,55 for use in aquaculture
+feeds underlines this point. Demand for marine feed ingredients
+has already altered marine ecosystems56. Increasing demand
+further has the potential to cause unsustainable levels of exploitation of some ﬁsh stocks57 and to compromise the food
+and nutrition security of nutritionally vulnerable populations if
+utilization of ﬁsh in aqua-feeds competes with human
+consumption58.
+Although improvements in feed formulation and breeding
+have the potential to lessen dependence on conventional marine
+ingredients, inclusion of higher levels of terrestrial ingredients in
+feeds would also lead to burden-shifting and ecological tradeoffs59,60. For instance, complete substitution of ﬁsh meal in
+shrimp diets with terrestrial feed ingredients has the potential to
+increase demand for freshwater by up to 63%, land by up to 81%,
+and phosphorous by up to 83%, meaning that the sustainability of
+substituting ﬁsh meal with plant ingredients should not be taken
+for granted60.
+Third, life cycle assessment studies show consistently that the
+most signiﬁcant adverse environmental impacts of fed aquaculture in both marine and freshwater environments derive from
+the global effects of feed production61,62. Recent mariculture literature tends to view land use and freshwater consumption primarily as a question of direct on-farm utilization. Expansion of
+fed aquaculture anywhere, including in offshore marine environments, would create tele-coupled demand for space, freshwater,
+and ecosystem services on land. Siting ﬁsh cages offshore may
+attenuate some of the worst effects of point source pollution
+emanating from farms10,19 but cannot address these global
+impacts, and may exacerbate some of them. For example, life
+cycle assessment indicates that fuel consumed by boats providing
+transport to and from offshore ﬁnﬁsh farms can contribute a large
+share of overall environmental impact, concentrated particularly
+in the impact categories of cumulative energy demand, acidiﬁcation, ozone layer depletion, photochemical oxidation, and
+global warming63.
+
+NATURE COMMUNICATIONS | (2020)11:5804 | https://doi.org/10.1038/s41467-020-19679-9 | www.nature.com/naturecommunications
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-19679-9
+
+PERSPECTIVE
+
+Table 4 Claims about potential for spatial expansion of marine aquaculture.
+• [W]e ﬁnd vast areas in nearly every coastal country that are suitable for aquaculture. The development potential far exceeds the space required to
+meet foreseeable seafood demand5.
+• [I]f all areas designated as suitable in this analysis were developed… we estimate that ~15 billion tonnes of ﬁnﬁsh could be grown every year—over 100
+times the current global seafood consumption5.
+• If only the most productive areas of the ocean were developed for ﬁsh aquaculture, the amount of seafood that is currently captured by all wild
+ﬁsheries could be grown using less than 0.015% of the ocean’s surface area—a surface area less than Lake Michigan5.
+• [T]he Caribbean’s potential to produce cobia from mariculture is extremely large, with an approximate total annual production from suitable sites
+of 43.1 MMT10.
+• The Caribbean could match its current seafood production by farming cobia in just 179 km2 (0.006%) of its marine space10.
+
+Conservation aquaculture
+A dramatic shift has recently taken place in the way that conservation interests engage with marine aquaculture. Early literature on open-ocean aquaculture by environmental NGOs was
+highly critical, concluding that offshore ﬁnﬁsh farms would
+replicate many of the environmental problems documented as
+affecting inshore salmon aquaculture at that time, such as efﬂuent
+discharges, disease transmission to wild stocks, and ﬁsh escapes64.
+Escapes may be associated with interbreeding and competition
+between farmed and wild ﬁsh, and the introduction of non-native
+species65.
+Recent literature has drawn attention to potential synergies
+between marine aquaculture and conservation1,25,66–68 and
+advocated enthusiastically for collaboration between these interest
+groups66,68.
+Papers espousing this view rewrite longstanding narratives
+regarding marine aquaculture’s incompatibility with conservation
+and make the case for, “shifting the narrative and paradigm
+of aquaculture’s role in resource management”66. This movement
+was preceded by work contending that ﬁsh farms act as
+ﬁsh aggregating devices, meaning that creating no-ﬁshing zones
+at farms would provide greater resilience for ﬁsh stocks
+where coastal aquaculture is practiced68. Recent work from
+conservation organizations suggests that aquaculture may be
+preferable to other uses proposed in multiple-use MPAs,
+including ﬁsheries25.
+The potential of marine aquaculture to facilitate exclusion of
+ﬁshers from clearly deﬁned areas of oceanic space, thereby
+facilitating protection for wild ﬁsh stocks, is attractive to some
+conservationists. This logic leads one set of authors to conclude
+that, “Over the last 20 years, marine aquaculture and conservation have been largely opposing forces. To secure the best deal for
+coastal ﬁsh stocks, ﬁsh-farmers and conservationists should work
+together”68. Other commentators are even more optimistic,
+stating, “The sheer potential of conservation aquaculture suggests
+a tale of redemption for aquaculture and opportunity for conservationists to bring in a new age of collaborative practices to
+address global issues”66. As we show in the ﬁnal section of this
+paper, the blue growth policy agenda has provided impetus for
+these alliances to ﬂourish.
+Potential for spatial expansion
+A proliferation of recent studies has sought to demonstrate
+untapped potential of marine aquaculture through geospatial
+analyses and modelling exercises, incorporating parameters that
+include the physiological requirements and growth rates of candidate ﬁsh species, marine hydrography, habitat suitability,
+operational suitability, and competing uses of ocean
+space5,6,10,20,69–71. These studies claim to reveal the existence of
+vast areas of ocean well-suited to marine aquaculture, holding
+“remarkable potential”10 to produce quantities of seafood far in
+excess of current levels of demand, if utilized for this purpose
+(Table 4). Projections reported in these studies are products of the
+
+models deployed. One prominent global study derived its estimates by assuming no further economic, environmental, or social
+constraints to production5. This approach has been challenged
+with respect to ﬁnﬁsh aquaculture on the basis that feed availability and feed costs would prevent further expansions of mariculture long before any ocean space limitations are reached42.
+A study of the potential of cobia farming in the Caribbean
+found that projected production would drop from a headline
+result of 43.1 million tonnes/year to below 1.5 million tonnes/year
+if the price of cobia fell just 13% below its present market rate of
+USD 8.62 kg10. Even this lower bound estimate of potential
+production appears highly improbable in light of current ﬁgures.
+Producing 1.5 million tonnes/year of farmed cobia would equate
+to a supply increase several orders of magnitude over the current
+total global output of farmed and wild cobia54. We believe that
+such a large increase in production, even if realized over a long
+period of time, would likely drive down cobia prices far below the
+current market value, undermining the economic viability of the
+industry and limiting its scope for expansion long before projected production volumes were reached.
+The magnitude of the discrepancy between the potential for
+marine aquaculture expansion that these studies claim to reveal,
+and the material realities that would confront attempts to increase
+production on such as scale, cast doubt on the empirical validity
+of these projections. Rather, we argue that studies such as these
+may serve to produce the following effects:
+First, in combination with narratives that frame an imminent
+crisis in global ﬁsh supplies and position marine aquaculture as
+compatible with food and nutrition security, environmental sustainability and conservation objectives, they create a discursive
+terrain in which marine aquaculture appears possible, necessary,
+desirable, and ultimately, inevitable72.
+Second, through the technology of geospatial mapping, they
+render the oceans ‘legible’73 and amenable to technical planning
+initiatives74 that facilitate the division and allocation of ocean
+space among ‘resource users’ and the provision of exclusive access
+rights, based on criteria that appear objective and a-political75.
+Policy failures
+Marine offshore aquaculture proponents seek to explain the gap
+between apparently massive potential and lackluster development
+to date in terms of past policy failures8,26. A recent high-proﬁle
+policy report poses the question “If the potential [for mariculture]
+is so large, why is our production so low?” and answers, “This
+large gap is likely driven in part by prohibitive regulatory barriers
+in many countries”3. ‘Policy failures’ are characterized in the
+literature as taking the form of: (1) excessive regulation based on
+the precautionary principle2,3; (2) inadequate or absent regulation, allowing unrestricted expansion of aquaculture with negative environmental externalities2,3; (3) complex, ambiguous and
+overlapping regulations that hamper investments8.
+Absence of private property rights for the sea has been invoked
+as a key underlying institutional constraint, preventing farms
+
+NATURE COMMUNICATIONS | (2020)11:5804 | https://doi.org/10.1038/s41467-020-19679-9 | www.nature.com/naturecommunications
+
+5
+
+PERSPECTIVE
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-19679-9
+
+from excluding other users from their production sites76, and
+discouraging investments, including R&D, that are necessary
+for the industry to grow3. Marine spatial planning utilizing
+geospatial information is framed as enabling the zoning of
+oceanic space for efﬁcient allocation among resource users that—
+in combination with private property rights and streamlined
+permitting processes—would create ‘win-win’ solutions for all8,77.
+Blue growth and the future of ‘blue foods’
+In this ﬁnal section, we conclude by addressing two sets of
+questions. First, why have these narratives emerged as a cohesive
+whole at this time, and what purpose do they serve? Second,
+where does the future of aquatic food production, including that
+with the greatest potential to contribute to food and nutrition
+security lie?
+The narratives summarized in this paper intersect with and
+converge around the wider policy discourse of ‘blue growth’,
+which heralds the oceans as a new frontier for investment across
+multiple economic sectors11,12,78,79. An upsurge in interest in the
+ocean economy has encouraged the formation of new coalitions
+of actors and revitalized longstanding claims about the potential
+of marine aquaculture. This dynamic is illustrated by a recent
+report published by a large environmental NGO and an ‘impact
+investment ﬁrm’, that estimates that the aquaculture sector will
+require an additional USD 150–300 billion in capital investment
+by 2030. The report states that it seeks to catalyze greater
+investment into more sustainable marine aquaculture, to “create
+alternatives to wild caught ﬁsheries and more resource intensive
+forms of land-based protein production while ensuring protection
+of marine ecosystems”38.
+Many of the papers cited here are a product of similar new
+institutional alliances, based on academic research contributed to,
+or ﬁnancially supported, by leading environmental NGOs, or
+produced with funding from philanthropies and foundations that
+promote
+marine
+conservation1,5,6,8,10,19,25,28,29,66,76,77,80,81.
+Research co-produced in this way includes papers advancing
+many of the most spectacular and newsworthy of claims. These
+articles provide much of the content for recent inﬂuential policy
+documents promoting the blue economy3,4.
+This conjuncture suggests that some marine conservation
+groups, given a choice between marine aquaculture and capture
+ﬁsheries, now consider aquaculture the lesser of two evils. These
+groups have formed alliances with academics, businesses, investors and governments attracted to marine aquaculture’s potential
+to advance a key goal: the zoning of marine space. This would
+enable the expansion of MPAs, while strengthening forms of
+governmentality necessary for other forms of extractive marine
+industry to ﬂourish82,83.
+In this way, the discourse of blue growth works to create
+conditions ripe for the appropriation of oceanic space for the
+beneﬁt of private capital and conservation interests17. This trend
+mirrors well-documented processes of ‘green grabbing’ on land,
+under which, similar coalitions of actors advance crisis narratives
+that justify processes of ﬁnancialization, state intervention, and
+enclosure and privatization of land and natural resources in the
+service of conservation and avowedly ‘green’ schemes such as
+carbon offsetting and biofuel production16. Blue economy
+initiatives led by state, commercial, and conservation interests,
+and associated forms of governmentality such as marine spatial
+planning are already contributing to the displacement of coastal
+ﬁshers from customary ﬁshing grounds82,84,85. Our interpretation
+is that the push to expand marine aquaculture is part of attempts
+by these actors to lay claim to and/or intensify the use of oceanic
+space and resources79.
+6
+
+Turning to the future of aquatic foods and their contributions
+to food and nutrition security, our analysis of the literature
+indicates that the new wave of marine aquaculture literature rests
+on a series of questionable assumptions. Most farmed aquatic
+foods originate from land-based freshwater production systems
+that are not fundamentally resource constrained36,86. The extremely rapid growth of terrestrial aquaculture over the past three
+decades shows little sign of abating in volume terms36. Much
+recent growth in production has occurred through intensiﬁcation
+rather than horizontal expansion, enabling higher levels of farm
+productivity per unit land and water45. For example, Vietnam’s
+entire production of pangasius catﬁsh, which stands at around
+one million tonnes per year, takes place on an area of 6000
+hectares, equivalent to just 0.08% of the country’s total area of rice
+ﬁelds87.
+The growth of terrestrial aquaculture has made farmed freshwater ﬁsh widely available and accessible to low- and middleincome consumers in countries that account for the majority of
+the world’s aquaculture production45, and makes important
+contributions to food and nutrition security by complementing
+ﬁsh supplies from inland and marine capture ﬁsheries88.
+As established above, the bio-economics of ﬁnﬁsh production
+in offshore marine environments necessitates production of
+expensive carnivorous species. These cannot compete on price
+with relatively cheap herbivorous and omnivorous freshwater
+ﬁsh. Low trophic level marine ﬁnﬁsh with similar price proﬁles to
+carp, catﬁsh and tilapia do exist. Milkﬁsh and mullets, farmed
+mainly in coastal ponds, contribute signiﬁcantly to food and
+nutrition security in countries including the Egypt, Indonesia,
+and the Philippines89–91. Such modes of farming lack the technofuturistic cachet of offshore cages, and do not require the establishment of new private property regimes. They are virtually
+absent from the accounts of marine aquaculture proponents.
+Recent developments in the salmon industry suggest that
+closed intensive land-based recirculating aquaculture systems
+(RAS) are emerging as a viable alternative to cage-based systems.
+Unlike marine cages, RAS offer high levels of biosecurity and the
+ability to capture and utilize 100% of nutrient wastes. Advances in
+renewable energy production seem set to reduce RAS operating
+costs92,93, though farming will still likely be restricted to high
+value products.
+Coastal ﬁsheries already play an extremely important role in
+providing livelihoods14,94 and readily accessible nutritious aquatic
+foods14,15,58 in the Global South. By reframing offshore marine
+aquaculture as a viable source of food for the nutritionally vulnerable, blue growth policy discourse may appear to obviate the
+need for coastal ﬁshers, and has the potential to justify their
+exclusion from MPAs and new zones of maritime economic
+activity, with results that are potentially highly inequitable.
+We conclude that marine ﬁnﬁsh aquaculture in offshore
+environments will confront economic, biophysical, and technological limitations that hinder its growth and prevent it from
+contributing signiﬁcantly to global food and nutrition security.
+Nearshore marine ﬁnﬁsh aquaculture is likely to continue
+expanding in some locations, but will mainly supply expensive
+products that contribute little to food and nutrition security or
+environmental sustainability, and perhaps undermine them.
+Capture ﬁsheries are set to continue to be the source of most food
+from the oceans for the foreseeable future. The evidence suggests
+that freshwater aquaculture has far greater potential to continue
+to supply most of the world’s farmed aquatic food and contribute
+to human equity and food security than marine ﬁnﬁsh farming.
+Policies and investments that seek to increase the availability and
+accessibility of affordable and sustainable farmed aquatic foods
+should look to the land95.
+
+NATURE COMMUNICATIONS | (2020)11:5804 | https://doi.org/10.1038/s41467-020-19679-9 | www.nature.com/naturecommunications
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-19679-9
+
+Received: 4 April 2020; Accepted: 14 October 2020;
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+12.
+
+13.
+14.
+15.
+
+16.
+17.
+18.
+19.
+20.
+
+21.
+22.
+
+23.
+24.
+25.
+26.
+27.
+28.
+
+29.
+
+30.
+
+Alleway, H. K. et al. The ecosystem services of marine aquaculture: valuing
+beneﬁts to people and nature. BioScience 69, 59–68 (2019).
+Costello, C. et al. The future of food from the sea. Nature https://doi.org/
+10.1038/s41586-020-2616-y (2020).
+Costello, C. et al. The Future of Food from the Sea (World Resources Institute,
+Washington, DC, 2019).
+Gaines, S. et al. The Expected Impacts of Climate Change on the Ocean
+Economy (World Resources Institute, Washington, DC, 2019).
+Gentry, R. R. et al. Mapping the global potential for marine aquaculture. Nat.
+Ecol. Evol. 1, 1317–1324 (2017).
+Lester, S. E. et al. Marine spatial planning makes room for offshore
+aquaculture in crowded coastal waters. Nat. Commun. 9, 945 (2018).
+SAPEA. Food from the oceans: how can more food and biomass be obtained
+from the oceans in a way that does not deprive future generations of
+their beneﬁts? (Science Advice for Policy by European Academies, Berlin,
+2017).
+Lester, S. E., Gentry, R. R., Kappel, C. V., White, C. & Gaines, S. D. Opinion:
+offshore aquaculture in the United States: untapped potential in need of smart
+policy. Proc. Natl Acad. Sci. USA 115, 7162–7165 (2018).
+Klinger, D. H., Levin, S. A. & Watson, J. R. The growth of ﬁnﬁsh in global
+open-ocean aquaculture under climate change. Proc. R. Soc. B 284, 20170834
+(2017).
+Thomas, L. R., Clavelle, T., Klinger, D. H. & Lester, S. E. The ecological and
+economic potential for offshore mariculture in the Caribbean. Nat. Sustain 2,
+62–70 (2019).
+Bennett, N. J. et al. Towards a sustainable and equitable blue economy. Nat.
+Sustain 2, 991–993 (2019).
+Silver, J. J., Gray, N. J., Campbell, L. M., Fairbanks, L. W. & Gruby, R. L. Blue
+economy and competing discourses in international Oceans Governance. J.
+Environ. Dev. 24, 135–160 (2015).
+Bavinck, M. & Verrips, J. Manifesto for the marine social sciences. Marit. Stud.
+19, 121–123 (2020).
+Cohen, P. J. et al. Securing a just space for small-scale ﬁsheries in the blue
+economy. Front. Mar. Sci. 6, 171 (2019).
+Vianna, G. M. S., Zeller, D. & Pauly, D. Fisheries and policy implications for
+human nutrition. Curr. Environ. Health Rep. https://doi.org/10.1007/s40572020-00286-1 (2020).
+Fairhead, J., Leach, M. & Scoones, I. Green grabbing: a new appropriation of
+nature? J. Peasant Stud. 39, 237–261 (2012).
+Barbesgaard, M. Blue growth: savior or ocean grabbing? J. Peasant Stud. 45,
+130–149 (2018).
+Belasco, W. Algae burgers for a hungry world? The rise and fall of Chlorella
+cuisine. Technol. Cult. 38, 608–634 (1997).
+Froehlich, H. E., Smith, A., Gentry, R. R. & Halpern, B. S. Offshore
+aquaculture: I know it when I see it. Front. Mar. Sci. 4, 154 (2017).
+Kapetsky, J. M., Aguilar-Manjarrez, J., & Jenness, J. A global assessment of
+offshore mariculture potential from a spatial perspective (Food and Agriculture
+Organization of the United Nations, Rome, 2013).
+Branch, T. A. Not all ﬁsheries will be collapsed in 2048. Mar. Policy 32, 38–39
+(2008).
+Kolding, J. & Zwieten, P. A. Mvan The tragedy of our legacy: how do global
+management discourses affect small scale ﬁsheries in the South? Forum Dev.
+Stud. 38, 267–297 (2011).
+Bauin S. in Mapping the Dynamics of Science and Technology (eds Callon M.,
+Law J. & Rip A.). Palgrave Macmillan, London, 1986).
+Liu, O. R., Molina, R., Wilson, M. & Halpern, B. S. Global opportunities for
+mariculture development to promote human nutrition. PeerJ 6, e4733 (2018).
+Le Gouvello, R. et al. Aquaculture and marine protected areas: potential
+opportunities and synergies. Aquat. Conserv. 27, 138–150 (2017).
+Davies, I. P. et al. Governance of marine aquaculture: pitfalls, potential, and
+pathways forward. Mar. Policy 104, 29–36 (2019).
+Olsen, Y. How can mariculturebetter help feed humanity? Front. Mar. Sci. 2,
+46 https://doi.org/10.3389/fmars.2015.00046 (2015).
+Froehlich, H. E., Gentry, R. R., Rust, M. B., Grimm, D. & Halpern, B. S. Public
+perceptions of aquaculture: evaluating spatiotemporal patterns of sentiment
+around the world. PLoS ONE 12, e0169281 (2017).
+Froehlich, H. E., Jacobsen, N. S., Essington, T. E., Clavelle, T. & Halpern, B. S.
+Avoiding the ecological limits of forage ﬁsh for fed aquaculture. Nat. Sustain
+1, 298–303 (2018).
+Porse, H. & Rudolph, B. The seaweed hydrocolloid industry: 2016 updates,
+requirements, and outlook. J. Appl. Phycol. 29, 2187–2200 (2017).
+
+PERSPECTIVE
+
+31. Ferdouse, F., Holdt, S. L., Smith, R., Murua, P. & Yang, Z. in Globeﬁsh
+Research Programme vol 124 (FAO, Rome, 2018).
+32. Zava, T. T. & Zava, D. T. Assessment of Japanese iodine intake based on
+seaweed consumption in Japan: a literature-based analysis. Thyroid Res. 4, 14
+(2011).
+33. Roberts, C. A. et al. A Risk Beneﬁt Analysis of Mariculture as a means to
+Reduce the Impacts of Terrestrial Production of Food and Energy (Scottish
+Aquaculture Research Forum, 2015).
+34. FAO. The State of World Fisheries and Aquaculture 2018—Meeting the
+sustainable development goals (Food and Agriculture Organization of the
+United Nations, 2018).
+35. Monteiro, C. A., Moubarac, J.-C., Cannon, G., Ng, S. W. & Popkin, B. Ultraprocessed products are becoming dominant in the global food system. Obes.
+Rev. 14, 21–28 (2013).
+36. Edwards, P., Zhang, W., Belton, B. & Little, D. C. Misunderstandings, myths
+and mantras in aquaculture: its contribution to world food supplies has been
+systematically over reported. Mar. Policy 106, 103547 (2019).
+37. Harnedy, P. A. & FitzGerald, R. J. Bioactive peptides from marine processing
+waste and shellﬁsh: a review. J. Funct. Foods 4, 6–24 (2012).
+38. O’Shea, T. et al. Towards a Blue Revolution: Catalyzing Private Investment in
+Sustainable Aquaculture Production Systems (The Nature Conservancy and
+Encourage Capital, Arlington, 2019).
+39. Skladany, M., Clausen, R. & Belton, B. Offshore aquaculture: the
+frontier of redeﬁning Oceanic property. Soc. Nat. Resour. 20, 169–176
+(2007).
+40. Klinger, D. & Naylor, R. Searching for solutions in aquaculture:
+charting a sustainable course. Annu. Rev. Environ. Resour. 37, 247–276
+(2012).
+41. NAA. Rebutting Marine Aquaculture Myths and Unfounded Criticisms.
+(National Aquaculture Association, 2019).
+42. Troell, M., Jonell, M. & Henriksson, P. J. G. Ocean space for seafood. Nat.
+Ecol. Evol. 1, 1224–1225 (2017).
+43. Hua, K. et al. The future of aquatic protein: implications for protein sources in
+aquaculture diets. One Earth 1, 316–329 (2019).
+44. Edwards, P. in New Technologies in Aquaculture, Improving Production,
+Efﬁciency, Quantity and Environmental Management (eds Burnell, G. & Allan,
+G.). (Woodhead Publishing Limited, Oxford, 2009).
+45. Belton, B., Bush, S. R. & Little, D. C. Not just for the wealthy: rethinking
+farmed ﬁsh consumption in the Global South. Glob. Food Security 16, 85–92
+(2018).
+46. Asche, F., Cojocaru, A. L. & Roth, B. The development of large scale
+aquaculture production: a comparison of the supply chains for chicken and
+salmon. Aquaculture 493, 446–455 (2018).
+47. Asche, F. & Bjørndal, T. The Economics of Salmon Aquaculture (WileyBlackwell, 2011).
+48. CEA. Offshore Finﬁsh Aquaculture Global Review and U.S. Prospects. Report
+by California Environmental Associates for the David and Lucile Packard
+Foundation (2018).
+49. Undercurrent News. China’s ﬁrst offshore pen returns to port for repairs,
+salmon removed. 25, https://www.undercurrentnews.com/2019/04/25/chinasﬁrst-offshore-pen-returns-to-port-for-repairs-salmon-removed/ (2019).
+50. Tocher, D. Issues surrounding ﬁsh as a source of omega-3 long-chain
+polyunsaturated fatty acids. Lipid Technol. 21, 13–16 (2009).
+51. Beal, C. M. et al. Marine microalgae commercial production improves
+sustainability of global ﬁsheries and aquaculture. Sci. Rep. 8, 15064 (2018).
+52. Shah, M. R. et al. Microalgae in aquafeeds for a sustainable aquaculture
+industry. J. Appl. Phycol. 30, 197–213 (2018).
+53. Ytresøyl, T., Synnøve, T. & Asgard, T. Utilisation of feed resources in
+production of Atlantic salmon (Salmo salar) in Norway. Aquaculture 448,
+365–374 (2015).
+54. FAO. FishStat Plus. Online database. http://www.fao.org/ﬁshery/statistics/
+global-aquaculture-production/en (2019).
+55. St. John, M. A. et al. A Dark Hole in Our Understanding of Marine Ecosystems
+and Their Services: Perspectives from the Mesopelagic Community. Front.
+Mar. Sci. 3, 31 https://doi.org/10.3389/fmars.2016.00031 (2016).
+56. Smith, A. D. M. et al. Impacts of ﬁshing low-trophic level species on marine
+ecosystems. Science 333, 1147–1150 (2011).
+57. Zhang, W. et al. Fishing for feed in China: facts, impacts and implications.
+Fish. Fish. 21, 47–62 (2020).
+58. Hicks, C. C. et al. Harnessing global ﬁsheries to tackle micronutrient
+deﬁciencies. Nature 574, 95–98 (2019).
+59. Shepherd, C. J., Monroig, O. & Tocher, D. R. Future availability of raw
+materials for salmon feeds and supply chain implications: the case of Scottish
+farmed salmon. Aquaculture 467, 49–62 (2017).
+60. Malcorps, W. et al. The sustainability conundrum of ﬁshmeal substitution by
+plant ingredients in shrimp feeds. Sustainability 11, 1212 (2019).
+61. Marín, T. et al. Resource use in mariculture: a case study in Southeastern
+China. Sustainability 11, 1396 (2019).
+
+NATURE COMMUNICATIONS | (2020)11:5804 | https://doi.org/10.1038/s41467-020-19679-9 | www.nature.com/naturecommunications
+
+7
+
+PERSPECTIVE
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-19679-9
+
+62. Henriksson, P. J. G., Belton, B., Jahan, K. M.- & Rico, A. Measuring the
+potential for sustainable intensiﬁcation of aquaculture in Bangladesh using life
+cycle assessment. Proc. Natl Acad. Sci. USA 115, 2958–2963 (2018).
+63. García García, B., Rosique Jiménez, C., Aguado-Giménez, F. & García García,
+J. Life cycle assessment of gilthead seabream (Sparus aurata) production in
+offshore ﬁsh farms. Sustainability 8, 1228 (2016).
+64. Goldburg, R. J., Elliott, M. S. & Naylor, R. L. Marine Aquaculture in the United
+States: Environmental Impacts and Policy Options (Pew Oceans Commission,
+Arlington, 2001).
+65. Naylor, R. et al. Fugitive salmon: assessing the risks of escaped ﬁsh from netpen aquaculture. BioScience 55, 427 (2005).
+66. Froehlich, H. E., Gentry, R. R. & Halpern, B. S. Conservation aquaculture:
+shifting the narrative and paradigm of aquaculture’s role in resource
+management. Biol. Conserv. 215, 162–168 (2017).
+67. IUCN. Aquaculture and Marine Protected Areas: Exploring Potential
+Opportunities and Synergies (International Union for Conservation of Nature,
+Gland, 2017).
+68. Dempster, T., Sanchez-Jerez, P., Tuya, F., Fernandez-Jover, D. & BayleSempere, J. Coastal aquaculture and conservation can work together. Edith
+Cowan University. (School of Natural Science Publications, 2006)
+69. Oyinlola, M. A., Reygondeau, G., Wabnitz, C. C. C., Troell, M. & Cheung, W.
+W. L. Global estimation of areas with suitable environmental conditions for
+mariculture species. PLoS ONE 13, e0191086 (2018).
+70. Theuerkauf, S. J. et al. A global spatial analysis reveals where marine
+aquaculture can beneﬁt nature and people. PLoS ONE 14, e0222282 (2019).
+71. Weiss, C. V. C., Ondiviela, B., Guanche, R., Castellanos, O. F. & Juanes, J. A. A
+global integrated analysis of open sea ﬁsh farming opportunities. Aquaculture
+497, 234–245 (2018).
+72. Paprocki, K. Threatening dystopias: development and adaptation regimes in
+Bangladesh. Ann. Am. Assoc. Geographers 108, 955–973 (2018).
+73. Scott, J. C. Seeing like a state: how certain schemes to improve the human
+condition have failed. (Yale Univ. Press, 2008).
+74. Li, T. The will to improve: governmentality, development, and the practice of
+politics. (Duke University Press, 2007).
+75. Ferguson, J. The anti-politics machine: ‘development,’ depoliticization, and
+bureaucratic power in Lesotho. (University of Minnesota Press, 1994).
+76. Ruff, E. O., Gentry, R. R., Clavelle, T., Thomas, L. R. & Lester, S. E. Governance
+and mariculture in the Caribbean. Mar. Policy 107, 103565 (2019).
+77. Gentry, R. R. et al. Offshore aquaculture: spatial planning principles for
+sustainable development. Ecol. Evol. 7, 733–743 (2017).
+78. Winder, G. M. & Le Heron, R. Assembling a Blue Economy moment?
+Geographic engagement with globalizing biological-economic relations in
+multi-use marine environments. Dialogues Hum. Geogr. 7, 3–26 (2017).
+79. Jouffray, J.-B., Blasiak, R., Norström, A. V., Österblom, H. & Nyström, M. The
+blue acceleration: the trajectory of human expansion into the Ocean. One
+Earth 2, 43–54 (2020).
+80. Clavelle, T., Lester, S. E., Gentry, R. & Froehlich, H. E. Interactions and
+management for the future of marine aquaculture and capture ﬁsheries. Fish
+Fish 20, 368–388 (2019).
+81. Froehlich, H. E., Gentry, R. R. & Halpern, B. S. Synthesis and comparative
+analysis of physiological tolerance and life-history growth traits of marine
+aquaculture species. Aquaculture 460, 75–82 (2016).
+82. Choi, Y. R. The Blue Economy as governmentality and the making of new
+spatial rationalities. Dialogues Hum. Geogr. 7, 37–41 (2017).
+83. Mallin, F. & Barbesgaard, M. Awash with contradiction: capital, ocean space
+and the logics of the Blue Economy Paradigm. Geoforum 113, 121–132 (2020).
+84. Kalina, M., Mbereko, A., Maharaja, B. & Botes, A. Subsistence marine ﬁshing
+in a neoliberal city: a political ecology analysis of securitization and exclusion
+in Durban, South Africa. J. Political Ecol. 26, 323–465 (2019).
+85. Satizábal, P., Dressler, W. H., Fabinyi, M. & Pido, M. D. Blue economy
+discourses and practices: reconﬁguring ocean spaces in the Philippines. Marit.
+Stud. 19, 207–221 (2020).
+86. Boyd, C. E. & Chainark, S. in New Technologies in Aquaculture pp. 984–1009
+(Elsevier, 2009).
+87. Edwards, P. Aquaculture environment interactions: past, present and likely
+future trends. Aquaculture 447, 2–14 (2015).
+88. Belton, B. & Thilsted, S. H. Fisheries in transition: food and nutrition security
+implications for the global South. Glob. Food Security 3, 59–66 (2014).
+
+8
+
+89. McFadyen, G. et al. Value Chain Analysis of Egyptian Aquaculture.
+(WorldFish Center, 2014).
+90. Tran, N. et al. Indonesian aquaculture futures: an analysis of ﬁsh supply and
+demand in Indonesia to 2030 and role of aquaculture using the AsiaFish
+model. Mar. Policy 79, 25–32 (2017).
+91. Salayo, N. D., Perez, M. L., Garces, L. R. & Pido, M. D. Mariculture
+development and livelihood diversiﬁcation in the Philippines. Mar. Policy 36,
+867–881 (2012).
+92. Martins, C. I. M. et al. New developments in recirculating aquaculture systems
+in Europe: a perspective on environmental sustainability. Aquacultural Eng.
+43, 83–93 (2010).
+93. Murray, F., Bostock, J., & Fletcher, J. Review of recirculation system
+aquaculture technologies and their commercial application (Stirling
+Aquaculture, 2014)
+94. FAO. Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in
+the Context of Food Security and Poverty Eradication (Food and Agriculture
+Organization of the United Nations, 2015).
+95. Thilsted, S. H. et al. Sustaining healthy diets: the role of capture ﬁsheries and
+aquaculture for improving nutrition in the post-2015 era. Food Policy 61,
+126–131 (2016).
+96. Brittain, R. Let There Be Bread (Simon and Schuster, New York, 1952).
+97. Bente, P. F. 1970. Keynote Address: mariculture on the move. World Maric.
+Soc. 1, 18–26 (1970).
+98. Marra, J. When will we tame the oceans? Nature 436, 175–176 (2005).
+99. Duarte, C. M. et al. Will the Oceans help feed humanity? BioScience 59,
+967–976 (2009).
+
+Acknowledgements
+This work was undertaken as part of the CGIAR Research Program on Fish Agri-Food
+Systems (FISH) led by WorldFish. The program was supported by contributors to the
+CGIAR Trust Fund.
+
+Author contributions
+B.B. designed and performed the research. B.B., D.C.L., W.Z., P.E., M.S. and S.H.T. wrote
+the paper.
+
+Competing interests
+The authors declare no competing interests.
+
+Additional information
+Correspondence and requests for materials should be addressed to B.B.
+Peer review information Nature Communications thanks Dyhia Belhabib and the other,
+anonymous, reviewer(s) for their contribution to the peer review of this work.
+Reprints and permission information is available at http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional afﬁliations.
+
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons license, and indicate if changes were made. The images or other third party
+material in this article are included in the article’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons license and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder. To view a copy of this license, visit http://creativecommons.org/
+licenses/by/4.0/.
+© The Author(s) 2020
+
+NATURE COMMUNICATIONS | (2020)11:5804 | https://doi.org/10.1038/s41467-020-19679-9 | www.nature.com/naturecommunications
+
+

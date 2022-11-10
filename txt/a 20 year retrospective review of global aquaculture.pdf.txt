@@ -1,0 +1,2123 @@
+Review
+
+A 20-year retrospective review of global
+aquaculture
+https://doi.org/10.1038/s41586-021-03308-6
+Received: 21 August 2020
+Accepted: 29 January 2021
+Published online: 24 March 2021
+Check for updates
+
+Rosamond L. Naylor1,2 ✉, Ronald W. Hardy3, Alejandro H. Buschmann4, Simon R. Bush5,
+Ling Cao6, Dane H. Klinger7,8, David C. Little9, Jane Lubchenco10, Sandra E. Shumway11 &
+Max Troell12,13
+
+The sustainability of aquaculture has been debated intensely since 2000, when a
+review on the net contribution of aquaculture to world fish supplies was published in
+Nature. This paper reviews the developments in global aquaculture from 1997 to 2017,
+incorporating all industry sub-sectors and highlighting the integration of aquaculture
+in the global food system. Inland aquaculture—especially in Asia—has contributed the
+most to global production volumes and food security. Major gains have also occurred
+in aquaculture feed efficiency and fish nutrition, lowering the fish-in–fish-out ratio for
+all fed species, although the dependence on marine ingredients persists and reliance
+on terrestrial ingredients has increased. The culture of both molluscs and seaweed is
+increasingly recognized for its ecosystem services; however, the quantification, valuation,
+and market development of these services remain rare. The potential for molluscs and
+seaweed to support global nutritional security is underexploited. Management of
+pathogens, parasites, and pests remains a sustainability challenge industry-wide, and
+the effects of climate change on aquaculture remain uncertain and difficult to validate.
+Pressure on the aquaculture industry to embrace comprehensive sustainability
+measures during this 20-year period have improved the governance, technology,
+siting, and management in many cases.
+
+Twenty years ago, Nature published a review characterizing aquaculture
+as a possible solution, and a contributing factor, to the decline in fisheries stocks worldwide1. At the time, the commercial aquaculture sector
+was flourishing, whereas the production of capture fisheries remained
+stagnant. The farmed (live-weight) production of fish and shellfish had
+almost tripled from 10 million tonnes (Mt) in 1987 to 29 Mt in 1997, and
+roughly 300 species of animals, plants, and algae were being cultivated
+worldwide2. The paper placed greater emphasis on fed marine species
+than on freshwater and molluscan species and cautioned that the net
+positive contribution of aquaculture to world fish supplies could not
+be sustained unless the sector reduced its use of wild fish in feed as well
+as its environmental impacts.
+This Review covers global trends in aquaculture over the past
+20 years, citing a selection of the most relevant papers (additional
+reviewed articles are listed in the Supplementary Information). In 2017,
+aquaculture supplied more than 80 Mt of fish and shellfish and 32 Mt
+of seaweeds, encompassing around 425 farmed species2. Three main
+patterns of aquaculture development have characterized the sector as
+it matured: continued growth in the volume and value chains of freshwater aquaculture; advances in fish nutrition, genetics, and alternative
+types of feed that reduce the use of wild fish in aquafeed formulations;
+and expanded culture of extractive bivalves and seaweeds with the
+
+potential to provide a wide range of food, industrial, and ecosystem
+services.
+These trends reveal increasingly tight connections between land
+and sea. Continuing a long history of inland production, the share of
+freshwater fish raised on compound feed, which is made largely from
+terrestrial and some marine ingredients, has increased over the past
+two decades3. Meanwhile, the inclusion of plant-based ingredients
+in aquafeed has increased, and the production of extractive species
+(molluscs and seaweed) that filter nutrients from terrestrial and marine
+food systems has grown. Aquaculture has thus become more integrated
+into the global food system, with rapid growth in production and major
+transformations in feed ingredients, production technologies, farm
+management, and value chains. Through aquaculture growth, consumers from low- to high-income nations have benefited from year-round
+availability and access to aquatic foods, which are rich in protein and
+micronutrients4–7. The sector produces far more than fish, shellfish, and
+algae for direct human consumption. It also generates products used
+in food processing, feed, fuels, cosmetics, nutraceuticals, pharmaceuticals, and a variety of other industrial products, and it contributes to
+a range of ecosystem services8.
+Despite impressive gains, the aquaculture sector still faces
+serious challenges that, in some cases, undermine its ability to achieve
+
+1
+Department of Earth System Science, Stanford University, Stanford, CA, USA. 2Center on Food Security and the Environment, Stanford University, Stanford, CA, USA. 3Aquaculture Research
+Institute, University of Idaho, Moscow, ID, USA. 4Centro i-mar & CeBiB, Universidad de Los Lagos, Puerto Montt, Chile. 5Environmental Policy Group, Wageningen University, Wageningen, The
+Netherlands. 6School of Oceanography, Shanghai Jiao Tong University, Shanghai, China. 7Center for Oceans, Conservation International, Arlington, VA, USA. 8Department of Nutrition, Harvard
+T. H. Chan School of Public Health, Boston, MA, USA. 9Institute of Aquaculture, University of Stirling, Stirling, UK. 10Department of Integrative Biology, Oregon State University, Corvallis, OR,
+USA. 11Department of Marine Sciences, University of Connecticut, Groton, CT, USA. 12Beijer Institute, Royal Swedish Academy of Sciences, Stockholm, Sweden. 13Stockholm Resilience Centre,
+Stockholm University, Stockholm, Sweden. ✉e-mail: roz@stanford.edu
+
+Nature | Vol 591 | 25 March 2021 | 551
+
+Review
+a
+
+b
+
+112 Mt
+
+120
+
+Eucheuma
+seaweeds NEI (8%)
+
+100
+
+Grass carp (5%)
+Cupped oysters
+NEI (4%)
+Silver carp (4%)
+
+Japanese
+kelp (15%)
+
+Whiteleg
+shrimp (4%)
+
+Silver carp (9%)
+
+Gracilaria
+seaweeds (4%)
+
+Grass carp (7%)
+Cupped oysters
+NEI (6%)
+
+Nile tilapia (4%)
+
+Bighead carp (4%)
+Freshwater
+fishes NEI (4%)
+
+Common carp (4%)
+
+Japanese
+carpet shell (3%)
+
+Carassius spp. (3%)
+
+c
+
+60
+40
+
+10
+
+Catla (2%)
+Freshwater
+fishes NEI (2%)
+
+36 Mt
+
+Atlantic
+salmon (2%)
+
+Nile tilapia (2%)
+
+Wakame (2%)
+
+Roho labeo (2%)
+Atlantic
+salmon (2%)
+
+Scallops NEI (2%)
+
+Pacific cupped
+oyster (2%)
+
+Pangas
+catfishes NEI (2%)
+
+Roho labeo (2%)
+
+Elkhorn
+sea moss (2%)
+
+8
+Production (Mt)
+
+Scallops NEI (3%)
+
+80
+
+0
+1997
+
+Bighead carp (3%)
+
+Marine molluscs
+NEI (3%)
+
+Nori NEI (2%)
+Milkfish (2%)
+
+Catla (2%)
+
+Elkhorn
+sea moss (1%)
+
+Sea mussels
+NEI (2%)
+All others (26%)
+
+All others (26%)
+
+1997
+
+Total
+Freshwater fish
+Algae
+Molluscs
+CDMM
+
+20
+
+Japanese
+carpet shell (4%)
+
+Common carp (6%)
+
+Carassius spp. (2%)
+
+Production (Mt)
+
+Japanese
+kelp (10%)
+
+2017
+
+6
+
+2000
+
+2003
+
+2006
+
+2009 2012 2015
+
+CDMM
+Crustaceans
+Diadromous fish
+Marine fish
+Miscellaneous
+
+4
+2
+0
+1997
+
+2000
+
+2003
+
+2006 2009 2012 2015
+Date (year)
+
+Fig. 1 | Composition and growth of global live-weight aquaculture
+production. a, The species composition is shown for 1997 and 2017. Green,
+plants and algae; blue, freshwater fish; pink, shellfish; orange, diadromous fish.
+b, c, Growth is shown from 1997 to 2017 for the following production categories
+(b): total, freshwater fish, algae, molluscs and CDMM, which comprises
+crustaceans, diadromous fish, marine fish, and miscellaneous species and is
+
+expanded in c. Algae comprised more than 99% of the production weight of
+‘algae and aquatic plants’ production in 2017. Data were obtained from the
+FAO2. National data are reported on the basis of the ASFIS List of Species
+(http://www.fao.org/fishery/collection/asfis/en). NEI, not elsewhere included
+for species identification in question.
+
+sustainable outcomes. The sector has generally embraced a business
+and societal expectation of environmentally and socially sound practices. Globally traded finfish and crustacean systems are progressively
+improving their environmental performances, either independently
+or in response to government regulation, private and public sector
+standards, and market incentives. Many aquaculture systems, however,
+still lack the motivation to meet sustainability criteria because their
+targeted markets do not reward producers through improved prices or
+access. At the same time, molluscs, filter-feeding finfish, and seaweeds
+have sustainable characteristics, particularly because they do not rely
+on aquafeed, but instead remove nutrients from the water column. In
+summary, as the global industry continues to expand, its contribution
+to economic social and environmental performance varies across a
+wide diversity of aquaculture systems.
+
+feed in the production of high trophic marine and diadromous species,
+the dominant role of freshwater systems was only lightly covered1.
+The role of freshwater systems has gained attention in part because
+advances in feed technology and breeding, particularly for salmon
+and shrimp, are addressing earlier concerns regarding the effects of
+aquaculture on wild-capture fisheries.
+Aquaculture is more diverse today, with 40% more fish, shellfish,
+aquatic plant, and algal species cultivated in a wide variety of marine,
+brackish, and freshwater systems globally10. Global production remains
+concentrated, however, with only 22 of all 425 species groups farmed
+in 2017 (5%) accounting for over 75% of global live-weight production2
+(Extended Data Fig. 1). A small fraction of the ‘aquatic plant and algae’
+category (~32 Mt) consisted of aquatic plants (1,639 tonnes) in 20172.
+Aquatic plants are listed by the Food and Agriculture Organization
+(FAO) under ‘aquatic plants NEI’ and are underreported given the
+informal nature of the harvests for household and local consumption.
+Asia remains the largest aquaculture producer, accounting for 92% of
+the live-weight volume of animals and seaweeds in 20172. Aquaculture
+in Asia is also more diverse than other regions in terms of production
+systems and cultivated species11. Nine of the top-ten ranked countries for aquaculture species diversity are in Asia, with China leading
+by a wide margin. As an example, China cultivated 86 different species
+of aquatic organisms in a variety of production systems in 2017, whereas
+Norway cultivated 13 different species, mainly in marine cage systems10.
+China has an oversized role in nearly all areas of aquaculture production. Since 2000, the country has maintained its role as the largest
+global producer, processor, and trader of fish, crustaceans, and molluscs, and has emerged as a leading consumer owing to the rapid growth
+
+Global expansion
+Global aquaculture production more than tripled in live-weight volume
+from 34 Mt in 1997 to 112 Mt in 2017 (Fig. 1). The main species groups that
+contributed to the top 75% of aquaculture production in 2017 included
+seaweeds, carps, bivalves, tilapia, and catfish. Although the production
+of marine and diadromous fish species and crustaceans has also grown
+rapidly during this period, it has been dwarfed by the live-weight volume
+of marine bivalves and seaweeds, and by the production of freshwater
+aquaculture. Freshwater fish account for 75% of global edible aquaculture volume, reflecting their favourable conversion from live to edible
+weight in comparison to molluscs and crustaceans, which have high
+shell weights9. Because the previous review focused on marine-sourced
+552 | Nature | Vol 591 | 25 March 2021
+
+in income and domestic seafood demand12–14. China alone supplied 58%
+and 59% of the global aquaculture volume and value, respectively, for
+all categories combined in 2017 (Extended Data Table 1).
+The role of China notwithstanding, the aquaculture sector has
+become increasingly global, with growth rates in South America
+and Africa exceeding Asia during the past two decades (albeit from a
+much smaller production base), and with relatively rapid expansion
+in South and Southeast Asia compared to East Asia3,15,16. The largest
+aquaculture producers outside Asia—each accounting for 1–2% of the
+global production—include Norway and Chile, which mainly produce
+Atlantic salmon (Salmo salar), and Egypt, which produces Nile tilapia
+(Oreochromis niloticus)17. Aquaculture in the Western Hemisphere has
+largely developed around single- or dual-species and single-production
+systems (for example, Atlantic salmon in cages, Nile tilapia and channel catfish (Ictalurus punctatus) in ponds). These systems and species have benefitted from targeted genetic and nutritional advances,
+but remain vulnerable to shocks related to market volatility, extreme
+climate events, and pandemics such as COVID-1910,17,18.
+The growth of aquaculture has been fuelled by the expansion in global
+trade, declines in the availability of wild fish, competitive product
+pricing, rising incomes, and urbanization—all of which contribute to
+rising per capita consumption of seafood worldwide11,19. Global fish
+trade remains limited, however, to a relatively small number of species and countries: salmon, shrimp, catfish, and tilapia collectively
+represent approximately one-third of internationally traded seafood
+by value, but only 8% of global seafood production17. The process of
+globalization itself has been dynamic, with incomes and markets in the
+global South expanding more rapidly than the global North in recent
+decades20. The growing importance of domestic markets, particularly
+in Asia, means that over 89% of aquaculture output does not enter into
+international markets21.
+
+Freshwater aquaculture
+Freshwater aquaculture has been underrepresented in the proliferating literature on global environment and food system interactions
+since 2000 despite its dominant contribution to aquatic food supplies
+and nutrition security21,22. Of the 11,625 articles published in English
+between 2000 and 2020 with marine or freshwater aquaculture (or
+farming) in their titles (indexed in Web of Knowledge (https://apps.
+webofknowledge.com/)), three-quarters focused on mariculture and
+68% on high-valued mariculture. These metrics do not include the vast
+literature published in Asia, particularly in China, where freshwater
+aquaculture has a long and vibrant tradition23.
+Freshwater aquaculture consists of a wide diversity of systems
+across physical and economic scales, infrastructure configurations,
+species, ownership, and value chains. It consists predominantly of
+household-managed ponds and small- to medium-scale commercial
+enterprises that produce a variety of carps and other fish in polyculture systems for local and regional consumption24. Freshwater aquaculture is widely recognized for the production of tilapia and striped
+catfish (Pangasianodon hypophthalmus) that are produced mainly in
+earthen ponds for export and national consumption. It also includes
+the cultivation of freshwater and brackish-water crustaceans, produced
+intensively in monoculture (for example, whiteleg shrimp (Litopenaeus
+vannamei)) or in polyculture systems (for example, black tiger shrimp
+(Penaeus monodon)) with a wide variety of other fish, molluscs, and
+aquatic plants. Urbanization has increasingly shifted the demand from
+subsistence to marketed fish25.
+A key characteristic of freshwater aquaculture growth during the
+past 20 years has been the proliferation of value chains in and across
+countries located in South and Southeast Asia, for example, in Andra
+Pradesh, India26, Bangladesh24, Myanmar27, Thailand,28 and Vietnam29.
+China remains the single largest producer of freshwater fish—for export
+and domestic consumption—accounting for 56% of the global output
+
+in 2017 (Extended Data Table 1). The expansion of freshwater aquaculture in Asia (93% of global production) has been driven mainly by
+urban demand and the decline in wild inland fisheries that previously
+supported rural livelihoods and food security30.
+Diverse value chains underpinning freshwater aquaculture in Asia
+have emerged with limited governmental support, spurred by economic
+development, rural transformation, and urbanization. These processes
+have boosted purchasing power and fuelled the demand for freshwater
+fish, paving the way for the expansion of private sector investment27,31.
+The development of aquaculture in small- to medium-scale commercial
+enterprises in South and Southeast Asia has helped to alleviate rural
+poverty, through direct benefits to consumers and other value chain
+participants21,32 and broader ‘spillover’ benefits to labour and livelihoods in adjacent industries33. A similar process of the development
+of freshwater aquaculture is now occurring in parts of sub-Saharan
+Africa15, albeit shaped by different social and economic constraints to
+production, structures of the value chains, and consumer demand16,34,35.
+Given the heterogeneity of freshwater aquaculture systems, much
+of the recent literature focuses on system diversity, nutrition security,
+and value chains, particularly within the Asian context. Generalizations
+regarding freshwater production practices, resource depletion, and
+environmental constraints are limited, but three lessons emerge.
+First, over-intensification, particularly in cage aquaculture, has created problems of nutrient pollution and pathogen-related production
+declines in areas with unconstrained growth, such as Lake Taal, The
+Philippines36. Cage culture in deep lakes and reservoirs can be subject
+to turnover and related mortality due to sudden anoxic conditions37.
+In regions in which freshwater resource depletion, nutrient pollution,
+disease problems, and other constraints on the use of public waters
+have emerged, industry consolidation has often followed, forcing
+poor producers out of the sector29,38,39. In China, aquaculture pollution accounts for more than 20% of the total input of nutrient into
+freshwater environments in some provinces40, leading to prohibition
+in many public water bodies that are essential for drinking water and
+other important ecosystem services41. In other regions, in-pond raceway systems have been promoted to enhance feed-use efficiency and
+solid-waste removal (for example, channel catfish, carps and tilapia),
+but widespread adoption has been constrained by high capital costs42.
+Second, and related to production intensification, compound feed use
+in freshwater systems has steadily increased, driven by local and international companies and certification initiatives operating across a range of
+production systems and countries3,43. An estimated 92% of tilapia, 81% of
+catfish and 57% of Chinese carps rely on some combination of commercially formulated pelleted feed and feed types made at the farm to supplement the naturally occurring nutrients produced in the culture systems3.
+Fertilization, combined with supplementary feeds, remains a key approach
+to producing low-cost tilapia, catfish, and carp in semi-intensive systems,
+and has underpinned the growth of commercial production in Asia.
+Third, the steady emergence and proliferation of relatively low
+input–output culture-based fisheries through different forms of collective management has permitted access to, and control of, aquatic
+commons (for example, floodplains, reservoirs, and seasonal water
+bodies)44. Field studies show that productivity gains from non-fed,
+often exotic carp have generally been achieved in low-input systems
+while maintaining or enhancing nutrient balances and the biodiversity
+of indigenous species45.
+These three trends result in a sector tightly integrated into terrestrial
+food systems via feed, nutrient cycling, and value chains. Scientific
+knowledge surrounding freshwater aquaculture and local resource
+use is extensive, especially in an Asian context. In comparison to
+ocean-based production, however, the global environmental impacts of
+freshwater aquaculture remain understudied. Specifically, the trend to
+intensify freshwater systems is increasingly linked to globally sourced
+feed ingredients that represent a critical area of the overall environmental impact of the aquaculture sector46.
+Nature | Vol 591 | 25 March 2021 | 553
+
+Review
+Fish feed and wild fisheries
+A major focus of the previous aquaculture review1 was the increasing
+proportion of annual fishmeal and fish oil production for aquaculture
+feed, and the consequent potential future impacts on wild forage fish
+landings and stocks as well as marine ecosystems. In aggregate, global
+landings of forage fish have trended downward (Extended Data Fig. 2),
+reflecting full to overexploitation, and harvest restrictions (for example, in Peru) to prevent fishing above maximum sustainable yield levels.
+The aquaculture sector has made considerable progress in enhancing
+the efficiency of use of marine resources over the past 20 years. The
+global production of fed fish tripled between 2000 and 20173 while the
+annual catch of forage fish used to make fishmeal and fish oil decreased
+from 23 Mt to 16 Mt (refs. 47,48) (Extended Data Fig. 3). Global production of fishmeal from capture fisheries and trimmings decreased over
+the same period from 6.6 to 4.8 Mt (ref. 17). The production of fish oil
+declined from around 1.5 to 1.0 Mt and has been stable around 1.0 Mt
+during the past decade49–51.
+Prices for fishmeal and fish oil have more than doubled during the
+2000s and have remained consistently higher than plant-based alternatives since 2012 (Extended Data Fig. 4). Aquaculture producers have
+responded by reducing the use of fishmeal and fish oil in feed formulations, and these efforts have been reinforced by sustainability goals
+throughout the supply chain. Fishmeal and fish oil remain important
+ingredients of fish feed, suppling essential nutrients to support larval
+and fry performance and survival, but are now used at lower percentages in grow-out, broodstock, and finishing feeds. Nonetheless, the
+share of global fishmeal used by the aquaculture sector (versus livestock and non-food uses) increased from 33% in 2000 to 69% in 2016,
+while the share of global fish oil used by aquaculture rose from 55% to
+75% (refs. 50,52). A continuation of this trend could push fishmeal and
+fish oil prices higher, creating further incentives for innovations in
+aquaculture feed.
+Four major developments along the aquaculture supply chain have
+helped to reduce the dependence on wild fish resources since 2000:
+rapid growth in omnivorous species production; improved feed conversion ratios (FCRs) for all fed species; higher use of alternative protein
+and oil ingredients in feed; and increased production and use of fishmeal and fish oil from fish-processing wastes and bycatch. In addition,
+improvements in processing technologies have increased fishmeal
+recovery from anchovies and other pelagic species from 22.5% to 24%
+over the past few decades53. Fish oil recovery remains around 5% for
+anchovies and about 10% for fatty fish such as herring, capelin, and
+sand eel, which are used widely in the production of fish oil in Europe.
+Between 1997 and 2017, the volume and share of freshwater fish produced with compound feeds, such as fed carps, tilapia, and catfish,
+increased substantially, but FCR also improved (Extended Data Table 2).
+Meanwhile, fishmeal inclusion rates dropped for these species to 1–2%,
+and there is almost no fish oil used in most types of freshwater aquafeed. Compound feed types for marine and brackish water finfish and
+crustaceans remain higher in fishmeal and fish oil, but their fishmeal
+and fish oil inclusion rates decreased by one-half to two-thirds over
+the period. For shrimp, there has been a major global shift in production away from black tiger shrimp to the more omnivorous whiteleg
+shrimp. Breeding strategies for salmon and trout and improvements in
+feed ingredient quality and formulations have permitted much higher
+inclusion of plant protein concentrates in feed54.
+The increasing use of trimmings in fishmeal production, particularly
+for lower-valued freshwater species, has also had a critical role in lowering the use of wild fish in feed since 2000 (Table 1). The estimated use of
+trimmings is three times the use of wild fish in fishmeal for tilapia and
+catfish. Even high-valued marine and brackish species, such as salmon
+and shrimp, use equal ratios of fishmeal from trimmings and wild fish
+in their feed. Trimmings from both wild fisheries (for example, tuna in
+Thailand) and aquaculture (for example, salmon in Norway, pangasius
+554 | Nature | Vol 591 | 25 March 2021
+
+in Vietnam) now comprise roughly one-third of global fishmeal production and one-half of fishmeal production in Europe3,8,47. Greater use
+of trimmings in fishmeal has been documented, in particular, in feed
+formulations for salmon production in Norway55 and for shrimp and
+catfish production in Thailand44.
+The combination of improved FCR, reduced fishmeal and fish oil
+inclusion ratios, and increased use of fishmeal from trimmings have lowered the ratio of wild fish inputs to farmed fish output (fish-in:fish-out
+ratio (FIFO)) (Extended Data Tables 2, 3). On a global basis, FIFO was 0.28
+in 2017 for the main aquaculture species groups that are dependent on
+feed (Table 1). FIFO exceeded 1.0 for shrimp, salmon, trout, and eels, but
+was still far below the FIFO calculated for these species 20 years ago.
+The previously published review of aquaculture and world fish supplies1 calculated a global FIFO for fed aquaculture species of 1.9 using
+1997 data (FIFO by species group was 2.81 for shrimp, 5.16 for marine
+fish, 3.16 for salmon, 2.46 for trout, 4.69 for eels, and below 1.0 for all
+freshwater fish). Calculations in Table 1 include the residual availability
+of fishmeal and fish oil from feed across different species groups, which
+can be used for global aquaculture feed production—thus addressing
+a point of contention related to earlier FIFO calculations8,47,56.
+Despite the positive contribution of trimmings to global fishmeal
+production, aquaculture production in Asia—notably China, Thailand,
+and Vietnam—still relies on low-value feed-grade fish from non-targeted
+fisheries (including quasi-targeted bycatch) as an input for feeds57.
+In 2017, Asian aquaculture systems consumed more than 6.6 Mt of
+low-valued fish as direct or indirect feed inputs17. Roughly one-third
+of the Chinese domestic fish catch comprises low-valued fish (89%
+juveniles) that are used mainly in aquaculture feeds57. Such feed-grade
+focused fisheries can affect wild fish populations and marine ecosystems considerably through the capture of juvenile fish and loss of
+biodiversity12,57.
+
+Feed from land and sea
+Although marine resources continue to have an important role in aquafeed, the use of plant-based ingredients has been increasing steadily, creating tighter connections between land and sea. The aquafeed
+industry has become increasingly dependent on conventional animal
+feed ingredients from terrestrial systems that are widely traded in international markets (Fig. 2).
+Three factors have contributed to the expanding role of terrestrial
+food systems in global aquaculture: feed ingredients tailored to fish;
+feed formulations based on accurate nutritional requirements; and
+breeding to enhance fish growth, feed efficiency, and animal health.
+Feed ingredients from grains and oilseeds are the basis of livestock feeding, but carnivorous fish have difficulty digesting starch, non-soluble
+carbohydrates, or fibre in these ingredients. They are also more sensitive than livestock to antinutrients and toxins in plant protein ingredients58. Additional processing steps have been introduced to increase
+the nutritional value of plant and land animal protein concentrates
+for fish59–61. Alternative oil sources—including rapeseed (canola) oil,
+palm oil, and poultry fat—are now commonly used substitutes for a
+portion of fish oil62. Although farmed salmon remain a good source of
+omega-3 fatty acids, replacing fish oil with terrestrial oils lowers the
+omega-3 content in fillets63. The use of high omega-3 oils from algae
+or genetically modified oilseeds can reduce fish oil use in salmon feed
+while maintaining the health benefits to consumers, but this remains
+economically inefficient and, in some markets, the latter is constrained
+by weak consumer acceptance59,64.
+Replacing fishmeal and fish oil in feed with plant-sourced products
+affects the health of piscivorous aquaculture species through alterations of the microbiome, changes in gut morphology, modification
+of immune function, and interference with normal function of the
+endocrine system and maturation65,66. Moving towards full plant-based
+diets for these species thus increases disease risks. New tools, including
+
+Table 1 | Wild fish used in aquaculture feeds for 11 commonly farmed fed fish and shellfish
+Farmed fish and
+crustaceansa
+
+Total
+production
+(kilotons)a
+
+Percentage
+produced with
+compound feed
+(by weight)a
+
+Average
+FCRb
+
+Percentage
+fishmeal in feed
+(wild)
+
+Percentage
+fishmeal in feed
+(trimmings)
+
+Net wild
+Percentage
+fish oil in feeds fish used
+(kilotons)
+(wild)
+
+FIFOc in
+2017
+
+Fed carps
+
+13,986
+
+57
+
+1.7
+
+0.4
+
+0.6
+
+0
+
+0
+
+0.02
+
+Tilapia
+
+5,881
+
+92
+
+1.7
+
+0.5
+
+1.5
+
+0
+
+0
+
+0.03
+
+Shrimp
+
+5,512
+
+86
+
+1.6
+
+5
+
+5
+
+2
+
+3,034
+
+0.82
+
+Catfishes
+
+5,519
+
+81
+
+1.3
+
+0.5
+
+1.5
+
+0
+
+0
+
+0.02
+
+Marine fish
+
+3,098
+
+80
+
+1.7
+
+8
+
+6
+
+3
+
+2,528
+
+1.25
+
+Salmon
+
+2,577
+
+100
+
+1.3
+
+6
+
+6
+
+6
+
+4,020
+
+1.87
+
+Freshwater crustaceans
+
+2,536
+
+60
+
+1.8
+
+5
+
+7
+
+1
+
+548
+
+0.43
+
+ODF fish
+
+2,491
+
+43
+
+1.7
+
+3
+
+8
+
+2
+
+728
+
+0.38
+
+Milkfish
+
+1,729
+
+55
+
+1.7
+
+2
+
+0
+
+0
+
+0.07
+
+Trout
+
+846
+
+100
+
+1.3
+
+5
+
+4
+
+6
+
+1,320
+
+1.82
+
+Eel
+
+259
+
+100
+
+1.5
+
+25
+
+10
+
+5
+
+Total
+
+44,424
+
+389
+
+2.98
+
+12,566
+
+0.28
+
+Categories from Tacon3, Table 4. ODF, other diadromous and freshwater fish. The calculations by the authors are based on data from the following sources: production, share of production and
+FCR were obtained from the FAO2 and Tacon3; inclusion of fishmeal and fish oil data were from the National Resource Council report on Nutrient Requirements for Fish and Shrimp54, Naylor et al.59,
+and Ytrestøyl et al.55; and analyses of fish trimmings in fishmeal were from Green (SeaFish)47 and Leadbitter44. We use conservative estimates of 24% fishmeal and 10% fish oil recovery from wild fish.
+b
+FCR is defined as the estimated average species-group economic FCR (total feed fed/total species group biomass increase). Economic FCR (also known as EFCR)3,55,59 is defined as total feed fed/
+total species group biomass increase and includes waste, escapes and other non-ingested feeds55.
+c
+FIFO, wild fish inputs to fed fish output.
+See Extended Data Table 3 for more information.
+a
+
+high-throughput technologies (metabolomics and proteomics), RNA
+sequencing, polymerase chain reaction (PCR) and whole-genome
+sequencing, have been used since 2000 to detect and mitigate these
+problems67. Conventional breeding and marker-assisted selection have
+also been used to improve fish growth and health, and lessons from terrestrial animal breeding, especially poultry, have been used to advance
+breeding strategies for fish68,69. For example, genetically selected trout,
+which show improved weight gain of 10–15% per generation on fully
+plant-protein feeds70, are able to digest amino acids from plant proteins
+in a similar temporal pattern as fishmeal and do not develop distal
+enteritis in the intestine when fed high-soy diets71.These tools have
+thus far been applied to only a few high-valued aquaculture species.
+The increasing share of plant-based ingredients in mariculture feed
+types, coupled with the steady growth in feed use in freshwater aquaculture, has led to a new set of controversies surrounding resource use and
+the environmental effects of terrestrial crop production for aquafeed.
+Life cycle analyses indicate that feed accounts for more than 90% of the
+environmental impact from fed aquaculture production72,73. Studies
+modelling fishmeal replacement with plant-based proteins (for example, soy protein concentrate) in shrimp74 and salmon75 show potential
+increases in ecotoxicity from fertilizer and pesticide use, rising pressure
+on freshwater and land resources, and heightened carbon emissions
+and biodiversity loss from forest clearing—particularly in Brazil.
+Aquaculture producers seeking to market sustainable products are
+therefore faced with the unintended environmental and social consequences of their feeding practices. For example, between 2000 and
+2016, the Norwegian salmon aquaculture industry cut its shares of
+marine protein in feed from 33.5% to 14.5% and marine oils from 31.1% to
+10.4%, and increased the shares of plant proteins from 22.2% to 40.3% and
+terrestrial oils from 0 to 20.2%76. Despite its success in substituting fishmeal and fish oil with plant-based alternatives, including non-genetically
+engineered soy, the industry has been under pressure to identify new
+feed sources to eliminate the environmental damages associated with
+forest conversion to crop production in Brazil77, and parts of the industry
+have already banned the use of Brazilian soy in aquafeed.
+Although certain segments of the aquaculture industry, such as salmon,
+face sustainability challenges with terrestrial feed sourcing, the share of
+global animal feed used as aquafeed is small—estimated at 4% (compared
+
+with roughly 40% for poultry, 30% for swine, and 25% for ruminants)43.
+Many terrestrial feed ingredients for aquaculture are by-products, such
+as oilseed protein concentrates extracted from the processing of food
+products, or protein meals and oils recovered from the processing of
+livestock and seafood (including aquaculture)43,59. Recycling processed
+by-products and food wastes into high protein feed ingredients contributes to the sustainable production of food globally, but life-cycle analysis
+is needed to measure the net environmental impact.
+Nonetheless, terrestrial crop demand for aquafeed is expected to rise
+in the future as the production of finfishes and crustaceans expands
+in freshwater and marine systems43,74. Rising demand will probably
+place pressure on natural resources and feed prices. Research on new
+feed ingredients has proliferated recently59,74,78–81 and will continue to
+expand. Single-cell proteins, insect meal, and microalgae represent
+early stage technologies with potential for replacing fishmeal and fish
+oil in aquaculture feed81.
+
+Extractive species
+Extractive species—molluscs and algae—have doubled in volume since
+2000 (Fig. 1b) and represent the third area of aquaculture development.
+Extractive filter-feeding bivalves and algae accounted for 43% of total
+(live-weight) aquacultural output in 20172. On an edible-weight basis,
+however, molluscs and algae comprised only 6% and 7.6%, respectively,
+of total aquaculture output9. These groups also provide a wide range
+of ecosystem services and non-food products8,82–85.
+
+Molluscs
+Molluscan aquaculture includes approximately 65 reported species,
+mainly bivalves (clams, oysters, scallops, and mussels)3. Clams, for
+example, Japanese littleneck (carpet shell, Venerupis philippinarum),
+and Pacific cupped oysters (Crassostrea gigas), account for two-thirds
+of the total. Bivalves do not require feed inputs, making them attractive candidates for the expansion of sustainable seafood—a point that
+was made in the previous review1 and has been argued for more than
+30 years82,84,86–88. Some high-value farmed molluscs, such as abalone
+and conchs, are herbivorous and reliant on feed, but they account for
+only 2.4% of cultivated molluscan output3.
+Nature | Vol 591 | 25 March 2021 | 555
+
+Review
+Agriculture
+production flow
+
+Land
+
+Key areas for governance
+Spillovers between and
+within sectors
+• Technology transfer from
+agriculture and livestock
+farming to aquaculture
+
+Co-product
+flow
+Aquatic product
+flow
+Co-product
+flow
+
+Freshwater capture
+fisheries
+(12 Mt (10 Mt))
+
+Livestock
+(>1,000 Mt)
+Crops
+
+Farmed freshwater
+fish and crustaceans
+(48 Mt (40 Mt))
+25% FO,
+31% FM
+
+(40 Mt)
+75% FO,
+69% FM
+
+Aquaculture
+feeds
+
+Fishmeal
+and oil
+reduction
+
+Aquatic food
+Non-targeted marine
+capture fisheries
+Low income
+• Nutrition security
+High income
+• Certified or rated
+seafood for
+sustainability
+and health
+All income levels
+• Healthy source of
+animal protein and
+micronutrients
+
+Farmed fish and
+crustaceans
+(14 Mt (10 Mt))
+
+(18 Mt)
+
+Negative externalities
+• Land: Land-use change,
+biodiversity loss, GHG
+emissions, nutrient and
+chemical wastes and/or
+effluent (pollution), and
+antibiotic and antimicrobial
+resistance
+• Oceans: Habitat change,
+biodiversity loss, GHG
+emissions, nutrient and
+chemical wastes and/or
+effluent (pollution), and
+antibiotic and antimicrobial
+resistance
+Positive externalities
+• Oceans: Ecosystem
+services (for example,
+nutrient uptake and habitat
+from mollusc and seaweed
+farming)
+
+Targeted marine
+capture fisheries
+(82 Mt (63 Mt))
+Persistent stressors to
+aquatic food systems
+
+Farmed seaweed
+(31 Mt (12 Mt))
+
+Farmed molluscs
+(17 Mt (3 Mt))
+
+• Pathogens, parasites
+and pests
+• Climate change and ocean
+acidification
+• Harmful algal blooms
+
+Marine
+
+• Pollution
+
+Fig. 2 | Interactions between sea and land. Blue arrows show the flows of
+aquatic products from freshwater and marine systems, including wild fish used
+as fishmeal and fish oil in animal feeds. Green arrows show the flows of
+terrestrial feed products. Co-products from terrestrial and aquatic processing
+used in feeds are indicated by dotted arrows. Live-weight and edible
+production from aquaculture sources are indicated in black and red numbers,
+
+respectively. Fishmeal (FM) and fish oil (FO) shares used in aquaculture and
+livestock production are also shown. Aquafeeds include a majority of
+ingredients from agriculture, and co-products from processing of terrestrial
+and aquatic foods are used as ingredients for fish feeds. Data sources: edible
+conversions9 and production data2,49–51,204,205. GHG, greenhouse gas.
+
+The global production of farmed molluscs grew at an annual rate of
+3.5% between 2000 and 2017, which is lower than that of farmed fish (5.7%)
+and crustaceans (9.9%)3. In China, however, bivalve culture expanded
+considerably in response to consumer demand. Between 2005 and 2014,
+the volume of scallops increased by 80.4%, clams by 40.8%, oysters by
+30%, and mussels by 19%84. China is the largest consumer and producer
+of molluscs, accounting for 84% of global cultivated volume in 2017.
+In addition to seafood, outputs from molluscan aquaculture are used
+in a variety of industrial products, such as fertilizers, construction materials, poultry grit, pharmaceuticals, and nutraceuticals82,84. Bivalves also
+provide important benthic and coastal ecosystem functions. By filtering phytoplankton and accumulating nitrogen and phosphorous, they
+remove nutrients from the ambient environment when harvested. In
+addition, molluscan aquaculture can provide habitat structure, shoreline stabilization, and local incomes for waterfront communities82,84,87,89.
+The role of bivalves as a carbon sink or source remains unclear, however,
+and research aimed at measuring carbon sequestration and system
+performance from these systems is ongoing84,90,91.
+The most widely recognized ecosystem service of molluscan aquaculture is the assimilation of excess nutrients from human activities,
+
+for example, agriculture, aquaculture, and sewage discharge. Bivalves
+filter large volumes of water daily, and their abilities and impacts are
+species- and area-specific82,84,92. Nutrient extraction has two modes:
+harvest and removal of the bivalves, and increased denitrification near
+dense populations of wild or farmed bivalves. The ability of bivalves to
+mitigate coastal eutrophication fully requires large-scale production
+and a considerable reduction in nutrients at the source is also needed
+in most cases93. Efforts have been made to introduce new markets for
+bivalves that generate offset credits for non-point source pollution,
+but these markets have yet to develop at scale84,94,95
+Although bivalves can enhance water purification and water clarity,
+they also absorb viruses, bacteria, toxic algae, and polluted organic
+particles from the ambient environment. Food safety risks are therefore high for molluscs cultivated in polluted environments. Moreover, the introduction of large densities of filter-feeding bivalves to
+a habitat, whether in suspended or bottom culture, has the potential to impart negative changes in the water quality and benthic ecosystems (for example, depletion of phytoplankton and seston, and
+localized increases in sedimentation rates through bio-deposition)
+and can present serious disease risks96,97. Most negative impacts of
+
+556 | Nature | Vol 591 | 25 March 2021
+
+bivalve production are site- and species-specific, and uncommon98.
+Negative environmental impacts may ensue if aquaculture systems
+are overstocked, inappropriately sited, or unsustainably managed,
+as indicated in certain cases in China99,100. Assessment of the influence
+of bivalve farming on the surrounding environment can be a complex
+process. As in many aquaculture systems, however, the application of
+carrying capacity models101–104 and routinely modified best management practices105 have continuously improved the sustainability of
+molluscan culture.
+
+Algae
+Since 2000, there has been a growing appreciation for algae (dominated
+by macroalgae or seaweed) for improved nutrition, industrial use,
+and ecosystem services, even in regions outside China, Japan, Korea,
+and parts of South America, where seaweeds have been consumed as
+food for centuries83,106,107. The global production of aquatic plants and
+algae has tripled from 10 Mt of wet biomass in 2000 to more than 32 Mt
+in 2017, with aquaculture contributing more than 97% of the current
+volume17,106. Of the 32 Mt of cultured algae—99% of which is produced in
+Asia—between 31% and 38% is consumed directly as food (Extended Data
+Table 4). The majority is used by the food industry sector as polysaccharide additives and functional food ingredients, and by the non-food
+sector as hydrocolloid products in nutraceuticals, pharmaceuticals
+and cosmetics, and to a lesser extent as fertilizers, feed ingredients,
+biofuels, bioplastics, and other industrial outputs106,108,109.
+Research in recent decades has explored the potential for seaweeds
+to substitute for terrestrial crop and animal production in protein, fat
+(omega 3) and energy intake—alleviating pressure on freshwater and
+land resources and biodiversity—but there is little evidence to date
+that seaweeds can contribute substantially to human macronutrient
+intake110. Numerous studies have highlighted the micronutritional
+and sensory attributes of seaweeds for direct human consumption111
+or as functional foods112, but benefits are difficult to quantify because
+of variation across species, seasons, and coastal environments, and a
+lack of clear scientific evidence regarding nutritional bioavailability and
+metabolic processes associated with algal consumption110. Research
+has examined the use of microalgal biomass in aquaculture feed as a
+cost-competitive replacement for fishmeal and the use of macroalgae
+in dairy and cattle feed to reduce methane emissions113, but these types
+of feed have yet to develop commercially at scale.
+Like molluscan aquaculture, seaweed culture is widely recognized for
+its ecosystem service values beyond the provision of food and feed, yet
+producers have not been able to capture this value in financial returns114.
+Bioremediation is the main ecological service reviewed in the literature.
+Some seaweed systems receive additional fertilizers, for example,
+in low-nutrient coastal zones, although fertilization is regulated in
+Japan and South Korea115. Ongoing research is also investigating the
+role of seaweed culture in mitigating ocean acidification, sequestering carbon, and enhancing biodiversity116–118. In China, studies suggest
+that large-scale seaweed aquaculture is effective in reducing nitrogen
+levels, controlling phytoplankton blooms, and limiting the frequency
+of toxic algal blooms119,120. Considerable variability exists, however, in
+the potential provision of seaweed ecosystem services across cultured
+systems, seasons, and scales.
+Seaweed aquaculture lags behind other food sectors in breeding,
+pathogen management, and optimization of production systems
+for nutrient, light and temperature conditions83. Bacterial and viral
+outbreaks are especially high in intensively farmed seaweed systems,
+where disease management can account for up to 50% of farm-variable
+costs106,121. New seaweed cultivars with higher yield potential, disease
+resistance, nutritional qualities, and consumer attributes are needed
+to ensure production growth and increased value for the industry108,122.
+Overall, progress in research and development for the seaweed
+industry has not met expectations in recent decades108. A few major
+exceptions include China’s success in cultivating alginate-bearing
+
+seaweeds (Saccharina japonica, also known as Laminaria japonica)
+and the expansion of agar-bearing seaweed aquaculture (Gracilaria)
+at scale. The industry remains fragmented outside Asia (mainly China
+and Indonesia), and competitive pricing constrains net revenues and
+incentives for innovation108. Value in the seaweed industry could be
+enhanced through the adoption of a ‘biorefinery’ approach to processing, in which the most valuable products from the algal biomass are
+extracted sequentially, leaving the remaining material for commodity
+uses and minimizing waste, energy inputs and environmental harm123.
+This approach has been successful in various segments of terrestrial
+agriculture. New global initiatives to promote seaweed production
+and use124 will need to tackle critical social, economic, and regulatory
+constraints, including unethical supply chain activities125, food safety
+considerations, and limited consumer demand83,106,126.
+
+Persistent challenges
+Over the past 20 years, trends in the production and environmental
+performance of aquaculture have been positive. Destructive habitat
+conversion, particularly by shrimp farming in mangrove ecosystems
+raised in the previous review1, has declined markedly since 2000127,128.
+Challenges to the industry persist, however, including the effects of
+pathogens, parasites, and pests (PPP), pollution, harmful algal blooms,
+and climate change. The aquaculture industry has become increasingly
+vulnerable to these stressors given its rapid expansion, its reliance on
+the ambient environment, and the changing world in which all food
+systems operate43,129.
+
+Pathogens, parasites and pests
+Pathogens, parasites, and pests (PPP) are a chronic risk for the aquaculture sector, and the intensification of production and increased
+trade and supply chain integration since 2000 have amplified these
+risks130. Aquaculture species differ in their defences, and although invertebrates lack the adaptive immunity of finfish, their innate immune
+system—which is certainly not simple or homogenous—is not fully
+understood131–133. The gut is an important component of the immune
+system for finfish, which allows diet and alterations in the microbiome
+to influence the susceptibility and potential resistance of finfish to disease, whereas the external microbial communities are vitally important
+for the health status of invertebrates134. For most high-value and widely
+traded species, there have been substantial advances in PPP identification, diagnosis, and treatment over the past 20 years, derived in part
+from innovations in agriculture and human medicine131,132,134,135. Such
+science-led disease management options remain largely unavailable for
+many low-value aquaculture species and low-income regions owing to
+a lack of product development and prohibitive costs. Global networks,
+such as the World Organization for Animal Health, have emerged to
+facilitate the transfer of scientific knowledge.
+The aquaculture industry has responded to PPP pressures in recent
+decades using a variety of approaches. Adoption of best management
+practices (for example, for site and system selection, stocking densities,
+species rotations, broodstock, and feed quality, filtration, pond, and
+cage cleanliness, parasite monitoring and removal, culling, zoning, and
+surveillance) has been the most important means of minimizing PPP
+risks across all types of production systems25,134. Once a pathogen, parasite, or pest is widely recognized in a given system, avoidance through
+biosecurity is the primary management action available to most aquaculture producers136. In some systems in which epizootics have caused
+boom-and-bust cycles, resistant species have been introduced, provided that viable markets exist137. For example, the aquaculture industry
+in Thailand transitioned from black tiger shrimp to whiteleg shrimp,
+largely because of problems with infectious diseases, specifically white
+spot disease and monodon slow growth syndrome138,139.
+The use of therapeutants—chemical substances used to prevent and
+treat pathogens—including antimicrobials, has become a common
+Nature | Vol 591 | 25 March 2021 | 557
+
+Review
+practice in many aquaculture systems140. There are no comprehensive
+data on the nature and extent of therapeutic use in most aquaculture
+sectors, and both good and bad practices are found worldwide141–144.
+Although improper therapeutant use can pose risks to the health
+of consumers, workers, cultured organisms, and surrounding ecosystems (particularly in open production systems)96,142, the misuse of
+antimicrobials in aquaculture is especially problematic as it can lead
+to the emergence and transfer of antimicrobial-resistant genes and
+bacteria140.
+As an alternative, large investments have been made in selective
+breeding for disease resistance in certain aquaculture species, but this
+avenue is costly and cannot easily be replicated across species145. Effective multivalent vaccines have also been introduced for some high-value
+species such as salmon and trout146, and show promise for replication
+in marine species aquaculture if efficient and cost-effective delivery
+systems (for example, oral or immersion) can be developed147. Vaccines
+developed for farmed salmon have led to reductions in antibiotic use
+of up to 95% in Norway, the UK, Ireland and Canada, but antibiotic use
+remains high in Chile143. Advanced water management through recirculating aquaculture systems, as discussed in the following section,
+represents another important, but relatively costly, technology for
+controlling PPP148. In addition, supplementation of feed with nutraceuticals, plant extracts, prebiotics, and probiotics is used to boost fish
+growth and immunity and serves as a promising alternative to antibiotics—mainly in high-value production systems, but also increasingly in
+lower-value freshwater systems in Southeast Asia142.
+Even in sectors in which major investments and progress have been
+made in the detection, avoidance, and treatment of PPP, new threats
+frequently emerge. For example, the salmon aquaculture industry
+has successfully controlled some diseases, such as infectious pancreatic necrosis virus and infectious salmon anaemia, but other diseases
+and parasites (for example, salmon rickettsial syndrome and sea lice)
+remain costly for many producers and damaging to wild salmon as
+treatment options are either unavailable or the target organism has
+become resistant to treatment131,143,149,150. Similarly, despite the shift
+from black tiger shrimp to whiteleg shrimp, emerging diseases such as
+white spot disease, acute hepatopancreatic necrosis disease, shrimp
+hemocyte iridescent virus, and the microsporidian parasite (Enterocytozoon hepatopenaei) have resulted in substantial production losses
+and sustained economic costs to the shrimp industry136,151–153.
+As aquaculture production expands into new geographies, PPP outbreaks and the risks to human health from therapeutic management
+approaches will probably increase, particularly in low-income regions.
+Studies also project increased risks of aquaculture disease incidence
+and antimicrobial resistance associated with disease management
+owing to global warming154,155,160. The quantification of trends in PPP is,
+however, complicated by variation between national and international
+disease monitoring and treatment regulations and by a lack data for
+most aquaculture species and production regions157. In the absence of
+reliable data, the incidence and management of PPP throughout the
+global aquaculture industry is and will remain highly unpredictable.
+
+Harmful algal blooms and climate change
+Harmful algal blooms are increasing globally with respect to frequency,
+magnitude, duration, geographical ranges, and species composition,
+and are driven largely by anthropogenic processes98. They occur in
+aquaculture areas worldwide, and their influences on production
+vary widely depending on species-specific effects98,158. Intensive and
+poorly managed finfish and crustacean systems can contribute to the
+emergence of harmful algal blooms, and shellfish, sea urchins, and sea
+cucumbers are common vectors for toxic microalgae98. Toxic blooms
+represent a large economic cost to parts of the industry for which monitoring and management are ineffective. Large blooms of Pseudochattonella and Karenia in southern Chile in 2016 caused salmon mortalities
+of 40,000 tonnes and required several salmon, mussel, and abalone
+558 | Nature | Vol 591 | 25 March 2021
+
+operations to close for 2 years because of food safety risks, generating
+economic losses of around US$ 800 million98,159.
+Climate-driven losses to aquaculture productivity and livelihoods
+stem mainly from suboptimal growing temperatures, sea-level rise
+(saltwater intrusion), infrastructure damage, droughts and freshwater
+shortages, and rising feed costs associated with lower crop yields and
+forage fish landings156,160. Risks to aquaculture infrastructure often drive
+investments to more protected geographies and systems. In addition,
+ocean acidification affects shellfish production, mainly at the larval life
+stage, and is managed through adjustments in pH within the hatchery161.
+The literature does not support generalizations of the damages of
+ocean acidification to shellfish aquaculture given the species-specific
+responses documented, sparse data, uneven and questionable experimentation, and the complexity of pathways through which species
+are affected162. Climate change also amplifies the uncertainties surrounding PPP and harmful algal blooms in aquaculture159,160,163 and
+predictions remain uncertain98,164. In general, scientific studies on climate–aquaculture interactions are based on laboratory-based tolerance data and modelled, but not validated, for commercial aquaculture
+and thus remain speculative165–168. There are no comprehensive data
+on climate-driven production and economic losses in aquaculture at
+regional or global scales, and outcomes are contingent on adaptation
+responses129.
+
+Responding to the challenges
+Increased attention has been directed to ecosystem-based management, system design, and new forms of private and public sector
+governance to manage biological and climate risks, and encourage
+sustainable aquaculture production86,169,170. Integrated multi-trophic
+aquaculture has shown high bioremediation capacity in China120,171,
+but has demonstrated limited commercial success globally despite
+considerable research interest172,173. Recirculating aquaculture systems
+and offshore aquaculture have promising growth potential.
+
+Recirculating aquaculture systems
+Recirculating aquaculture systems are designed to control all environmental facets of production by continually filtering, treating, and reusing water, and thereby increasing operational efficiency and reducing
+risks from PPP and climate change. Recirculating aquaculture systems
+have lower direct land and water requirements than conventional aquaculture and enable higher stocking densities174 but are constrained
+by large energy requirements, high production costs, waste disposal
+challenges, and risk of catastrophic disease failures78,175,176.
+Recirculating aquaculture system technologies are typically used
+when advantages in fish performance outweigh the increased costs—
+for example, for broodstock and vulnerable early life stages175,177 and
+recently for full-life cycle production of salmon. Applications of
+recirculating aquaculture systems within raceways and channelled
+pond systems for shrimp aquaculture are also cost-effective in many
+farming areas given high disease and water-quality risks148. Grow-out
+operations using recirculating aquaculture system technology are
+progressively focused on species with high market value, established
+production protocols, and production models that are large enough
+to realize the efficiency benefits of scale177,178. The competitiveness of
+recirculating aquaculture systems for full grow-out relative to other
+production systems remains uncertain, however, and there have been
+several failures in North America and Europe and few large-scale, commercial successes over multiple years179.
+Offshore aquaculture
+Offshore aquaculture in deep and open ocean waters is designed to
+produce large volumes of fish while minimizing land and freshwater
+constraints and coastal environmental impacts, such as nutrient pollution and sea lice infestations78,180. Prudent siting is required, however,
+
+to avoid conflicts with other marine uses and to ensure the effective
+dilution of wastes, particularly for large-scale systems181. Norway
+and China lead in offshore fish aquaculture with the introduction of
+massive submersible cages182–184. Given large capital costs and high
+risk-to-return ratios, offshore aquaculture in other countries has been
+confined mainly to small-scale pilot operations cultivating high-valued,
+carnivorous species. Offshore environments present a range of operational challenges (for example, water depth, strong currents and waves,
+and storms), which have induced several new design approaches180.
+Government regulations have constrained commercial development
+of offshore aquaculture, particularly in the USA and European Union,
+because of public controversy regarding its interactions with the marine
+environment, potential ecological damage, and competing uses of
+ocean and natural resources185,186.
+
+Governance
+Aspirations to improve the environmental and social performance of
+aquaculture practices and technologies have led to the emergence of
+new combinations of public and private regulation, codes and standards187; however, the application of these governance instruments has
+struggled to match the expanded geographies, volumes, and diversity
+of aquaculture systems188. The uneven implementation of government
+regulation has led to regional disparities in production, growth and
+system design. Governments have facilitated aquaculture expansion
+in many Asian countries, Norway, and Chile, whereas in other regions—
+including the European Union and USA—governments have constrained
+growth15. In very few countries, such as Norway, has strict environmental regulation allowed the sector to expand by coordinating governing
+institutions to support planned aquaculture growth15. Uneven regulation has led to disparities in investment and trade, with only a few export
+nations selling into major net seafood importing markets such as the
+USA and European Union.
+In response to public over- and under-regulation, several types of
+private governance arrangements have emerged with the intention of
+shaping demand for sustainable, ‘fair’, and organic aquaculture production. For example, 30–50 voluntary labelling, certification and rating
+schemes have been introduced by non-government organizations and
+private companies189,190.
+Farm-level certification is setting new norms for sustainable aquaculture globally191, yet the role of certification remains limited by low (yet
+growing) levels of producer compliance. The two largest certification
+groups—the Aquaculture Stewardship Council (ASC) and the Global
+Aquaculture Alliance Best Aquaculture Practice (GAA-BAP) standards—account for 3% of global aquaculture production (Extended Data
+Fig. 5). Low levels of compliance have been attributed to insufficient
+finances, low demand for certified products, poor literacy levels, and
+inadequate administrative skills required for monitoring and reporting192,193, and environmental production risks beyond the control of
+the producer194. Consumer guides such as the US Seafood Watch have
+rated a further 53% of global production (Extended Data Fig. 5). These
+ratings are involuntary and based on broad-scale assessments at the
+sector or regional level.
+Certified and rated production is skewed to major export species.
+Overall, 57% of salmon and trout, 17% of shrimp and prawns, 17% of
+pangasius and 11% of tilapia are certified (Extended Data Fig. 6), with
+higher levels of compliance observed in countries with a greater proportion of vertically integrated supply chains38,195,196. Domestic demand for
+sustainable products in Asian seafood markets appears to be increasing,
+driven by food safety concerns197, but considerable growth in domestic
+demand for sustainable seafood is needed to make aquaculture certification and rating systems effective globally187.
+States can enhance the success of private governance arrangements
+by providing capabilities, resources, and minimum regulation to support improvements in farm practices. Both certification and consumer
+guides have now started shifting to ‘hybrid’ forms of governance190,
+
+which integrate private assessment tools into spatial management
+units that are managed in collaboration with buyers and states198.
+These ‘beyond farm’ forms of management aim to foster greater
+inclusion of large and small-holder producers in a given jurisdiction
+to minimize PPP, climate, and other ecological risks169. They are also
+increasingly aimed at avoiding spatial conflicts, promoting the trade
+in bio-derivatives, and creating new ecosystem and climate services
+markets199–202. They may also enable greater transparency and trust of
+aquaculture products exported from developing countries and create
+inclusive improvement pathways for the 90% of aquaculture output
+that is not directed towards export markets.
+
+Outlook
+Over the past 20 years the aquaculture sector has evolved from having
+a relatively minor role to playing a mainstream part in the global food
+system. The aquaculture literature reflects the increased attention to
+food system outcomes, with consumers, value chains, and sustainability
+criteria progressively shaping the direction of the industry. Continued growth in the sector has important implications for achieving the
+United Nations Sustainable Development Goals.
+Three key patterns emerge in this Review. First, freshwater fish have
+a central role in the global production, contributing more than any
+other aquaculture sub-sector to the total (live and edible) volume, rural
+livelihoods, and food security during the past two decades. Because
+most farmed freshwater fish do not enter the global market, however,
+there is currently little impetus for producers to engage in sustainable
+practices with recognized ratings or certification. Second, marked
+improvements have been made in the efficiency of marine resource use
+across all fed species and in the field of fish nutrition. Further gains in
+these areas may be more difficult and costly to achieve for carnivorous
+species, but the increasing costs of fishmeal and fish oil that are associated with marine resource limitation will provide continued incentives
+for innovation. Third, careful siting of aquaculture systems underpins
+the commercial and environmental success of the industry. Almost all
+freshwater and marine aquaculture systems interact with the ambient
+aquatic environment and both benefit from and provide environmental
+services to the ambient environment as a result. Prudent siting and
+scaling are essential for maximizing the ecosystem services provided
+by farmed extractive species and for mitigating critical challenges to
+the industry associated with PPP, coastal pollution, and climate change.
+The wide diversity of aquaculture systems across species, geographies, producers, and consumers prevents the development of a single
+strategy to achieve sustainable and healthy products. Governance
+systems need to be designed with clearly articulated, science-informed
+goals, but without overly proscriptive standards and regulations for
+realizing those goals. Such flexibility is needed to support the abilities
+of industries, governments, and non-government organizations to
+innovate while still providing clear end points and requirements for
+monitoring, reporting, transparency, and accountability. The aquaculture sector will continue to face large uncertainties in the future,
+including climate change, evolving PPP pressures, pandemics, and
+market disruptions and changes in food systems more broadly.
+Looking ahead, the effective spatial planning and regulation of
+aquaculture sites will be paramount for achieving positive environmental outcomes, especially as aquaculture systems increase in scale
+and production intensifies. The industry is investigating recirculating
+and offshore technologies to reduce its exposure to and impact on
+aquatic environments; however, these systems will require innovative financial and environmental management to have any chance of
+widespread success. In addition, investments are needed in an array
+of PPP prevention strategies across different aquaculture sub-sectors,
+recognizing that treatments after PPP problems emerge are largely
+futile. Finally, future policies and programmes to promote aquaculture
+will require a food systems approach that examines nutrition, equity,
+Nature | Vol 591 | 25 March 2021 | 559
+
+Review
+justice, and environmental outcomes and trade-offs across land and
+sea. Tools such as life cycle analysis will need to be refined and deployed
+to ensure comparability between terrestrial livestock and aquaculture
+production on the basis of nutritional value and global environmental
+outcomes. Research along these lines, as advanced through new studies including the ongoing Blue Food Assessment203, will undoubtedly
+be documented in the next 20-year retrospective review. Aquaculture
+systems can be designed and implemented to be highly sustainable. The
+human dimension presents both the opportunity and the challenge.
+
+25.
+26.
+
+27.
+28.
+29.
+
+30.
+
+Online content
+
+31.
+
+Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information,
+acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at https://doi.org/10.1038/s41586-021-03308-6.
+
+32.
+33.
+34.
+
+35.
+Naylor, R. L. et al. Effect of aquaculture on world fish supplies. Nature 405, 1017–1024 (2000).
+This paper, the original study that motivated this 20-year retrospective Review,
+provides an analysis of the use of wild fish in aquafeeds and the contribution of fed
+aquaculture to the net balance of seafood supplies.
+2.
+FAO. Fisheries and Aquaculture Software. FishStatJ: Software for Fishery and Aquaculture
+Statistical Time Series http://www.fao.org/fishery/statistics/software/fishstatj/en (FAO
+Fisheries Division, 2019).
+3.
+Tacon, A. G. J. Trends in global aquaculture and aquafeed production: 2000–2017. Rev.
+Fish. Sci. Aquacult. 28, 43–56 (2020).
+4. Belton, B. & Thilsted, S. H. Fisheries in transition: food and nutrition security implications
+for the Global South. Glob. Food Secur. 3, 59–66 (2014).
+5.
+Béné, C. et al. Contribution of fisheries and aquaculture to food security and poverty
+reduction: assessing the current evidence. World Dev. 79, 177–196 (2016).
+6.
+Thilsted, S. H. et al. Sustaining healthy diets: The role of capture fisheries and aquaculture
+for improving nutrition in the post-2015 era. Food Policy 61, 126–131 (2016).
+7.
+Belton, B. et al. Farming fish in the sea will not nourish the world. Nat. Commun. 11, 5804
+(2020).
+8.
+Stevens, J. R., Newton, R. W., Tlusty, M. & Little, D. C. The rise of aquaculture by-products:
+increasing food production, value, and sustainability through strategic utilisation. Mar.
+Policy 90, 115–124 (2018).
+9.
+Edwards, P., Zhang, W., Belton, B. & Little, D. C. Misunderstandings, myths and mantras in
+aquaculture: its contribution to world food supplies has been systematically over
+reported. Mar. Policy 106, 103547 (2019).
+This study provides a critical assessment of how aquaculture and fisheries compare to
+terrestrial livestock in terms of edible and live-weight production and growth in recent
+decades.
+10. Metian, M., Troell, M., Christensen, V., Steenbeek, J. & Pouil, S. Mapping diversity of
+species in global aquaculture. Rev. Aquacult. 12, 1090–1100 (2020).
+11. Bush, S. R., Belton, B., Little, D. C. & Islam, M. S. Emerging trends in aquaculture value
+chain research. Aquaculture 498, 428–434 (2019).
+12. Cao, L. et al. China’s aquaculture and the world’s wild fisheries. Science 347, 133–135 (2015).
+13. Fabinyi, M. & Liu, N. The social context of the Chinese food system: an ethnographic
+study of the Beijing seafood market. Sustainability 8, 244 (2016).
+14. Crona, B. et al. China at a crossroads: an analysis of China’s changing seafood production
+and consumption. One Earth 3, 32–44 (2020).
+15. Garlock, T. et al. A global blue revolution: aquaculture growth across regions, species,
+and countries. Rev. Fish. Sci. Aquacult. 28, 107–116 (2020).
+16. Adeleke, B., Robertson-Andersson, D., Moodley, G. & Taylor, S. Aquaculture in Africa: a
+comparative review of Egypt, Nigeria and Uganda vis-à-vis South Africa. Rev. Fish. Sci.
+Aquacult. https://doi.org/10.1080/23308249.2020.1795615 (2020).
+17. FAO. The State of World Fisheries and Aquaculture 2020. Sustainability in Action http://
+www.fao.org/documents/card/en/c/ca9229en (FAO, 2020).
+18. WorldFish. Addressing COVID-19 Impacts on Fish and Aquatic Food Systems https://
+mailchi.mp/worldfishcenter/covid-response (WorldFish, 2020).
+19. Little, D. C., Newton, R. W. & Beveridge, M. C. M. Aquaculture: a rapidly growing and
+significant source of sustainable food? Status, transitions and potential. Proc. Nutr. Soc.
+75, 274–286 (2016).
+20. Pieterse, J. N. Multipolar Globalization: Emerging Economies and Development
+(Routledge, 2017).
+21. Belton, B., Bush, S. R. & Little, D. C. Not just for the wealthy: rethinking farmed fish
+consumption in the Global South. Glob. Food Secur. 16, 85–92 (2018).
+This paper challenges the emerging view that aquaculture primarily benefits wealthy
+populations and shows that aquaculture improves food security for top producing lowand middle-income countries.
+22. Belton, B. & Bush, S. R. Beyond net deficits: new priorities for an aquacultural geography.
+Geogr. J. 180, 3–14 (2014).
+23. Wang, Q. et al. Paradigm changes in freshwater aquaculture practices in China: moving
+towards achieving environmental integrity and sustainability. Ambio 47, 410–426 (2018).
+24. Hernandez, R. et al. The “quiet revolution” in the aquaculture value chain in Bangladesh.
+Aquaculture 493, 456–468 (2018).
+This study describes the extent and importance of freshwater aquaculture in stimulating
+societal benefits through employment generated by values chains in Bangladesh.
+1.
+
+560 | Nature | Vol 591 | 25 March 2021
+
+36.
+
+37.
+
+38.
+39.
+40.
+
+41.
+42.
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+
+54.
+55.
+56.
+57.
+
+58.
+
+Little, D. C. & Bunting, S. W. in Emerging Technologies for Promoting Food Security:
+Overcoming the World Food Crisis (ed. Madramootoo, C.) 93–113 (Elsevier, 2016).
+Belton, B., Padiyar, A., Ravibabu, G. & Gopal Rao, K. Boom and bust in Andhra Pradesh:
+development and transformation in India’s domestic aquaculture value chain.
+Aquaculture 470, 196–206 (2017).
+Belton, B. & Filipski, M. Rural transformation in central Myanmar: by how much, and for
+whom? J. Rural Stud. 67, 166–176 (2019).
+Belton, B. & Little, D. The development of aquaculture in central Thailand: domestic
+demand versus export-led production. J. Agrar. Change 8, 123–143 (2008).
+Loc, V. T. T., Bush, S. R., Sinh, L. X. & Khiem, N. T. High and low value fish chains in the
+Mekong Delta: challenges for livelihoods and governance. Environ. Dev. Sustain. 12,
+889–908 (2010).
+Fluet-Chouinard, E., Funge-Smith, S. & McIntyre, P. B. Global hidden harvest of freshwater
+fish revealed by household surveys. Proc. Natl Acad. Sci. USA 115, 7623–7628 (2018).
+Belton, B. & Little, D. C. in World Small-Scale Fisheries: Contemporary Visions (ed.
+Chuenpagdee, R.) 151–170 (Eburon, 2011).
+Toufique, K. A. & Belton, B. Is aquaculture pro-poor? Empirical evidence of impacts on fish
+consumption in Bangladesh. World Dev. 64, 609–620 (2014).
+Filipski, M. & Belton, B. Give a man a fishpond: modeling the impacts of aquaculture in the
+rural economy. World Dev. 110, 205–223 (2018).
+Beveridge, M. C. M. et al. Meeting the food and nutrition needs of the poor: the role of fish
+and the opportunities and challenges emerging from the rise of aquaculture. J. Fish Biol.
+83, 1067–1084 (2013).
+Kaminski, A. M. et al. A review of inclusive business models and their application in
+aquaculture development. Rev. Aquacult. 12, 1881–1902 (2020).
+Bestari, N., Edwards, P., Katon, B., Morales, A. & Pullin, R. An Evaluation of Small Scale
+Freshwater Rural Aquaculture Development for Poverty Reduction. Case Study 6: Tilapia
+Cage Farming in Lake Taal, Batangas, Philippines Report No. 091704, 110–127 https://www.
+adb.org/publications/evaluation-small-scale-freshwater-rural-aquaculture-developmentpoverty-reduction (Asian Development Bank, 2005).
+Fakhrudin, M., Subehi, L., Jasalesmana, T. & Dianto, A. Dissolved oxygen and temperature
+stratification analysis for early warning system development in preventing mass mortality
+of fish in lake Maninjau, West Sumatera - Indonesia. IOP Conf. Ser. Earth Environ. Sci. 380,
+012002 (2019).
+Ponte, S., Kelling, I., Jespersen, K. S. & Kruijssen, F. The blue revolution in Asia: upgrading
+and governance in aquaculture value chains. World Dev. 64, 52–64 (2014).
+Lebel, L., Lebel, P. & Chuah, C. J. Water use by inland aquaculture in Thailand: stakeholder
+perceptions, scientific evidence, and public policy. Environ. Manage. 63, 554–563 (2019).
+Wang, J., Beusen, A. H. W., Liu, X. & Bouwman, A. F. Aquaculture production is a large,
+spatially concentrated source of nutrients in Chinese freshwater and coastal seas.
+Environ. Sci. Technol. 54, 1464–1474 (2020).
+This paper provides the first model-based estimate of the scale of total nutrient release
+from aquaculture to the freshwater and marine environment in China.
+Wu, Y., Shan, L., Guo, Z. & Peng, Y. Cultivated land protection policies in China facing 2030:
+dynamic balance system versus basic farmland zoning. Habitat Int. 69, 126–138 (2017).
+Brown, T. W., Chappell, J. A. & Boyd, C. E. A commercial-scale, in-pond raceway system
+for Ictalurid catfish production. Aquacult. Eng. 44, 72–79 (2011).
+Troell, M. et al. Does aquaculture add resilience to the global food system? Proc. Natl
+Acad. Sci. USA 111, 13257–13263 (2014).
+This study assesses the resilience of the aquaculture sector using a portfolio approach
+that focuses on production and feed links between terrestrial and marine systems.
+Leadbitter, D. Driving Change in South East Asian Trawl Fisheries, Fishmeal Supply and
+Aquafeed https://www.iffo.com/system/files/downloads/Full%20Report%20on%20
+South%20East%20Asia.pdf (IFFO, 2019).
+Arthur, R. I. et al. Assessing impacts of introduced aquaculture species on native fish
+communities: Nile tilapia and major carps in SE Asian freshwaters. Aquaculture 299,
+81–88 (2010).
+Henriksson, P. J. G., Belton, B., Jahan, K. M.-E. & Rico, A. Measuring the potential for
+sustainable intensification of aquaculture in Bangladesh using life cycle assessment.
+Proc. Natl Acad. Sci. USA 115, 2958–2963 (2018).
+Green, K. Fishmeal and Fish Oil Facts and Figures. March 2018 https://www.seafish.org/
+document/?id=1b08b6d5-75d9-4179-9094-840195ceee4b (SeaFish, 2018).
+Pauly, D., Zeller, D. & Palomares, M. L. D. Sea Around Us Concepts, Design and Data
+http://www.seaaroundus.org/ (2020).
+Davis, D. A. Feed and Feeding Practices in Aquaculture (Woodhead, 2015).
+Bachis, E. Fishmeal and fish oil: a summary of global trends. 57th IFFO Annual Conference
+https://www.iffo.com/blog/day-2-summary-57th-iffo-annual-conference (2017).
+Auchterlonie, N. A. The continuing importance of fishmeal and fish oil in aquafeeds.
+https://www.iffo.com/system/files/downloads/AquaFarm%20Feb18%20NA.pdf (2018).
+Shepherd, J. Responsible marine ingredients for agriculture. https://www.iffo.com/
+system/files/downloads/JS%20IFFO%20presentation%20for%20GOAL.pdf (2011).
+Péron, G., François Mittaine, J. & Le Gallic, B. Where do fishmeal and fish oil products
+come from? An analysis of the conversion ratios in the global fishmeal industry. Mar.
+Policy 34, 815–820 (2010).
+National Research Council. Nutrient Requirements of Fish and Shrimp (The National
+Academies Press, 2011).
+Ytrestøyl, T., Aas, T. S. & Åsgård, T. Utilisation of feed resources in production of Atlantic
+salmon (Salmo salar) in Norway. Aquaculture 448, 365–374 (2015).
+Kok, B. et al. Fish as feed: using economic allocation to quantify the fish in: fish out ratio of
+major fed aquaculture species. Fish Fish. 528, 735474 (2020).
+Zhang, W. et al. Fishing for feed in China: facts, impacts and implications. Fish Fish. 21,
+47–62 (2020).
+This study provides field-based evidence on the extent of feed-grade, non-targeted
+fish catch in China for aquaculture feeds and its implications for marine food webs.
+Krogdahl, Å., Penn, M., Thorsen, J., Refstie, S. & Bakke, A. M. Important antinutrients in
+plant feedstuffs for aquaculture: an update on recent findings regarding responses in
+salmonids. Aquacult. Res. 41, 333–344 (2010).
+
+59. Naylor, R. L. et al. Feeding aquaculture in an era of finite resources. Proc. Natl Acad. Sci.
+USA 106, 15103–15110 (2009).
+This perspective describes advances in fish nutrition with an emphasis on alternative
+protein sources to replace fishmeal and strategies to reduce fish oil levels in
+aquafeed.
+60. Hua, K. et al. The future of aquatic protein: implications for protein sources in aquaculture
+diets. One Earth 1, 316–329 (2019).
+61. Drew, M. D., Borgeson, T. L. & Thiessen, D. L. A review of processing of feed ingredients to
+enhance diet digestibility in finfish. Anim. Feed Sci. Technol. 138, 118–136 (2007).
+This paper reviews the technologies used to improve the nutritional quality of plant
+protein concentrates and other alternative feed ingredients to support efficient fish
+growth when included in fish feeds.
+62. Betancor, M. B. et al. A nutritionally-enhanced oil from transgenic Camelina sativa
+effectively replaces fish oil as a source of eicosapentaenoic acid for fish. Sci. Rep. 5, 8104
+(2015).
+63. Sprague, M., Dick, J. R. & Tocher, D. R. Impact of sustainable feeds on omega-3
+long-chain fatty acid levels in farmed Atlantic salmon, 2006–2015. Sci. Rep. 6, 21892
+(2016).
+64. Turchini, G. M., Wing-Keong, N. & Tocher, D. R. Fish Oil Replacement and Alternative Lipid
+Sources in Aquaculture Feeds (CRC, 2010).
+A thorough review of fish oil replacement in fish feeds.
+65. Martin, S. A. M. & Król, E. Nutrigenomics and immune function in fish: new insights from
+omics technologies. Dev. Comp. Immunol. 75, 86–98 (2017).
+66. Simó-Mirabet, P. et al. Impact of low fish meal and fish oil diets on the performance, sex
+steroid profile and male–female sex reversal of gilthead sea bream (Sparus aurata) over a
+three-year production cycle. Aquaculture 490, 64–74 (2018).
+67. Caballero-Solares, A. et al. Changes in the liver transcriptome of farmed Atlantic salmon
+(Salmo salar) fed experimental diets based on terrestrial alternatives to fish meal and fish
+oil. BMC Genomics 19, 796 (2018).
+68. Gjedrem, T. & Rye, M. Selection response in fish and shellfish: a review. Rev. Aquacult. 10,
+168–179 (2018).
+69. de Verdal, H. et al. Improving feed efficiency in fish using selective breeding: a review.
+Rev. Aquacult. 10, 833–851 (2018).
+70. Overturf, K., Barrows, F. T. & Hardy, R. W. Effect and interaction of rainbow trout strain
+(Oncorhynchus mykiss) and diet type on growth and nutrient retention. Aquacult. Res. 44,
+604–611 (2013).
+71. Brezas, A. & Hardy, R. W. Improved performance of a rainbow trout selected strain is
+associated with protein digestion rates and synchronization of amino acid absorption.
+Sci. Rep. 10, 4678 (2020).
+72. Little, D. C. et al. Sustainable intensification of aquaculture value chains between Asia and
+Europe: a framework for understanding impacts and challenges. Aquaculture 493,
+338–354 (2018).
+73. Newton, R. W. & Little, D. C. Mapping the impacts of farmed Scottish salmon from a life
+cycle perspective. Int. J. Life Cycle Assess. 23, 1018–1029 (2018).
+74. Malcorps, W. et al. The sustainability conundrum of fishmeal substitution by plant
+ingredients in shrimp feeds. Sustainability 11, 1212 (2019).
+75. Pelletier, N., Klinger, D. H., Sims, N. A., Yoshioka, J. R. & Kittinger, J. N. Nutritional
+attributes, substitutability, scalability, and environmental intensity of an illustrative subset
+of current and future protein sources for aquaculture feeds: joint consideration of
+potential synergies and trade-offs. Environ. Sci. Technol. 52, 5532–5544 (2018).
+This paper provides a perspective on the shift from wild fish to terrestrial crop-based
+ingredients in aquafeeds.
+76. Aas, T. S., Ytrestøyl, T. & Åsgård, T. Utilization of feed resources in the production of
+Atlantic salmon (Salmo salar) in Norway: An update for 2016. Aquacult. Rep. 15, 100216
+(2019).
+77. Hansen, L. The weak sustainability of the salmon feed transition in Norway – a
+bioeconomic case study. Front. Mar. Sci. 6, 764 (2019).
+78. Klinger, D. & Naylor, R. Searching for solutions in aquaculture: charting a sustainable
+course. Annu. Rev. Environ. Resour. 37, 247–276 (2012).
+79. Wan, A. H. L., Davies, S. J., Soler-Vila, A., Fitzgerald, R. & Johnson, M. P. Macroalgae as a
+sustainable aquafeed ingredient. Rev. Aquacult. 11, 458–492 (2019).
+80. El Abbadi, S. H. & Criddle, C. S. Engineering the dark food chain. Environ. Sci. Technol. 53,
+2273–2287 (2019).
+81. Cottrell, R. S., Blanchard, J. L., Halpern, B. S., Metian, M. & Froehlich, H. E. Global adoption
+of novel aquaculture feeds could substantially reduce forage fish demand by 2030.
+Nat. Food 1, 301–308 (2020).
+82. Shumway, S. E. Shellfish Aquaculture and the Environment (Wiley-Blackwell, 2011).
+This book presents a comprehensive review of shellfish aquaculture–environment
+interactions.
+83. Buschmann, A. H. et al. Seaweed production: overview of the global state of exploitation,
+farming and emerging research activity. Eur. J. Phycol. 52, 391–406 (2017).
+This paper describes the status and uses of capture and culture for seaweed
+production in the last decade, highlighting emerging trends and future avenues of
+research such as new pharmaceutical uses and carbon sequestration.
+84. Smaal, A. C., Ferreira, J. G., Grant, J., Petersen, J. K. & Strand, Ø. Goods and Services of
+Marine Bivalves (Springer, 2019).
+This volume presents a comprehensive review of ecosystem services provided by
+marine bivalve molluscs.
+85. Weitzman, J. Applying the ecosystem services concept to aquaculture: a review of
+approaches, definitions, and uses. Ecosyst. Serv. 35, 194–206 (2019).
+86. Costa-Pierce, B. A. Ecological Aquaculture: The Evolution of the Blue Revolution
+(Wiley-Blackwell, 2002).
+87. Gentry, R. R. et al. Exploring the potential for marine aquaculture to contribute to
+ecosystem services. Rev. Aquacult. 12, 499–512 (2020).
+88. Costello, C. et al. The future of food from the sea. Nature 588, 95–100 (2020).
+89. van der Schatte Olivier, A. et al. A global review of the ecosystem services provided by
+bivalve aquaculture. Rev. Aquacult. 12, 3–25 (2020).
+
+90. Aubin, J., Fontaine, C., Callier, M. & Roque d’orbcastel, E. Blue mussel (Mytilus edulis)
+bouchot culture in Mont-St Michel Bay: potential mitigation effects on climate change
+and eutrophication. Int. J. Life Cycle Assess. 23, 1030–1041 (2018).
+91. Filgueira, R. et al. An integrated ecosystem approach for assessing the potential role of
+cultivated bivalve shells as part of the carbon trading system. Mar. Ecol. Prog. Ser. 518,
+281–287 (2015).
+92. Rosa, M., Ward, J. E. & Shumway, S. E. Selective capture and ingestion of particles by
+suspension-feeding bivalve molluscs: a review. J. Shellfish Res. 37, 727–746 (2018).
+93. Wilberg, M. J., Livings, M. E., Barkman, J. S., Morris, B. T. & Robinson, J. M. Overfishing,
+disease, habitat loss, and potential extirpation of oysters in upper Chesapeake Bay.
+Mar. Ecol. Prog. Ser. 436, 131–144 (2011).
+94. Lindahl, O. et al. Improving marine water quality by mussel farming: a profitable solution
+for Swedish society. Ambio 34, 131–138 (2005).
+95. Parker, M. & Bricker, S. Sustainable oyster aquaculture, water quality improvement and
+ecosystem service value potential in Maryland, Chesapeake Bay. J. Shellfish Res. 39,
+269–281 (2020).
+96. Lafferty, K. D. et al. Infectious diseases affect marine fisheries and aquaculture
+economics. Annu. Rev. Mar. Sci. 7, 471–496 (2015).
+97. Fox, M. et al. Preventing and mitigating farmed bivalve disease: a Northern Ireland case
+study. Aquacult. Int. 28, 2397–2417 (2020).
+98. Shumway, S. E., Burkholder, J. M. & Morton, S. L. (eds) Harmful Algal Blooms: A
+Compendium Desk Reference (John Wiley & Sons, 2018).
+A comprehensive review of the causes, consequences, and dynamics of harmful algal
+blooms.
+99. Liu, H. & Su, J. Vulnerability of China’s nearshore ecosystems under intensive mariculture
+development. Environ. Sci. Pollut. Res. Int. 24, 8957–8966 (2017).
+100. Wartenberg, R. et al. The impacts of suspended mariculture on coastal zones in China
+and the scope for integrated multi-trophic aquaculture. Ecosyst. Health Sustain. 3,
+1340268 (2017).
+101. Ferreira, J. G., Hawkins, A. J. S. & Bricker, S. B. Management of productivity, environmental
+effects and profitability of shellfish aquaculture — the Farm Aquaculture Resource
+Management (FARM) model. Aquaculture 264, 160–174 (2007).
+102. Ferreira, J. G. et al. Integrated assessment of ecosystem-scale carrying capacity in
+shellfish growing areas. Aquaculture 275, 138–151 (2008).
+103. Ferreira, J. G. et al. Ecological carrying capacity for shellfish aquaculture—sustainability of
+naturally occurring filter-feeders and cultivated bivalves. J. Shellfish Res. 37, 709–726 (2018).
+104. Lavaud, R., Guyondet, T., Filgueira, R., Tremblay, R. & Comeau, L. A. Modelling bivalve
+culture - eutrophication interactions in shallow coastal ecosystems. Mar. Pollut. Bull. 157,
+111282 (2020).
+105. Tucker, C. & Hargraeves, J. A. Environmental Best Management Practices for Aquaculture
+(Wiley-Blackwell, 2008).
+106. Barbier, M. et al. PEGASUS - Phycomorph European Guidelines for a Sustainable
+Aquaculture of Seaweeds. COST Action FA1406 (eds Barbier, M. & Charrier, B.) https://doi.
+org/10.21411/2c3w-yc73 (COST, 2019).
+107. Dillehay, T. D. et al. Monte Verde: seaweed, food, medicine, and the peopling of South
+America. Science 320, 784–786 (2008).
+108. Porse, H. & Rudolph, B. The seaweed hydrocolloid industry: 2016 updates, requirements,
+and outlook. J. Appl. Phycol. 29, 2187–2200 (2017).
+109. Shannon, E. & Abu-Ghannam, N. Seaweeds as nutraceuticals for health and nutrition.
+Phycologia 58, 563–577 (2019).
+110. Wells, M. L. et al. Algae as nutritional and functional food sources: revisiting our
+understanding. J. Appl. Phycol. 29, 949–982 (2017).
+A review and critical analysis of the actual and purported benefits of seaweed for
+human nutrition.
+111. Mouritsen, O. G., Rhatigan, P. & Pérez-Lloréns, J. L. The rise of seaweed gastronomy:
+phycogastronomy. Bot. Mar. 62, 195–209 (2019).
+112. Holdt, S. L. & Kraan, S. Bioactive compounds in seaweed: functional food applications
+and legislation. J. Appl. Phycol. 23, 543–597 (2011).
+113. Li, X. et al. Asparagopsis taxiformis decreases enteric methane production from sheep.
+Anim. Prod. Sci. 58, 681–688 (2016).
+114. Chopin, T. & Tacon, A. G. J. Importance of seaweeds and extractive species in global
+aquaculture production. Rev. Fish. Sci. Aquacult. https://doi.org/10.1080/23308249.2020.
+1810626 (2020).
+This paper provides a clear and comprehensive assessment of global seaweed
+aquaculture and shows the relevance of integrated multi-trophic aquaculture and
+other applications.
+115. Hurd, C. L., Harrison, P. J., Bischof, K. & Lobban, C. S. Seaweed Ecology and Physiology
+2nd edn (Cambridge Univ. Press, 2014).
+116. Duarte, C. M., Wu, J., Xiao, X., Bruhn, A. & Krause-Jensen, D. Can seaweed farming play a
+role in climate change mitigation and adaptation? Front. Mar. Sci. 4, 100 (2017).
+117. Krause-Jensen, D. et al. Sequestration of macroalgal carbon: the elephant in the blue
+carbon room. Biol. Lett. 14, 20180236 (2018).
+118. Alleway, H. K. et al. The ecosystem services of marine aquaculture: valuing benefits to
+people and nature. Bioscience 69, 59–68 (2019).
+119. Yang, Y. et al. Cultivation of seaweed Gracilaria in Chinese coastal waters and its
+contribution to environmental improvements. Algal Res. 9, 236–244 (2015).
+120. Xiao, X. et al. Nutrient removal from Chinese coastal waters by large-scale seaweed
+aquaculture. Sci. Rep. 7, 46613 (2017).
+121. Kim, G. H., Moon, K.-H., Kim, J.-Y., Shim, J. & Klochkova, T. A. A revaluation of algal
+diseases in Korean Pyropia (Porphyra) sea farms and their economic impact. Algae 29,
+249–265 (2014).
+122. Hurtado, A. Q., Neish, I. C. & Critchley, A. T. Phyconomy: the extensive cultivation of
+seaweeds, their sustainability and economic value, with particular reference to important
+lessons to be learned and transferred from the practice of eucheumatoid farming.
+Phycologia 58, 472–483 (2019).
+123. Zollmann, M. et al. Green technology in green macroalgal biorefineries. Phycologia 58,
+516–534 (2019).
+
+Nature | Vol 591 | 25 March 2021 | 561
+
+Review
+124. Doumeizel, V. et al. Seaweed Revolution: A Manifesto for a Sustainable Future. https://
+ungc-communications-assets.s3.amazonaws.com/docs/publications/
+The-Seaweed-Manifesto.pdf (UN Global Compact and Lloyd’s Register Foundation,
+2020).
+125. Fröcklin, S., de la Torre-Castro, M., Lindström, L., Jiddawi, N. S. & Msuya, F. E. Seaweed
+mariculture as a development project in Zanzibar, East Africa: a price too high to pay?
+Aquaculture 356–357, 30–39 (2012).
+126. van den Burg, S. W. K., Dagevos, H. & Helmes, R. J. K. Towards sustainable European
+seaweed value chains: a triple P perspective. ICES J. Mar. Sci. fsz183 (2019).
+127. Herbeck, L. S., Krumme, U., Andersen, T. J. & Jennejahn, T. C. Decadal trends in mangrove
+and pond aquaculture cover on Hainan (China) since 1966: mangrove loss, fragmentation
+and associated biogeochemical changes. Estuar. Coast. Shelf Sci. 233, 106531
+(2020).
+128. Nguyen, H. Q. et al. Socio-ecological resilience of mangrove-shrimp models under
+various threats exacerbated from salinity intrusion in coastal area of the Vietnamese
+Mekong Delta. Int. J. Sustain. Dev. World Ecol. 27, 638–651 (2020).
+129. Reid, G. K. et al. Climate change and aquaculture: considering adaptation potential.
+Aquacult. Environ. Interact. 11, 603-624 (2019).
+This paper reviews potential adaptation strategies for reducing climate-induced impacts
+on the aquaculture sector.
+130. Stentiford, G. D. et al. Disease will limit future food supply from the global crustacean
+fishery and aquaculture sectors. J. Invertebr. Pathol. 110, 141–157 (2012).
+131. Stentiford, G. D. et al. New paradigms to help solve the global aquaculture disease crisis.
+PLoS Pathog. 13, e1006160 (2017).
+132. Elaswad, A. & Dunham, R. Disease reduction in aquaculture with genetic and genomic
+technology: current and future approaches. Rev. Aquacult. 10, 876–898 (2018).
+133. Pernet, F., Lupo, C., Bacher, C. & Whittington, R. J. Infectious diseases in oyster
+aquaculture require a new integrated approach. Phil. Trans. R. Soc. Lond. B 371, 20150213
+(2016).
+134. Austin, B. & Newaj-Fyzul, A. (eds) Diagnosis and Control of Diseases of Fish and Shellfish
+(John Wiley & Sons, 2017).
+135. Luis, A. I. S., Campos, E. V. R., de Oliveira, J. L. & Fraceto, L. F. Trends in aquaculture
+sciences: from now to use of nanotechnology for disease control. Rev. Aquacult. 11,
+119–132 (2019).
+136. Flegel, T. W. A future vision for disease control in shrimp aquaculture. J. World Aquacult.
+Soc. 50, 249–266 (2019).
+137. Leung, P., Lee, C. S. & O’Bryen, P. J. Species and System Selection for Sustainable
+Aquaculture (John Wiley & Sons, 2008).
+This paper presents a comprehensive review of the factors that affect species and
+system utilization in global aquaculture.
+138. Shinn, A. P. et al. Asian shrimp production and the economic costs of disease. Asian Fish.
+Sci. 31S, 29–58 (2018).
+139. You, W. & Hedgecock, D. Boom-and-bust production cycles in animal seafood
+aquaculture. Rev. Aquacult. 11, 1045–1060 (2019).
+140. Cabello, F. C. et al. Antimicrobial use in aquaculture re-examined: its relevance to
+antimicrobial resistance and to animal and human health. Environ. Microbiol. 15,
+1917–1942 (2013).
+141. Cabello, F. C. & Godfrey, H. P. Salmon aquaculture, Piscirickettsia salmonis virulence, and
+One Health: dealing with harmful synergies between heavy antimicrobial use and piscine
+and human health. Aquaculture 507, 451–456 (2019).
+142. Rico, A. et al. Use of chemicals and biological products in Asian aquaculture and their
+potential environmental risks: a critical review. Rev. Aquacult. 4, 75–93 (2012).
+143. Henriksson, P. J. G. et al. Unpacking factors influencing antimicrobial use in global
+aquaculture and their implication for management: a review from a systems perspective.
+Sustain. Sci. 13, 1105–1120 (2018).
+144. Lulijwa, R., Rupia, E. J. & Alfaro, A. C. Antibiotic use in aquaculture, policies and
+regulation, health and environmental risks: a review of the top 15 major producers. Rev.
+Aquacult. 12, 640–663 (2020).
+145. Kumar, G. & Engle, C. R. Technological advances that led to growth of shrimp, salmon,
+and tilapia farming. Rev. Fish. Sci. Aquacult. 24, 136–152 (2016).
+146. Brudeseth, B. E. et al. Status and future perspectives of vaccines for industrialised fin-fish
+farming. Fish Shellfish Immunol. 35, 1759–1768 (2013).
+147. Plant, K. P. & Lapatra, S. E. Advances in fish vaccine delivery. Dev. Comp. Immunol. 35,
+1256–1262 (2011).
+148. Boopathy, R. in Sustainable Aquaculture (eds Hai, F. I et al.) 301–322 (Springer, 2018).
+149. Adams, A. Progress, challenges and opportunities in fish vaccine development. Fish
+Shellfish Immunol. 90, 210–214 (2019).
+150. Abolofia, J., Asche, F. & Wilen, J. E. The cost of lice: quantifying the impacts of parasitic
+sea lice on farmed salmon. Mar. Resour. Econ. 32, 329–349 (2017).
+151. Tangprasittipap, A. et al. The microsporidian Enterocytozoon hepatopenaei is not the
+cause of white feces syndrome in whiteleg shrimp Penaeus (Litopenaeus) vannamei. BMC
+Vet. Res. 9, 139 (2013).
+152. Kibenge, F. S. B. Emerging viruses in aquaculture. Curr. Opin. Virol. 34, 97–103 (2019).
+153. Santos, H. M. et al. Diagnosis and potential treatments for acute hepatopancreatic
+necrosis disease (AHPND): a review. Aquacult. Int. 28, 169–185 (2020).
+154. MacFadden, D. R., McGough, S. F., Fisman, D., Santillana, M. & Brownstein, J. S. Antibiotic
+resistance increases with local temperature. Nat. Clim. Change 8, 510–514 (2018).
+155. Reverter, M. et al. Aquaculture at the crossroads of global warming and antimicrobial
+resistance. Nat. Commun. 11, 1870 (2020).
+156. Reid, G. K. et al. Climate change and aquaculture: considering biological response and
+resources. Aquacult. Environ. Interact. 11, 569–602 (2019).
+This paper reviews the science on climate impacts on the aquaculture sector.
+157. Subasinghe, R. P., Delamare-Deboutteville, J., Mohan, C. V. & Phillips, M. J. Vulnerabilities
+in aquatic animal production. Rev. Sci. Tech. 38, 423–436 (2019).
+158. Matsuyama, Y. & Shumway, S. in New Technologies in Aquaculture: Improving Production
+Efficiency, Quality and Environmental Management(eds Burnell, G. & Allan, G.) 580–609
+(Elsevier, 2009).
+
+562 | Nature | Vol 591 | 25 March 2021
+
+159. Díaz, P. A. et al. Impacts of harmful algal blooms on the aquaculture industry: Chile as a
+case study. Perspect. Phycol. 6, 39–50 (2019).
+160. Barange, M. et al. Impacts of Climate Change on Fisheries and Aquaculture: Synthesis of
+Current Knowledge, Adaptation and Mitigation Options. FAO Fisheries and Aquaculture
+Technical Paper 627 http://www.fao.org/3/i9705en/i9705en.pdf (FAO, 2018).
+161. Barton, A. et al. Impacts of coastal acidification on the Pacific Northwest shellfish industry
+and adaptation strategies implemented in response. Oceanography 28, 146–159 (2015).
+162. Dupont, S., Dorey, N. & Thorndyke, M. What meta-analysis can tell us about vulnerability
+of marine biodiversity to ocean acidification? Estuar. Coast. Shelf Sci. 89, 182–185 (2010).
+163. Burge, C. A. et al. Climate change influences on marine infectious diseases: implications
+for management and society. Annu. Rev. Mar. Sci. 6, 249–277 (2014).
+164. Wells, M. L. et al. Harmful algal blooms and climate change: learning from the past and
+present to forecast the future. Harmful Algae 49, 68–93 (2015).
+165. Handisyde, N., Telfer, T. C. & Ross, L. G. Vulnerability of aquaculture-related livelihoods to
+changing climate at the global scale. Fish Fish. 18, 466–488 (2017).
+166. Klinger, D. H., Levin, S. A. & Watson, J. R. The growth of finfish in global open-ocean
+aquaculture under climate change. Proc. R. Soc. B 284, 20170834 (2017).
+167. Froehlich, H. E., Gentry, R. R. & Halpern, B. S. Global change in marine aquaculture
+production potential under climate change. Nat. Ecol. Evol. 2, 1745–1750 (2018).
+168. Ellis, R. P., Urbina, M. A. & Wilson, R. W. Lessons from two high CO2 worlds – future oceans
+and intensive aquaculture. Glob. Change Biol. 23, 2141–2148 (2017).
+169. Brugère, C., Aguilar-Manjarrez, J., Beveridge, M. C. M. & Soto, D. The ecosystem approach
+to aquaculture 10 years on – a critical review and consideration of its future role in blue
+growth. Rev. Aquacult. 11, 493–514 (2019).
+This paper presents a critical overview of the advances and challenges of
+implementing the ecosystem approach to aquaculture.
+170. Edwards, P. Aquaculture environment interactions: past, present and likely future trends.
+Aquaculture 447, 2–14 (2015).
+171. Fang, J., Zhang, J., Xiao, T., Huang, D. & Liu, S. Integrated multi-trophic aquaculture (IMTA)
+in Sanggou Bay, China. Aquacult. Environ. Interact. 8, 201–205 (2016).
+172. Hughes, A. D. & Black, K. D. Going beyond the search for solutions: understanding
+trade-offs in European integrated multi-trophic aquaculture development. Aquacult.
+Environ. Interact. 8, 191–199 (2016).
+173. Neori, A. et al. Integrated aquaculture: rationale, evolution and state of the art
+emphasizing seaweed biofiltration in modern mariculture. Aquaculture 231, 361–391
+(2004).
+174. Ebeling, J. M. & Timmons, M. B. in Aquaculture Production Systems (ed. Tidwell, J.)
+245–277 (Wiley-Blackwell, 2012).
+175. Badiola, M., Mendiola, D. & Bostock, J. Recirculating aquaculture systems (RAS) analysis:
+main issues on management and future challenges. Aquacult. Eng. 51, 26–35 (2012).
+176. Badiola, M., Basurko, O. C., Piedrahita, R., Hundley, P. & Mendiola, D. Energy use in
+recirculating aquaculture systems (RAS): a review. Aquacult. Eng. 81, 57–70 (2018).
+177. de Jong, B. Aquaculture 2.0: RAS Is Driving Change far.rabobank.com (2019).
+178. Dalsgaard, J. et al. Farming different species in RAS in Nordic countries: current status
+and future perspectives. Aquacult. Eng. 53, 2–13 (2013).
+179. Cherry, D. & Mutter, R. Analysis: here’s a list of high-profile land-based aquaculture
+failures. IntraFish (27 November 2019).
+180. Chu, Y. I., Wang, C. M., Park, J. C. & Lader, P. F. Review of cage and containment tank
+designs for offshore fish farming. Aquaculture 519, 734928 (2020).
+181. Dong, S. The development of aquaculture in the new era from a multi-dimensional
+perspective. Shuichan Xuebao 43, 105–115 (2019).
+182. Thomas, L. R., Clavelle, T., Klinger, D. H. & Lester, S. E. The ecological and economic
+potential for offshore mariculture in the Caribbean. Nat. Sustain. 2, 62–70 (2019).
+183. Gui, J. F., Tang, Q., Li, Z., Liu, J. & De Silva, S. Aquaculture in China: Success Stories and
+Modern Trends (John Wiley & Sons, 2018).
+184. Harkell, L. Chinese firm to build second offshore salmon pen in 2019. Undercurrent News
+(18 February 2019).
+185. Gentry, R. R. et al. Offshore aquaculture: spatial planning principles for sustainable
+development. Ecol. Evol. 7, 733–743 (2017).
+186. Ramos, J., Caetano, M., Himes-Cornell, A. & dos Santos, M. N. Stakeholders’
+conceptualization of offshore aquaculture and small-scale fisheries interactions using a
+Bayesian approach. Ocean Coast. Manage. 138, 70–82 (2017).
+187. Bush, S. R. & Oosterveer, P. Governing Sustainable Seafood (Routledge, 2019).
+This paper provides a comprehensive overview of public and private governance
+initiatives for aquaculture within the global sustainable seafood movement.
+188. Jonell, M., Tlusty, M., Troell, M. & Rönnbäck, P. Sustainability Certification Schemes in the
+Agricultural and Natural Resource Sectors (ed. Vogt, M.) 157–178 (Taylor & Francis, 2019).
+189. Roheim, C. A., Bush, S. R., Asche, F., Sanchirico, J. N. & Uchida, H. Evolution and future of
+the sustainable seafood market. Nat. Sustain. 1, 392–398 (2018).
+190. Vince, J. & Haward, M. Hybrid governance of aquaculture: opportunities and challenges.
+J. Environ. Manage. 201, 138–144 (2017).
+191. Tlusty, M. F. Environmental improvement of seafood through certification and
+ecolabelling: theory and analysis. Fish Fish. 13, 1–13 (2012).
+192. Bush, S. R. et al. Certify sustainable aquaculture? Science 341, 1067–1068 (2013).
+193. Jonell, M., Phillips, M., Rönnbäck, P. & Troell, M. Eco-certification of farmed seafood: will it
+make a difference? Ambio 42, 659–674 (2013).
+194. Tlusty, M. F. & Tausig, H. Reviewing GAA-BAP shrimp farm data to determine whether
+certification lessens environmental impacts. Rev. Aquacult. 7, 107–116 (2015).
+195. Trifković, N. Certified standards and vertical coordination in aquaculture: the case of
+pangasius from Vietnam. Aquaculture 433, 235–246 (2014).
+196. Bush, S. R. Understanding the potential of eco-certification in salmon and shrimp
+aquaculture value chains. Aquaculture 493, 376–383 (2018).
+197. Swartz, W., Schiller, L., Sumaila, U. R. & Ota, Y. Searching for market-based sustainability
+pathways: challenges and opportunities for seafood certification programs in Japan. Mar.
+Policy 76, 185–191 (2017).
+198. Bottema, M. J. M. Institutionalizing area-level risk management: limitations faced by the
+private sector in aquaculture improvement projects. Aquaculture 512, 734310 (2019).
+
+199. Ferreira, J. G. & Bricker, S. in Goods and Services of Marine Bivalves (eds Smaal, A. C. et al.)
+551–584 (Springer, 2019).
+200. Stuiver, M. et al. The governance of multi-use platforms at sea for energy production
+and aquaculture: challenges for policy makers in European Seas. Sustainability 8, 333
+(2016).
+201. Klinger, D. H., Eikeset, A. M., Davíðsdóttir, B., Winter, A.-M. & Watson, J. R. The mechanics
+of blue growth: management of oceanic natural resource use with multiple, interacting
+sectors. Mar. Policy 87, 356–362 (2018).
+202. Krause, G. & Stead, S. M. in Aquaculture Perspective of Multi-Use Sites in the Open Ocean
+(eds Buck, B. H. & Langan, R.) 149–162 (Springer, 2017).
+203. BFA. The Blue Food Assessment. https://www.bluefood.earth (2020).
+204. FAO. The State of World Fisheries and Aquaculture 2018 - Meeting the Sustainable Goals
+http://www.fao.org/3/I9540EN/i9540en.pdf (FAO, 2018).
+205. Froehlich, H. E., Runge, C. A., Gentry, R. R., Gaines, S. D. & Halpern, B. S. Comparative
+terrestrial feed and land use of an aquaculture-dominant world. Proc. Natl Acad. Sci. USA
+115, 5295–5300 (2018).
+Acknowledgements We thank W. Falcon, A. Albalat, D. Battisti, G. Stentiford, P. Edwards,
+A. Hughes, F. Pernet, E. Heupel, D. Francks and J. Kaull for comments and assistance, and all
+authors from the 2000 review in Nature1 for generating a constructive scientific discourse.
+Funding was provided through the Center on Food Security and the Environment, Stanford
+University. M.T. acknowledges Formas project SEAWIN (2016-00227).
+Author contributions R.L.N. led, and R.W.H., A.H.B., S.R.B., L.C., D.H.K., D.C.L., J.L., S.E.S. and
+M.T. contributed to the conceptualization, analysis, literature review, writing, and responses to
+reviewer comments for this manuscript.
+Competing interests R.L.N. is a member of the Forest Protection Advisory Panel at Cargill, and
+the Center on Food Security and the Environment (FSE) has received funding from the Cargill
+Foundation for visiting scholars and staff support, but not for research activities. She is also on
+the Scientific Advisory Board for Oceana and is the President of the Board of Directors for the
+Aspen Global Change Institute. She participates on the editorial board of Aquaculture
+Environment Interactions. D.H.K. is a member of the Technical Advisory Group for the
+Aquaculture Stewardship Council and a member of the Aquaculture Technical Advisory
+Committee of Monterey Bay Aquarium’s Seafood Watch Program. S.E.S. serves on the Advisory
+Committee on Aquaculture Science for DFO Canada (http://www.dfo-mpo.gc.ca/aquaculture/
+advisory-comm-consultatif-eng.html). She is currently working on two white papers for the
+United Nations Food and Agricultural Organization, and has previously chaired the
+Aquaculture Stewardship Council’s Technical Advisory Committee and the Monterey Bay
+Seafood Watch Advisory Committee. She also serves as Editor-in-Chief for the Journal of
+Shellfish Research, and Editor-in-Chief for Reviews in Fisheries Science & Aquaculture. A.H.B. is
+on the Standards Oversight Committee of the Global Aquaculture Alliance. He has no
+
+affiliation with any for-profit company; all of his research is supported by the Chilean National
+Science Agency (ANID) and therefore has no conflict of interest with any aquaculture activity.
+S.R.B. is a member of the Standards Oversight Committee of the Global Aquaculture Alliance,
+the Multi-Stakeholder Group of Monterey Bay Aquarium’s Seafood Watch programme, the
+Technical Advisory Committee of the Good Fish Foundation in the Netherlands, and the
+Technical Advisory Committee of the Aquaculture Program of the Sustainable Trade Initiative
+(IDH). He has received funding from the Monterey Bay Aquarium’s Seafood Watch programme
+for the development of Aquaculture Governance Indicators. R.W.H. is Editor-in-Chief of
+Aquaculture Research. In the past five years, he served as Chair of a Global Aquaculture
+Alliance committee that revised and updated best practices standards for fish feeds, a project
+that was completed in 2019, prior to his participation on this Review. In the past, also prior to
+this Review, he has been a principal investigator for grants and contracts awarded to the
+University of Idaho and received grants and contracts from industry or industry groups
+including the United Soybean Board, Enz-A-Bac, Midwest Ag Enterprises, Ajinomoto NA and
+Knipbio to assess feed ingredients for sustainable aquaculture. L.C. is a judge of the global F3
+(fish-free feed) challenge. She was on the Scientific Advisory Board for the Aquaculture
+Stewardship Council between 2017 and 2019. She has no affiliations with for-profit companies.
+D.C.L. has received in-kind and financial support from a wide range of commercial and noncommercial entities, serves as a committee member for standards organizations and is a
+director of a commercial tilapia hatchery in Thailand. J.L. until recently served on the boards of
+The David and Lucile Packard Foundation, Oceano Azul Foundation, Prince Albert II of Monaco
+Foundation, the National Geographic Society, and Seafood Businesses for Ocean Stewardship
+(SeaBOS). She also co-chaired the Expert Group for the High Level Panel for a Sustainable
+Ocean Economy. She resigned from all of these roles in February 2021 when she took up her
+new position in the White House. M.T. is a member of the Program committee for The Marine
+and Coastal Science for Management (WIOMSA/MASMA), member of Action Areas and
+Solution Clusters Working Groups – Blue foods, United Nations Forum on Sustainability
+Standards (UNFSS), scientific lead for SeaBOS, and a Review Editor for Aquaculture
+Environment Interactions.
+Additional information
+Supplementary information The online version contains supplementary material available at
+https://doi.org/10.1038/s41586-021-03308-6.
+Correspondence and requests for materials should be addressed to R.L.N.
+Peer review information Nature thanks Peter Edwards, Adam Hughes, Fabrice Pernet, Grant
+Stentiford and the other, anonymous, reviewer(s) for their contribution to the peer review of
+this work.
+Reprints and permissions information is available at http://www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+© Springer Nature Limited 2021, corrected publication 2021
+
+Nature | Vol 591 | 25 March 2021 | 563
+
+Review
+
+Extended Data Fig. 1 | Number of species farmed for each production group
+(1950–2017). a–g, The numbers of species farmed for all aquaculture (a),
+freshwater fish (b), algae and aquatic plants (c), molluscs (d), crustaceans (e),
+diadromous fish (f) and marine fish (g) are shown. Solid lines indicate the total
+number of species farmed. Dashed lines show the number of species that
+
+comprise up to 75% of the total production in each group, by tonnage.
+Production in each group is dominated by a small number of species but each
+group also contains high diversity. Production according to ASFIS
+identification. Source: FAO2.
+
+Extended Data Fig. 2 | Global forage fish landings (1950–2017) for 315 species. Global forage fish landings are sensitive to interannual climate variation
+associated with El Niño Southern Oscillation events. Orange line represents the trend in presence of interannual variation. Data source: FAO2.
+
+Review
+
+Extended Data Fig. 3 | Global landings of forage fish used for fishmeal and fish oil production. Orange line represents the trend in presence of interannual
+variation. Data source: Sea Around Us48.
+
+Extended Data Fig. 4 | Nominal and real prices of fishmeal and fish oil
+versus plant-based meals and oils. Prices deflated by the implicit GDP
+deflator. Data sources: FAO International Commodity Price Database (2020),
+
+http://www.fao.org/giews/food-prices; Index mundi (2020), www.
+indexmundi.com; National Sunflower Association (2020), www.sunflowernsa.
+com; US Bureau of Economic Analysis (2020), https://www.bea.gov/.
+
+Review
+
+Extended Data Fig. 5 | Proportion of global aquaculture production that is
+certified or rated. Data from the Seafood Watch Sustainability of Global
+Seafood Data portal collating volumes certified from the Aquaculture
+Stewardship Council (ASC) (2020) and Global Aquaculture Alliance (GAA) Best
+Aquaculture Management (2020) and rated volumes from Seafood
+Watch (SFW) (2020). The ratings data represent the volume rates minus
+volumes certified based on internal assessments by SFW. The certification
+estimates may be overestimated as it was not possible to distinguish overlap
+
+between GAA- and ASC-certified volumes. A number of assumptions were
+made in these calculations as SFW does not recognize a number of species
+certified by ASC and GAA. These species include salmon, catfish, oysters,
+scallops, sturgeon, crawfish, and sea cucumber. In some cases, a surplus
+volume was created by adding GAA, ASC and SFW. This surplus volume was
+included in the ‘avoid’ category of SFW, under the assumption that cross-over
+between ratings and certification is more likely than certified and unrated
+production.
+
+Extended Data Fig. 6 | Proportion of aquaculture that is certified and rated
+by commodity group. Data from the Seafood Watch Sustainability of Global
+Seafood Data portal collating volumes certified from the Aquaculture
+Stewardship Council (ASC) (2020) and Global Aquaculture Alliance (GAA)
+(2020) and rated volumes from Seafood Watch (SFW) (2020). The ratings data
+represent the volume rates minus volumes certified based on internal
+assessments by SFW. The certification estimates may be overestimated as it
+was not possible to distinguish overlap between GAA- and ASC-certified
+
+volumes. A number of assumptions were made in these calculations as SFW
+does not recognize a number of species certified by ASC and GAA. These
+species include salmon, catfish, oysters, scallops, sturgeon, crawfish and sea
+cucumber. In some cases, a surplus volume was created by adding GAA, ASC
+and SFW. Surplus volumes were added to certification and subtracted from
+ratings for the different regions. This calculation was assumes that a certified
+product is more likely to be rated than not.
+
+Review
+Extended Data Table 1 | Regional volumes and global share of aquaculture production
+
+a, Regional aquaculture production volume. b, Global share of aquaculture production, by aquaculture category. Source: FAO2.
+
+Extended Data Table 2 | Feed use and efficiencies for 1997 and 2017
+
+Data for 1997 were obtained from Naylor et al.1 and data for 2017 were obtained from FAO2. FCR is defined as the estimated average species-group economic FCR (total feed fed/total species
+group biomass increase)3,59. Economic (compared with biological) FCR accounts for waste, escapes and other non-ingested feeds in aquaculture55.
+
+Review
+Extended Data Table 3 | Wild fish inputs relative to farmed fish output for 11 commonly farmed fed fish and shellfish (2017)
+
+Calculations by authors (R.W.H. and R.L.N.) based on data from the following sources: production, share of production and FCR from FAO2 and Tacon3; FM and FO inclusion from the National
+Resource Council54, Naylor et al.59, and Ytrestøyl et al.55; and fish trimmings in FM from Green47 and Leadbitter44.
+^FCR defined as estimated average species-group economic FCR (total feed fed/total species group biomass increase), also known as EFCR3,59. Economic FCR (versus biological) includes
+waste, escapes and other non-ingested feeds55.
+Conversions and calculations: conservative estimates of 24% FM and 10% FO recovery from wild fish were used. Fish-in-fish-out (FIFO) represents kilograms of reduction fish required to
+produce 1 kg of farmed fish, equal to the sum of the reduction fish equivalent for fishmeal (RFEFM) and additional fish oil (RFEAO). RFEFM is calculated as: FCR × InclFM/0.24, assuming that the
+average yield of 1 kg reduction fish made into fishmeal is 24%. In calculating RFEAO, residual fish oil and the amount of oil extractable from RFEFM are both subtracted from the total fish oil
+inclusion. It is assumed that 8% residual fish oil on average is found in fishmeal. Hence RFEAO is: [FCR × (InclFO − 0.08 × InclFM)/0.05] − (0.05_RFEFM), where the average yield of 1 kg reduction fish
+made into fish oil is assumed to be 5% (updated from Naylor et al.55).
+
+Extended Data Table 4 | Global algae production and share used as food (2017)
+
+Data for the use of algae for food consumption were collected by A.H.B. from researchers in Korea and China. Items that are consumed as food supplements were not considered. The ranges of
+estimates reflect uncertainty around the exact amount of seaweed consumed directly compared with indirectly through food-processing ingredients and other uses. Source: FAO2.
+
+

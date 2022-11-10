@@ -1,0 +1,1363 @@
+2
+Economic Trends in Global Marine Fisheries
+ROLF WILLMANN
+KIERAN KELLEHER
+
+The focus on the declining biological health of
+the world’s ﬁsheries has tended to obscure the even
+more critical deterioration of the economic health
+of the ﬁsheries, which stems from poor governance
+that is both a cause and a result of the biological
+overexploitation. Economically healthy ﬁsheries
+are fundamental to achieving accepted goals for the
+ﬁsheries sector, such as improved livelihoods, food
+security, increased exports, and the restoration of
+ﬁsh stocks—a key objective of the Plan of Implementation endorsed by the World Summit on Sustainable Development (Anonymous 2002).
+This chapter reviews the salient trends in the
+world’s ﬁsheries with a focus on productivity and
+economic performance indicators and makes the
+case for comprehensive reform of ﬁsheries governance to capture the large net economic beneﬁts
+that currently are lost. It complements ecological
+and conservation arguments further emphasizing
+the urgency to improve the management of the
+world’s capture ﬁsheries.
+
+2.1. INTRODUCTION
+Fisheries are an underperforming global asset.
+A recent study by the World Bank and Food and
+Agriculture Organization of the United Nations
+(World Bank and FAO 2009) indicates that the difference between the potential and actual net economic beneﬁts from marine ﬁsheries is on the order
+of $50 billion (109) per year. Improved governance
+of marine ﬁsheries could capture a substantial part
+of this $50 billion annual economic loss. Reform of
+the ﬁsheries sector could generate considerable additional economic growth and alternative livelihoods,
+both in the marine economy and in other sectors.
+Long before the fuel price increases of 2008, the
+economic health of the world’s marine ﬁsheries has
+been in decline. The buildup of redundant ﬁshing ﬂeet
+capacity, deployment of increasingly powerful ﬁshing
+technologies, and increasing pollution and habitat
+loss have depleted ﬁsh stocks worldwide. Despite
+the increased ﬁshing effort, the global marine catch
+has been stagnant for more than a decade, while the
+natural ﬁsh capital—the wealth of the oceans—has
+declined. At the same time, the margin between the
+global costs of catching and the value of the catch has
+narrowed. In many cases the catching operations are
+buoyed up by subsidies, so the global ﬁshery economy to the point of landing (the harvest subsector) is
+in deﬁcit. The cumulative economic loss to the global
+economy over the last three decades is estimated to
+be on the order of 2 trillion dollars.
+
+2.2. OVERVIEW
+2.2.1. The Deteriorating State of
+the Marine Fishery Resources
+The crisis in marine ﬁsheries has been well documented in biological terms. One-half of the
+marine capture ﬁsh stocks monitored by the FAO
+20
+
+Economic Trends in Global Marine Fisheries
+are designated as fully exploited, producing at or
+close to their maximum sustainable yield. Another
+25 percent of the marine ﬁsh stocks are overexploited, depleted, or recovering from depletion and
+are yielding less than their maximum sustainable
+yield (FAO 2007a). The remaining 25 percent of
+the marine capture ﬁsh stocks are underexploited
+or moderately exploited, and while this implies that
+more could be produced, many of these underexploited stocks are of low-value species or species
+for which harvesting may be uneconomical. Global
+production of seafood from wild stocks is at or
+close to its long-run biological maximum level.
+Globally, the proportion of fully exploited and
+overexploited, depleted, or recovering ﬁsh stocks
+has continued to increase from just above 50 percent of all assessed ﬁsh stocks in the mid-1970s to
+about 75 percent in 2005 (FAO 2006). This indicates that, in economic terms, more than 75 percent
+of the world’s ﬁsheries are underperforming, or
+subject to economic overﬁshing. In 1974, about 40
+percent of the assessed stocks were rated as underexploited or moderately exploited. By 2005 this
+percentage had fallen to 25 percent (FAO 2007a).
+Figure 2.1 indicates that the reported global
+marine catch has stagnated at a level of 80–85 million tons since 1990. This stagnation hides several
+underlying trends in the composition of the catch as
+described below.
+Between 1950 and 1970, the recorded catch of
+both the demersal species (bottom-dwelling) and
+pelagic species (species that live in the upper layers of the sea) grew considerably (ﬁgure 2.2). Since
+
+1970, demersal ﬁsh catches have stabilized around
+20 million tons, while pelagic catches grew to a
+peak volume of almost 44 million tons in 1994.
+Since then, pelagic catches have ﬂuctuated between
+36 and 41 million tons.
+Thus, the global ﬁsh supply from marine capture ﬁsheries increasingly relies on lower value
+species characterized by large ﬂuctuations in yearto-year productivity, concealing the slow degradation of the demersal high-value resources (FAO
+2007a). This change in the species composition of
+the catch is commonly referred to as “ﬁshing down
+marine food webs” (Pauly et al. 1998). The stagnant level of production is thus maintained by the
+relatively higher growth rate of a higher proportion
+of smaller ﬁsh species lower on the food web and a
+likely decrease in the average age of the catch, both
+of which maintain ﬁsh biomass. In some ﬁsheries,
+the targets of ﬁshing have also expanded to cover
+an entire spectrum of species in the ecosystem, or
+“ﬁshing through the food webs” (Essington et al.
+2006).
+The changing patterns of discards (unwanted
+ﬁsh caught and dumped at sea) also suggests that
+the global catch now comprises substantial quantities of lower value, previously discarded ﬁsh, as
+the amount of ﬁsh discarded may have decreased
+by more than 10 million tons between 1994 and
+2004 (Kelleher 2005). For example, the quantity of so-called “trash ﬁsh” used for aquaculture
+feed is estimated to be 5 million to 7 million tons
+(Tacon 2006). There is also growing evidence that
+the biomass of large predatory ﬁshes has declined
+
+95
+85
+
+Million tons
+
+75
+65
+55
+45
+35
+25
+15
+1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005
+
+2.1 Reported global marine catch 1950–2006 (million tons).
+(Data from FAO FishStat database)
+
+FIGURE
+
+21
+
+22
+
+Overview
+45
+Cephalopods
+Crustaceans
+Demersal Marine Fish
+Pelagic Marine Fish
+Others
+
+40
+35
+
+Millions
+
+30
+25
+20
+15
+10
+5
+
+0
+1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005
+
+2.2 Catch of selected species groups in marine ﬁsheries (million tons).
+(Data from FAO FishStat)
+
+FIGURE
+
+substantially from preindustrialized levels in many
+regions (Ahrens and Walters 2005; Myers and
+Worm 2003), although this may not hold true for
+all ﬁsheries (Sibert et al. 2006).
+Climatic variability has always been a signiﬁcant
+determinant of ﬁsh stock growth and decline, and
+response to climate variability is part of the daily
+business of ﬁshing. However, climate change, as
+described by the Intergovernmental Panel on Climate Change (IPCC) (Pachauri and Reisinger 2007),
+is placing additional stress on already stressed
+
+ﬁsheries. While recent studies on coral reefs (Baird
+et al. 2007) and reviews of impacts in the North
+Atlantic provide important guidance on trends, the
+impact of changes in sea temperature and ocean
+acidity on ﬁsh stocks remain largely undetermined
+at the level of developing countries. Similarly, the
+impact of sea-level rise and erratic climatic events
+on the community and household wealth of coastal
+ﬁshing populations remains largely uncalculated.
+These additional ecological, environmental, and
+economic stresses caused by climate change add to
+
+100
+90
+
+Inland
+Marine
+Aquaculture
+
+80
+million tons
+
+70
+60
+50
+40
+30
+20
+10
+
+2006
+
+2002
+
+1998
+
+1994
+
+1990
+
+1986
+
+1982
+
+1978
+
+1974
+
+1970
+
+1966
+
+1962
+
+1958
+
+1954
+
+1950
+
+0
+
+FIGURE 2.3 World marine and inland capture and aquaculture production,
+1950–2005. (Data from FAO FishStat)
+
+23
+
+Economic Trends in Global Marine Fisheries
+the urgency and economic justiﬁcation for restoring the resilience and health of ﬁsh stocks (FAO
+2008c).
+
+2.2.2. Proﬁle and Trends in Global
+Fisheries Production
+In 2006, total reported world ﬁshery production1
+reached almost 160 million tons (ﬁgure 2.3), of
+which 53 percent originates from marine capture
+ﬁsheries. Over the last twenty years the continued
+growth in world ﬁsh production is largely attributable to aquaculture (ﬁgure 2.3). China is the largest
+
+Rest of the World - Aquaculture
+China - Aquaculture
+Rest of the World - Capture
+China - Capture
+
+150
+120
+90
+60
+30
+
+0
+1950 1956 1962 1968 1974 1980 1986 1992 1998 2004
+
+2.4 World capture and aquaculture
+production, 1950–2005. (Data from FAO FishStat
+[FAO 2008a])
+
+FIGURE
+
+producer, contributing 49 million tons in 2005, of
+which 32 million tons are from aquaculture (ﬁgure
+2.4). Developing countries have contributed more
+than one-half of total capture ﬁsh production since
+1990 (ﬁgure 2.5). This share has reached more than
+two-thirds in 2005, a development largely driven
+by Asian aquaculture production.
+
+2.2.3. Trade and Fish
+Consumption
+Rising demand for ﬁsh has been a major driver of
+increased ﬁshing effort. Spurred by the globalization of markets for ﬁsh, some 37 percent of global
+ﬁsh production is traded internationally, making
+ﬁsh one of the most traded “agricultural” commodities and accounting for up to 13 percent of global
+“agricultural trade.” The beneﬁts of increasing
+globalization in ﬁsh trade have nevertheless been
+reduced by growing overexploitation, as ineffective
+governance of ﬁsheries allowed the depletion of ﬁsh
+stocks—the natural capital, or ﬁsh wealth.
+In 2006, total world trade of ﬁsh and ﬁshery
+products reached a record value of $86.4 billion
+(export value), more than a tenfold increase since
+1976, when global ﬁsh trade statistics ﬁrst became
+available. The share of developing countries in total
+ﬁshery exports was 48 percent by value and 57 percent by quantity. Growth in aquaculture production
+
+90
+Developed countries or areas
+Developing countries or areas
+Total marine capture
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+1950
+
+1955
+
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+FIGURE 2.5 Total recorded marine capture production by economic group (million tons),
+1970–2005. (Data from FAO FishStat [FAO 2008a])
+
+2005
+
+24
+
+Overview
+
+Africa
+Asia
+Europe
+
+20.0
+
+12
+10
+
+6.0
+
+8
+6
+5.0
+4
+2
+0
+1980 1983 1986 1989 1992 1995 1998 2001
+
+4.0
+
+Fish supply from capture fisheries
+Fish Supply from aquaculture
+Population
+
+2.6 World population (billions) and global
+ﬁsh supply (million tons), 1970–2003. (Data
+from FAO FishStat; World Bank 2006)
+
+FIGURE
+
+demand for aquaculture and livestock feeds based
+on trash ﬁsh and low-value species has a negative
+potential impact on the availability and accessibility of these products for direct human consumption
+(Asia-Paciﬁc Fishery Commission 2006).
+
+South America
+Asia excl. China
+Global average
+
+16.0
+
+12.0
+
+8.0
+
+4.0
+1961 1964 1967 1970 1973 1976 1979 1982 1985 1988 1991 1994 1997 2000 2003
+
+2.7 Regional trends in annual ﬁsh supply per capita (kg), 1961–2003.
+(Data from FAOSTAT Food Balance Sheets [faostat.fao.org/default.aspx])
+
+FIGURE
+
+Population (billions)
+
+Per capita supply (kg)
+
+has been an important factor for the global expansion of seafood trade.
+The growth in reported global ﬁsh production
+has more than kept pace with population growth
+(ﬁgure 2.6). Based on the reported global ﬁsh
+production, the total amount of ﬁsh available for
+human consumption in 2005 is estimated to have
+reached 107 million tons, thereby providing an
+average global per capita ﬁsh supply of 16.5 kg, but
+with large differences across regions and countries
+as well as within countries (FAO 2007a). These
+global values may not, however, capture important
+local subsistence ﬁsh consumption.
+Rising demand in Asia—especially in China—
+and in Europe has largely driven the increase in
+average global per capita ﬁsh consumption (ﬁgure
+2.7). This global increase was particularly pronounced in the 1980s and 1990s but has stabilized
+at around 16 kg/capita per year (FAO 2007b).
+Per capita consumption of ﬁsh in South America
+is stabilizing after a peak in 1995. Per capita consumption in Africa and South America remains
+low (ﬁgure 2.7). In both regions, but especially in
+sub-Saharan Africa, low animal-protein intake is
+believed to be a result of low per capita incomes.
+Traditionally, low-value ﬁsh and ﬁshery products
+provide cheap protein to the poorer populations
+in these regions as well as in Asia. The increased
+
+25
+
+Economic Trends in Global Marine Fisheries
+
+2.2.4. The Economic Performance
+of World Marine Capture Fisheries
+2.2.4.1. Value of Production and
+Global Fish Prices
+The economic performance of global marine capture ﬁsheries is determined by the quantity of ﬁsh
+caught, the price of ﬁsh, the harvesting costs, and
+the productivity of the ﬁsheries. In 2004, the total
+value of reported global ﬁsh production was estimated at $148 billion at the point of ﬁrst sale.
+Capture ﬁsheries was $85 billion and aquaculture
+was $63 billion. The total estimated value of the
+reported marine catch of 85.7 million tons was
+$78.8 billion2 (FAO 2007a).
+The average ex-vessel price (or price at ﬁrst sale)
+was $918 per metric ton for the reported marine
+catch and $666 per ton for the reported inland
+(freshwater) catch. The average farm gate price (or
+price at ﬁrst sale) for cultured ﬁsh was $1,393 per
+ton. The higher unit price for aquaculture products
+is due to the production of high-value species (e.g.,
+shrimp and salmon). The ex-vessel prices are considered to be conservative and close to true market
+prices, being relatively free of taxes, subsidies, and
+other market distorting inﬂuences.
+Global ﬁsh price data sets are relatively incomplete at the global level: the only available long-term
+
+price data series is the ﬁsh export unit value derived
+from trade statistics from the FAO’s FishStat database (ﬁgure 2.8). The unit value of exports may
+underestimate the global trend in real ﬁsh prices.
+On one hand, higher value ﬁsh products tend to
+be exported. On the other hand, aquaculture has
+a growing share in world ﬁsh trade, and prices of
+many cultured species have tended to decline from
+the initial elevated price levels.
+Because of the changing product composition of
+exports, the above values are indicative only of the
+price trends, but nevertheless show several interesting features (ﬁgure 2.8). There was a signiﬁcant
+decline in ﬁsh prices between 1978 and 1985, followed by a strong price rise from the mid-1980s to
+the early 1990s, a gradual decline until 2001 and a
+recovery in prices during the most recent years. The
+real unit value of exports in 2004 was no higher
+than in the late 1980s. This strongly suggests that
+the global price of ﬁsh in 2004 was not signiﬁcantly
+different from that in the late 1980s.
+Setting aside numerous supply-driven ﬂuctuations, until late 2007, the real prices of many
+ﬁsh commodities have seen little change since
+2004 (Josupeit 2008). Fillet and product yields
+improved, wastage reduced, and supply chains
+shortened, making downstream industry increasingly more efﬁcient. Tuna and some whiteﬁsh
+
+3,000
+
+75
+Real export unit value (US$/tonne)
+Nominal unit value (US$/tonne)
+Total nominal export value (right axis)
+
+2,500
+
+65
+
+US$/tonne
+
+2,000
+
+45
+
+1,500
+
+35
+25
+
+1,000
+
+Millions US$
+
+55
+
+15
+500
+
+5
+
+80
+19
+82
+19
+84
+19
+86
+19
+88
+19
+90
+19
+92
+19
+94
+19
+96
+19
+98
+20
+00
+20
+02
+20
+04
+
+19
+
+19
+
+19
+
+78
+
+–5
+
+76
+
+0
+
+2.8 Fishery products nominal export value and nominal and real export
+unit value. The deﬂator used for real values is the U.S. producer price index for
+all commodities, base year 1982 (Delgado et al. 2003). Values exclude aquatic
+plants. (Data from FAO FishStat [FAO 2008b])
+
+FIGURE
+
+26
+
+Overview
+
+prices have increased while supplies from aquaculture have dampened prices. The notable exceptions
+are increased ﬁsh meal and ﬁsh oil prices driven by
+higher demand for meat and aquaculture products.
+Thus, while the unit value of the aggregate
+reported catch has remained relatively constant, the
+higher proportion of relatively lower value “trash
+ﬁsh” and small pelagic species is buoyed up by
+the increasing scarcity value of species higher on the
+food web, for example, lobster or grouper. The scarcity of some higher value species has created opportunities to ﬁsh in deeper waters, often at a higher cost
+per unit of catch and also at a cost to the relatively
+unknown biodiversity of the continental slopes.
+Growth in demand for ﬁsh is concentrated in
+developing countries, where populations and per
+capita incomes show strong growth. However,
+survey data from China in the period 1980–2000
+indicate only slight real ﬁsh price increases (Delgado et al. 2003). Recent studies show substantial
+increases in Chinese seafood consumption with
+increases of more than 100 percent in lower income
+households and more than 150 percent for higher
+income families between 1998 and 2005 (Chenjun
+2007). Demand has continued to grow in the United
+States, and real prices of fresh ﬁsh show a long-term
+increasing trend, while the price of the traditional
+frozen products and particularly canned products
+has declined during the last 30 years (ﬁgure 2.9).
+However, more recently, the economic downturn
+
+2
+1.8
+
+weakening U.S. dollar exchange rate and consumer
+spending may be contributing to a decline in U.S.
+shrimp imports, a key seafood indicator (Seafood
+International 2008).
+
+2.2.4.2. Cost Trends in Global
+Marine Capture Fisheries
+No global data set is available on the costs of ﬁshing.
+However, costs and earnings studies are available
+from a number of countries and ﬁsheries. Fishing
+costs vary greatly by type of ﬁshery and locality; for
+example, many smaller vessels are nonmotorized.
+In general, the major cost factors, as percentage of
+total costs, for most ﬁsheries are as follows:
+Labor
+30–50%
+Fuel
+10–25%
+Fishing gear
+5–15%
+Repair and maintenance
+5–10%
+Capital cost, such as
+depreciation and interest 5–25%
+The trends in the costs of each of these factors of
+production are of relevance not only for an understanding of the historical trends in ﬁsheries but also
+to provide a basis for future projections, for example, the effect of rising fuel prices. Cost data must
+be treated with some caution because the true cost
+data tend to be confounded by taxes and subsidies.
+
+Canned and cured seafood
+Frozen packaged fish and seafood
+Fresh packaged fish and seafood
+
+1.6
+1.4
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+0
+1950 1954 1958 1962 1966 1970 1974 1978 1982 1986 1990 1994 1998 2002 2006
+
+2.9 United States producer real price indexes for ﬁsh and seafood products,
+1947–2006. This is an update of ﬁgure 3.2 in Delgado et al. (2003). (Calculated
+from data obtained from U.S. Bureau of Labor Statistics [www.bls.gov/])
+FIGURE
+
+27
+
+Economic Trends in Global Marine Fisheries
+
+2.2.4.3. Fuel Prices and
+Productivity
+The cost of crude oil not only directly relates to fuel
+costs but also indirectly affects the cost of ﬁshing
+nets and lines and the cost of vessel construction
+and repair. Figure 2.10 shows an index of the real
+price of crude oil and an index of the real material costs in U.S. shipbuilding. For comparison
+purposes, the index of the real unit value of ﬁsh
+exports is also illustrated. It shows that until about
+mid-1980 real unit export value rose faster than
+crude oil and unit material costs, and since the late
+1980s price and cost trends were fairly similar but
+with the crude oil price depicting a steeply rising
+trend since 2000.
+Since 2000, fuel subsidies have probably played
+an important role in supporting the ﬁnancial viability of ﬁshing operations in some countries. Such
+fuel subsidies (mostly foregone taxes) to the ﬁshing
+sector by governments globally are estimated to be
+in the range of $4.2 billion to $8.5 billion per year
+(Sumaila et al. 2008).
+In the absence of productivity gains, ﬁgure 2.10
+strongly suggests that the economic performance of
+global marine ﬁsheries is unlikely to have improved
+since the early 1990s. Several factors continue to
+
+undermine productivity and proﬁtability. These
+include rising oil prices; rising costs of ﬁshing gear
+and vessels, often compounded by unfavorable
+exchange rates; an increasing regulatory burden;
+and depletion of inshore stocks causing ﬁshers to
+travel farther to ﬁshing grounds.
+On the other hand, motorized ﬁsheries; ﬁsheries that use passive gear (such as traps), which use
+relatively less fuel; and ﬁsheries with ready access to
+export markets, may have seen an improvement in
+proﬁtability in this period. Technology has also driven
+productivity gains. Using sophisticated ﬁsh ﬁnding
+equipment tuna purse seiners in the Indian Ocean can
+now harvest three times the annual catch of seiners
+operating in the mid-1980s. New designs of trawls
+reduce the engine power and fuel consumption by 33
+percent or more (Richard and Tait 1997). Electronic
+sale of ﬁsh while vessels are still at sea is reducing
+transaction costs, helps prevent loss of product quality
+and value and makes markets more efﬁcient (Jensen
+2007). However, as these innovations are adopted
+throughout a ﬂeet, then productivity falls and the
+intramarginal rents generated are not maintained.
+Nevertheless, there is ample evidence that at
+the global level productivity has further deteriorated, especially in recent years, as the majority
+
+250
+Real crude oil price index
+230
+
+Real material cost index
+
+210
+
+Real export unit value index
+
+190
+170
+150
+130
+110
+90
+70
+50
+1978
+
+1981
+
+1984
+
+1987
+
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+FIGURE 2.10 Real trends in crude oil price, vessel material costs, and
+ﬁsh export unit value (indices, 1998 = 100), based on data from the
+U.S. Bureau of Labor Statistics; deﬂator used for real values: U.S.
+producer price index for all commodities, base year 1982 (Delgado
+et al. 2003). (Data from authors’ calculations, FAO FishStat [FAO
+2008a, 2008b]; U.S. Department of Energy, Energy Information
+Administration [www.eia.doe.gov]; and www.coltoncompany.com/
+shipbldg/statistics/index.htm)
+
+28
+
+Overview
+140
+
+140
+
+Food price index
+Fish export price index
+
+120
+
+imputed (r2=0.97)
+
+130
+
+120
+
+100
+
+110
+
+80
+
+100
+
+60
+
+90
+
+40
+
+US$/barrel
+
+food/ fish price indices
+
+Fuel price
+
+20
+
+80
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+FIGURE 2.11 Trends in ﬁsh, food and fuel prices. The imputed ﬁsh price index
+for 2006 and 2007 was derived from a correlation with the FAO Food Price
+Index. (Data from authors’ calculations; FAO FishStat, U.S. Department of
+Energy, Energy Information Administration [www.eia.doe.gov])
+
+of producers incur higher ﬁshing costs while the
+global catch has remained stagnant.
+At the global level, on average, each ton of ﬁsh
+landed required nearly half a ton of fuel. In value
+terms, production of a ton of ﬁsh worth $918
+required $282 worth of fuel, or 31 percent of the
+output value in 2004. There is considerable variation
+in fuel consumption across different ﬁshing methods,
+types of ﬁsheries, and fuel efﬁciency of engines. The
+recent (2007–2008) doubling of fuel prices is brieﬂy
+addressed in section 2.2.5.3, and the overall trend in
+ﬁsh, food, and fuel prices is illustrated in ﬁgure 2.11.
+
+activities, and a high proportion of these workers
+are women. Many countries do not separate capture
+ﬁsheries and aquaculture employment data. Based
+on available ﬁsheries labor statistics, the number
+of capture ﬁshers accounted for three-quarters of
+global employment in ﬁsheries.
+While employment in capture ﬁsheries has been
+growing steadily in most low- and middle-income
+countries, ﬁsheries employment in most industrialized economies has been declining. This decline
+can be attributed to several factors, including the
+
+During the past three decades, the number of ﬁshers
+and ﬁsh farmers has grown at a higher rate than the
+world’s population growth rate (ﬁgure 2.12). Fishing and ﬁsh farming activities provided livelihoods
+to an estimated 41 million people in 2004, working either on a part-time or full-time basis. Applying an assumed ratio of 1:3 for direct employment
+(production) and secondary activities (postharvest
+processing, marketing, distribution), respectively
+(FAO 2007c), about 123 million people are conservatively estimated to be involved in secondary
+
+Global population (billions)
+
+2.2.4.4. Trends in Employment,
+Labor Productivity, and Fishing
+Incomes
+
+6
+
+Population
+Fishers
+
+30
+
+5
+
+25
+
+4
+
+20
+
+3
+
+15
+
+2
+
+10
+
+1
+
+5
+0
+
+0
+1970
+
+1980
+
+1990
+
+Total number of capture fishers
+(thousands)
+
+35
+
+7
+
+2000
+
+2.12 Global population growth (billions)
+and trend of total number of capture ﬁshers
+(thousands). (Data from FAO 1997: 1970, 1990
+data; FAO 2007a: 1990, 2000 data; FAO Fisheries
+and Aquaculture Information and Statistics Service
+[FAO 2008a, 2008b])
+
+FIGURE
+
+29
+
+Economic Trends in Global Marine Fisheries
+relatively low remuneration in relation to often
+high-risk and difﬁcult working conditions, growing investment in labor-saving onboard equipment
+(FAO 2007a), and a failure to attract younger workers. Increased ﬁsh production is not the only cause
+of the increase in the number of ﬁshery workers in
+developing countries. For some communities, ﬁshing is a growing poverty trap and, in the absence of
+alternatives, a livelihood of last resort.
+Asia has by far the highest share and growth
+rate in the number of ﬁshers and ﬁsh farmers (ﬁgure
+2.13). In this region, the number of ﬁshers increased
+threefold over the three decades from 1970 to 2000,
+reﬂecting both a strong increase in part-time and
+occasional employment in capture ﬁsheries and the
+growth in aquaculture activities. In Africa, growth
+was more moderate until 1990 but has accelerated
+sharply since then.
+
+3
+2.5
+2
+
+An indicator of labor productivity is the output per
+person measured either in physical or in value terms.
+Figure 2.14 shows the average output per ﬁsher valued at average ex-vessel prices in 1998–2000. Average output per ﬁsher ranged from a high of just above
+$19,000 in Europe to about $2,231 in Africa and
+$1,720 in Asia, about a tenfold difference.
+The low labor productivity in Africa and Asia
+reﬂects low ﬁshing incomes in most countries in
+these regions. Average labor productivity is higher
+when only full-time ﬁshers are considered, but it
+would still be signiﬁcantly below labor productivity
+ﬁgures in other primary sectors of the economies.
+For example, the estimated average gross revenue
+per full time ﬁsher in India’s marine ﬁsheries was
+$3,400 in 2004. The ﬁgure for small-scale ﬁshers
+was $1,870 and for ﬁshers on industrial vessels was
+$5,490 (Kurien 2007).
+
+35
+
+Africa
+North and Central America
+South America
+Europe
+Oceania
+
+Asia
+Rest of the world
+Total
+
+30
+25
+20
+
+1.5
+15
+1
+
+10
+
+.5
+0
+
+5
+1970
+
+1980
+
+1990
+
+0
+
+2000
+
+1970
+
+1980
+
+1990
+
+2000
+
+2.13 Total number of capture ﬁshers by region (millions). (Data from FAO 1997: 1970, 1990
+data; FAO 2007a: 1990, 2000, 2004 data)
+FIGURE
+
+20,000
+
+US$
+
+15,000
+10,000
+5,000
+0
+South
+America
+
+Europe
+
+North and
+Central
+America
+
+Oceania
+
+Africa
+
+Asia
+
+2.14 Average gross revenue per marine and inland capture ﬁsher ($),
+1998–2000. Data for South America have been adjusted to take into account
+low-value ﬁsh for reduction. (Data are based on authors’ calculations and
+FAO 2002, 2006; FAO FishStat)
+
+FIGURE
+
+30
+
+Overview
+
+metric tons per fisher per year
+
+There is both hard and anecdotal evidence of low
+levels of crew remunerations in many of the world’s
+marine ﬁsheries. For example, Vietnamese workers
+on third-country ﬁshing vessels operating in South
+African waters receive a monthly pay of $150 to
+$180, and working conditions include 16–18 hour
+workdays. A signiﬁcant share of crews on Thai
+industrial ﬁshing vessels are from Myanmar and
+Cambodia, two countries with widespread poverty
+and average incomes some eight times lower than
+those of Thailand. Based on average country poverty data, some 5.8 million, or 20 percent of the
+world’s 29 million ﬁshers, may be small-scale ﬁshers earning less than $1 a day (FAO 2004).
+The strong growth in capture ﬁsheries employment (i.e., ﬁshers operating full time, part time,
+occasionally, or with unspeciﬁed status) has not
+resulted in a commensurate increase in recorded
+inland and marine capture ﬁsheries production. As
+shown in ﬁgure 2.15, the average harvest per capture ﬁsher has declined by 42 percent from more
+than 5 tons annually in 1970 to only 3.1 tons in
+2000.
+The signiﬁcance of this decline in average output
+per ﬁsher has to be seen in the context of the enormous technological developments that have taken
+place in the world’s capture ﬁsheries during this
+period, including large-scale motorization of traditional small-scale ﬁsheries; the expansion of active
+ﬁshing techniques such as trawling and purse seining; the introduction of increasingly sophisticated
+ﬁshing-ﬁnding and navigation equipment; and the
+growing use of modern means of communication.
+While this technological progress has increased
+
+5.5
+5
+4.5
+
+labor productivity in some ﬁsheries, in aggregate at
+the global level, the resource constraint, in combination with the prevailing open access condition,
+has prevented an increase in average labor productivity in the world’s capture ﬁsheries. On the
+contrary, productivity has signiﬁcantly declined, a
+decline caused by a shrinking resource base and a
+growing number of ﬁshers.
+Because the number of ﬁshing vessels has also
+grown greatly during this period, as we show further below, at the global level the productivityenhancing investments in capture ﬁsheries have
+on average yielded small returns and have stymied
+growth in labor productivity and incomes in the
+sector.
+
+2.2.5. Fishing Effort and Fishing
+Fleets
+Fishing effort is a composite indicator of ﬁshing
+activity. It includes the number, type, and power of
+ﬁshing vessels and the type and amount of ﬁshing
+gear. It captures the contribution of navigation and
+ﬁsh ﬁnding equipment, as well as the skill of the
+skipper and ﬁshing crew. Effective effort is difﬁcult to quantify even in a single ﬁshery, and there is
+considerable uncertainty about the current level of
+global ﬁshing effort. Given the multiple dimensions
+of ﬁshing effort, it is understandable that there are
+no global statistics available.
+The primary factor inﬂuencing ﬁshing effort is
+the size of the global ﬁshing ﬂeet as characterized
+in terms of vessel numbers, tonnage, and engine
+power and type of ﬁshing gear as described in the
+following section. In biological terms, ﬁshing effort
+equates to ﬁshing mortality. The functional relationship is determined by the catchability coefﬁcient. This coefﬁcient is a measure of both the level
+of harvesting technology and ﬁshing skill and the
+relative ease of harvesting the ﬁsh stock in terms of
+its distribution and abundance.
+
+4
+
+2.2.5.1. Development in the
+Global Fishing Fleet
+
+3.5
+3
+
+1970
+
+1980
+
+1990
+
+2000
+
+2.15 Annual catch (marine and inland) per
+capture ﬁsher (tons), 1970–2000. (Data from FAO
+FishStat; FAO 2002, 2007a; FAO Fisheries and
+Aquaculture Information and Statistics Service)
+
+FIGURE
+
+The reported global ﬂeet has increased numerically
+by about 75 percent over the past 30 years, to a total
+of approximately 4 million decked and undecked
+units in 2004 (FAO 2007a; ﬁgure 2.16). The number
+of decked (motorized) vessels more than doubled in
+this period, and the average age of the global ﬂeet of
+
+31
+
+Economic Trends in Global Marine Fisheries
+undecked
+
+decked
+1,400
+
+3,000
+
+1,200
+2,500
+1,000
+2,000
+
+800
+
+1,500
+
+600
+
+1,000
+
+400
+
+500
+
+200
+
+0
+1970
+
+1975
+
+1980
+
+Asia
+Africa
+North America
+
+1985
+
+1990
+
+1995
+
+1998
+
+0
+1975
+
+1980
+
+1985
+
+Asia
+Europe
+North America
+
+South America
+Oceania
+Europe
+
+1990
+
+1995
+
+1998
+
+South America
+Africa
+Oceania
+
+FIGURE 2.16 Total number of undecked and decked ﬁshing vessels per region (thousands), 1970–1998.
+(Data from FAO Fisheries and Aquaculture Information and Statistics Service; FAO 1999)
+
+2000
+
+30000
+25000
+
+1500
+
+20000
+1000
+
+15000
+
+500
+0
+1945 1965
+
+)
+
+35000
+
+10000
+1985 2005
+
+Fleet size (
+
+New registrations(
+
+)
+
+1975–85 Oil crisis
+2500
+
+5000
+2025 2045
+
+FIGURE 2.17 Estimated number of new ﬁshing
+vessels built and total registered ﬂeet size (vessels
+exceeding 100 gross tons/gross registered tons).
+(Figure from Garcia and Grainger 2005)
+
+large ﬁshing vessels has continued to increase. Asia
+accounts by far for the highest number of vessels,
+both decked and undecked.
+FAO data on national ﬁshing ﬂeets is derived
+primarily from administrative records, which may
+not always be current. For example, national ﬁshing vessel records may include vessels that are currently not operational and frequently omit large
+numbers of unregistered small-scale ﬁshing vessels
+(FAO 2006). A further difﬁculty in maintaining a
+consistent data set results from the change in the
+measurement of vessel size from gross registered
+
+tonnage to gross tonnage and the reﬂagging of vessels to ﬂags of convenience.
+For large vessels, the Lloyd’s database of vessels (Lloyd’s Register—Fairplay 2008) provides
+a relatively complete global data set for ﬁshing
+vessels above 100 gross tons. However, coverage
+is incomplete. While FAO ﬂeet statistics show an
+increase in global ﬂeet size since the early 1990s,
+the Lloyd’s Register shows a decline in the number of ﬁshing vessels larger than 100 gross tons in
+recent years (ﬁgure 2.17). This divergence in trends
+can be explained partly by the evolution of the Chinese ﬂeet, which is incompletely listed in the Lloyds
+Register3 because it is domestically insured. For this
+ﬂeet and for smaller vessels, FAO statistics are used
+which have been compiled from national data. In
+2002, China adopted a ﬁve-year program to reduce
+its commercial ﬂeet by 30,000 vessels by 2007
+(7 percent). However, the numbers of commercial
+ﬁshing vessels reported to FAO in both 2003 and
+2004 are greater than the number reported as being
+in operation in 2002 (FAO 2007a).
+
+2.2.5.2. Development in Fishing
+Capacity and Fleet Productivity
+Fishing capacity is the amount of ﬁshing effort that
+can be produced in a given time by a ﬁshing vessel or ﬂeet under full utilization for a given ﬁshery
+resource condition (FAO 2000).
+
+32
+
+Number of decked vessels (million)
+Fleet capacity index (fishing power)
+(million)
+
+3.5
+3.0
+2.5
+
+140
+
+Decked vessels (number)
+Fleet capacity index (fishing power)
+
+120
+
+Catch per vessel (tons)
+Catch per unit capacity (tons)
+
+100
+
+2.0
+80
+1.5
+60
+
+1.0
+
+40
+
+0.5
+0.0
+1970
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+20
+2005
+
+Catch per vessel/Catch per unit capaity
+(tons)
+
+Overview
+
+FIGURE 2.18 Fleet productivity development (total decked vessels). (Data are
+based on authors’ calculations; Garcia and Newton 1997; FAO FishStat; FAO
+Fisheries and Aquaculture Information and Statistics Service)
+
+The increase both in vessel numbers and in vessel technology has enhanced the capacity of the
+global ﬂeet and facilitated access to an expanding
+range of marine ﬁshery resources and more efﬁcient
+use of these resources.
+Fitzpatrick (1996) estimated that the technological coefﬁcient, a parameter of vessel capacity, grew at a rate of 4.3 percent per annum from
+1965 to 1995.4 Assuming that this trend has continued, growth in technological efﬁciency coupled
+with growth in the number of vessels suggests a
+steeply rising global ﬂeet capacity. The capacity
+index shown in ﬁgure 2.18 is a multiple of the
+total number of decked vessels and the technological coefﬁcient.5 The trend line of the catch/
+capacity index demonstrates that the global harvesting productivity has, on average, declined by
+a factor of 6.
+The exploitation of a growing number of marginal ﬁsh stocks partly explains this decline, but the
+buildup of ﬁshing overcapacity is clearly a major
+contributing factor. Thus, the gains from technological progress have generally not been realized
+because the limited ﬁsh stocks call for a concomitant reduction in the number of vessels to allow for
+improved vessel productivity.
+The decline in physical productivity is compounded by the decreasing spread between average
+harvesting costs and average ex-vessel ﬁsh prices,
+causing depressed proﬁt margins and reinvestment.
+
+While this has a dampening effect on growth in ﬂeet
+capacity, depressed ﬂeet reinvestment may retard a
+shift to more energy-efﬁcient harvesting technologies and a reduction in the carbon footprint of the
+ﬁshing industry.
+Many countries have adopted policies to limit
+the growth of national ﬁshing capacity, both to
+protect the aquatic resources and to make ﬁshing more economically viable for the harvesting
+enterprises (FAO 2007a). This has proven difﬁcult and costly to implement in many instances,
+and even where numbers of vessels have been successfully reduced (Curtis and Squires 2007), the
+reduction in ﬁshing effort has been considerably
+less than proportional, because the less efﬁcient
+vessels tend to exit the ﬁshery and expansion
+in technical efﬁciency counters the reduction in
+vessel numbers.
+The global ﬂeet has attempted to maintain
+its proﬁtability by reducing real labor costs, by
+ﬂeet modernization and by introduction of fuelefﬁcient technologies and practices, particularly in
+developed countries. Vessels are also reported to
+remain in harbor for increasingly longer periods
+of the year, focusing harvesting on peak ﬁshing
+seasons.
+The receipt of government ﬁnancial support has
+also assisted both vessel operators and crews, for
+instance, through income compensation for crews.
+Subsidies in the world’s marine ﬁsheries have
+
+

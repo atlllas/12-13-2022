@@ -1,0 +1,629 @@
+Effective fisheries management instrumental in
+improving fish stock status
+Ray Hilborna,1, Ricardo Oscar Amorosoa, Christopher M. Andersona, Julia K. Baumb, Trevor A. Brancha,
+Christopher Costelloc, Carryn L. de Moord, Abdelmalek Faraje, Daniel Hivelya, Olaf P. Jensenf, Hiroyuki Kurotag,
+L. Richard Littleh, Pamela Macei, Tim McClanahanj, Michael C. Melnychuka, Cóilín Mintok, Giacomo Chato Osiol,m,
+Ana M. Parman, Maite Ponsa, Susana Seguradoo, Cody S. Szuwalskic, Jono R. Wilsonc,p, and Yimin Yeq
+a
+School of Aquatic and Fishery Sciences, University of Washington, Seattle, WA 98195; bDepartment of Biology, University of Victoria, Victoria, BC V8W
+2Y2, Canada; cBren School of Environmental Science and Management, University of California, Santa Barbara, CA 93117; dMarine Resource Assessment and
+Management Group, Department of Mathematics and Applied Mathematics, University of Cape Town, 7701 Rondebosch, South Africa; eInstitut National de
+Recherche Halieutique, Casablanca, 20100, Morocco; fDepartment of Marine and Coastal Sciences, Rutgers University, New Brunswick, NJ 08901; gSeikai
+National Fisheries Research Institute, Japan Fisheries Research and Education Agency, Nagasaki-shi, 851-2213 Nagasaki, Japan; hMarine Resources and
+Industries Program, CSIRO Oceans and Atmosphere, Hobart, TAS 7001, Australia; iFisheries New Zealand, Ministry for Primary Industries, Wellington, 6140,
+New Zealand; jGlobal Marine Program, Wildlife Conservation Society, Bronx, NY 10460; kMarine and Freshwater Research Centre, Galway-Mayo Institute of
+Technology, Galway, H91 T8NW, Ireland; lUnit D.02 Water and Marine Resources, Directorate D−Sustainable Resources, Joint Research Centre (JRC), European
+Commission, 21027 Ispra, Italy; mUnit D.1. Fisheries Conservation and Control in Mediterranean and Black Sea, DG Maritime Affairs and Fisheries, European
+Commission, JII-99 02/46, B-1049 Brussels, Belgium; nCentro para el Estudio de Sistemas Marinos, Consejo Nacional de Investigaciones Científicas y Técnicas, U
+9120 ACF Puerto Madryn, Chubut, Argentina; oSystems Division, Sustainable Fisheries Partnership, Honolulu, HI 96816; pCalifornia Oceans Program, The Nature
+Conservancy, San Francisco, CA 94105; and qFisheries and Aquaculture Department, Food and Agriculture Organization of the United Nations, 00153 Rome, Italy
+
+Downloaded from https://www.pnas.org by 67.169.173.197 on November 4, 2022 from IP address 67.169.173.197.
+
+Edited by Nils Chr. Stenseth, University of Oslo, Oslo, Norway, and approved November 15, 2019 (received for review June 12, 2019)
+
+Marine fish stocks are an important part of the world food system
+and are particularly important for many of the poorest people of
+the world. Most existing analyses suggest overfishing is increasing,
+and there is widespread concern that fish stocks are decreasing
+throughout most of the world. We assembled trends in abundance
+and harvest rate of stocks that are scientifically assessed, constituting half of the reported global marine fish catch. For these stocks, on
+average, abundance is increasing and is at proposed target levels.
+Compared with regions that are intensively managed, regions with
+less-developed fisheries management have, on average, 3-fold
+greater harvest rates and half the abundance as assessed stocks.
+Available evidence suggests that the regions without assessments
+of abundance have little fisheries management, and stocks are in
+poor shape. Increased application of area-appropriate fisheries
+science recommendations and management tools are still needed
+for sustaining fisheries in places where they are lacking.
+overfishing
+
+fisheries management biomass targets, most biomass was stable,
+with declines occurring in some regions and increases occurring
+in others, and that half of the stocks below target abundance had
+exploitation rates that would allow rebuilding to the target. They
+suggested a potential relationship between fish stock abundance
+and management actions. Low stock abundance has 2 major
+negative effects: the sustainable yield is lower, so fisheries contribute less to food production and the cost of harvesting often
+rises when abundance is low. Low abundance also reduces ecosystem services such as food provisioning to other elements of
+Significance
+This article compiles estimates of the status of fish stocks from
+all available scientific assessments, comprising roughly half of
+the world’s fish catch, and shows that, on average, fish stocks
+are increasing where they are assessed. We pair this with surveys of the nature and extent of fisheries management systems,
+and demonstrate that where fisheries are intensively managed,
+the stocks are above target levels or rebuilding. Where fisheries
+management is less intense, stock status and trends are worse.
+We review evidence on the half of world fisheries that are not
+assessed or intensively managed and suggest their status is
+much worse than where fisheries are intensively managed.
+
+| harvest impacts | sustainable fisheries
+
+I
+
+n the mid-1970s, national and international efforts to sustain
+and rebuild marine fisheries and increase their contribution to
+global food security led most coastal states to declare 200-nautical
+mile exclusive economic zones. These moves were further incorporated into the United Nations Convention on the Law of the
+Sea, which came into force after 1994. Through the 1970s and
+1980s, it became clear that many fisheries were overcapitalized
+and that fish stocks were depleted to low levels (1). Major declines
+in a number of fisheries were observed; for example, most of the
+herring stocks of the northeast Atlantic had declined markedly or
+collapsed during the late 1960s and early 1970s (2, 3). Moreover,
+Peruvian anchoveta declined in the 1970s (4), and the Newfoundland cod fishery collapsed (5). These collapses set the stage
+for both increased concern about the status of fish stocks and a
+wide variety of actions to reverse the declines, including strengthening the legal basis for addressing overfishing in some countries
+(6). The intensity and effectiveness of these efforts differs greatly
+by region, with some countries failing to reduce overfishing and
+others implementing major regulatory changes.
+Declines of fish stocks became the subject of high-profile scientific publications, media coverage, and public interest in the
+1990s and 2000s, when the global fisheries crisis perception was
+established (see, e.g., ref. 7). In response, Worm et al. (8) published a summary of the biomass trends of marine fish stocks from
+regions in which scientific data were available up to 2005. The
+compilation showed that while two-thirds of stocks were below
+
+2218–2224 | PNAS | January 28, 2020 | vol. 117 | no. 4
+
+Author contributions: R.H., R.O.A., C.M.A., J.K.B., T.A.B., C.C., C.L.d.M., A.F., D.H., O.P.J.,
+H.K., L.R.L., P.M., T.M., M.C.M., C.M., G.C.O., A.M.P., M.P., S.S., C.S.S., J.R.W., and Y.Y.
+designed research; R.H., R.O.A., C.C., D.H., M.C.M., and C.M. analyzed data; R.H., R.O.A.,
+C.M.A., J.K.B., T.A.B., C.C., C.L.d.M., A.F., D.H., O.P.J., H.K., L.R.L., P.M., T.M., M.C.M., C.M.,
+G.C.O., A.M.P., M.P., S.S., C.S.S., J.R.W., and Y.Y. wrote the paper; and R.H., R.O.A., J.K.B.,
+C.L.d.M., A.F., D.H., H.K., L.R.L., P.M., M.C.M., C.M., G.C.O., A.M.P., M.P., and S.S. helped
+assemble or provide data.
+Competing interest statement: All authors are involved in fisheries management or provide fisheries advice in ways that can be viewed as competing interests. Many are employed by national fisheries agencies or nongovernmental organizations that advocate
+for specific fisheries policies. The academic scientists have received funding from sources
+that include government fisheries agencies, fishing companies, and environmental
+nongovernmental organizations.
+This article is a PNAS Direct Submission.
+This open access article is distributed under Creative Commons Attribution-NonCommercialNoDerivatives License 4.0 (CC BY-NC-ND).
+Data deposition: Code used for analysis is held in the following GitHub repository, https://
+github.com/mintoc/pnas_efm_paper.
+1
+
+To whom correspondence may be addressed. Email: hilbornr@gmail.com.
+
+This article contains supporting information online at https://www.pnas.org/lookup/suppl/
+doi:10.1073/pnas.1909726116/-/DCSupplemental.
+First published January 13, 2020.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1909726116
+
+Downloaded from https://www.pnas.org by 67.169.173.197 on November 4, 2022 from IP address 67.169.173.197.
+
+Results
+In 2019, the RAM Legacy Stock Assessment Database contained
+biomass trends for stocks constituting 49% of the global marine
+landings reported to the Food and Agriculture Organization
+Hilborn et al.
+
+Fig. 1. Global status of assessed fish and invertebrate stocks. (A) RAM
+Legacy Stock Assessment Database Version 4.44 coverage, showing countries
+with (pale green) and without (gray) data included. Pies are displayed for
+the top 50 countries by catch. Circle area of countries or groups of countries
+is proportional to landed tonnage reported to the FAO; dark green shaded
+pie areas are proportions of total landings accounted for by stocks in RAM
+Legacy Database. (B) State-space model estimates of geometric mean B/BMSY,
+U/UMSY and catch/(mean catch) from 1970 to 2016, rescaled to the median in
+years of high coverage. All stocks are given equal weight. Circles denote years
+1995 and 2005. Shaded regions denote 95% finite population corrected confidence bounds. (C) Status of individual stocks in their latest year of assessment. Circle areas represent estimated MSY of the stock. Circles shaded green
+use reference points from stock assessments; circles shaded orange use reference points estimated from biomass dynamics model fits. Overlaid symbols
+show bivariate summary statistics across stocks: median (+), geometric mean
+with equal weighting (*), and geometric mean weighted by MSY (X).
+
+(FAO) between 1990 and 2005 (SI Appendix, Fig. S1). Most of
+the catch in North and South America, Europe, Japan, Russia,
+Northwest Africa, South Africa, Australia, New Zealand, and
+RFMO-managed tuna fisheries are included in the database
+(Fig. 1A). With the exception of the major tuna stocks and the
+catch locations listed here, we have no assessments from South
+and Southeast Asia, China, the Middle East, Central/Eastern
+Africa, or Central America in the database. Even for regions
+where almost all catches are represented in the database, the
+coverage is much better for large, commercially important
+stocks, and many small stocks remain unassessed, mirroring the
+findings from a detailed analysis of US fisheries (17).
+Among the assessed stocks in the database, the average fishing
+pressure increased and the biomass declined on average until
+1995, when fishing pressure began to decrease. By 2005, average
+biomass had started to increase (Fig. 1B). Averaged across all
+stocks in the database, biomass in 2016 was higher than BMSY,
+and fishing pressure was lower than UMSY. However, improvement is still needed for 24% of stocks, accounting for 19% of
+potential catch, which still have low biomass and high fishing
+pressure compared with MSY-based targets (upper left quadrant
+of Fig. 1C). The stocks of least concern are in the lower right
+quadrant, where fishing pressure is below UMSY and biomass is
+greater than BMSY; 47% of stocks constituting 52% of potential
+catch are in this quadrant. The lower left quadrant is where
+fishing pressure is low and stocks are expected to rebuild, and
+PNAS | January 28, 2020 | vol. 117 | no. 4 | 2219
+
+POPULATION
+BIOLOGY
+
+the ecosystem, and excessive fishing contributes more to global
+CO2 production and has a higher impact on nontarget species.
+A frequent criticism of the RAM Legacy Stock Assessment
+Database (9) used in the Worm et al. analysis was that most of
+the 166 stocks came from North America, Europe, South Africa,
+Australia, and New Zealand, representing only 20% of the beststudied marine fish catch. Thus, a global assessment required
+updating the RAM Legacy Database to include more countries
+and stocks. Here we report on the efforts to update and expand
+the database, which currently includes 882 stocks (635 of which
+have estimates of biomass or fishing pressure relative to biological reference points such as those based on maximum sustainable yield [MSY] or other management targets) and covers
+new major stocks in Peru, Chile, Japan, Russia, the Mediterranean and Black Sea, and Northwest Africa (SI Appendix, Fig.
+S1). Therefore, we can now evaluate the status (as of 2016) of a
+much broader range of fisheries and can determine trends in
+fishing pressure and abundance. We can then use the status and
+trends to evaluate the impact of fisheries management actions
+across a broader range of regions and circumstances.
+Because the major concern has been about stocks at low
+abundance, many management actions have been aimed at rebuilding overfished stocks. An earlier version of this database
+was used by Neubauer et al. (10) to explore whether depleted
+marine fish stocks could recover to the level of having a biomass
+that produces the maximum sustainable yield (BMSY). Ten years
+was sufficient for recovery among the 153 overfished stocks
+(those depleted below 0.5 BMSY), but not for stocks driven to
+collapse (below 0.2 BMSY), which had longer and more variable
+recovery times.
+To relate stock status to fisheries management, we combined
+the RAM Legacy data with data from Melnychuk et al. (11), who
+surveyed the nature and intensity of fisheries management in 29
+major fishing countries of the world, collecting responses to 46
+specific questions for 632 individual stocks. These questions related to research, management, enforcement, and socioeconomic
+issues, as well as qualitative indicators of stock status. Countries
+differed greatly in the intensity of fisheries management, and this
+study showed that expert opinion on stock status was closely
+related to the intensity of fisheries management. Pons et al. (12)
+conducted a similar survey of international tuna management
+organizations, and further data for 36 additional countries have
+recently been collected, yielding, in total, data for 1,063 stocks
+from 70 countries or regional fisheries management organizations (RFMOs). We have an extensive data set of how fisheries
+are managed from all major fishing regions of the world (as of
+2016), but lack stock abundance and exploitation rate estimates
+for most fisheries in South and Southeast Asia (Fig. 1A).
+The classic theory of fishing (13, 14) holds that the biomass of
+fish stocks primarily depends on fishing pressure; for stocks to be
+at or above the abundance that would produce MSY (BMSY),
+fishing pressure or mortality (U) must be reduced to UMSY. Although there is no denying that harvest affects abundance, recent
+work has shown that recruitment to the fishery often depends
+very little on the abundance of the fish stock (15), and may be
+largely determined by periodic environmental regimes (16). We
+queried the empirical data on stock status, fishing pressure, and
+management to identify regional differences in trends and to test
+specific hypotheses: Does the status of stocks depend on fishing
+pressure? Do regions with more intensive fisheries management
+have lower fishing pressure and better stock status? We then
+used these results to estimate how much potential yield is being
+lost because of current fishing pressure and stock abundance.
+
+Downloaded from https://www.pnas.org by 67.169.173.197 on November 4, 2022 from IP address 67.169.173.197.
+
+contains 19% of stocks constituting 15% of potential catch; 10%
+of stocks constituting 14% of potential catch are in the upper
+right quadrant, where both abundance and fishing pressure are
+above MSY targets. There is no relationship between the size of
+the stock (average catch or estimated MSY) and the B/BMSY.
+If stocks were consistently managed at exactly UMSY, we would
+expect half the stocks to be above BMSY and half below. Allowing
+for management imprecision, we expect half the stocks to be
+above UMSY and half below. Thus, the assertion that 41% of
+stocks being below BMSY (upper left and lower left quadrants) is
+an indication of failed fisheries management is incorrect. For this
+reason, government agencies typically define “overfished” as a
+level significantly below BMSY (e.g., <0.5 BMSY or <0.8 BMSY). It
+should be noted, however, that the “overfished” level is well above
+the stock size at which the survival of the stock is threatened.
+Since the mid-1990s, catch has generally declined in proportion to decreases in fishing pressure and was, in 2016, at 54% of
+where it was in 1989 for assessed stocks (Fig. 1B). This pattern is
+also observed at the regional level, where the correlation between exploitation rate and catch is generally >0.8 (Fig. 2).
+Global catch as reported by the FAO also declined during that
+period, but less so than for the assessed stocks reported here, likely
+because fishing effort in the parts of the world without assessment
+has not declined (18).
+Striking regional differences in fishing pressure were identified
+(Fig. 2). With the exception of the Mediterranean and NW Africa,
+fishing pressure in 2016 was lower than target levels. Tuna fisheries in the Pacific and Indian Oceans were largely unexploited in
+
+1970, but by 2016, fishing pressure increased toward MSY levels.
+In the United States, Alaska has consistently maintained a low
+fishing pressure. Most regions have some stocks with abundance
+below targets, fishing pressure above targets, or both (SI Appendix,
+Figs. S2, S3, and S6).
+There are also large differences in the extent of decrease in
+biomass since 1970 (Fig. 2). Where the biomass trajectories start
+near or above twice BMSY, it simply means that most of the fisheries in these areas were previously relatively unfished, and
+therefore declined by necessity as fishing intensified and stock
+productivity increased (sustainable yield is typically maximized
+when the stock abundance is between 30% and 50% of the unfished
+abundance). For areas with relatively little decrease, this phase
+of fishing had generally been completed much earlier.
+Regions that have average biomass near or above BMSY are
+Australia, Atlantic Ocean tunas, Canada West Coast, European
+Union non-Mediterranean, Indian Ocean tunas, Norway/Iceland/
+Faroes, New Zealand, Pacific Ocean tunas, Alaska, the US
+Southeast and Gulf, and the US West Coast. Although these regions have not avoided the overfishing of all stocks, conservative
+management has kept most stocks at high biomass. Many areas
+where biomass was below BMSY in 2000 have seen reductions in
+fishing pressure and stock increases, including the Atlantic Ocean
+tunas; the East, Southeast, and Gulf coasts of the United States;
+the Canada East Coast; and the Northwest Pacific Ocean (Japan
+and Russia). Tuna stocks in the Pacific and Indian Oceans, which
+were well above BMSY in 1970, were near BMSY in 2016.
+
+Fig. 2. State-space model estimates of geometric mean (rescaled to the median in years of high coverage) biomass relative to BMSY (orange), fishing pressure
+(green) relative to UMSY, and catch relative to mean catch (purple), for assessed stocks in contrasting regions. (A–R) Stocks are equally weighted. Circles denote
+years 1995 and 2005. Shaded regions denote 95% finite population-corrected confidence bounds; in years when all stocks are assessed, there is no uncertainty
+considered. Panels are sorted according to mean U/UMSY in 2010 (highest in A, lowest in R).
+
+2220 | www.pnas.org/cgi/doi/10.1073/pnas.1909726116
+
+Hilborn et al.
+
+Downloaded from https://www.pnas.org by 67.169.173.197 on November 4, 2022 from IP address 67.169.173.197.
+
+fishing pressure significantly affects the rate of change of population
+biomass.
+Worm et al. predicted that stocks that were overfished should
+recover if fishing pressure was reduced below UMSY. To test this,
+we examined the 47 individual stocks that were overfished (<0.5
+BMSY) in 2006 but have had mean fishing pressures below UMSY
+since then. Of those stocks, 78% have increased since 2006,
+supporting the view that reducing fishing pressure promotes
+stock rebuilding. However, if the criterion for success was not
+just increasing biomass but also rebuilding the biomass to target
+levels, then most stocks fail to meet the criterion; only 47% of
+the overfished stocks had increased to above 0.5 BMSY, and only
+15% had been rebuilt to above BMSY in the year of their most
+recent assessment. The record of success is therefore mixed;
+most stocks subjected to low fishing pressure are rebuilding, but
+the 6 to 8 y documented in our data since 2006 have not been
+sufficient to see most stocks reach their fisheries management
+targets (which may not be BMSY). To some extent, complete rebuilding is a matter of rates and times; to rebuild from 0.5 BMSY to
+BMSY in 8 years would require an annual rate of increase of 9%,
+but these stocks actually increased by an average of just 5%.
+If we examine what has happened to overfished stocks since
+2000, we have many more stocks to examine. Rates of biomass
+increase (Bt+1/Bt) for stocks overfished (<0.5 BMSY) in 2000 were
+highly variable, but depended on how depleted the stocks were
+and the average fishing pressure since 2000 (Fig. 3B and SI
+Appendix, Table S2). Stocks that had high fishing pressure and
+high biomass were the least likely to increase. For these stocks,
+both the fishing pressure and stock abundance were significant
+
+Fig. 3. (A) Fraction of stocks that increased in abundance given a stock was at a specific value of B/BMSY (x axis) and U/UMSY (y axis) in the preceding year. The
+black solid line represents the combinations of B/BMSY and U/UMSY for which the population is predicted to remain stable (13) under a Pella-Tomlinson stockproduction model. At all combinations below or left of the line, the population should increase; at all combinations above and to the right, the population
+should decline; and near the line, populations should have an equal probability of increase or decrease. All stocks and years in which B/BMSY and U/UMSY were
+available from assessments or from biomass dynamics model fits were used to calculate fractions of increase (dark red means 0% of the stocks increased in
+biomass, dark blue means 100% of the stocks increased in biomass). (B) The relationship between annual rate of increase in biomass since 2000 (y axis) and
+average annual exploitation rate since 2000 (x axis, shown on a square root scale) for the 115 stocks that were below 0.5 BMSY in 2000. Gray line is a loess
+smoother fit to the data. Circle area is proportional to MSY. (C) Rate of biomass increase for regions with more than 5 stocks below 0.5 BMSY in 2000. Small
+hatch marks indicate individual stocks, violin plots show overall distributions, and large hatch marks denote regional means.
+
+Hilborn et al.
+
+PNAS | January 28, 2020 | vol. 117 | no. 4 | 2221
+
+POPULATION
+BIOLOGY
+
+Stocks in the Mediterranean-Black Sea have low biomass and
+continue to decline, whereas stocks in South America have declined considerably in the last 20 y and were below target levels
+in 2016. Fishing pressure in South America has been dropping
+since the early 2000s. Only 4 of 36 stocks in NW Africa have
+MSY-based reference points for biomass estimated, all of which
+are large-volume, small-pelagic fisheries and are therefore unrepresentative of the many demersal fisheries in the region. The
+stock abundance for those small-pelagic stocks is above MSY
+targets, but exploitation rates were high (2.5 times UMSY) for the
+6 NW African stocks for which exploitation rate reference points
+exist. Regional assessments (19) estimated that most demersal
+stocks were overexploited by 2008 and recommended reductions
+in fishing pressure.
+A total of 19% of stocks can be considered to be poised to
+recover from low biomass (<BMSY) because they have low fishing
+pressure (lower left quadrant in Fig. 1C), while other stocks would
+be expected to decline rapidly from higher biomass (>BMSY) because of high fishing pressure (upper right quadrant of Fig. 1C).
+These theoretical expectations can be tested with empirical data
+by examining how stocks responded in the past. Using data from
+all years and stocks, the proportion of stocks that have actually
+increased at different combinations of biomass and fishing pressure support the basic theory that when both biomass and fishing
+pressure are low, stocks are likely to increase (Fig. 3A), while for
+any biomass level, the probability of biomass increase is higher at
+lower fishing pressure. Fig. 3B shows the relationship between
+fishing pressure and rate of increase after 2000 for stocks below
+0.5 BMSY in 2000. Both Fig. 3 A and B show that the level of
+
+Downloaded from https://www.pnas.org by 67.169.173.197 on November 4, 2022 from IP address 67.169.173.197.
+
+(P < 0.05) predictors of rate of increase, but there was no relationship between the number of years a stock had been below
+0.5 BMSY and the rate of increase. Furthermore, rates of increase
+among the stocks overfished in 2000 differed considerably within
+and between regions (Fig. 3C).
+We quantified the association among regional mean U/UMSY,
+regional mean B/BMSY, and management intensity in the same
+regions or countries (Fig. 4). Regional estimated fishing intensity
+(U/UMSY) in 2016 or the last year estimated (SI Appendix, Fig.
+S3) was negatively correlated with management intensity (Fig. 4;
+r = −0.60). The 2 regions with particularly high recent mean
+U/UMSY (Mediterranean and Northwest Africa) had among the
+lowest fishery management index (FMI) scores for management
+and enforcement. Regions with higher FMI levels of management and enforcement had mean U/UMSY at or below target levels.
+The relationship between B/BMSY and FMI is even clearer, with
+B/BMSY much higher for regions with high levels of management.
+Potential yields can be calculated by comparing the long-term
+average catch at the current fishing pressure to the long-term
+catch if all stocks were fished at UMSY. Similarly, one can compare
+the potential yield lost at current biomass to what would happen if
+all stocks were at BMSY. Stocks that are fished too hard (U >
+
+Fig. 4. Relationship between regional geometric mean (rescaled to the
+median in years of high coverage) (A) U/UMSY and (B) B/BMSY and the joint
+management and enforcement scores for FMI surveys in corresponding regions. Blue points represent tuna fisheries from the Atlantic, Pacific, and
+Indian Oceans, and red points represent other regions shown in Fig. 2. Solid
+gray line is a linear fit to the data plotted in red. Dotted gray lines mark
+where U/UMSY or B/BMSY = 1 and where the best fit line intersects with
+U/UMSY or B/BMSY = 1. Abbreviations for regions are as follows: Atl tuna, Atlantic
+Ocean tunas; Ind tuna, Indian Ocean tunas; Pac tuna, Pacific Ocean tunas; AUS,
+Australia; E CAN, Canada East; W CAN, Canada West; EU non Med, EU nonMediterranean; JPN, Japan; Med, Mediterranean; NZ, New Zealand; Nor, Ice,
+Faroe, Norway, Iceland, and Faroe Islands; NW AFR, NW Africa; RUS, Russia; SA,
+South Africa; S Amer, South America; US AK, US Alaska; USNE, US North East;
+US S&G, US Southeast and Gulf; USWC, US West Coast.
+
+2222 | www.pnas.org/cgi/doi/10.1073/pnas.1909726116
+
+UMSY) result in lost yield from overfishing, and potential yield is
+lost for stocks at biomass below BMSY. These theoretical calculations likely overestimate the loss because it is not possible to selectively fish each stock at its optimum rate, because social objectives
+may involve minimizing environmental impacts or maximizing
+profits and jobs instead of optimizing biological yield (20, 21), and
+because trophic interactions make single-species calculation of
+MSY often unobtainable. Overall, we estimate that from 3% to
+5% of potential yield is lost by excess fishing pressure and 24% to
+28% is lost by biomass being below BMSY (SI Appendix, Supplemental Methods and Table S3). This difference is a result of the
+time lag between reduction in fishing pressure and the rebuilding
+of abundance, and even when fishing effort is perfectly managed,
+some stocks would be below BMSY because of random fluctuations.
+Discussion
+We found a clear relationship between fishing pressure and
+changes in stock abundance, as well as between management intensity and fishing pressure. We have also estimated that excess
+fishing pressure now accounts for about 3% to 5% loss of potential
+yield from the stocks constituting half of world marine catch. In a
+number of countries, the decline in fishing pressure can be directly
+tied to changes in legislation and subsequent management. The
+1996 revisions of the Magnuson-Stevens Act in the United States
+required the development of rebuilding plans and catch limits,
+resulting in a sharp reduction in fishing pressure on overfished
+stocks (22). The Common Fisheries Policy in Atlantic Europe was
+similarly reformed in 2002. In eastern Canada and the eastern
+United States, there was a major reduction in fishing pressure in
+the 1990s after the collapse of groundfish stocks, notably, Newfoundland cod; however, in both places, many stocks have failed to
+rebuild and remain at low abundance. In Japan, caps on total allowable catches (TACs) were introduced for several species in
+1997, and thereafter the fishing pressure for TAC-managed stocks
+decreased more rapidly than for other stocks (23). New Zealand
+enacted harvest strategy standards in 2008, and Chile instituted a
+major legal reform in 2013. As a consequence, the concern about
+overfishing has resulted in legal and enforcement responses in
+many countries with strong management institutions.
+Our analysis of fisheries stock status from scientific assessments is based on 5 times as many stocks and 2 and a half times
+as much catch as previously published by Worm et al. in 2009.
+This includes regions such as the Mediterranean and northwest
+Africa, which have not been included in previous summaries, and
+the assessments of South American stocks are far more extensive. Our analyses thus represent the most comprehensive investigation of status based on scientific assessments to date.
+With the exception of the tuna RFMO regions, intense fisheries management (as reflected by high FMI scores) is associated
+with low values of U/UMSY. The tuna RFMOs have much lower
+U/UMSY than one would expect based on their FMI scores. This
+may be because of the cost of fishing the tunas, which is much
+higher than continental shelf fisheries. Weak fisheries management in the tuna fisheries should lead the fisheries to be at or
+near bionomic equilibrium, which, given the high cost of tuna
+fishing, should be at a lower U/UMSY than we would expect in
+coastal fisheries. Given the subsidies that are in place in several
+countries for tuna fisheries (24), we would expect fishing pressure to be higher than the true bionomic equilibrium. More detailed analysis of tuna fisheries (12) has suggested that the status of
+tuna stocks is primarily influenced by factors other than the fisheries management system, including life-history and market factors.
+The latest FAO “State of World Fisheries and Aquaculture”
+report (25) indicates that the fraction of overfished stocks has
+increased since 2000 (from 27% to 33%), while this study suggests
+that abundance of stocks is increasing. This probably reflects the
+bias arising from the fact that the RAM Legacy Database only
+includes stocks with reliable quantitative stock assessments that
+Hilborn et al.
+
+Downloaded from https://www.pnas.org by 67.169.173.197 on November 4, 2022 from IP address 67.169.173.197.
+
+1. D. Ludwig, R. Hilborn, C. Walters, Uncertainty, resource exploitation, and conservation:
+Lessons from history. Science 260, 17–36 (1993).
+2. G. Sætersdal, A review of past management of some pelagic stocks and its effectiveness. Rapp. P. V. Reun. Cons. Int. Explor. Mer. 177, 505–512 (1980).
+3. M. Dickey-Collas et al., Lessons learned from stock collapse and recovery of North Sea
+herring: A review. ICES J. Mar. Sci. 67, 1875–1886 (2010).
+4. M. H. Glantz, Science, politics and economics of the Peruvian anchoveta fishery.
+Marine Policy 3, 201–210 (1979).
+5. A. Hutchings, R. Myers, What can be learned from the collapse of a renewable resource?
+Atlantic cod, Gadus morhua, of Newfoundland and labrador. Can. J. Fish. Aquat. Sci. 51,
+2126–2146 (1994).
+6. M. M. Sissenwine, P. M. Mace, H. J. Lassen, Preventing overfishing: Evolving approaches and emerging challenges. ICES J. Mar. Sci. 71, 153–156 (2014).
+7. J. B. C. Jackson, Colloquium paper: Ecological extinction and evolution in the
+brave new ocean. Proc. Natl. Acad. Sci. U.S.A. 105 (suppl. 1), 11458–11465
+(2008).
+8. B. Worm et al., Rebuilding global fisheries. Science 325, 578–585 (2009).
+
+Hilborn et al.
+
+Finally, we need to understand how to use management approaches
+that leverage healthy stocks into sustainable economic and social
+benefits for the fishing industry and fishing communities. This article has only explored the biological status of fish stocks, and not
+the social and economic sustainability of the fisheries.
+Our analysis has concentrated on single-species status relative
+to MSY reference points. The status of stocks can also be judged
+against economic or ecosystem reference points, and most definitions of “sustainable” include ecosystem elements. We have
+made no attempt to identify those reference points or compare
+stock abundance to them. However, under both economic or
+ecosystem views, the biomass reference point would generally be
+higher and the exploitation rate reference point lower than a MSYbased reference point, so the increasing overall trend in biomass
+and decreasing exploitation rate points to better performance by
+these other metrics. Climate change will bring new challenges, as
+we expect productivity of individual stocks will change and reference points will need to be adjusted.
+As most unassessed fisheries are in tropical and subtropical
+regions dominated by highly diverse mixed fisheries, the singlestock assessment and management practices used in temperate
+countries are impractical. Regulating the overall fishing pressure
+so that the ecosystem-wide benefits are optimized and moving to
+cooperative rather than competitive fisheries seem most likely to
+provide for biological, social, and economic sustainability (34).
+The efforts of the thousands of managers, scientists, fishers,
+and nongovernmental organization workers have resulted in significantly improved statuses of fisheries in much of the developed
+world, and increasingly in the developing world. Scientifically
+managed and assessed fish stocks in many places are increasing, or
+are already at or above the levels that will provide a sustainable
+long-term catch. The major challenge now is to bring fisheries
+science methods and sustainability to fisheries that remain largely
+unassessed and unmanaged.
+Methods
+All data used in this analysis are available at www.ramlegacy.org version 4.44
+and the associated Zenodo repository. Calculations that were performed or
+statistical tests are described in SI Appendix. Code used for analysis is held in
+the following Github repository: https://github.com/mintoc/pnas_efm_paper.
+ACKNOWLEDGMENTS. We thank Cole Monnahan and Sean Anderson for
+assistance with the figures, and Nicole Baker for editing and formatting. We
+thank all contributors to the RAM Legacy Stock Assessment Database (https://
+www.ramlegacy.org/) and all the authors of the assessments used in our analysis, which were performed by national and international fisheries agencies independent of this paper. We thank all respondents of FMI expert surveys, and thank
+Charmane Ashbrook for assisting with data collection for recent FMI surveys. This
+paper is a product of a Science for Nature and People Partnership working group at
+the National Center for Ecological Analysis and Synthesis, funded by The Nature
+Conservancy and The Wildlife Conservation Society. The funding for some of the
+coauthors came from grants from the Walton Family Foundation, the Environmental Defense Fund, and donations from 12 fishing companies. T.A.B. was
+funded in part by the Richard C. and Lois M. Worthington Endowed Professorship
+in Fisheries Management.
+
+9. D. Ricard, C. Minto, O. P. Jensen, J. K. Baum, Examining the knowledge base and status
+of commercially exploited marine species with the RAM Legacy Stock Assessment Database. Fish Fish. 13, 380–398 (2012).
+10. P. Neubauer, O. P. Jensen, J. A. Hutchings, J. K. Baum, Resilience and recovery of
+overexploited marine populations. Science 340, 347–349 (2013).
+11. M. C. Melnychuk, E. Peterson, M. Elliott, R. Hilborn, Fisheries management impacts on
+target species status. Proc. Natl. Acad. Sci. U.S.A. 114, 178–183 (2017).
+12. M. Pons, M. C. Melnychuk, R. Hilborn, Management effectiveness of large pelagic
+fisheries in the high seas. Fish Fish. 75, 642–652 (2017).
+13. R. J. H. Beverton, S. J. Holt, On the Dynamics of Exploited Fish Populations (Chapman
+and Hall, London, 1957), pp. 533.
+14. W. E. Ricker, Handbook of Computations for Biological Statistics of Fish Populations
+(Queen’s Printer and Controller of Stationary, Ottawa, 1958), pp. 300.
+15. C. S. Szuwalski, J. T. Thorson, Global fishery dynamics are poorly predicted by classical
+models. Fish Fish. 18, 1085–1095 (2017).
+16. K. A. Vert-pre, R. O. Amoroso, O. P. Jensen, R. Hilborn, Frequency and intensity of
+productivity regime shifts in marine fish stocks. Proc. Natl. Acad. Sci. U.S.A. 110, 1779–
+1784 (2013).
+
+PNAS | January 28, 2020 | vol. 117 | no. 4 | 2223
+
+POPULATION
+BIOLOGY
+
+come from countries or organizations that perform reliable scientific assessments of their stocks and constitute only half of the
+world’s catch. We have much less reliable information on the
+status and trends of the other half of global marine fish stocks,
+but the intensity of fisheries management is low in these regions,
+and expert opinion is that the status of these stocks is likely poor
+and often declining (11). Average FMI management and enforcement scores for South and Southeast Asian countries were
+well below 0.4 (compared with the most intensively managed
+regions with scores > 0.9), suggesting that the average B/BMSY is
+less than 0.5 and the average U/UMSY is greater than 1.5 (Fig. 4).
+Fisheries in data-limited regions are an important part of food
+security for many of the poorest people in the world and constitute
+something of an enigma. Costello et al. (26) used methods relying
+on reported catches as the primary indicator of stock status, which
+have often increased in these regions, suggesting that the stocks are
+reasonably healthy; for example, the average B/BMSY was reported
+as 1.16 in China, 1.08 in Indonesia, 0.90 in the Republic of Korea,
+and 1.94 in Bangladesh. Similarly, Rosenberg et al. (27) used an
+ensemble of 4 catch-driven methods, which also suggested that most
+stocks in South and Southeast Asia were close to BMSY. Local experts, in contrast, have widespread concerns about the poor status
+of stocks in these countries (11, 28) and believe that methods that
+rely primarily on trends in catches fail to capture these concerns.
+Similarly, data from East Africa also generally indicate poor
+stock status (29). Part of the reason that Asian fisheries have
+continued to have high catches may be the ecosystem effect of
+reducing the biomass of large predatory species, allowing smaller,
+faster-growing species to become more productive, as well as enabling some key species to change their life-history and mature at
+younger ages (30). Alternatively, higher catches could reflect more
+comprehensive infrastructure development and improved reporting practices. In addition, we have almost no assessments of the
+status of freshwater fisheries (31) and relatively few for small-scale
+fisheries (32), such as those in coral reef and mangrove habitats,
+many of which are vital for some of the poorest people in the
+world. Recreational fisheries also may be data poor and unmanaged (33). Understanding the status and management of these
+fisheries should be a high priority.
+We have shown that in regions where fisheries are intensively
+managed, stock abundance is generally improving or remaining near
+fisheries management target levels, and the common narrative that
+fish stocks are declining worldwide will depend on the spatial and
+temporal window of the assessment. The critical question is what
+methods will best help improve the status of stocks in places where
+stocks are currently in poor condition. To do this, we need to understand what methods of management have worked in what social,
+economic, political, and biological contexts; understand why some
+stocks have improved much faster than others after a reduction in
+fishing pressure; and learn how to identify and implement the most
+appropriate forms of fisheries assessment, management, and enforcement in countries and regions where they are currently limited.
+
+25. Food and Agriculture Organization of the United Nations, “The State of World Fisheries
+and Aquaculture 2018 - Meeting the sustainable development goals” (Food and Agriculture Organization of the United Nations, Rome, 2018).
+26. C. Costello et al., Global fishery prospects under contrasting management regimes.
+Proc. Natl. Acad. Sci. U.S.A. 113, 5125–5129 (2016).
+27. A. A. Rosenberg et al., Applying a new ensemble approach to estimating stock status
+of marine fisheries around the world. Conserv. Lett. 11, 1–9 (2018).
+28. J. L. Anderson et al., The fishery performance indicators: A management tool for
+triple bottom line outcomes. PLoS One 10, e0122809 (2015).
+29. B. Kaunda-Arara et al., Spatial variation in benthopelagic fish assemblage structure along
+coastal East Africa from recent bottom trawl surveys. Reg. Stud. Mar. Sci. 8, 201–209 (2016).
+30. C. S. Szuwalski, M. G. Burgess, C. Costello, S. D. Gaines, High fishery catches through
+trophic cascades in China. Proc. Natl. Acad. Sci. U.S.A. 114, 717–721 (2017).
+31. A. M. Deines et al., The contribution of lakes to global inland fisheries harvest. Front.
+Ecol. Environ. 15, 293–298 (2017).
+32. R. Chuenpagdee, “Too big to ignore: Global research network for the future of smallscale fisheries” in World Small-Scale Fisheries Contemporary Visions, R. Chuenpagdee,
+Ed. (Eburon Academic Publishers, Utrecht, The Netherlands, 2011), pp. 383–394.
+33. R. Arlinghaus et al., Opinion: Governing the recreational dimension of global fisheries. Proc. Natl. Acad. Sci. U.S.A. 116, 5209–5213 (2019).
+34. C. M. Anderson et al., How commercial fishing effort is managed. Fish Fish. 25, 333 (2018).
+
+Downloaded from https://www.pnas.org by 67.169.173.197 on November 4, 2022 from IP address 67.169.173.197.
+
+17. P. Neubauer, J. T. Thorson, M. C. Melnychuk, R. Methot, K. Blackhart, Drivers and rates
+of stock assessments in the United States. PLoS One 13, e0196483 (2018).
+18. Y. Rousseau, R. A. Watson, J. L. Blanchard, E. A. Fulton, Evolution of global marine
+fishing fleets and the response of fished resources. Proc. Natl. Acad. Sci. U.S.A. 116,
+12238–12243 (2019).
+19. Food and Agriculture Organization of the United Nations, “Report of the FAO/CECAF
+Working Group on the Assessment of Demersal Resources – Subgroup South Freetown,
+Sierra Leone, 9–18 October 2008” (CECAF/ECAF SERIES 11/73, Food and Agriculture
+Organization of the United Nations, Rome, 2012), p. 328.
+20. W. E. Ricker, Maximum sustained yields from fluctuating environments and mixed
+stocks. J. Fish. Res. Board Can. 15, 991–1006 (1958).
+21. R. Hilborn, I. J. Stewart, T. A. Branch, O. P. Jensen, Defining trade-offs among conservation of species diversity abundances, profitability, and food security in the California Current bottom- trawl fishery. Conserv. Biol. 26, 257–266 (2012).
+22. N. R. Council, Evaluating the Effectiveness of Fish Stock Rebuilding Plans in the United
+States (National Academies Press, Washington, DC, 2014).
+23. M. Ichinokawa, H. Okamura, H. Kurota, The status of Japanese fisheries relative to
+fisheries around the world. ICES J. Mar. Sci. 74, 1277–1287 (2017).
+24. U. R. Sumaila, A. Dyck, A. Baske, Subsidies to tuna fisheries in the Western Central
+Pacific Ocean. Mar. Policy 43, 288–294 (2014).
+
+2224 | www.pnas.org/cgi/doi/10.1073/pnas.1909726116
+
+Hilborn et al.
+
+

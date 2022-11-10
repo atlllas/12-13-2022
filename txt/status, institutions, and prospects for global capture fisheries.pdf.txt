@@ -1,0 +1,1755 @@
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+Annual Review of Environment and Resources
+
+Status, Institutions, and
+Prospects for Global
+Capture Fisheries
+Christopher Costello1 and Daniel Ovando2
+1
+Bren School of Environmental Science and Management, University of California,
+Santa Barbara, California 93106, USA; email: costello@bren.ucsb.edu
+2
+School of Aquatic and Fishery Sciences, University of Washington, Seattle, Washington,
+98195-5020
+
+Annu. Rev. Environ. Resour. 2019. 44:177–200
+
+Keywords
+
+The Annual Review of Environment and Resources is
+online at environ.annualreviews.org
+
+fisheries, catch shares, fishery economics, marine protected areas, big data
+
+https://doi.org/10.1146/annurev-environ-101718033310
+
+Abstract
+
+Copyright © 2019 by Annual Reviews.
+All rights reserved
+
+We compile global data to examine the current status, trends, threats, and opportunities in the world’s wild-capture fisheries. We find that global fisheries
+have largely diverged—well-managed, often industrial fisheries tend to be in
+reasonably good health, while coastal fisheries, often from low-governance
+regions, tend to be in poor health. Good governance seems to play a central
+role, and we summarize key findings from the literature on how effective
+fishery management can simultaneously increase food security, livelihoods,
+and conservation outcomes. Other solutions, such as marine protected areas
+and big data, can be useful but will not, by themselves, solve the main fishery challenges. We conclude by examining notorious threats, such as climate
+change and lack of governance on the high seas, and find that these can be
+largely neutralized with good fishery management, suggesting that overall,
+the future of wild fisheries can be bright with effective fishery management
+interventions.
+
+177
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+Contents
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+STATUS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FISHERY POTENTIAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+OTHER SOLUTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+THREATS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CONCLUSIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+178
+179
+185
+188
+193
+195
+
+1. INTRODUCTION
+In stark contrast to food production on land, the majority of ocean-derived protein is still harvested and foraged from nature. Each year, about 80 million metric tons (MMT) of wild seafood
+is extracted from the ocean (1); this volume of protein is comparable in scale to global production
+of beef (64 MMT), poultry (98 MMT), and pigs (115 MMT) (2), and is nearly equivalent to total
+land and sea production of aquaculture (80 MMT) (1). Sustaining, or possibly enhancing, this level
+of wild production from the sea relies inextricably on productive ecosystems—if ocean ecosystems
+collapse, then so, too, will their ability to produce seafood.
+Much has been written about the condition of these ecosystems, and the status of the fisheries they support (see 3 for an early overview). By some accounts, global fisheries are in a dire
+condition—many are increasingly collapsed and require perpetually higher levels of fishing effort
+to extract the same quantity of fish. This trend compromises the livelihoods and protein sources
+for millions of mostly poor households around the world (4). Much of this evidence comes from
+the developing world, where fisheries tend to be unmanaged or only loosely regulated, and where
+formal appraisals of fishery health (called stock assessments) are almost nonexistent. Because fish
+are notoriously difficult to count, fishery scientists in those settings rely on proxies such as catches,
+catch per unit of effort, and the size distribution of fish as indices of fishery status. Using these
+estimates, a general conclusion from this body of work is that the unassessed and poorly regulated fisheries of the world are, consistent with basic bioeconomic theory, generally overexploited
+and in poor condition, and they therefore return lower biomass, food production, and economic
+value than they could under improved management. Does the same conclusion hold for the wellmonitored fisheries of the world?
+Fisheries with formal stock assessments tend to be the large, industrial-scale food-producing
+fisheries in the developed world. While many of these fisheries underwent a historical phase of
+overexploitation, recent evidence suggests that many of them adopted fishery management approaches in the 1990s and 2000s that reduced fishing mortality rates. In many cases these measures
+improved stock status (4–6) and increased biomass to the point that some authors now focus on
+underfishing of some key stocks and the catch that is foregone in that event (7).
+The striking contrast in these two conclusions—one drawing on evidence from poorly assessed and managed fisheries in the developing world, and the other focused on assessed stocks in
+wealthy nations with strong governance—presents somewhat of a paradox. What is the status of
+global fisheries, and on what does it depend? Is the future of global fisheries bright or bleak? And
+what are the roles of emerging threats and novel solutions in transforming this landscape? The
+purpose of this article is to provide a current and balanced view of the status of global fisheries
+and the factors that drive fishery exploitation and overall health (Section 2). Because almost all
+empirical studies agree that fishery management institutions play a pivotal role in determining a
+178
+
+Costello
+
+•
+
+Ovando
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+fishery’s fate, we summarize how fisheries are managed around the world and how those management structures alter incentives for fishery exploitation. Because fishery production is ultimately
+limited by the productive capacity of ecosystems, we draw on evidence about the global potential of
+wild fisheries; if fisheries were well-managed, how much food and value could be sustainably extracted (Section 3)? And how does that compare to what is extracted today? We focus on solutions
+and primarily consider the suite of management approaches that may provide economic incentives
+for long-term sustainability, collectively called rights-based fishery management (RBFM). These
+solutions encompass approaches such as individual transferable quotas (ITQs) and territorial user
+right fisheries (TURFs), among others. Additionally, in Section 4, we consider the efficacy and
+relevance of some widely-regarded solutions for fishery health, such as marine protected areas
+(MPAs) and harnessing big data and technology. In Section 5 we ask to what extent prominent
+threats, such as climate change and poor governance on the high seas, may compromise the future
+of global fisheries. We conclude in Section 6.
+
+2. STATUS
+
+RBFM: rights-based
+fishery management
+ITQs: individual
+transferrable quotas
+TURFs: territorial
+user rights fisheries
+Maximum
+sustainable yield
+(MSY): the highest
+average amount of
+catch that could
+consistently be taken
+out of a fished
+population each year
+
+Despite the critical role fisheries play in culture, food security, and ecosystem health throughout
+the world, the state of global fisheries is poorly understood and heavily debated. A fishery’s biological status is often reported relative to reference points associated with maximum sustainable
+yield (MSY) (see 8 for one of the earliest practical applications of this concept). MSY is roughly
+defined as the highest average amount of catch that could consistently be taken out of a fished
+population each year. MSY is derived from models of fisheries population dynamics, and it can be
+used to generate reference points such as the fishing mortality rate (F ) that would produce MSY at
+equilibrium (this reference point is denoted FMSY ), and the live biomass in the water that fishing at
+FMSY would produce (this reference point is denoted BMSY ). In theory, a fishery with a fishing mortality rate relative to FMSY (F/FMSY ) of 1 and a biomass relative to biomass at MSY (B/BMSY ) of 1
+produces catches equal to MSY. Fishing at F/FMSY > 1 will eventually reduce B/BMSY to less than
+1, lowering the average catch that can be taken out of the fishery. Thus, the status of a fishery is
+often reported in terms of B/BMSY and F/FMSY ; these standardized measures of the stock (biomass)
+and flow (fishing pressure) in a fishery are typically between 0.25 and 3.0. Because they have been
+standardized, these values are comparable across all global fisheries, regardless of differences in
+size, or ecological and economic characteristics. It is important to note that these reference points
+can inform the biological but not necessarily the economic outcomes of a fishery because they say
+little about the revenue and cost of fishing; a fishery could be in excellent biological health (say, at
+B = BMSY and F = FMSY ), but still be still be economically overfished, provided the cost of fishing
+is relatively high.
+Since these status estimates do not reflect directly measurable states of nature, statistical models are needed to estimate a fishery’s status as a function of observable data such as total catch,
+fishing effort, and the sizes of fish being caught (as well as critical assumptions about the dynamics of the fished population). These stock assessment models often require large amounts of
+data and expertise to produce, rendering them very expensive, and as such they are generally performed in only highly valuable fisheries. The majority of fisheries within this group, largely concentrated in the developed world (5), are in reasonably good biological condition—they currently
+have either B/BMSY values above 1 or F/FMSY values less than 1 (which should eventually result
+in B/BMSY values above 1) (5). Thus, the best available data suggest that the world’s large, valuable, and well-studied fisheries are relatively healthy. This conclusion is represented by Figure 1,
+which shows the most recent status of each fishery in the world with a publicly-available stock
+assessment.
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+179
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+4
+
+3
+MSY
+1,000,000
+
+F/FMSY
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+2,000,000
+3,000,000
+2
+Stock assessed
+Unassessed
+
+1
+
+0
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+B/BMSY
+Figure 1
+Global stock status, adapted from Reference 9. Horizontal axis is biomass relative to the biomass at maximum sustainable yield
+(B/BMSY ) and vertical axis is fishing mortality rate relative to mortality rate at maximum sustainable yield (F/FMSY ). Each point is a
+single fishery. Size and shading indicate MSY of the fishery, and color indicates whether the fishery has a stock assessment (red) or is
+unassessed (blue). Medians for stock assessed and unassessed fisheries are presented as triangles. Abbreviation: MSY, maximum
+sustainable yield.
+
+While these formally-assessed fisheries comprise roughly 34% of global captures, they represent less than 5% of a rough measure of the total number of stocks reported by the Food and
+Agricultural Organization (FAO) of the United Nations (as of the version of the RAM Legacy
+Stock Assessment Data Base, hereafter RAM, used in Reference 9; the percentage of global catch
+encompassed by RAM has increased as more stock assessments have been added to the database in
+recent years). What, then, can be concluded about the rest of the world’s fisheries, which account
+for approximately 66% of global catch? The FAO provides periodic summaries of the state of
+global fisheries based on stock assessments where available, locally available data, and expert
+opinion (1). The FAO classifies stocks as underfished (B/BMSY > 1.2), maximally sustainably
+fished (0.8 ≥ B/BMSY ≤ 1.2), and overexploited (B/BMSY ≤ 0.8). The FAO’s most recent report
+estimates that roughly 60% of stocks are maximally sustainably fished, 7% are underfished,
+and 33% are overexploited. The proportion of fisheries in the overexploited group has been
+growing over time. Costello et al. (10) highlighted this concerning trend and demonstrated that
+while large, assessed fisheries appear to be doing well, smaller, unassessed fisheries are in worse
+shape and declining. This result is captured by Figure 1, which classifies stocks as assessed or
+unassessed and shows that those with stock assessments tend to be in better biological condition.
+Rosenberg et al. (11) also estimated a bimodal distribution of global fishery status, with roughly
+180
+
+Costello
+
+•
+
+Ovando
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+50% of fisheries concentrated at B/BMSY ≤ 1 and the rest falling at B/BMSY > 1. Fishery-specific
+status estimates done without formal stock assessments are highly uncertain, though new tools
+and methods are being developed that seek to use minimal data to produce useful insights and
+guidance. Despite these limitations, databases such as RAM and recent reports (e.g., 1, 9, 11)
+provide the best available information on the current biological status of global fisheries.
+Without information on the institutions that govern fisheries, our understanding of the status
+of global fisheries is incomplete (see Reference 12 for a recent and careful review of fishery management approaches employed around the world). Fisheries are coupled socioecological systems
+(13) that rely heavily on institutions that affect incentives and fishing behavior, supply chains, and,
+ultimately, ecological and economic outcomes. Therefore, understanding the current landscape of
+fisheries institutions is critical to understanding where global fisheries are today, what incentives
+fishermen currently face, and how fisheries are likely to perform in the future.
+By sheer number (ignoring fishery size), the majority of global fisheries are loosely regulated.
+Most exist as open-access or common-pool resources with some restrictions on inputs, such as
+seasons or size limits. Under such conditions, we expect the equilibrium economic rents generated
+by these fisheries to be driven to about zero due to free entry into the fishery. In most cases, this
+open-access equilibrium results in overexploitation of the stock (in which we would expect to
+observe B/BMSY  1).
+However, if costs are sufficiently high (on the high seas, for example, or for species that reside
+in very deep parts of the ocean), or if prices are very low, then economic rents may dissipate well
+before the stock becomes overfished. This highlights the importance of having economic measures
+of fishery health. In such cases, regulation can benefit the fishery economy, even if the health of
+the stock is not in jeopardy. However, in general, open-access fisheries deplete our seas, produce
+less food, return lower profits, and leave fishermen poorer than those that are effectively managed.
+Fortunately, many fisheries around the world have designed and adopted effective alternatives
+to open-access management. Regulatory tools such as input controls (e.g., limits on days of fishing)
+and output controls (e.g., limits on the quantity of fish caught) have reduced fishing mortality to
+levels consistent with MSY in many fisheries, and they can help recover formerly depleted stocks.
+The US West Coast groundfish fisheries are an excellent example of this. In the early 2000s, stock
+assessments found many of the stocks in this complex to be overfished. Rebuilding plans were implemented that resulted in large reductions in fishing pressure, and large MPAs were also created.
+While these interventions had some (at least short-term) negative economic consequences for local fishing communities, over time they appear to have contributed substantially to the recovery
+of many economically and ecologically critical stocks. While errors in assessments, poor enforcement, and environmental shocks can hamper a fishery’s rebuilding process, effective regulations
+can prevent, and help fisheries recover from, overfishing.
+But a fishery’s status is not only a function of its population size—a well-regulated fishery
+can meet all of its biological goals and still fail to produce benefits for fishery stakeholders. Derby
+fishing (or the race to fish) is well documented in many rigorously regulated fisheries where fishers
+compete to catch the available quota as quickly as possible before it is caught by a competitor
+(14–16). If the catch quota is appropriately set and well enforced, the fish biomass is effectively
+conserved. But derby fishing can leave fishing communities poorer and individual fishers at greater
+risk of injury or death. The Alaskan halibut and king crab fisheries both experienced derby periods
+in which the fishing season could last for only 24 hours. This drastically dissipated the economic
+value of these two fisheries and put the safety of fishers at risk. While pure top-down management
+of fisheries can address the biological component of overfishing, it does not necessarily maximize
+socioeconomic well-being and usually fails to create the necessary stakeholder incentives to ensure
+the sustainability of the stock.
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+181
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+RBFM is an extension to top-down fisheries management in which property rights (e.g.,
+catch quota, days at sea, physical space) are allocated to fishery stakeholders who may be able
+to trade them with other owners. A substantial body of theoretical and empirical evidence suggests that RBFM provides better economic returns (at least to the fishing sector) than open-access
+or limited-entry regimes (14, 17). Whether RBFM delivers improved conservation outcomes has
+been the focus of considerable recent attention (e.g., 17, 18).
+To illustrate why RBFM might plausibly deliver larger economic and conservation returns,
+consider a simple bioeconomic model. Population dynamics are given by
+Bt = g(Bt−1 , r, k) − ft−1 Bt−1 ,
+
+1.
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+where Bt is biomass at time t, g is the population growth function, r is the intrinsic growth rate of
+the population, k is the carrying capacity, and f is the fishing mortality rate (where 0 < f < 1).
+Profits in the fishery are given by
+πt = p ft Bt − c ft2 ,
+
+2.
+
+where p is price and c is a cost parameter. When the fishery is under open access, we would expect
+fishing mortality to expand until all rents in the fishery are dissipated, so πt = 0. This outcome is
+seen in Figure 2, where the cost curve intersects the revenue curve at point A. The biomass under
+open access has been driven to a very low level, and the profit curve is zero at that biomass. Under
+RBFM, theory suggests that fishers would try and maximize profits, leading to fishing mortality
+rates that leave many more fish in the water, increasing profits, catch, and conservation outcomes
+(point B). In this stylized example, RBFM would produce over 4 times the biomass of fish than we
+would expect under open access. Note also that the maximum steady state profit solution (where
+High
+Revenue
+
+Value
+
+Profits
+A
+Costs
+
+B
+Low
+
+0
+
+25
+
+50
+
+75
+
+100
+
+Fish biomass
+Figure 2
+Simple bioeconomic model illustrating the potential gains to profits (blue line), revenues (and by extension
+food, gray line), and conservation (x-axis) from rights-based fishery management (RBFM). Under open
+access, bioeconomic theory suggests that effort will increase until point A (red dashed line), where total costs
+equal total revenue. Under RBFM, which resolves the race for fish, we expect fishing effort to instead go to
+the level that maximizes profits (point B, green dashed line), producing more food, profits, and conservation
+benefits than open access.
+182
+
+Costello
+
+•
+
+Ovando
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+the profits curve is maximized) has, in this example, slightly higher biomass than BMSY , which
+occurs where the revenue curve is maximized.
+Bioeconomic theory suggests then that RBFM may have both economic and ecological benefits. How have these institutions been implemented in the real world? Different variations of
+RBFM have been applied to fisheries for centuries, perhaps most famously throughout Oceania
+in the form of marine tenure arrangements (19). These traditional approaches to marine tenure
+often supplied local communities with exclusive rights to the marine resources adjacent to their
+communities. Since that time, RBFM has expanded and evolved throughout the world. Programs
+such as ITQs have thrived in many of the world’s largest and most valuable fisheries, including
+many prominent fisheries in New Zealand, the United States, Canada, Peru, Chile, and Iceland.
+A few studies have attempted to estimate the economic benefits of transitioning from a common
+pool setting to an RBFM setting. These studies are detailed in Reference 20 (halibut), Reference 21
+(salmon), and Reference 22 (red snapper); they find increases in economic value of the fishery of
+up to ten times the pre-RBFM value. Birkenbach et al. (16) found that ITQs reduced the race for
+fish across 39 different US fisheries. Figure 3 depicts the locations of countries that are known to
+manage at least some of their fisheries with ITQs.
+Modern RBFM is not limited to ITQs, nor it is limited to the large industrial fishing operations most prominent in Figure 3. TURFs represent an evolution from traditional marine tenure
+systems that have been increasingly implemented throughout the world, especially for smaller fishing communities fishing in local waters (23). TURFs are spatial property rights that are owned or
+granted for limited tenure to communities, cooperatives, or firms that are often largely responsible
+for managing the fisheries in their borders. Similarly, fishing cooperatives have been increasingly
+used to rationalize fisheries at a variety of scales, from massive operations in Japan to small communities in Mexico (24). There is mounting evidence that combinations of RBFM (TURFs paired
+with ITQs, for example) may help achieve multiple objectives (25). RBFM is no longer an isolated
+
+No ITQs
+Has ITQs
+
+Figure 3
+Global map of countries that are known to manage at least some of their fish catch with individual transferable quotas (ITQs). Adapted
+with permission from Reference 9.
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+183
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+experiment being performed in a few select fisheries, but rather a broad and growing collection
+of strategies for realigning incentives for marine resource exploitation around the globe.
+What percent of global fish catch comes from fisheries currently managed under different
+kinds of RBFM? We begin by considering only fisheries that are managed under ITQs. Due to
+their high management costs, ITQ fisheries tend to be large industrial operations, making them
+relatively easier to identify and catalog than, say, cooperatives. Using data from Reference 9, we
+can determine which of the fisheries tracked by the FAO are currently being managed using ITQs;
+from this we estimate that 20% of annual global marine capture comes from fisheries currently
+managed under ITQs.
+What contribution do other practices, such as TURFs and cooperatives, make to global catch?
+The challenge with making such a calculation is that these operations are much smaller scale and
+more diffuse than ITQs, so we cannot easily match FAO catch data to individual TURFs, nor are
+individual data globally available at the TURF level. However, we do know where many TURFs
+and cooperatives exist and what species they target. As a thought experiment, suppose we start by
+assuming that all catch of a given species ever reported managed by a TURF and/or cooperative
+in a given country comes from a TURF/cooperative. This is clearly an overestimate of catch from
+these RBFM approaches, but since we know that the catch attributable to the RBFM programs
+in that country must be somewhere between 0% and 100% of the reported catch, this provides
+an upper bound on the proportion of catch produced by RBFM programs such as TURFs and
+cooperatives, all based on our best current understanding of their distribution around the globe.
+Based on this calculation, we find that roughly 1% of global catch comes from TURFs, and
+roughly 1% comes from cooperatives. In total, based on best available data to date, we estimate
+that roughly 22% of global wild fish catch comes from all forms of RBFM combined. These
+catches come from about 10% of fishing countries and occur across diverse types of fish species.
+Theory suggests that fish populations managed under RBFM will be relatively healthy, at least
+once they reach equilibrium. How do the statuses of RBFM and non-RBFM fish populations
+compare? Reference 18 found lower rates of fishery collapse resulting from ITQ implementation.
+Referring back to the plots of fishery status by assessment status and size in Figure 1, we can
+compare the status (in terms of B/BMSY and F/FMSY ) of stocks with and without RBFM among
+fisheries included in RAM (Reference 5, in which most RBFM fisheries are ITQs). This is a
+limited comparison since all the fisheries included in RAM have some form of fishing regulations
+in place (e.g., quotas or effort restrictions), so we might expect smaller differences between
+fisheries. This analysis reveals that, among stock assessed fisheries of the world, the median status
+of stock assessed RBFM fisheries is nearly identical to the status of non-RBFM stock assessed
+fisheries, see Figure 4. This is in line with Reference 26, which found that quota-managed
+fisheries had similar stock status levels regardless of whether they were managed as ITQs.
+The focus of much of the literature on biological, and not necessarily economic, health may
+obscure important differences between tightly regulated fisheries and RBFM fisheries, both of
+which are captured in RAM. For example, a study (26) showed that ITQ fisheries had lower
+variance in the ratio of catches to quotas, suggesting more stable economic outcomes for participants. And a growing body of work suggests that economic value of a fishery can be substantially
+increased by RBFM (up to ten times as high as pre-RBFM), even when the underlying stock is
+the same (20, 22). Putting this in the context of all global fisheries, our best available evidence
+suggests that the median biological status of both RBFM and non-RBFM stock assessed fisheries
+are comparable, and both are greater than the median status on unassessed fisheries. While the
+evidence suggests that economic performance appears to be superior under RBFM (than fisheries
+managed without RBFM and unmanaged fisheries), this is less well studied at a global scale,
+though we summarize some recent projections below in Section 3.
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+184
+
+Costello
+
+•
+
+Ovando
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+4
+
+3
+MSY
+
+F/FMSY
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+1,000,000
+2,000,000
+3,000,000
+
+2
+
+No RBFM
+RBFM
+1
+
+0
+0.0
+
+0.5
+
+1.0
+
+B/BMSY
+
+1.5
+
+2.0
+
+2.5
+
+Figure 4
+Fishery status for stocks present in the RAM Legacy Stock Assessment Database (5). Horizontal axis is biomass relative to the biomass
+at maximum sustainable yield (B/BMSY ) and vertical axis is fishing mortality rate relative to mortality rate at maximum sustainable yield
+(F/FMSY ). Each point is a single fishery. Size and shading indicate maximum sustainable yield (MSY) of the fishery and color indicates
+whether the fishery is managed with rights-based fishery management (RBFM). Medians for RBFM and non-RBFM fisheries are
+shown as triangles.
+
+3. FISHERY POTENTIAL
+While many key fisheries have adopted RBFM and are performing well and comparable to other
+fisheries with formal stock assessments, about 78% of global fish catch still comes from fisheries
+that have not yet adopted RBFM. In this section we ask: What would be the upside potential
+from fisheries if they were to adopt various forms of RBFM? We begin by conducting a simple
+exercise estimating what characteristics of a fishery make it more or less likely to adopt different forms of RBFM; we focus here on ITQs and TURFs because they represent the majority of
+RBFM-managed fisheries around the world. We use those estimates to provide a first-of-its-kind
+calculation of the opportunities for expanding RBFM in the world’s fisheries. For example, will a
+clam fishery in the Philippines be more likely to adopt a TURF? And will an international tuna
+fishing fleet based in Chile be likely to adopt an ITQ? We then summarize the literature that
+estimates the global benefits and costs of scaling various forms of RBFM around the world. If all
+fisheries in the world could adopt an idealized version of RBFM, what would be the costs and
+benefits of this transition?
+What factors drive the adoption of various forms of RBFM? Anecdotal evidence suggests that
+large, industrial fisheries, often for mobile species, are most likely to adopt some form of ITQ,
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+185
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+while small-scale, artisanal fisheries, often for benthic species, are more likely to adopt a TURF. To
+test this expectation, we built a data set of 305 ITQ fisheries and 228 TURF fisheries and matched
+them to the broad taxonomic classifications (e.g., “cods, hakes and haddocks” versus “mussels”) in
+Reference 9. This provided us with a data set of 533 fisheries with the country, species or genus
+name, and some other ecological and economic characteristics. Conditional on adopting some
+form of RBFM (ITQ or TURF), our goal was to estimate the likelihood of adopting an ITQ
+versus a TURF in a simple model. To do so, we ran a logistic regression with TURF on the lefthand side and GDP of the country in which the fishery resides, catch of the fishery, and the fish
+type on the right-hand side, as follows:
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+ˆ i ),
+Pr(TU RFi ) = f (Species Categoryi , GDPi , catch
+
+3.
+
+where i is the fishery, GDPi is the GDP of the country in which fishery i resides, Species Cateogryi
+ˆ i is the mean catch for that fishery, which together capture ecological
+is the fish category, and catch
+and economic features of the fish stock of i. While this exercise is a starting point in the analysis
+of the drivers of different forms of RBFM adoption, even this simple regression reveals an interesting story that is consistent with anecdotal predictions. The results suggest that richer countries
+tend to be better suited for ITQs and that sedentary species such as clams, crabs, cockles, other
+crustaceans, and coastal fish tend to be associated with TURFs, while cods, hakes, and diadromous
+fish tend to be associated with ITQs.
+While these results suggest that certain inherent characteristics are much more likely to be
+associated with a TURF or an ITQ, a wide variety of outcomes is certainly possible. Some of the
+fisheries in our data set that seem almost perfectly suited for a TURF have, in fact, adopted an
+ITQ. For example, our model assigns a high probability of being a TURF to the Pacific geoduck
+fishery in western Canada, while that particular fishery has adopted an individual license quota
+system.
+We can employ the association between a fishery’s characteristics and the form of RBFM it
+adopts to get a sense of the opportunities for expanding TURFs and ITQs to the world’s fisheries that have not yet adopted RBFM. To do so, we apply Equation 3 to make predictions for
+the over 4,500 non-RBFM fisheries in the database (9). We assign a fishery to the ITQ category
+if the predicted probability of ITQ exceeds 50%, and we assign a fishery to the TURF category
+otherwise. While admittedly imprecise and incomplete, this provides a first-of-its-kind, back-ofthe-envelope calculation of how RBFM might scale to the world’s fisheries. This estimate suggests
+that about 23% of the world’s currently non-RBFM fisheries may be more likely to adopt some
+form of ITQ, and the remaining 77% may be more likely to adopt a TURF. As a percentage of
+fishery potential (estimated MSY), the breakdown is 36% (ITQ) and 64% (TURF). Figure 5
+presents the results of this extrapolation for the world’s top 10 fishing nations (in terms of total estimated MSY). This cursory analysis suggests that major fishing nations like Indonesia and
+Thailand, which are dominated by coastal, often small-scale fisheries, are probably better suited
+for TURFs. And some large industrial countries, like the United States and Japan, are generally
+better suited for ITQs.
+While historical evidence strongly suggests that carefully designing, adopting, and implementing appropriate RBFM in a fishery can lead to desirable environmental, economic, and food security outcomes, these benefits will likely come at some increased management cost. What would
+be the costs and benefits of such a transition to RBFM throughout the world’s fisheries? Several
+authors have estimated the benefits of this transition, and these papers use two main approaches.
+The highest-level approach is to model the world as a single, aggregated fishery that follows basic
+ecological and economic fundamentals. This approach was taken in the World Bank’s report (27)
+186
+
+Costello
+
+•
+
+Ovando
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+United States
+Argentina
+Japan
+Peru
+China
+
+ITQ
+TURF
+
+Philippines
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+India
+South Korea
+Thailand
+Indonesia
+0%
+
+25%
+
+50%
+
+75%
+
+100%
+
+% RBFM Type
+Figure 5
+Percent of maximum sustainable yield currently without RBFM that the model predicts to be best suited for
+ITQs versus TURFs in each of the top 10 countries by total estimated non-RBFM MSY. Abbreviations:
+ITQs, individual transferrable quotas; RBFM, rights-based fishery management; TURFs, territorial user
+rights fisheries.
+
+and update (28). Importantly, all benefits from fishery reform accrue due to stock rebuilding; there
+are no economic benefits that accrue due to more efficient harvesting or higher-quality product.
+Thus, identifying a benefit from adopting RBFM hinges on assuming that this single globally
+aggregated fishery is currently overfished. Instead, if the fishery is on average fished appropriately (but, say, half of fisheries are underfished and half are overfished), then no benefit would be
+detected. Thus, the aggregated fishery approach has two main shortcomings. First, it ignores economic benefits from institutional reform, and second, it obscures heterogeneity across fisheries.
+However, its strength is that it is straightforward to implement, and this makes it transparent to
+understand what is driving results. Using that approach, authors have estimated a benefit of global
+RBFM between US$50 billion and $90 billion per year.
+The second approach to estimating the global benefits of RBFM expansion is to estimate the
+effects of RBFM adoption fishery by fishery and then aggregate the results across all of the world’s
+fisheries. This bottom-up approach has the potential to overcome both shortcomings of the topdown approach identified above but may introduce other shortcomings. By working fishery by
+fishery, this approach provides estimates across the full range of heterogeneous fisheries. For example, if fishery A is overfished, then appropriate RBFM will reduce fishing pressure and will
+return a commensurate benefit, and if fishery B is underfished, then appropriate RBFM will increase fishing pressure and return a commensurate benefit. By aggregating the resulting biomass,
+fish catch, and economic value across all the world’s fisheries, we can obtain a global estimate of the
+benefits of RBFM. This approach also facilitates the inclusion of economic benefits from institutional reform. For example, if adopting RBFM lowers costs (due to efficiency gains) and increases
+prices (due to product quality), then these factors can be captured fishery by fishery. However, a
+shortcoming of this bottom-up approach is that it may assume away important ecosystem interactions. For example, it implicitly assumes that all harvested species can simultaneously achieve
+MSY, when in fact this may not be ecologically tenable due to species interactions. Costello et al.
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+187
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+Table 1
+
+15:40
+
+Estimates of benefits and costs from a global transition to RBFM
+
+Benefit or cost
+Benefit
+
+Estimate
+$90 billion
+
+Method
+Global aggregate
+
+31
+
+Reference
+
+Benefit
+
+$50 billion
+
+Global aggregate
+
+27
+
+Benefit
+
+$66 billion
+
+Fishery by fishery
+
+9
+
+Benefit
+
+$80 billion
+
+Global aggregate
+
+28
+
+Cost
+
+$15 billion
+
+Fishery by fishery
+
+29
+
+Abbreviation: RBFM, rights-based fisheries management.
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+(9) adopt this bottom-up approach and develop fishery-by-fishery bioeconomic models for 4,713
+fisheries around the world, representing 78% of global fish catch. Using that sample, the authors
+estimate an increase in catch of 16 million MT, an increase in biomass of 619 million MT, and an
+annual economic benefit from RBFM of US$53 billion. Scaling this number up by the fraction of
+catch missing in the database provides an annual estimate of $66.25 billion.
+While the methods differ substantially, estimates of the economic benefit from globally adopting RBFM are all in the vicinity of $50 billion to $90 billion. But achieving these benefits would
+require substantial retooling of the institutions used to govern the oceans and would likely come
+at a significant cost. Estimating this cost is complicated by the lack of consistent data on the cost
+of fishery management across fisheries and countries. Recent estimates suggest that current annual fishery management costs are in the ballpark of $95 per MT of fish caught. Applying such
+averages globally provides a cursory estimate of the current global cost of fishery management of
+$7.6 billion. But the few studies that have been undertaken also suggest that fishery management
+costs vary significantly across countries (for example, estimated management costs are $50/MT
+for Indonesia and $300/MT for the United States) (29), recognizing that there is also likely a great
+deal of heterogeneity across fisheries. What we really would like is an estimate of the change in
+fishery management cost associated with adopting RBFM. A recent paper (29) provides precisely
+this estimate. Working fishery by fishery, and recognizing that improving management of some
+fisheries will return vastly different net benefits than improving management of others, the authors estimate that global fishery management costs would be $15 billion after adopting RBFM
+universally across the world’s fisheries. Comparing this number to the potential economic benefits strongly suggests that the benefits of RBFM expansion would outweigh the increased costs,
+a result echoed by other work (30). Table 1 summarizes the studies of the benefits and costs of
+global-scale adoption of RBFM.
+
+4. OTHER SOLUTIONS
+Thus far we have summarized the biological and institutional state of global fisheries and
+the potential benefits and costs of institutional reform of those fisheries. While many fisheries
+have healthy population levels and fishing communities, many other fisheries, particularly
+smaller-scale operations, are faring poorly and appear to be getting worse. We have highlighted
+RBFM as one approach for improving both conservation and economic outcomes, and we have
+demonstrated that there are substantial opportunities to expand RBFM around the world. But
+other strategies for improving fisheries clearly exist. Here we focus on two of the most commonly
+discussed alternatives: MPAs and various forms of technology.
+MPAs are spatial regions of the ocean in which some or all forms of human activities are prohibited. No-take MPAs are those in which no form of fishing is allowed, but alternative versions
+prohibit select kinds of fishing or, at the other extreme, ban all human activity besides sanctioned
+188
+
+Costello
+
+•
+
+Ovando
+
+EG44CH07_Costello
+
+Table 2
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+Coverage of NTMPAs in national waters of the six countries with largest area in NTMPAs
+
+Rank
+1
+
+Country
+United States
+
+NTMPA size (km2 )
+1,521,594
+
+% of EEZ
+12.53%
+
+Cumulative % of NTMPAs
+28.34%
+
+Cumulative % of ocean
+0.42%
+
+2
+
+New Zealand
+
+1,276,582
+
+19.02%
+
+52.12%
+
+0.78%
+
+3
+
+Australia
+
+1,244,399
+
+13.84%
+
+75.29%
+
+1.12%
+
+4
+
+United Kingdom
+
+832,051
+
+20.11%
+
+90.79%
+
+1.35%
+
+5
+
+Chile
+
+451,132
+
+12.37%
+
+99.19%
+
+1.48%
+
+6
+
+France
+
+18,428
+
+0.19%
+
+99.54%
+
+1.48%
+
+Global
+
+5,369,005
+
+3.93%
+
+100.00%
+
+1.49%
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+Abbreviations: EEZ, exclusive economic zone, NTMPA, no-take marine protected area.
+
+research. MPAs are often suggested as a means for achieving both conservation and fisheries goals
+(e.g., 32). From a conservation standpoint, the theory is that over time, fish biomass inside MPAs
+will increase due to protection from fishing, and we have strong evidence that under ideal circumstances this does indeed occur (33). As biomass starts to build up inside the reserve, adult and
+larval fish will disperse to waters outside the reserve, potentially spreading both conservation and
+fisheries benefits throughout the region.
+As a result of these potential conservation and fishery effects, MPAs have been increasingly
+proposed as a solution to global fisheries sustainability. For example, the Convention on Biological Diversity’s Strategic Plan for Biodiversity calls for 10% of coastal waters to be protected
+inside MPAs by 2020. This call has been accompanied by the creation of large, strongly protected
+MPAs in places such as Papahānaumokuākea (northwest Hawaiian Islands, United States) and
+the Pitcairn Islands (South Pacific, east of Tahiti). Table 2 shows the area covered by no-take
+MPAs (NTMPAs) in national waters of the six countries with the largest area in NTMPAs [coverage and exclusive economic zone (EEZ) area include territories, as of early 2018, based on data
+from www.marineregions.org and www.protectedplanet.net]. These NTMPAs are the class of
+MPAs with the strongest protection in which fishing is forbidden. Together, the NTMPAs in these
+six countries comprise about 5 million square kilometers of ocean and represent 99.5% of the total
+global coverage of NTMPAs in national waters. While the global coverage of NTMPAs indeed
+seems quite expansive, it still represents only about 4% of total EEZ area globally and about 1.5%
+of the total global surface oceans (including the high seas). While NTMPAs continue to be implemented, their total oceanic coverage is still small relative to most internationally-recognized
+targets.
+A key question then arises: To achieve global fisheries sustainability, are MPAs a complement
+or a substitute for RBFM? We argue that while well-designed MPAs are certainly able to achieve
+many conservation targets, they cannot be relied on alone to support an overall goal of global
+fisheries health.
+To evaluate this conjecture, suppose that 100% of the world’s oceans were placed inside
+NTMPAs (thus banning global marine fishing). This would clearly produce vast conservation benefits for any exploited species (and whole ecosystems through trophic interactions). The benefits of
+such a radical conservation measure would be immense; we would expect to see dramatic increases
+in abundance, biodiversity, carbon storage, recreational nonconsumptive value, and resilience of
+ocean ecosystems. But such a policy would also come with tremendous costs: It would completely
+eliminate any benefits to food security and livelihoods provided by fisheries, and it would potentially increase greenhouse gas emissions through increased production of terrestrial food sources
+(34). Another useful extreme to consider is a global ocean that lacks any form of regulation or
+property rights. In such an open-access setting, we would expect to see dramatic losses along possibly all dimensions of human welfare, including biodiversity, abundance, and fishery benefits.
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+189
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+Clearly, society derives benefits from both conservation and fishing. To some extent they are
+linked: Achieving maximal long-term benefits from fishing requires engaging in some level of
+conservation. But they are not completely consistent with each other—fishing, even at responsible
+levels such as FMSY , reduces some ecosystem service flows. This argument implies that we need a
+policy mix that somehow balances the benefits from fisheries and the benefits from conservation.
+On the one hand, if all fisheries in the world were optimally managed for fishery production, then
+society might still desire some additional conservation (for example, MPAs for tourism in coral
+reef ecosystems). On the other hand, where fisheries are overexploited, then MPAs may be a useful
+tool to restore fishery benefits through spillover.
+How do we go about identifying an ideal MPA size for any given set of societal objectives? The
+answer clearly depends on the dynamics of the fished population, ecosystem interactions, and
+the dynamics of the fishing fleet itself (35). Consider a fishery in which fishing effort was spread
+evenly throughout the region, which then has 30% of its waters placed inside an MPA. The effect
+of that MPA on both conservation and fisheries will depend in large part on how the fleet reacts
+(e.g., 36, 37). For example, do fishers who used to fish inside the MPA leave the fishery or simply
+relocate to the areas still open to fishing? If spillover benefits start to accrue, does fishing effort
+expand to capture these benefits? Or are incentives in place that prohibit this reallocation of fishing
+effort?
+There is a large body of theory addressing these questions. Consider first the case of an openaccess fishery, where our expectation is that fishing effort will enter until economic profits (rents)
+from fishing are driven to zero. This expectation also holds in the presence of an MPA in an
+open-access fishery, though there will be an adjustment period to reach equilibrium following the
+implementation of the MPA. This logic suggests that an MPA in an open-access setting cannot
+be expected to raise profits because the externality of entry persists. On the other hand, a welldesigned MPA in an open-access setting could be expected to increase harvest. As long as the
+MPA is designed to achieve overall fishing pressure consistent with FMSY , it is even possible that
+the MPA could help achieve MSY in an open-access fishery. But achieving the joint objective of
+increasing food and fisher livelihoods in an open-access setting cannot be achieved with MPAs
+alone. In short, MPAs can solve the fish problem but cannot, by themselves, solve the fisheries
+problem. Implementing MPAs to achieve conservation benefits as well as RBFM in the remaining
+fishery may be one promising way to simultaneously secure conservation and fishery benefits.
+Little et al. (38) demonstrated how integration of ITQs with MPAs can mitigate some of the
+negative externalities imposed by the MPAs on the waters surrounding them through fleet concentration, and other articles (25, 39) identify other synergies between RBFM and MPAs. Because
+MPAs often impose short-term economic losses in the hope of long-term economic gains (40), if
+RBFM provides sufficiently strong property rights, their pairing can allow quota holders to capitalize some of the future perceived benefits of the MPA in the current value of their quota shares,
+helping reduce some of the economic losses resulting from lost fishing grounds.
+MPAs can also work well with forms of spatial property rights such as TURFs. For a spatial
+property right to be effective, it must cover a substantial portion of the range of the species being
+fished: A 1 km2 TURF is not likely to provide a strong property right incentive if the main fishery
+targeted by the TURF are tunas that migrate across entire ocean basins. Implementing a network
+of TURFs may not provide a meaningful property right to any individual TURF if each one
+is competing with adjacent TURFs for the same resource. While coordination among TURFs
+could alleviate this problem, the transaction costs of this kind of collaborative management might
+become prohibitively high. Costello et al. (41) demonstrated that pairing a network of connected
+but noncoordinated TURFs with strategically placed MPAs could resolve this problem, increasing
+fishing profits and conservation outcomes.
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+190
+
+Costello
+
+•
+
+Ovando
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+Theory suggests that MPAs and RBFM together can provide synergistic benefits for fisheries.
+What empirical evidence is there? Looking first at the fishery effects solely from MPAs, the evidence is unclear. Many studies have evaluated changes in catch rates both before and after MPA
+implementation, and along distance gradients from MPA borders (42–44). These studies found
+that in many cases, catch rates increased after MPA implementation and in areas closer to MPA
+borders, providing evidence for spillover of fish biomass (and fishing benefits) from MPAs.
+However, it is difficult to say to what extent these studies provide an accurate assessment of the
+total fishery effects of MPAs. Determining causal effects in coupled human and natural systems
+such as MPAs and fisheries is a very challenging task (45). Before and after comparisons can be
+confounded by factors besides the MPA such as market forces. Distance gradient methods can
+be biased by spillover of fish and fleets from inside MPA borders. One study (46) provides an
+empirically robust estimate of the fishery consequences of MPAs; the authors found little or no
+evidence for fishery benefits in the first few years after MPA creation.
+Evidence is even sparser for the synergistic effects of MPAs and RBFM together. We know of
+no studies that have yet addressed the challenge of empirically estimating the net effect of paired
+MPA and RBFM strategies. However, MPAs have been used as a tool in traditional marine tenure
+systems throughout Oceania for centuries, suggesting that they return some benefits to fishing
+communities (19). Ovando et al. (24) also found that fisheries granted spatial property rights in the
+form of TURFs were more likely than fisheries with nonspatial RBFM to have privately created
+MPAs. It seems that MPAs and RBFM will play integral roles in the future of marine resource
+management, but critical work remains to be done to estimate the joint effects of these policies so
+they can be designed and adapted to meet their objectives.
+MPAs are a powerful conservation tool capable of protecting biomass and biodiversity inside
+their borders and providing potential insurance against environmental shocks. Under the right
+circumstances, they can also provide economic benefits to the fisheries surrounding them (though
+they can also impose substantial costs). However, theory tells us that the ability of MPAs to provide
+spillover benefits depends critically on the institutional structure used to manage fisheries outside
+their borders. As such, MPAs can only be part of the solution to protecting global fisheries; institutions such as RBFM still play a critical role in ensuring the sustainability and profitability of
+fishing operations in the waters around protected areas.
+The actual implementation of RBFM, MPAs, or other approaches to manage the oceans often
+requires acquiring data, monitoring, stock assessments, and other costly activities. When information is extremely costly or impossible to acquire, sustainable management often relies on very
+blunt policy instruments to ensure that overfishing does not occur. But with recent advances in
+remote sensing, geographic information system analysis, spatial real-time data streams, and other
+forms of technology, these costs are dramatically changing, which raises the question: What role
+might emerging technologies play in supporting global fisheries sustainability?
+Perhaps the most salient application of technology to global fisheries is in enforcement. Fishing activity is often scattered over large swaths of oceans far from ports, making monitoring of
+adherence to regulations (such as closed areas, closed seasons, or banned fishing gear) extremely
+challenging and costly. But now, a growing set of tools is being developed that allows for cost effective tracking of fishing activity in near real time. For example, a free platform called Global Fishing
+Watch (https://globalfishingwatch.org/) provides online access to an enormous and near-realtime data stream from the world’s large fishing vessels (47). Figure 6 shows the aggregate global
+fishing effort footprint for 2018 from Global Fishing Watch.
+Technologies such as Global Fishing Watch have enormous implications for the scope of research that can be conducted in the ocean and for applied problem solving, monitoring, and regulation conducted by agencies, nongovernmental organizations, and industry. Real-time global
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+191
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+Fishing hours
+10
+
+100
+
+1,000
+
+10,000
+
+>100,000
+
+Figure 6
+Aggregate global fishing effort in 2018 from Global Fishing Watch. Effort here is measured in actual hours spent fishing by vessels
+tracked by Global Fishing Watch.
+
+data have recently been used to detect the consequences of marine reserve announcements (48),
+estimate the global footprint of fisheries (47), calculate the costs and benefits of high-seas fisheries
+(49), and measure the efficacy of large-scale bans on illegal fishing (50). In applications, these data
+streams make it much more feasible for countries to enforce access rights to fishing within their
+EEZs, and potentially for smaller TURF operations to actively monitor their borders and deploy
+enforcement assets in a cost-effective manner.
+In addition to helping monitor who is fishing, where fishing is occurring, and what fishing gear
+is being using, tools such as electronic catch monitoring can help make collecting robust fisheries
+data much more cost-effective. Traditional forms of fisheries monitoring might involve onboard
+human observers, dockside monitors, and self-reported paper logbooks, all of which can be very
+expensive to maintain in a robust fashion and are rife with incentives for misreporting. This is
+especially the case for smaller scale fisheries with large numbers of landing ports scattered along a
+coastline. A growing number of tools, such as eCatch (https://www.ecatch.org/), allow users to
+easily catalog fisheries data to digital databases, even while at sea.
+These digital databases are likely to dramatically lower the cost of stock assessments and other
+management activities. New tools are being developed that can measure and identify the species
+of individual fish from images, reducing the need for expensive fisheries observers and allowing
+for data collection at much finer spatial and temporal scales. This is particularly critical as fish
+populations move to adjust to a changing climate. These kinds of data may make it possible for
+communities to collect robust data streams for use in stock assessment that would have been entirely cost prohibitive in the past.
+
+192
+
+Costello
+
+•
+
+Ovando
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+These are just a few examples of how new technologies for fisheries monitoring and management can help make RBFM possible across a much broader set of conditions. Assigning a property
+right requires the abilities to both quantify the object for which the right is granted and enforce
+that right against infractions. In the case of TURFs, technology such as real-time vessel tracking
+can help communities efficiently enforce the boundaries of their spatial property right. Electronic
+data collection can greatly facilitate the collection of the data needed to perform stock assessments, and by extension the decision of what the total quota or effort cap for a transferable quota
+system should be. Electronic fishery records can also help communities monitor quota among
+shareholders and facilitate trading.
+However, there are also ways in which technology can negatively impact fisheries. When markets are incomplete, or in the presence of externalities or other market failures, technology could
+actually exacerbate the race to fish and the consequences of mismanagement. Consider the case of
+high-seas tuna fisheries. Many high-seas tuna fisheries do not have binding catch or effort quotas
+and operate as regulated open-access fisheries. Our intuition might be that these fisheries would be
+overexploited. However, most recent evidence suggests that these high-seas fisheries are largely in
+fair or good biological condition (51). One explanation is completely consistent with bioeconomic
+theory—the cost of fishing on the high seas and locating highly mobile tuna is simply so high that
+costs can quickly overtake revenue from fishing. The consequence is that profits are low (or zero),
+but biological stocks are reasonably healthy. But many technologies (such as fish aggregating devices, satellite tracking devices, predictive models, fish finding technology, etc.) will reduce the
+cost of fishing, incentivizing overexploitation. Ultimately, then, the profits of fishing would still
+be zero (if the fishery remains in open access), but the stock would be driven to a lower level.
+Technology can even have negative conservation outcomes in RBFM fisheries. A key reason
+RBFM approaches have received support from conservation organizations is that they can provide
+a long-run incentive to steward the fish stock. In short, maximizing profit in a fishery requires conserving the stock. But a corollary is that the economically optimal level of fish biomass (which, in
+theory, would be selected using an RBFM approach) depends on fishing costs. Most bioeconomic
+fishery models invoke a stock effect—as the stock of fish declines, the marginal cost of fishing
+increases. In that setting, if RBFM reduces the marginal cost of fishing, then the economically
+optimal level of biomass will also decline.
+Consider a stylized example where an ITQ is created for a new fishery, and management is
+set so as to maximize profits. We will call the resulting equilibrium biomass level B∗ /BMSY . When
+costs are high and discount rates are low, the profit-maximizing fishing adopted by the ITQ could
+typically result in B∗ /BMSY above 1.5. As cost per unit effort decreases, the economically optimal
+biomass also declines. In the extreme, when costs are driven to zero (but a positive discount rate
+remains), the economically optimal biomass will be B∗ /BMSY < 1 (Figure 7).
+Therefore, to the extent that new technologies reduce the cost of fishing, they may also create
+an economic incentive to fish harder, even in an economically optimized fishery. Of course, the cost
+savings generated by technology would also be expected to produce economic benefits to fishing
+communities. A less studied effect of technology is that it could help strengthen property rights
+(for example, through improved enforcement of EEZs or TURFs). This could have consequences
+similar to a reduction in the discount rate, which could lead to greater incentives for conservation
+of fish stocks (52).
+
+5. THREATS
+Thus far we have discussed the status and trends in global fisheries and have argued that appropriate design and scaling of RBFM could achieve dramatic economic, ecological, and food security
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+193
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+50.0
+B*/BMSY
+
+2.0
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+Discount rate (%)
+
+40.0
+
+1.5
+30.0
+
+1.0
+20.0
+
+0.5
+
+10.0
+
+0.0
+
+0.0
+
+Low
+
+High
+Medium
+
+Fishing costs
+Figure 7
+Outcomes from a simple bioeconomic model showing how conservation outcomes are affected by discount
+rate and fishing costs. Color shows the biomass that maximizes net present value of the fishery relative to the
+biomass at maximum sustainable yield (B∗ /BMSY ).
+
+benefits that significantly outweigh their costs. Other solutions to unsustainable fisheries, such as
+MPAs and new technology, may be viable and beneficial in certain circumstances and can certainly
+be designed to be synergistic with RBFM. But for the reasons discussed above, these solutions cannot be expected to achieve thriving fish and fisheries on their own. Thus, to the extent that a policy
+prescription arises out of this analysis, it seems that carefully designing and implementing RBFM
+in the world’s fisheries, possibly in conjunction with other interventions, can have lasting triple
+bottom line benefits. However, key threats remain. In this section we address two of the most
+commonly cited threats to fishery sustainability and attempt to summarize the state-of-the-art
+knowledge about their relevance and interaction with RBFM as a solution.
+If good governance is the key to fishery sustainability, then the lack of effective governance on
+the high seas must be a threat to global fisheries. The high seas comprise the areas of the global
+ocean beyond the 200-mile jurisdiction afforded to each coastal nation by the Law of the Sea,
+which came into force in most countries in the 1970s and 1980s. Inspecting the areas close to
+shore in Figure 6 reveals the 200-mile EEZ for all coastal nations and, far from shore, the high
+seas, which represent about 64% of the global ocean.
+When a fishing vessel resides in the high seas, it is largely free from fishery regulations. However, many high-seas tuna and billfish species are managed by regional fishery management organizations (RFMOs) through which member countries come together to set regulations such as
+effort restrictions and seasons. But these RFMOs do not cover all species or areas of the high seas.
+All of this seems to suggest that the high seas would be a tremendous threat to sustainability of the
+world’s fisheries. After all, even if all the countries of the world rigorously and judiciously adopted
+RBFM in coastal waters, the remaining 64% of the surface area of the world’s oceans would be
+under no particular entity’s jurisdiction, and so, because fish can swim freely into and out of EEZs,
+these fish stocks would be expected to be dramatically overexploited.
+194
+
+Costello
+
+•
+
+Ovando
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+Somewhat incredibly, this does not appear to be the case. Recent analyses show that fish stock
+health on the high seas is comparable to, or perhaps even better than, stock health in coastal waters
+(51). There are likely at least four reasons for this paradoxical finding. First, while fisheries on the
+high seas are surely propped up by subsidies (49), the cost of fishing on the high seas for highly
+mobile and unpredictable species such as tuna and billfish is substantial, so it may be prohibitively
+costly to biologically overexploit these stocks (which, incidentally, may make these ideal targets for
+ITQs). Second, there is, in fact, increasing governance of high-seas fisheries via RFMOs, which,
+for member states, help monitor, allocate, and manage the fish catch on the high seas. Third,
+while the high seas are vast and represent the majority of the world’s ocean, they represent only
+6% of global fish catch (8% of revenue) (49). Thus, while a few key stocks have undoubtedly
+been overexploited on the high seas (51), even significant overfishing of the high seas would have
+only fractional consequences for global fishery production. Finally, the high seas are deep. Thus,
+most high-seas fishing does not damage bottom habitat, and therefore may pose less of a long-run
+conservation concern than some fishing practices in coastal waters (we do note, however, that many
+species like sharks and turtles are unintentionally caught on the high seas, which itself presents a
+conservation challenge). We conclude, therefore, that while conservation challenges exist on the
+high seas, they represent a smaller piece in the much broader puzzle of global fishery sustainability
+than their sheer size might suggest.
+In contrast to our conclusions about the high seas, we find that climate change is likely to
+present dramatic yet underappreciated challenges to global fishery sustainability. Until recently,
+studies of climate change and fisheries were mostly limited to small regions or single-fishery models. But new global evidence seems to be converging on three main effects of climate change on
+global fisheries (53, 54). First, the productivity of global oceans may change substantially (55), but
+the overall change in productivity is likely to be small (though still negative). Second, poleward
+regions of the ocean will generally become much more productive and tropical regions of the
+ocean will generally become much less productive as a consequence of ocean warming. Finally,
+as species search for a suitable temperature envelope, most will migrate poleward, leaving their
+traditional waters for new countries’ waters, and possibly triggering transboundary institutional
+failures that exacerbate losses in productivity (55, 56).
+These anticipated effects of climate change on the world’s fisheries give rise to important institutional recommendations. As productivity changes begin to take hold, we will need approaches
+to fishery management that are adaptive—as fish stocks decline, so too should fishing pressure
+(57). And as fish stocks grow, fishing pressure should be free to expand. The set of institutions
+required to counteract range shifts arising from climate change may be altogether different. As a
+fish stock migrates out of its original waters, the home country faces strong incentives to overextract the stock before all control is lost. And as the stock enters a new country’s waters, or the
+high seas, the recipient fishermen face incentives to extract the (as yet, uncontrolled) fish stock.
+Counteracting these incentives will require new transboundary institutions; while some examples
+of successful transboundary institutions exist (for example, the Parties to the Nauru Agreement,
+which jointly manages tuna catch across nine Pacific countries), they appear to be quite rare and
+are likely ill-equipped to address the range of outcomes we expect from climate change. It will
+become increasingly important to design RBFM interventions that account for the changes in
+incentives, cooperation, and ecological conditions that arise under climate change.
+
+6. CONCLUSIONS
+The main purpose of this article has been to describe the current evidence on the status, trends,
+prospects, and threats to global fishery sustainability. We find that the evidence is quite mixed. On
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+195
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+the one hand, imminent and pervasive threats like climate change and overfishing suggest that in
+many places, the future of the oceans is bleak. On the other hand, strong institutional reforms have
+been adopted in many countries over the past 20 years that have helped rebuild fisheries so they
+return significantly more economic value to communities and dramatically improved conservation
+outcomes.
+Overall, we find that the current status of fisheries seems to be diverging. Coastal fisheries in the
+developing world, which are largely open access or loosely controlled with input regulations, tend
+to be in the worst condition and are likely on the decline. Unfortunately, many of these fisheries
+are situated in the tropics, where the negative effects of climate change on fishery productivity
+will be the most pronounced, and the importance of these fisheries for food security is the highest.
+Industrial fisheries in the developed world, which seem to benefit tremendously from formal stock
+assessments and various forms of RBFM, are in overall good health and seem to be on a sustainable
+path. Many of these fisheries will expand in productivity with climate change.
+Thus, we have homed in on a class of institutional reforms, called RBFM, that provide long-run
+economic incentives to steward a fish stock. While the forms of RBFM can vary tremendously and
+must be customized to achieve desired objectives in a fishery, they generally have been instrumental in realigning incentives in fisheries and producing better biological and economic outcomes.
+We find that alternatives to institutional reform, such as MPAs and new technologies, can be complementary to RBFM but should not be viewed as stand-alone solutions to fisheries sustainability.
+Finally, we argue that while many threats to fisheries remain, climate change and lack of governance are likely to be the two most dramatic. These interact because well-managed fisheries can
+be climate-resilient, and poorly-managed fisheries can be devastated by climate change. Available
+evidence suggests that good governance, such as appropriately designed RBFM, is probably the
+best way for a country to insure against the negative effects of climate change on its fisheries.
+We have highlighted the role that RBFM can play in ensuring a healthy future for global oceans
+and fisheries. Despite theoretical and growing empirical evidence for the net positive economic
+outcomes of RBFM, many stakeholders have legitimate concerns about the distributional effects
+of RBFM (58). Fleet consolidation resulting from ITQ adoption may reduce total employment in
+the fishery and alter the character of fishing communities relative to pre-RBFM conditions (see 59
+and references therein). The increased value of fishing rights stemming from RBFM may benefit
+current rights holders but present a substantial barrier to entry to new participants, who must raise
+the capital to purchase access to the resource (60).
+Despite fishery-wide aggregate economic benefits from RBFM, there are sometimes negative
+distributional effects of RBFM that arise due to heterogeneity in the ability to compete in the
+(pre-RBFM) race to fish. This may fuel opposition to RBFM that is economically rational when
+there are strong differences in fishing skill among participants (22). Under the common pool
+regime, highly skilled fishermen are able to leverage their abilities to earn higher returns while
+gaining essentially free access to the resource. Upon transition to an RBFM system such as an ITQ,
+these skill-dependent returns are transferred into the quota value, spreading them throughout the
+fishery and away from the highly skilled fishers. These losses to highly skilled fishers can be offset
+by grandfathering a sufficient fraction of the initial rights to those with high historical catch (22).
+While allocating initial RBFM shares in proportion to historic use can reduce economically
+rational resistance to RBFM among skilled active fishers, at first glance this seems to exacerbate
+another distributional problem: the ability of new entrants to join the fishery. An important result
+(22) is that while some degree of grandfathering may be required in order to gain buy-in from
+active highly skilled fishers, the amount needed may not be particularly high, perhaps as low as
+33% of the available quota in a new ITQ in order to ensure that all veterans of the fishery are as
+well off or better than they were pre-ITQ. This leaves a substantial amount of the initial rights
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+196
+
+Costello
+
+•
+
+Ovando
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+allocation that can be set aside for institutions such as community quota banks, facilitating the
+entry of new participants to the fishery in the future. While RBFM can have real and unevenly
+distributed costs on current and future fishers, identifying the root causes of these losses allows
+them to be, at least in part, addressed and resolved in the allocation stage. We argue that, while
+certainly important now, this initial allocation of rights will become even more critical as the rights
+and responsibilities to using the ocean are increasingly delineated around the world.
+Overall, the future of global wild-capture fisheries seems to hang in the balance. On the one
+hand, if we leverage our increasing understanding of how to design equitable, rights-based approaches to managing fisheries, and scale this to the developing world (e.g., via ITQs, TURFs,
+and cooperatives), then it is likely that the future of the world’s fisheries will be more resilient,
+return higher profits, and achieve greater conservation outcomes than we currently experience or
+would experience without these reforms. On the other hand, if fisheries fail to adopt the necessary
+institutions for proper management and climate change adaptation, the future prospects for ocean
+productivity may indeed be bleak.
+
+SUMMARY POINTS
+1. Fishery status has diverged: Well-managed fisheries, largely in the developed world, are
+in reasonably good health, while poorly-managed fisheries, largely from low-governance
+regions, are often in poor health.
+2. Various forms of rights-based fishery management have been shown to incentivize sustainable management and prosperous fisheries.
+3. Fisheries around the world could increase value by more than $50 billion per year, all
+while increasing food security and conservation value, under wider adoption of rightsbased fishery management.
+4. Marine protected areas and big data technology are important innovations that can play
+a role in fishery sustainability, but they will not, by themselves, solve the main challenges
+in global fisheries.
+5. Threats such as climate change and poor governance on the high seas can be largely
+neutralized with robust fishery management.
+
+FUTURE ISSUES
+1. Improving the science underpinning data-poor stock assessment will pave the way for
+improved management of unassessed fish stocks.
+2. Economic variables can provide useful insights into stock assessments, which have traditionally relied only on biological measures.
+3. The design and implementation of rights-based fishery management can be improved
+to account for equity, allocation, and other challenges.
+4. Fishery management institutions should be reconsidered in light of the productivity
+changes and range shifts that will arise from climate change.
+5. Big data, and models that help us understand them, will be increasingly relevant for realtime measures of fish stock health and management interventions.
+
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+197
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+DISCLOSURE STATEMENT
+Costello is a board member with Environmental Defense Fund and Global Fishing Watch. Other
+than these disclosures, the authors are not aware of any affiliations, memberships, funding, or
+financial holdings that might be perceived as affecting the objectivity of this review.
+
+ACKNOWLEDGMENTS
+We thank Juliette Verstaen and Laura Lea Rubino for their valuable research assistance.
+LITERATURE CITED
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+1. FAO (Food Agric. Organ. U. N.). 2018. The State of World Fisheries and Aquaculture 2018: Meeting the
+Sustainable Development Goals. Rome: Food. Agric. Organ. U. N.
+2. USDA (US Dep. Agric.). 2018. Livestock and poultry: world markets and trade. Rep., US Dep. Agric.,
+Washington, DC
+3. Worm B, Hilborn R, Baum JK, Branch TA, Collie JS, et al. 2009. Rebuilding global fisheries. Science
+325:578–85
+4. Worm B, Barbier EB, Beaumont N, Duffy JE, Folke C, et al. 2006. Impacts of biodiversity loss on ocean
+ecosystem services. Science 314:787–90
+5. Ricard D, Minto C, Jensen OP, Baum JK. 2012. Examining the knowledge base and status of commercially
+exploited marine species with the RAM legacy stock assessment database. Fish Fish. 13:380–98
+6. Hilborn R, Ovando D. 2014. Reflections on the success of traditional fisheries management. ICES J. Mar.
+Sci. 71:1040–46
+7. Hilborn R. 2018. Measuring fisheries performance using the “Goldilocks plot.” ICES J. Mar. Sci. 76:45–49
+8. Schaefer MB. 1954. Some aspects of the dynamics of populations important to the management of the
+commercial marine fisheries. Inter-Am. Trop. Tuna Comm. Bull. 1:23–56
+9. Costello C, Ovando D, Clavelle T, Strauss CK, Hilborn R, et al. 2016. Global fishery prospects under
+contrasting management regimes. PNAS 113:5125–29
+10. Costello C, Ovando D, Hilborn R, Gaines SD, Deschenes O, Lester SE. 2012. Status and solutions for
+the worlds unassessed fisheries. Science 338:517–20
+11. Rosenberg AA, Kleisner KM, Afflerbach J, Anderson SC, Dickey-Collas M, et al. 2017. Applying a
+new ensemble approach to estimating stock status of marine fisheries around the world. Conserv. Lett.
+https://doi.org/10.1111/conl.12363
+12. Anderson CM, Krigbaum MJ, Arostegui MC, Feddern ML, Koehn JZ, et al. 2018. How commercial
+fishing effort is managed. Fish Fish. 20:268–85
+13. Ostrom E. 2009. A general framework for analyzing sustainability of social-ecological systems. Science
+325:419–22
+14. Gordon HS. 1954. The economic theory of a common-property resource: the fishery. J. Political Econ.
+62:124–42
+15. Branch TA, Hilborn R, Haynie AC, Fay G, Flynn L, et al. 2006. Fleet dynamics and fishermen behavior:
+lessons for fisheries managers. 63:1647–68
+16. Birkenbach AM, Kaczan DJ, Smith MD. 2017. Catch shares slow the race to fish. 544:223–26
+17. Grafton RQ, Kompas T, Chu L, Che N. 2010. Maximum economic yield. Aust. J. Agric. Resour. Econ.
+54:273–80
+18. Costello C, Gaines SD, Lynham J. 2008. Can catch shares prevent fisheries collapse? Science 321:1678–
+81
+19. Johannes RE. 1978. Traditional marine conservation methods in Oceania and their demise. Annu. Rev.
+Ecol. Syst. 9:349–64
+20. Grafton RQ, Squires D, Fox KJ. 2000. Private property and economic efficiency: a study of a commonpool resource. J. Law Econ. 43:679–714
+21. Deacon RT, Parker DP, Costello C. 2013. Reforming fisheries: lessons from a self-selected cooperative.
+J. Law Econ. 56:83–125
+198
+
+Costello
+
+•
+
+Ovando
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+22. Grainger CA, Costello C. 2016. Distributional effects of the transition to property rights for a commonpool resource. Mar. Resour. Econ. 31:1–26
+23. Wilen JE, Cancino J, Uchida H. 2012. The economics of territorial use rights fisheries, or TURFs. Rev.
+Environ. Econ. Policy 6:237–57
+24. Ovando DA, Deacon RT, Lester SE, Costello C, Van Leuvan T, et al. 2013. Conservation incentives and
+collective choices in cooperative fisheries. Mar. Policy 37:132–40
+25. Costello C. 2012. Introduction to the symposium on rights-based fisheries management. Rev. Environ.
+Econ. Policy 6:212–16
+26. Melnychuk MC, Essington TE, Branch TA, Heppell SS, Jensen OP, et al. 2012. Can catch share fisheries
+better track management targets? Fish Fish. 13:267–90
+27. World Bank. 2009. The Sunken Billions: The Economic Justification for Fisheries Reform. Washington, DC:
+World Bank
+28. World Bank. 2017. The Sunken Billions Revisited: Progress and Challenges in Global Marine Fisheries.
+Washington, DC: World Bank
+29. Mangin T, Costello C, Anderson J, Arnason R, Elliott M, et al. 2018. Are fishery management upgrades
+worth the cost? PLOS ONE 13:e0204258
+30. Sumaila UR, Cheung W, Dyck A, Gueye K, Huang L, et al. 2012. Benefits of rebuilding global marine
+fisheries outweigh costs. PLOS ONE 7:e40542
+31. Sanchirico JN, Wilen JE. 2007. Global marine fisheries resources: status and prospects. Int. J. Glob.
+Environ. Issues 7:106–18
+32. Gaines SD, White C, Carr MH, Palumbi SR. 2010. Designing marine reserve networks for both conservation and fisheries management. PNAS 107:18286–93
+33. Lester SE, Halpern BS, Grorud-Colvert K, Lubchenco J, Ruttenberg BI, et al. 2009. Biological effects
+within no-take marine reserves: a global synthesis. Mar. Ecol. Progress Ser. 384:33–46
+34. Hilborn R, Banobi J, Hall SJ, Pucylowski T, Walsworth TE. 2018. The environmental cost of animal
+source foods. Front. Ecol. Environ. 16:329–35
+35. Hilborn R, Stokes K, Maguire JJ, Smith T, Botsford LW, et al. 2004. When can marine reserves improve
+fisheries management? Ocean Coastal Manag. 47:197–205
+36. Mason J, Kosaka R, Mamula A, Speir C. 2012. Effort changes around a marine reserve: the case of the
+California Rockfish Conservation Area. Mar. Policy 36:1054–63
+37. Costa BH, Batista MI, Gonçalves L, Erzini K, Caselle JE, et al. 2013. Fishers’ behaviour in response to
+the implementation of a marine protected area. PLOS ONE 8:e65057
+38. Little L, Grafton R, Kompas T, Smith A, Punt A, Mapstone B. 2011. Complementarity of no-take marine
+reserves and individual transferable catch quotas for managing the line fishery of the Great Barrier Reef.
+Conserv. Biol. 25:333–40
+39. Barner AK, Lubchenco J, Costello C, Gaines SD, Leland A, et al. 2015. Solutions for recovering and
+sustaining the bounty of the ocean: combining fishery reforms, rights-based fisheries management, and
+marine reserves. Oceanography 28:252–63
+40. Ovando D, Dougherty D, Wilson JR. 2016. Market and design solutions to the short-term economic
+impacts of marine reserves. Fish Fish. 17:939–54
+41. Costello C, Kaffine DT. 2009. Marine protected areas in spatial property-rights fisheries. Aust. J. Agric.
+Res. Econ. 54:321–41
+42. McClanahan TR, Mangi S. 2000. Spillover of exploitable fishes from a marine park and its effect on the
+adjacent fishery. Ecol. Appl. 10:1792–805
+43. Roberts CM, Bohnsack JA, Gell F, Hawkins JP, Goodridge R. 2001. Effects of marine reserves on adjacent
+fisheries. Science 294:1920–23
+44. Russ GR, Alcala AC, Maypa AP, Calumpong HP, White AT. 2004. Marine reserve benefits local fisheries.
+Ecol. Appl. 14:597–606
+45. Ferraro PJ, Sanchirico JN, Smith MD. 2018. Causal inference in coupled human and natural systems.
+PNAS 116:5311–18
+46. Smith MD, Zhang J, Coleman FC. 2006. Effectiveness of marine reserves for large-scale fisheries management. Can. J. Fisheries Aquat. Sci. 63:153–64
+
+www.annualreviews.org
+
+•
+
+Global Fishery Prospects
+
+199
+
+ARjats.cls
+
+October 7, 2019
+
+15:40
+
+47. Kroodsma DA, Mayorga J, Hochberg T, Miller NA, Boerder K, et al. 2018. Tracking the global footprint
+of fisheries. Science 359:904–8
+48. McDermott GR, Meng KC, McDonald GG, Costello CJ. 2018. The blue paradox: preemptive overfishing
+in marine reserves. PNAS 116:5319–25
+49. Sala E, Mayorga J, Costello C, Kroodsma D, Palomares ML, et al. 2018. The economics of fishing the
+high seas. Sci. Adv. 4:eaat2504
+50. Cabral RB, Mayorga J, Clemence M, Lynham J, Koeshendrajana S, et al. 2018. Rapid and lasting gains
+from solving illegal fishing. Nat. Ecol. Evol. 2:650
+51. Pons M, Branch TA, Melnychuk MC, Jensen OP, Brodziak J, et al. 2017. Effects of biological, economic
+and management factors on tuna and billfish stock status. Fish Fish. 18:1–21
+52. Costello C, Grainger CA. 2018. Property rights, regulatory capture, and exploitation of natural resources.
+J. Assoc. Environ. Resour. Econ. 5:441–79
+53. Gaines SD, Costello C, Owashi B, Mangin T, Bone J, et al. 2018. Improved fisheries management could
+offset many negative effects of climate change. Sci. Adv. 4:eaao1378
+54. Lam VW, Cheung WW, Reygondeau G, Sumaila UR. 2016. Projected change in global fisheries revenues
+under climate change. Sci. Rep. 6:32607
+55. Molinos JG, Halpern BS, Schoeman DS, Brown CJ, Kiessling W, et al. 2016. Climate velocity and the
+future global redistribution of marine biodiversity. Nat. Clim. Change 6:83
+56. Mumby PJ, Sanchirico JN, Broad K, Beck MW, Tyedmers P, et al. 2017. Avoiding a crisis of motivation
+for ocean management under global environmental change. Glob. Change Biol. 23:4483–96
+57. Kritzer J, Costello C, Mangin T, Smith S. 2019. Responsive harvest control rules provide inherent resilience to adverse effects of climate change and scientific uncertainty. ICES J. Mar. Sci.
+58. Birkenbach AM, Smith MD, Stefanski S. 2019. Feature—taking stock of catch shares: lessons from the
+past and directions for the future. Rev. Environ. Econ. Policy 13:130–39
+59. Olson J. 2011. Understanding and contextualizing social impacts from the privatization of fisheries: an
+overview. Ocean Coastal Manag. 54:353–63
+60. van Putten I, Gardner C. 2010. Lease quota fishing in a changing rock lobster industry. Mar. Policy 34:859–
+67
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+EG44CH07_Costello
+
+200
+
+Costello
+
+•
+
+Ovando
+
+EG44_Front_Matter
+
+ARI
+
+25 September 2019
+
+Annual Review of
+Environment
+and Resources
+
+8:29
+
+Contents
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+Volume 44, 2019
+
+II. Earth’s Life Support Systems
+The State and Future of Antarctic Environments in a Global Context
+Steven L. Chown and Cassandra M. Brooks p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 1
+Island Biodiversity in the Anthropocene
+James C. Russell and Christoph Kueffer p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p31
+Mammal Conservation: Old Problems, New Perspectives,
+Transdisciplinarity, and the Coming of Age of Conservation
+Geopolitics
+David W. Macdonald p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p61
+The State of the World’s Mangrove Forests: Past, Present, and Future
+Daniel A. Friess, Kerrylee Rogers, Catherine E. Lovelock, Ken W. Krauss,
+Stuart E. Hamilton, Shing Yip Lee, Richard Lucas, Jurgenne Primavera,
+Anusha Rajkaran, and Suhua Shi p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p89
+III. Human Use of the Environment and Resources
+Food Loss and Waste: Measurement, Drivers, and Solutions
+Edward S. Spang, Laura C. Moreno, Sara A. Pace, Yigal Achmon,
+Irwin Donis-Gonzalez, Wendi A. Gosliner, Madison P. Jablonski-Sheffield,
+Md Abdul Momin, Tom E. Quested, Kiara S. Winans, and Thomas P. Tomich p p p p p 117
+Sustainable Living: Bridging the North-South Divide in Lifestyles
+and Consumption Debates
+Bronwyn Hayward and Joyashree Roy p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 157
+Status, Institutions, and Prospects for Global Capture Fisheries
+Christopher Costello and Daniel Ovando p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 177
+Illegal Wildlife Trade: Scale, Processes, and Governance
+Michael ‘t Sas-Rolfes, Daniel W.S. Challender, Amy Hinsley,
+Diogo Verı́ssimo, and E.J. Milner-Gulland p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 201
+Ecotourism for Conservation?
+Amanda L. Stronza, Carter A. Hunt, and Lee A. Fitzgerald p p p p p p p p p p p p p p p p p p p p p p p p p p p p 229
+
+vi
+
+EG44_Front_Matter
+
+ARI
+
+25 September 2019
+
+8:29
+
+Annu. Rev. Environ. Resour. 2019.44:177-200. Downloaded from www.annualreviews.org
+Access provided by 2601:641:4000:13e0:101e:196e:df44:9e8d on 11/04/22. For personal use only.
+
+Land-Management Options for Greenhouse Gas Removal
+and Their Impacts on Ecosystem Services and the Sustainable
+Development Goals
+Pete Smith, Justin Adams, David J. Beerling, Tim Beringer,
+Katherine V. Calvin, Sabine Fuss, Bronson Griscom, Nikolas Hagemann,
+Claudia Kammann, Florian Kraxner, Jan C. Minx, Alexander Popp,
+Phil Renforth, Jose Luis Vicente Vicente, and Saskia Keesstra p p p p p p p p p p p p p p p p p p p p p p p p p 255
+Sanitation for Low-Income Regions: A Cross-Disciplinary Review
+Christopher Hyun, Zachary Burt, Yoshika Crider, Kara L. Nelson,
+C.S. Sharada Prasad, Swati D.G. Rayasam, William Tarpeh, and Isha Ray p p p p p p p p 287
+IV. Management and Governance of Resources and Environment
+Co-Producing Sustainability: Reordering the Governance of Science,
+Policy, and Practice
+Carina Wyborn, Amber Datta, Jasper Montana, Melanie Ryan, Peat Leith,
+Brian Chaffin, Clark Miller, and Lorrae van Kerkhoff p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 319
+Social Synergies, Tradeoffs, and Equity in Marine Conservation
+Impacts
+David A. Gill, Samantha H. Cheng, Louise Glew, Ernest Aigner,
+Nathan J. Bennett, and Michael B. Mascia p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 347
+Toward REDD+ Implementation
+Danae Maniatis, Joel Scriven, Inge Jonckheere,
+Jennifer Laughlin, and Kimberly Todd p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 373
+Solar Geoengineering: Social Science, Legal, Ethical,
+and Economic Frameworks
+Jane A. Flegal, Anna-Maria Hubert, David R. Morrow,
+and Juan B. Moreno-Cruz p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 399
+V. Methods and Indicators
+Is Natural Capital Really Substitutable?
+François Cohen, Cameron J. Hepburn, and Alexander Teytelboym p p p p p p p p p p p p p p p p p p p p p p 425
+Indexes
+Cumulative Index of Contributing Authors, Volumes 35–44 p p p p p p p p p p p p p p p p p p p p p p p p p p p 449
+Cumulative Index of Article Titles, Volumes 35–44 p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 455
+Errata
+An online log of corrections to Annual Review of Environment and Resources articles may
+be found at http://www.annualreviews.org/errata/environ
+Contents
+
+vii
+
+

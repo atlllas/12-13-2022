@@ -1,0 +1,2204 @@
+OVERFISHING IN THE GULF OF THAILAND: POLICY CHALLENGES AND
+BIOECONOMIC ANALYSIS1
+
+Mahfuzuddin Ahmed2 (For Correspondence)
+Pongpat Boonchuwongse3
+Waraporn Dechboon4
+Dale Squires5
+Abstract. This paper estimates maximum sustainable yield and maximum economic yield
+from Schaefer and Fox surplus production bioeconomic models to find evidence of biological
+and economic overfishing, and their consequences in Gulf of Thailand demersal fisheries.
+The paper examines alternative policy instruments to reduce overfishing. The discussion
+emphasizes on strengthening fishery management for implementing limited access, and a
+combination of co-management, and decentralization of fisheries management. The use of
+license fees that serves as a double dividend tax to reduce fishing effort and fund monitoring
+and enforcement has been proposed as one of the possible economic instruments.
+Key words: Bioeconomic model, Gulf of Thailand, demersal fisheries, limited access, comanagement
+Short title: Overfishing and Policy in the Gulf of Thailand Fisheries
+
+1
+
+This paper is part of the Socioeconomic Component (Socioeconomic Profile, Fleet Operational
+Dynamics and Bioeconomic Modeling) of the Asian Development Bank project RETA 5766. The
+project is funded by the WorldFish Center, other participating organizations, and the Asian
+Development Bank under RETA 5766..
+
+2
+
+Principal Social Scientist and Program Leader, Policy Research and Impact Assessment, WorldFish
+Center, Jalan Batu Maung, 11960 Bayan Lepas, Penang, Malaysia; fax: (604) 626-5530; email:
+m.ahmed@cgiar.org
+
+3
+
+Fisheries Economist, Department of Fisheries, Ministry of Agriculture and Cooperative, Kasetsart
+University Campus, Phaholyotin Road, Bangkok 10900, Thailand; email: pongpatb@fisheries.go.th
+
+4
+
+Fisheries Biologist, Southern Marine Fisheries Development Center (SMDEC), 79/1 Vichienchom,
+Road Muang District, Songkhla 90000, Thailand; email: SMDEC@hatyai.inet.co.th
+
+5
+
+Resource Economist, NOAA Fisheries, Southwest Fisheries Science Center, 8604 La Jolla Shores
+Drive, La Jolla, California 92037, USA; email: dsquires@ucsd.edu
+
+1. Introduction
+The rapid expansion of fisheries in the Gulf of Thailand has raised considerable
+economic and environmental concerns for its management. An increasing proportion of
+undersized fish and decreasing volume of commercially important species in the composition
+of fish catch in recent years suggest symptoms of biological overfishing and biologically
+overfished resource stocks, threatening the fisheries in the Gulf. Similarly, falling profits of
+individual vessels and low economic rents have implications for economic viability of the
+fishing industry, and points to the economic overfishing and economically overfished fish
+stocks.
+The economics and management of fisheries in the Gulf of Thailand have received
+only a limited amount of attention. Panayotou and Jetanavanich (1987) evaluated the levels
+of catch and fishing effort that give rise to the static maximum economic yield (MEY) in
+fisheries for demersal (bottom-dwelling) species. They found that, under conditions of the
+1980s, the optimum (MEY) catch and effort (given a mesh size of 2.5 cm) for demersal
+fisheries were 958,000 tons and 15.7 million standard fishing hours. The results implied that
+demersal catch in recent years had surpassed the level of static MEY. Panayotou and
+Jetanavanich recommended a license limitation program to bring the fishery into balance
+with MEY. Piumsombun (1992) drew similar conclusions on the status of the pelagic fishery
+on the Indo-Pacific mackerel, locally known as ‘pla-tu’ in the Gulf of Thailand, suggesting
+that this pelagic fishery is already economically overfished. Introduction of a license limitation
+scheme was proposed to curb the excessive effort in the fishery.
+The purpose of this paper is to provide a current bioeconomic analysis of the Gulf of
+Thailand demersal fisheries, comprehensive across all relevant gear and fish species, to
+estimate both economic and biological maximum levels of yield and effort, and then to
+discuss corresponding measures to manage the fishery. The Pareto-inefficient levels of yield
+and effort found under open access are compared to the estimated economic and biological
+optimums - MEY and MSY (maximum sustainable yields), respectively. This comparative
+static analysis would provide evidence of economic and biological overfishing and overfished
+
+1
+
+resource stocks as a whole, and Pareto inefficiency for the fishery.1 Using the bioeconomic
+assessment as a basis, we discuss (potential) Pareto-improving economic policies to shift
+the fisheries toward MEY and MSY. The paper updates the analysis of Panayotou and
+Jetanavanich in light of the current market, fishery and environmental conditions and
+provides policy recommendations that are consistent with Panayotou and Jetanavanich and
+Piumsombun, including license limitation. There is a national urgency as well as a global
+significance in targeting to move toward higher level of long-term economic and biological
+sustainability as it will ensure the role of fisheries as an engine for economic growth in the
+future, and at the same time respond to the WSSD (World Summit for Sustainable
+Development) call for restoring fish stocks to sustainable levels globally (United Nations,
+2002).
+The bioeconomic analysis presented in this paper is aggregate across a number of
+demersal gear types and species due to our comprehensive focus upon the fishery and all
+sources of mortality on the demersal fish stocks in the Gulf of Thailand as a whole.
+Disaggregated population dynamics models and bioeconomic models are notoriously difficult
+to apply in tropical fisheries due to the complex multispecies nature of these fisheries and
+demanding data requirements. An aggregate analysis has limitations in that gear-specific
+policy conclusions are difficult to draw out of the empirical results, but single gear and
+species analyses do not comprehensively assess the overall biological and economic status
+of the fish stocks.2
+The balance of this paper is organized as follows. Section 2 provides a background
+to the fisheries and issues. Section 3 summarizes the bioeconomic models -- the Schaefer
+and Fox models -- used to obtain estimates of maximum economic yield and maximum
+sustainable yield. Section 4 discusses the data. Section 5 reports the empirical results.
+Section 6 discusses the proposed policy to reduce overfishing and increase economic rents,
+and Section 7 provides concluding remarks and recommendations.
+
+2
+
+2. Fisheries in the Gulf of Thailand 3
+For a number of decades fisheries development in the Gulf of Thailand continued
+along increasing fishing effort (Tables 1 and 2) to maintain or increase the production
+volume (Figure 1). Increasingly, the total catch has a higher proportion of “trash” fish
+(consisting of by-catch and undersized juveniles of various demersal and some pelagic
+species), much of which goes to fish meal or duck feed or is thrown overboard), aggregated
+across all species and gear types. Catch from Department of Fisheries research trawl
+surveys is comprised of 30-40% “trash” fish, of which about one-third is juvenile and
+undersized fish. The study from commercial fisheries also shows that “trash” fish contains at
+least 30% juvenile fish. Pair trawl catch has the highest composition of juvenile fish, namely
+Indo-Pacific mackerel, threadfin bream, lizard, big eye, scad, and sardine that represented
+70% of total “trash” fish. Otter board trawl obtains juvenile fish, about 40% of total “trash” fish
+(Sripanpaiboon, 1995, Eiamsa-Ard and Amornchairojkul 1997).
+Table 2 displays standard total fishing effort, standardized across all gear types to be
+comparable to 14-18 m otter trawl vessels (this procedure is discussed in Section 3).
+Standard effort rises until reaching a peak in 1987, after which it falls. The most important
+fishing gears for the capture of demersal “target” and “trash” fish (of all species caught in
+demersal fisheries, but predominately demersal species) are otter board trawl, pair trawl and
+push net (Table 2). The numbers of otter board and pair trawl vessels have increased over
+time, but the number of push net vessels has fallen (Table 1). Trawl fishing provides the
+greatest source of fishing mortality of all the major gear types, and the number of trawl
+vessels is increasing over time.
+A major source of the decline in demersal fisheries is overfishing by trawl gear at a
+depth of more than 50 m since 1973. Nominal catch per unit of effort or CPUE (kg/hour) by
+trawlers steadily declined, indicating declining resource stock abundance (Meemeskul, 1982;
+Vadhanakul et al., 1985; Chotiyaputta, 1992; Intong et al, 1993; Jirapanpipat, 1992), while
+the number of trawlers of all sizes and types continued to increase (Table 1). Trawlers
+began to use the small cod-end mesh size, so that more “trash fish” could be caught to at
+
+3
+
+least partly compensate for the declining production and value of targeted species and sizes
+of demersal fish. In addition, many trawlers, which formerly fished in foreign fishing grounds,
+returned to the Gulf of Thailand to fish after the declaration of Extended Economic Zones
+(EEZs) in the recent decades by the neighboring countries.
+Gear types other than trawl and push net also contribute to fishing mortality of
+demersal species and “trash” fish in the Gulf of Thailand (Table 2). These other gear types
+include various types of purse seine and gill net gear. Total fishing effort, both nominal and
+standardized, of these other gear types is much smaller, and substantially less fishing
+mortality, than trawl and push net gear. Standardized fishing effort of these other gear,
+although very small in comparison to trawl and push net gear, has been rising over 19711997.
+With the decline in the catch of “target” demersal species in an increasingly
+impoverished fishery, “trash” fish provides an increasingly important source of total catch
+and revenue through its use for fish meal and to a lesser extent, duck feed. The increasing
+importance of “trash” fish and fishing for demersal species of lesser commercial importance
+or fishing demersal species further down the food chain is reflected in Table 3, where
+standardized (discussed below) catch per unit of effort (CPUE) continues to climb due to the
+catch of these fish, even as the catches of the most desirable demersal species stagnate or
+fall. Standard CPUE also continues to climb due to productivity growth, which is largely due
+to technological innovations such as the increasing adoption and use of vessel electronics.
+Most of the important pelagic fish (fish in the middle and upper parts of the water
+column) in the Gulf of Thailand are fully exploited, namely, Indo-Pacific mackerel, anchovies,
+round scad and sardines. Indian mackerel is not yet overfished (Chullasorn, 1997). Almost
+all of the demersal (bottom dwelling) resource stocks namely, fish, shrimps, squid, cuttlefish
+and others are overfished (FAO, 1995).
+The significant expansion of the Thai fishing fleet during the past three decades
+entails not only more fishing vessels, but also vessels which are larger in size. In 1997, there
+were16,264 fishing vessels in Thailand, of which 77% were registered in the provinces
+
+4
+
+located in the Gulf. Otter board trawl and pair trawl are the most important type of fishing
+vessels, comprising about 53% of the total fleet in 1997. The remainder of the fleet is
+comprised of purse seiners, gillnetters and other small boats employing traditional gears.
+The fishing fleet is classified into four vessel sizes: less than 14 m, 14-18 m, 18-25 m and
+over 25 m. The smallest vessel size accounts for 28% of the total fleet.
+Fishing vessels larger than 18 m in length employ advanced fishing and navigation
+technologies, involving the use of sonar systems, echo sounders, radios, radar and
+electricity generators. The continued adoption of vessel electronics contributed to continual
+growth in total factor productivity (“fishing power”), and thus increased effective fishing effort.
+3. Schaefer and Fox Surplus Production Models
+Maximum sustainable and economic yields and the associated optimum levels of
+fishing effort can be estimated from surplus production models. The two most widely used
+surplus production models, the Schaefer (1957) and Fox (1970), are employed in this paper
+to estimate the biological and economic optimums. In light of the uncertainty that naturally
+arises over the most appropriate form of the population dynamics (Quinn and Deriso 1999),
+we estimate these two models with their differing functional forms. If the empirical results
+from the two models signal consistent conclusions about the maximum economic and
+biological sustainable yields and effort levels relative to current levels, then the implications
+for the directions for catch and effort that lead to the social optimum can be considered
+robust. In addition, since market, environmental, and community and population ecological
+conditions do change over time, the estimated biological and economic optimums
+correspondingly change, requiring future re-estimation of these models. Hence, the steadystate optimum levels per se from these two models will change over time, but the current
+implied policy direction for catch and effort are the key pieces of information of interest to this
+study.
+For stock assessments in developed countries, surplus production models have
+largely been superceded by various types of age-structured models (virtual population
+analysis) or even more sophisticated synthetic models that synthesize all of the available
+
+5
+
+information, such as age structures and other demographic information, length-weight
+relationships, stock-recruitment, and other available information (Fournier et al. 1998). These
+synthetic models are applied to individual species rather than overall catch. Nonetheless,
+age-structured and the more sophisticated synthetic species-specific models require more
+abundant and detailed data by species, such as age determination or length-frequency,
+which are simply unavailable in the fisheries of developing countries. In the tropics, for
+example, age determination on a broad scale – especially with so many species, is simply
+beyond the reasonable reach of analysts. Species sampling of landings on a consistent
+scale is seldom available. In contrast, production models can be applied when reasonable
+estimates are available of the total catch or catch per unit of effort (CPUE) and the related
+fishing effort over a number of years, and are the type of model frequently applied in tropical
+developing countries.4 As Hilborn and Walters (1992, p. 298) observe, “Furthermore, in
+many fisheries, again tropical ones especially, the catch consists of many species, and the
+catch data are difficult if not impossible to collect by species. Management regulations are
+also difficult to make species specific. In these circumstances, treating the entire catch as a
+biomass dynamics pool may be more appropriate than trying to look at single species
+dynamics.
+Two widely known and applied surplus production models, which are particularly applicable
+to multi-species fisheries in the tropics, are those developed by Schaefer (1957) and Fox
+(1970). The Schaefer and Fox models are based on the steady-state relationship between
+resource stock size, fishing effort, and yield. Sustainable yield is a function of total effort and
+stock size. Stock size (biomass) is a function of fishing effort and a limited number of
+biological parameters, such as the intrinsic growth rate and environmental carrying capacity.
+Growth is assumed to be density-dependent. Given the biological and environmental
+parameters, sustainable yield is determined by the fishing effort applied. The models are
+long-run, since they reflect complete resource stock adjustment to changes in the level of
+fishing effort and fishing effort is a completely variable input. Table 4 provides the relevant
+formulae for the Schaefer and Fox Models.
+
+6
+
+4. Data
+The data for the demersal “target” and "trash" fish catches in the Gulf of Thailand by
+Thai vessels using otter board trawl, pair trawl, and push nets were available over the period
+1971-1995.5 These data exclude effort outside Thailand from the distant-water fleet. These
+data were collected from the Fisheries Statistics Base of the Sample Survey (various
+issues), officially reported by the Fisheries Economics Division of the Department of
+Fisheries.
+The demersal harvests were divided into 17 species of demersal “target” and "trash"
+fish. The species of demersal fish included barracudas, croakers, threadfin breams, monocle
+breams, lizardfishes, hairtails, snappers, sweetlips, bigeyes, sand whitings, barbell eel,
+marine catfishes, rays, sharks, flatfishes, Indian halibut, and conger eels. For the period
+1971-1984, the data reported the catch of the demersal species and “trash” fish from Thai
+waters, but were broken down by gear types and vessel sizes. The proportion of demersal
+catch from the Gulf of Thailand was estimated from the Marine Fisheries Statistics Base on
+the Sample Survey during 1985-1995. During 1985-1995, the report showed the catch of
+demersal and “trash” fish from the Gulf of Thailand and Andaman Sea, and was broken
+down by gear types and vessel sizes. Table 1 reports the number of fishing vessels in the
+Gulf of Thailand and Table 2 reports the catch and catch per unit of standardized effort,
+where catch includes both demersal and “trash” fish.
+To match demersal and “trash” fish catches with their corresponding levels of fishing
+effort, data were collected in the Gulf of Thailand on vessel fishing hours. During 1971-1995,
+(nominal) fishing effort data, reported in Table 2, were obtained from the Marine Fisheries
+Statistics Base on the Sample Survey. Since demersal and “trash” fish resources are caught
+by various types of gears and sizes of vessels, fishing effort was standardized into
+equivalent or standardized units. Nominal fishing effort was standardized for the fishing
+gears of otter board trawl, pair trawl, beam trawl, push net, purse seine, anchovy purse
+seine, mackerel encircling gill net, and king mackerel gill net. Since engine horsepower (HP)
+
+7
+
+differs for different-sized vessels and types of gears, nominal fishing hours were
+standardized by using 14-18 m otter board trawl as the standard. That is, an index of vessel
+HP was computed using 14-18 m otter board trawl vessel engine HP as the basis. Table 5
+reports the distribution of vessel sizes. Standard fishing effort, reported in Table 3, is
+calculated by multiplying this standard HP index for each gear by the nominal fishing hours
+for that gear.
+Standardization proceeded somewhat differently for small-scale fisheries and
+bamboo stake trap, since data on fishing hours were unavailable. Standard fishing effort was
+calculated by dividing catch by catch per hour of a 14-18 m otter board trawl vessel. The
+total standard fishing effort is the sum of the standard effort of all the gear types (Table 3).
+Since effective fishing effort is affected over time through gear improvement, a
+technological adjustment factor is calculated by dividing catch per hour of the standard
+vessel by catch per hour of the research vessel (Ahmed 1991). The catching power of the
+research vessel remained unchanged over time, allowing it to serve as a technological
+standard. For 1990, 1992, and 1994, no experimental survey was conducted, and the mean
+catch per unit of effort of the preceding and following years was used as an estimate of catch
+per unit effort. The adjusted fishing effort is calculated by multiplying standard fishing effort
+by the technological adjustment factor.
+The unit cost of fishing effort is represented by costs per standard unit of fishing
+effort. The total cost of fishing for demersal fish was calculated from the result of the Cost
+and Earnings Survey of Major Fishing Gear in 1995. The major fishing gears were otter
+board trawl, pair trawl, and push net. By using the annual cost of major fishing gear per
+vessel, the major cost of each fleet is calculated by multiplying the annual major fishing gear
+cost per vessel by the total number of vessels in the Gulf of Thailand in 1995 employed in
+that fleet. The total fleet cost is the sum of the cost of all the gear types. This total cost
+represents the total cost of total catches in the Gulf of Thailand. The proportion of demersal
+and “trash” fish catch value was estimated from Fisheries Statistics of Thailand in 1995. The
+percentage of demersal fish value is 34.33. The demersal fish cost is calculated by
+
+8
+
+multiplying percentage of demersal “target” and “trash” fish value by the total cost. The
+demersal fish cost of major fishing gear is divided by the total standard fishing effort of those
+gears. The cost per unit of fishing effort was estimated as 69.67 Baht per standard fishing
+hour (for a mesh size of 2.5 cm).
+Demersal and “trash” fish prices from the Gulf of Thailand were obtained from
+Fisheries Statistics of Thailand in 1995. The 1995 price of fish per kilogram was estimated
+as 6.68 Baht/kg.
+5. Empirical Results
+The CPUE forms of the Schaefer and Fox models were estimated by ordinary least
+squares over 1971-1995 for the commercial fleet and are summarized in Table 6.6 Based on
+these estimates, MSY for a mesh size of 3.4 cm for the standardized commercial fleet for
+demersal and “trash” fish and the corresponding level of standardized effort were calculated
+using equations from Table 4.
+The empirical results, along with the corresponding actual 1995 values, are reported
+in Table 7 for the Schaefer model and Table 8 for the Fox model and illustrated in Figure 2
+for both models. The results are fundamentally consistent for the MSY and MEY levels of
+catch, effort, and economic rent under both the Schaefer and Fox models, as clearly
+demonstrated in Figure 2. The model results differ only for the open-access levels of fishing
+effort, since the Fox model (with the Gompertz exponential growth function) allows for higher
+levels of fishing effort before reaching zero total sustainable revenues. Hence, the two
+different models signal consistent policy conclusions regarding the direction of changes in
+the levels of fishing effort and total catch of demersal “target” and “trash” fish that give MSY
+and MEY, thereby providing greater confidence in these policy conclusions even in light of
+the uncertainty over the appropriate population dynamics.
+Highlighting the results from the Schaefer model (Table 7), the MEY level of fishing
+effort is about 50% of the actual 1995 level and 82% of the MSY level. However, the actual
+catch of demersal fish is 93% of MEY and 90% of the MSY catch. Economic rents are, as
+expected, highest at MEY, amounting to 4,433 million Baht or 5% higher than at MSY.
+
+9
+
+Highlighting the results of the Fox model (Table 8), the MEY level of fishing effort is about
+46% of the actual 1995 level and 69% of the MSY level. However, the actual catch is 98% of
+MSY catch. Economic rents are, as expected, highest at MEY, amounting to 3,943 million
+Baht or 5% higher than at MSY.
+The empirical results indicate that MEY management at the long-run, steady-state
+level of effort will earn the industry and the country additional economic rent, gross of
+management costs, ranging between 1,904 - 2,394 million Baht for the Schaefer and Fox
+models, respectively. If the fishery is left unmanaged, fishing effort is expected to reach an
+open-access Nash equilibrium, with rent dissipation, ranging between 56.62 - 69.56 x 106
+standard hours, and with a sustainable catch ranging between 593,000 - 725,000 metric
+tons, and society would lose between 3,943 - 4,433 million Baht in resource rents per year
+according to the Schaefer and Fox models. These foregone resource rents represent a
+sizeable opportunity cost to society. Pareto-improving conservation and management
+policies that reduce fishing effort, and thereby increase sustainable yields, clearly increase
+social welfare compared to the Pareto-inefficient current levels of fishing effort and yields.
+With the notable exception of joint fishing ventures for offshore pelagic fish stocks,
+management interventions that curtail fisheries production and employment will likely
+increase conflicts among gear types and between gainers and losers, at least in the short
+run, but probably also extending over the long run. As the empirical results have
+demonstrated, the Gulf of Thailand fishery is far removed from either a biological or
+economic optimum, thereby indicating biological and economic overfishing, along with
+economically and biologically overfished resource stocks, and attainment of either optimum
+requires Pareto-improving policies that work in the same direction by reducing fishing effort.
+The paper now turns to a discussion of these policies.
+6. Policy Implications
+Our overview analysis of demersal fisheries in the Gulf of Thailand indicates that a
+policy addressing the biological and economic overfishing and biological and economically
+overfished resource stocks requires a substantial reduction in the current level of fishing
+
+10
+
+effort across all gear types. This aggregate analysis does not indicate which gears, species,
+or geographical areas are most affected and require the greatest attention. Nonetheless,
+from our macro-bioeconomic analysis, some fundamental broad brush strokes of policy
+recommendations can be painted that are applicable across all gear types and species,
+which we discuss in this section. A set of more disaggregated analyses would be required
+before more detailed policies can be drawn. A policy aimed at reducing fishing effort,
+coupled with the effects of on-going technical change, will invariably reduce the amount of
+labor directly employed as fishers (Smith 1981). Nonetheless, this broad and crucial topic
+largely lies beyond the scope of this particular paper. Moreover, the critical short- and
+longer-term distributional issues – which participants may gain and which may bear the
+burdens of adjustments -- also largely lie beyond the scope of this overview bioeconomic
+analysis. Here, we narrow our focus to the main components of a Pareto-improving
+management policy for demersal fisheries throughout the Gulf of Thailand,
+Rights-Based Fisheries Management: Individual Transferable Quotas
+A policy of transferable private property rights over a portion of the catch or resource
+flow -- individual transferable quotas (ITQs), could theoretically reduce fishing effort to
+eliminate biological or economic overfishing. ITQs are increasingly popular in the fisheries of
+more developed countries in temperate latitudes with comparatively few fish species
+(National Resource Council 1999). ITQs, however, are more difficult to implement in the
+complex multispecies fisheries of the tropics, such as in the Gulf of Thailand, where
+production is joint and the critical monitoring and enforcement problematic (Alam et al. 2002,
+Squires et al. 1998, 2003). Multiple gear types further compound the underlying complexity
+facing a multispecies ITQ program.7 For these same reasons of wide species diversity and
+complexity, coupled with problems of resource stock assessment for individual species,
+monitoring, enforcement, and resource stock assessment, conventional catch quotas are
+likely to prove ineffective.
+Limited Access: A Use Right
+
+11
+
+Limited access, a weaker form of a property right than ITQs, curbs access or use to
+the fish stocks rather than establishing a private property right to a share of the demersal
+catch as provided by ITQs. Limited access, through restricting the number of licenses, more
+closely matches the current administrative and scientific capacity of the Thailand Department
+of Fisheries, since only vessel licenses and numbers for each gear type need to be
+monitored, enforced, and administered rather than the catches of different species or
+species assemblages for individual fishing vessels as with ITQs.
+A limited access program was in fact promulgated in 1982 and its effect
+demonstrated over the 1982-1988 period by the gradual decline in the number of registered
+trawlers and push nets gradually decreased. However, the total number of registered
+trawlers and push nets has again increased.
+The first step in a limited access policy entails a de facto -- rather than the heretofore
+de jure, immediate and effective freeze in the number of trawlers and push nets, since
+trawlers are by far the single largest source of fishing mortality and component of fishing
+effort (Table 2).8 Push nets, which are used in inshore waters and in the process collect
+juvenile shrimps and fish, contribute to economic and biological overfishing, and are viewed
+as a destructive gear. This moratorium on trawlers and push nets prohibits the construction
+of new vessels in more than just name, and stiffens compliance of the current compulsory
+registration of the existing vessels with the Department of Fisheries.
+The Fisheries Act of 1947 provides the legal basis for limited access and other
+fishing regulations and for the authority to enforce these measures.9 The Department of
+Fisheries has issued measures to control the construction of new trawl vessels, including
+issuance of fishing licenses for the trawl fishery.10 The basic objective of a ministry regulation
+issued in March 1990 is to gradually reduce the number of trawlers and push nets and
+thereby bring down demersal fish catches to the optimum sustainable level. Licenses are
+non-transferable to another person, except as family inheritance, and thereby contribute to
+reducing fishing effort. Only licenses and navigation certificates of the holders are renewed,
+thereby furnishing an additional policy handle to reduce effort. Licenses of vessels which
+
+12
+
+become involved in trespassing and encroachment into the jurisdictional waters of other
+countries are forfeited and not reissued.
+Implementation of, and compliance with, the limited entry program currently on the
+books, rather than the broad intent of the laws and regulations, is the key issue for demersal
+fisheries in the Gulf of Thailand. Enforcement of the regulations has been comparatively
+ineffectual to date for a variety of reasons. These regulations apply to an extensive
+geographical area spread over the entire coastline of Thailand, which is compounded by the
+huge number of fishing boats operating different types of fish gear. The number of officials in
+the field and patrol boats to inspect and enforce the regulations is too few. Moreover, the
+laws of the country require that fishers need to be caught in the actual act of illegal fishing or
+violating the regulations to be upheld in a court of law. Additional factors hampering effective
+enforcement include insufficient cooperation and collaboration from fishers, high
+enforcement costs, and lack of coordination and cooperation among relevant agencies.
+Additional factors impede the licensing scheme. Because fishing vessels are
+registered with the Harbor Department while the gear is licensed by Department of Fisheries,
+a loophole enables registered fishing vessels to operate without a license for gear.
+Moreover, with the current budget and manpower it is not easy for the Department of
+Fisheries to enforce the licensing system over an extensive and technologically advanced
+fleet, some of which can operate from foreign ports. There is also a need for more officials in
+the field, better infrastructure and facilities for enforcement, and delegation of sufficient
+authority for enforcement of the regulations to the provincial authority, such as an appointed
+committee for this purpose, rather than only to the provincial fisheries officers.
+Modifications to the design of the license limitation program are possible, which could
+boost the policy effectiveness. A freeze on vessel numbers applied to other gear types
+prevents spillover effects that would occur when fishing effort limited in one gear type spills
+over to another, unregulated gear type as fishers expand and/or redirect fishing effort. A
+licensing scheme can also be tailored to favor less environmentally destructive or more
+profitable gear.
+
+13
+
+The broad species diversity of tropical fisheries can complicate license limitation
+programs if single and multiple fishery licenses are issued (Ooi, 1990). Some vessels may
+have too little flexibility to survive declines in individual stocks, while some species may be
+excessively harvested (Tussing et al., 1974). These problems suggest that, given the joint
+production of multiple species found with many gear types such as trawls, individual species
+assemblages cannot be individually regulated as if the production process is non-joint.
+Limited access has a number of limitations, several of which are already manifested
+in Thai fisheries. Limited access, an imperfect right, has the problem that the excludability
+characteristic of the property right is still not fully specified and developed, but the fish stocks
+remain common resources and thus accessible to the remaining fishing vessels. As a
+consequence, the underlying economic incentives compelling individual fishers to catch as
+many fish as soon as possible are diminished but are not eliminated (Townsend 1990, Scott
+1993, 2000). That is, economic incentives do not sufficiently guide players to invest in future
+catches by delaying current catches and to improve their economic efficiency and the
+dominant strategy of players remains non-cooperation. The common-pool technological
+resource stock externality also remains, albeit on a reduced basis.
+Because of the imperfect excludability of limited access, a major shortcoming of
+limited access is the indirect relationship between fishing effort, which is multidimensional,
+and fishing capacity and total factor productivity (“fishing power”) (Wilen 1979, 1988,
+Hannesson 1983, Squires 1992).11 Coupled with the remaining – albeit attenuated –
+incentive structure found under limited access, players have both economic incentives
+(especially when prices rise or costs of production fall) and the potential technological ability
+to expand the unregulated components of fishing effort, such as fishing time or vessel or
+engine size.
+To counter this expansion in effective fishing effort, limited access programs
+frequently stipulate a maximum limit on one or more of the components of the composite
+input fishing effort, such as vessel size (Campbell and Lindner 1990, Wilen 1979, 1988,
+Hannesson 1983, National Research Council 1999). Increases in vessel size in the demersal
+
+14
+
+fisheries of the Gulf of Thailand could be allowed by simultaneously retiring smaller vessels
+in the fishery and consolidating these licenses, and perhaps even retiring some portion of
+the combined capital stock as measured by length or gross tonnage. Nonetheless, the
+unregulated components of the composite input fishing effort may often be expanded as
+discussed. In addition, attempts to control size can lead to adaptations that are inefficient or
+are not seaworthy. Wilen (1979, 1988) observes that controlling fishing effort through
+terminal gear restrictions is perhaps more important than restrictions on other inputs. Even
+this terminal gear restriction does not curb advances in total factor productivity due to
+process innovations, increases in size economies, or gains in technical efficiency. In sum,
+the limited access program might constrain vessel length and terminal gear characteristics to
+slow down the expansion of effective fishing effort, but nonetheless recognize that effective
+fishing effort will most likely continue to expand, albeit at a reduced rate and in unexpected
+dimensions.
+Individual or Group Transferable Effort Quotas and Vessel Buybacks
+Limited access programs, while a necessary cornerstone to fisheries management in
+Thai demersal Gulf fisheries, by themselves are unlikely to sufficiently reduce fishing effort or
+capacity to MEY or MSY levels (suitably modified by the Precautionary Principle). The
+restrictiveness of a limited access program is correlated to its economic success (Townsend
+1990). The most restrictive programs have either reduced fishing effort significantly or closed
+entry before fishing effort reach rent-dissipating levels. Less restrictive programs have been
+only marginally successful. Moratoria on entry that included a phased reduction in fishing
+effort have similarly been only marginally successful.
+Two potential effort-reducing management programs are vessel or license buybacks
+and individual or group transferable effort quotas (ITEs). ITEs are another form of rightsbased management, in which shares (proportions) of total allowable fishing effort (TAE) (e.g.
+total allowable days at sea for the fishery), are allocated to players – individuals or groups of
+different types -- with vessels of larger size or in more profitable fisheries as property rights
+and which can be freely transferred among players. (ITEs are likely to prove prohibitively
+
+15
+
+expensive and cumbersome in small-scale fisheries due to costs of transactions, monitoring,
+and enforcement.) ITEs are not widely applied, although they are used in the New England
+trawl fishery and the Hawaiian longline fishery for swordfish, and will soon be used in the
+Western and Central Pacific tuna purse fishery. As a property right, ITEs can help align
+conservation and economic incentives. ITEs can ideally be set at levels that target overall
+short- and long-term sustainable target yields and allow for stock rebuilding, but setting the
+TAE is difficult because of the nonlinear and dynamic relationship between effort and catch.
+Moreover, ITE programs are vulnerable to a continued “race to fish” for desirable “target”
+species, bycatch and “trash” fish concerns, and some species can be overfished and other
+species can even be underfished, and different sustainable target levels for different species
+can be reached prior to others. That is, ITEs are very inexact and indirect for multispecies
+fisheries and joint production. ITE programs need to be built upon the foundation of a limited
+access program to: prevent both entry into the fishery during allocation of ITEs and as
+conditions improve; to preclude uneconomically small ITE holdings by an excessive number
+of vessels, which inevitably would create pressures to expand the TAE beyond the
+sustainable target level; and to establish an identified universe of participants during the
+initial allocation. A fractional TAE system is possible, comparable to a fractional license
+limitation program (Townsend and Pooley 1994), which would force consolidation of ITEs
+and hence vessel exit from the fishery.
+At first blush, ITEs are more promising than ITQs, because ITEs do not directly face
+the complex multispecies issues of the tropics, and compliance and enforcement are
+potentially possible through vessel monitoring systems (VMS), which are increasingly
+tractable and affordable. However, fishing effort, usually measured in fishing time, is in fact a
+heterogeneous vector of inputs, and fishing time is simply a proxy variable for a singlevalued, composite input (which theoretically exists only under homothetic input separability,
+Hannesson 1983). As a consequence, ITEs inherently increase through productivity growth
+(technical change, technical efficiency, size economies), investment in capital stock,
+increases in other inputs, and improvements in fishing skill. Allocation of ITEs gratis transfers
+
+16
+
+public wealth to the private sector players, but helps create acceptance of the program, and
+through transfers among players, players themselves – rather than the public sector –
+finance effort reduction. Allocation formulae are numerous and face inadequate
+documentation and political concerns, but equal allocation to individuals or groups based on
+a physical measure of the size of capital stock or numbers of persons involved are potential
+approaches that help circumvent these issues. In spite of their short-comings, ITEs remain a
+promising if largely untested form of rights-based management for complex multispecies
+tropical fisheries, and hence a first-best policy option, and decidedly deserve further
+consideration. Because of administrative and transactions costs, ITEs might best be applied
+to larger and/or more profitable vessels.
+Vessel or license buyback programs have largely been used in developed countries,
+but also in Malaysia and high seas tuna longline fisheries in the Pacific (Hatcher 1998,
+Holland, Gudmundsson, and Gates 1999, Kirkley and Squires 1999, World Bank 2004,
+Curtis and Squires 2004). The general view of their effectiveness is that buyback programs
+seldom effectively reduce fishing effort over the long term and restore stock size, but can
+help stem further deterioration in resource stocks. Buybacks also tend, in practice, to remove
+the largely inactive vessels that hold licences. Buybacks that restore profitability also give
+breathing room for players to figure out what to do next and enhance positive economic
+behavior, since players behave very differently when a fishery is profitable.
+The key issue of concern for Thailand and other developing countries is the likely
+high cost of an effective program and who finances it, the public or private sector. Willmann,
+Boonchuwong, and Piumsombun (2001) estimate that the necessary 25 percent reduction in
+the Thai trawler fleet requires at least US$136 million, effectively precluding a vessel
+buyback program financed by either the private or public sectors of Thailand. A potentially
+valuable role exists for the international community, such as proposed by the World Bank
+(2004), in financing transparent, market-based buyback systems without spillovers to other
+fisheries (moral hazard) for a management program that might not otherwise pass a strict
+
+17
+
+cost-effectiveness test compared to the opportunity cost of such funds if domestically
+supplied and appropriately shadow-priced.
+Co-management and Decentralization of Fisheries Management
+Effectiveness of fisheries management can be improved by more than “sticks” such
+as enhanced enforcement, but also by creating positive incentives through co-management
+coupled with decentralization of fisheries management from the capital city, Bangkok, to the
+provinces and districts.12 Co-management reshapes, “…the state interventions so as to
+institutionalize collaboration between administration and resource users and end those
+unproductive situations where they are pitted against one another as antagonistic actors in
+the process of resource regulation.” (Baland and Platteau 1996, p. 347) Co-management
+thus increases the ability to effectively monitor and enforce a limited access program and
+strengthens incentives for cooperation and conservation. Such a program has to rely on the
+cooperation and participation of the industry with the government (Ahmed et al. 1997,
+Nielsen et al. 2004), thereby promoting cooperation between fishers and the Department of
+Fisheries.
+
+Co-management would enhance the economic incentives of fishers toward
+
+investing in future catches by reducing current catches through limited fishing effort. Comanagement could also help in the establishment of protected areas for spawning grounds
+or areas of threatened biodiversity. As part of the process of co-management,
+decentralization of the state’s fishery management would strengthen the hand of local and
+regional government, which in turn would further enhance co-management by shortening the
+chain of communication, reducing the number of parties involved, and align local
+government incentives with local events.
+Co-management in the Gulf of Thailand has been implemented, in part, by the
+government in coastal areas – especially in Bang Sapan Bay, through community-based
+fisheries management. These projects aim to alter the perceptions and attitudes of fishers
+from that of a user to a manager. Activities on grouping, training, social development
+programs, and fish landing site management, which unite fishers and their communities,
+including awareness-building and participation in resource conservation, have been
+
+18
+
+implemented in the target villages. Regular meetings among working committees of each
+village have been organized to monitor the progress and problems of implementation. Visits
+to the target villages have also been regularly carried out. When the fishers learn how to
+manage and conserve the fisheries resources for sustainable utilization in the near future,
+the laws governing the provision of fishing grounds in their village or group of villages as part
+of village property and as a source of their livelihood will be extended to them.
+Area-Based Rights
+The effectiveness of the limited access or use right for any gear type might be
+enhanced, to some degree, by further attenuating the access right to a specific and naturally
+definable geographic area, creating a well-defined group with exclusive access (use), and
+thereby restructure and enhance fishers’ incentives, creating an area licensing scheme (cf.
+Wilen 1988).13 To the extent that such a geographic focusing for a gear type can be
+meaningfully defined, implemented, monitored and enforced, the numbers and homogeneity
+of players in the non-cooperative strategic game may be reduced to an extent that may
+make coordinated group action a Pareto-dominant strategy from each player’s standpoint.14
+In essence, a common use right is created. The key point here is that players’ incentives
+require restructuring and redirection toward cooperation and investing in future catches by
+reducing current catches, and that geographically tailoring the access (use) or property right
+– perhaps further customized by gear type -- may be one way to nudge incentives in this
+direction.
+Such an approach of area limited access has been applied in Malaysia through
+creating zones for certain vessel sizes and gear types (Ooi 1990). Establishment of a similar
+system of zonal license areas for many or all gear types could be established in Thailand,
+although it should be noted that monitoring and enforcement is critical for such a system to
+effectively function. In Malaysia, enforcement of zonal license areas relies, in part, upon
+reporting by legal fishers of illegal fishers, i.e. self-policy, which is enhanced by the colorcoded demarcation of vessels and zones (different zones have different colors, which are
+prominently displayed on the vessel).
+
+19
+
+Complementary Conservation Measures
+Additional policies can complement and strengthen the effectiveness of a fishery
+management program built upon limited access or use rights, co- management,
+decentralization, and well-defined user groups such as areas and gears. One of these
+consists of establishing a minimum mesh size (especially for the cod end of trawl gear to 4
+cm) and perhaps mesh design (e.g. square versus diamond for trawls) through at-sea gear
+research to both increase yield per recruit through enhanced survival and growth of smallsized fish that can escape the net. Another conservation policy prohibits fishing by all type of
+fishing gear at all times in the protected areas of critical habitats such as coral reef,
+seagrasses, and mangroves, which are important nursing and spawning grounds of several
+living marine resources.
+Trash Fish
+Effective policies that substantially reduce catches of “trash” fish are not easy to
+introduce because of the monitoring and enforcement required for effective implementation,
+the limited product transformation possibilities under a vessel’s joint production, and the
+growing economic incentives to catch fish of all species as resource stocks of the most
+desirable species are overfished. A large proportion of “trash” fish consists of juveniles or
+species with limited market value. To the extent that fleet sizes (and hence fishing effort) are
+reduced and even redirected through license limitation, some relief to catches of “trash” fish
+may be found (a negative expansion effect). Similarly, reducing fishing effort in inshore
+areas, where juvenile fish are often found, can reduce catches of “trash” fish. Limitations on
+types of gear and on smaller mesh sizes and perhaps different mesh designs can also lower
+catches of “trash” fish. Moreover, as a fishery deteriorates to low resource stock levels,
+catches of species that were formerly “trash” fish – either juveniles of “targeted” species or
+bycatch of previously undesirable species – may now become valued in their own right as a
+“target” species for consumption or fish meal. In this case, policies to reduce what was
+formerly “trash” fish really becomes, in effect, policies to reduce overall fishing effort in a
+fishery facing substantial levels of biological and economic overfishing.
+
+20
+
+7. Concluding Remarks
+This study estimated Schaefer and Fox bioeconomic models of demersal and “trash”
+fish in the Gulf of Thailand to provide an overview analysis and an effective foundation for a
+set of policies for the utilization and management of the demersal fisheries. The results from
+both models indicate that demersal fish stocks are both biologically and economically
+overfished and subject to both biological and economic overfishing. The fishery could earn
+additional economic rents by curtailing both excessive fishing effort and exploitation rates.
+Whether maximum sustainable or economic yields (modified by the Precautionary Principle)
+serve as the sustainable target yield in comparison to unregulated open access, the direction
+of Pareto-improving policy that also enhances the biological basis of the demersal fishery is
+clear.
+The cornerstone to effective conservation and management of the Gulf of Thailand
+demersal fisheries is effective implementation of the current license limitation program for all
+gear types enhanced by co-management, decentralization of management, and areaspecific considerations. This limited access policy includes prohibiting construction of new
+trawlers and phasing out of the biologically destructive push net fishery. The limited access
+program might also be tailored to specific geographic areas for some gear types to both
+protect juvenile species in inshore areas, reduce gear conflicts by separating some gear
+types (e.g. trawlers and artisanal gear), and potentially enhance conservation and economic
+incentives by limiting players in an area. Cod end mesh size limits for trawl gear are also
+warranted.
+Monitoring and enforcement are critical for the compliance that underpins all effective
+fisheries
+
+conservation
+
+and
+
+management.
+
+Decentralization
+
+of
+
+authority,
+
+enhanced
+
+coordination among government agencies, self-policing, co-management, and improved
+funding would all greatly contribute in this regard. In addition, a lump sum license fee for
+gear types that are sufficiently profitable to bear such a fee serves as a double dividend tax
+that both reduces fishing effort and helps fund monitoring and enforcement and
+implementation in general. Effort reduction requires serious consideration of rights-based
+
+21
+
+management in the form of transferable effort quotas for players – individuals or groups, an
+imperfect and largely untested approach, but the most potentially tractable property right
+available in complex multispecies fisheries of tropical developing countries.
+Optimal resource utilization based solely on achieving economic efficiency
+inadequately addresses broader social issues. In this regard, a policy aimed at maximum
+sustainable yield, modified by the Precautionary Principle, rather than maximum economic
+yield has it advantages, since it helps alleviate employment and distributional concerns in
+the Gulf of Thailand fisheries. Side payments from gainers to losers or the disenfranchised,
+perhaps financed by license fees or limited access formula favorable to the disenfranchised,
+may also help address social issues.
+The international community and external funding may be useful in introducing and
+funding governance and structural reforms and some management programs such as vessel
+buyback programs, experimental individual transferable effort programs, and enhanced
+compliance and enforcement. Such programs may require additional funding or impetus.
+The ultimate success of a national fisheries policy lies in the correct and timely mix of
+fisheries management and non-fisheries development. Only broad-based rural development
+will put an end to the continual drift into common resources and major urban centers. In its
+absence, fisheries regulation cannot be effective and, if effective, will simply push the
+problems into some other sector: unemployed fishers have little choice but to encroach on
+reserved forests, mineral concessions and public lands or simply move into the urban
+centers creating a host of social and environmental problems.
+
+22
+
+References
+Ahmed, M.,(1991), ‘A model to determine benefit obtainable from the management of riverine
+fisheries of Bangladesh,’ ICLARM Tech. Rep. 28, 133 p.
+Ahmed, M., A.D. Capistrano and M. Hossain, (1997), ‘Experience of partnership models for the comanagement of Bangladesh fisheries,’ Fish. Manage. Ecol. 4: 233-248.
+Alam, F., O. Ishak, and D. Squires, (2002), ‘Sustainable fisheries development in the tropics: Trawlers
+and license limitation in Malaysia,’ Applied Economics 34:325-337.
+Baland, J-M and Platteau, P.-P.,(1996), Halting Degradation of Natural Resources: Is There a Role for
+Rural Communities? Oxford: Oxford University Press.
+Barrett, S., (2003), Environment and Statecraft. Oxford: Oxford University Press.
+Boonchuwongse, P and W. Dechboon, (2002), ‘Socioeconomic assessment of marine fisheries in
+Thailand,’ in G.T. Silvestre, L. Garces, C.Z. Luna, M. Ahmed, R.A. Valmonte-Santos, L.
+Lachica-Alino, V. Christensen, and D. Pauly (eds). Assessment and Management of Tropical
+Coastal Fisheries in Asia. (unpublished report)
+Campbell, H. and H. Lindner. (1990) The production of fishing effort and the economic performance of
+licence limitation programs, Land Economics 66(1): 56-66.
+Chotiyaputta, (1992), ‘Trawl survey of marine resources in the upper Gulf of Thailand from Cholburi to
+Surat-tani provinces, 1989,’ Tech. Pap. 2/1992. Mar. Res. Surv. Unit, Bangkok Mar. Fish.
+Devel. Cent., Dep. Fish. 48pp.
+Christy, F.T., Jr., (1982), ‘Territorial use rights in marine fisheries: Definitions and conditions, FAO
+Fisheries Technical Paper No. 227, Food and Agriculture Organization of the United Nations,
+Rome.
+Chullasorn, S., (1997), ‘Review of small pelagic fisheries in Thailand,’ APFIC: WPMF/97/CR-9, in S.
+Chullasorn and C. Chotiyaputta. Fishing Status of Thailand.
+
+Proceeding of the Regional
+
+Workshop on Responsible Fishing, Bangkok, Thailand, 24-27 June, 1997. 450 pp.
+Curtis, R. and D. Squires. 2004. ‘Rapporteur’s Report of International Vessel Buyback Workshop,’
+March 16-18, 2004. La Jolla, California: NOAA Fisheries and University of California, San
+Diego.
+Department of Fisheries, Thailand, (1972-1997),
+
+Thai Fishing Vessels Statistics. Department of
+
+Fisheries, Ministry of Agriculture and Cooperatives, Bangkok, Thailand.
+Department of Fisheries, Thailand, (1997), Fisheries Statistics of Thailand 1995.
+
+No.5/1997.
+
+Fisheries Economics Division, Department of Fisheries, Ministry of Agriculture and
+Cooperatives, Bangkok, Thailand.
+Eiamsa-Ard, M. and S. Amornchairojkul, (1997), ‘The marine fisheries of Thailand, with emphasis on
+the Gulf of Thailand trawl fishery,’ in G.T. Silvestre and D. Pauly, eds., Status and
+Management of Tropical Coastal Fisheries in Asia. ICLARM Conference Proceedings 53, 208
+pp.
+FAO (1995), World Fisheries: Problems and Prospects. FAO Committee on Fisheries Document.
+COFI/95/3 Inf 3: 13, Food and Agriculture Organization of the United Nations, Rome.
+
+23
+
+Fournier, D.A., J. Hampton and J. R. Sibert, (1998), ‘MULTIFAN-CL: a length-based, age-structured
+model for fisheries stock assessment, with application to South Pacific albacore, Thunus
+alalunga,’ Canadian Journal of Fisheries and Aquatic Sciences 55: 2105-2116.
+Fox, W.W., (1970), ‘An exponential surplus model for optimizing exploited fish population.’
+Transactions of the American Fisheries Society, 99: 80-88.
+Hannesson, R., (1983), ‘ Bioeconomic production function in fisheries: Theoretical and empirical
+analysis,’ Journal of the Fisheries Research Board of Canada, 40: 968-982.
+Hatcher, A. 1998. ‘Summary of the Workshop on Overcapacity, Overcapitalization and Subsidies in
+Europrean Fisheries,’ held October 28-30, 1998. ttp://www.pbs.port.ac.uk/econ/cemare/M44/.
+Hilborn, R., Walters, C. J., 1992. Quantitative Fisheries Stock Assessment: Choice, Dynamics and
+Uncertainty. Chapman and Hall, New York.
+Holland, D., E. Gudmundsson, and J. Gates. 1999. ‘Do vessel buyback programs work: A survey of
+the evidence,’ Marine Policy 23: 47-69.
+Intong, S., C. Chotiyaputta and T. Anukul, (1993), ‘Otter board trawl surveyed in the inner Gulf of
+Thailand,’ in S. Chullasorn and C. Chotiyaputta, eds., Fishing Status of Thailand. Proceeding
+of the Regional Workshop on Responsible Fishing, Bangkok, Thailand, 24-27 June. 450 pp.
+Jensen, F. and N. Vestergaard, (2000), ‘Moral hazard problems in fisheries: The case of illegal
+landings,’ Resource and Energy Economics, 24(4): 281-299.
+Jensen, F. and N. Vestergaard, (2002a), ‘Regulation of renewable resources in federal systems: the
+case of fishery in the EU,,’ Marine Resource Economics, 16: 277-291.
+Jensen, F. and N. Vestergaard, (2002b), ‘A principal-agent analysis of fisheries,’ Journal of
+Institutional and Theoretical Economics, 158 (2): 276-285.
+Jirapanpipat, K., (1992), ‘Declines of the multispecies trawl fishery in the Gulf of Thailand,’ in
+
+S.
+
+Chullasorn and C. Chotiyaputta, 1997. Fishing Status of Thailand. Proceeding of the Regional
+Workshop on Responsible Fishing, Bangkok, Thailand, 24-27 June. 450 pp.
+Kirkley, J. and D. Squires. 1999. Measuring Capacity and Capacity Utilization in Fisheries in D.
+Greboval, ed., Managing Fishing Capacity. FAO Fisheries Technical Paper 386. Rome: Food
+and Agriculture Organization of the United Nations.
+Meemeskul, Y., 1982, ‘Species and size composition of trash fish from otter board trawl monitoring
+survey by Pramong 2 and Pramong 9 in the Gulf of Thailand, 1980,’ in S. Chullasorn and C.
+Chotiyaputta 1997. Fishing Status of Thailand. Proceeding of the Regional Workshop on
+Responsible Fishing, Bangkok, Thailand, 24-27 June. 450 pp
+Natural Research Council (United States), Committee to Review Individual Fishing Quotas, (1999),
+Sharing the Fish: Toward a National Policy of Individual Fishing Quotas, Washington, D.C.:
+National Academy Press, 436 pp.
+Nielsen, J., P. Degnbol, K. Viswanathan, and M. Ahmed, (2004), ‘Fisheries Comanagement: Lessons
+from Asia and Africa,’ Marine Policy 28(2): 151-160.
+Ooi Jin Bee, (1990), Development Problems of an Open-Access Resource: The Fisheries of
+Peninsular Malaysia. Singapore: Institute of Southeast Asian Studies.
+
+24
+
+Ostrom, E., (1990), Governing the Commons: The Evolution of Institutions for Collective Action.
+Cambridge: Cambridge University Press.
+Panayotou, T.
+
+and S. Jetanavanich, (1987), ‘ The economics and management of Thai marine
+
+fisheries,’ ICLARM Stud Rev 14, 82 p. International Center for Living Aquatic Resources
+Management, Manila, Philippines and Winrock International Institute for Agricultural
+Development, Arkansas, USA.
+Pinkerton, E., ed., (1989), Cooperative Management of Local Fisheries. Vancouver: University of
+British Columbia Press.
+Piumsombun, S., (1992), Bio-economic Modeling of Pla-tu in the Gulf of Thailand. Canada: Ph.D.
+Thesis, Simon Fraser University, Canada.
+Pomeroy, R. and F. Berkes. 1997. ‘Two to tango: The role of government in fisheries comanagement,’ Marine Policy 21: 465-480.
+Posner, R., (1977), Economic Analysis of Law, Boston: Little, Brown, & Co.
+Quinn and R. Deriso, (1999), Quantitative Fish Dynamics. Oxford: Oxford University Press.
+Salvanes, K. and D. Squires, (1995), ‘Transferable quotas, enforcement costs and typical firms: an
+empirical application to the Norwegian trawler fleet,’ Environmental and Resource Economics,
+6: 1-21.
+Schaefer, M., (1957), ‘Some aspects of the dynamics of populations important to the management of
+commercial marine fisheries,’ Journal of the Fisheries Research Board of Canada 14 :669681..
+Scott, A., (1993), ‘Obstacles to fishery self-government,’ Marine Resource Economics 8 : 187-199.
+Scott, A. 2000. ‘Introducing Property in Fishery Management,’ In R. Schotten, ed.,
+Use of Property Rights in Fisheries Management. FAO Fisheries Technical Paper
+404/1. Rome: Food and Agriculture Organization of the United Nations. Sections
+3 and 4.
+Seabright, P., (1997), ‘Is co-operation habit forming ?’ in P. Dasgupta and K.-G. Mäler, eds., The
+Environment and Emerging Development Issues, Vol. II, Oxford : Oxford University Press.
+Smith, I.R., (1981), ‘Improving fishing incomes when resources are overfished,’ Marine Policy 5 : 1722.
+Squires, D., H. Campbell, S. Cunningham, C. Dewees, R.Q. Grafton, S. Herrick, J. Kirkley, S. Pascoe,
+K. Salvanes, B. Shallard, B. Turris, and N. Vestergaard, (1998), ‘Individual transferable
+quotas in multispecies fisheries,’ Marine Policy, 22(2): 135-159.
+Squires, D. 1992. ‘Productivity measurement in common property resource industries,’ RAND Journal
+of Economics
+Squires, D., O.Ishak, Y. Jeon, J. Kirkley, K. Kuperan, and I. Susilowati, (2003), ‘Excess capacity and
+sustainable development in Java Sea fisheries,’ Environment and Development Economics
+8 : 105-127.
+Sripanpaiboon, S., (1995), ‘Species size composition and catch rate of trash fish by commercial
+trawler in the Gulf of Thailand, 1992-1993,’ S. Chullasorn, and C. Chotiyaputta, 1997. Fishing
+
+25
+
+Status of Thailand. Proceeding of the Regional Workshop on Responsible Fishing, Bangkok,
+Thailand, 24-27 June. 450 p.
+Suvapepun, (1995), ‘Overview of the marine fishery environment status of Thailand,’ p.1-2. in
+Proceeding of the International Seminar on Marine Fisheries Environment, 9-10 March 1995,
+EMDEC & JICA. 359p.
+Townsend, R., (1990), ‘Entry restrictions in the fishery: a survey of the evidence,’ Land Economics
+66: 359-378.
+Townsend, R. and S. Pooley (1994) ‘Fractional licenses: An alternative to license buy-backs,’ Land
+Economics, 70(3): 141-143.
+Tussing, A.R. et al., (1974), Fisheries of the Indian Ocean: Issues of International Management and
+the Law of the Sea. Washington, D.C.
+United Nations, (2002), Report of the World Summit on Sustainable Development. Johannesburg,
+South Africa, 26 August – 4 September 2002. United Nations, New York.
+Vadhanakul, S., Y. Meemeskul, and S. Pramokchutima, (1985), ‘An analysis of demersal fish taken
+from otter board trawling survey in the Gulf of Thailand, 1981,’ in S. Chullasorn, S. and C.
+Chotiyaputta, 1997. Fishing Status of Thailand. Proceeding of the Regional Workshop on
+Responsible Fishing, Bangkok, Thailand, 24-27 June. 450 p.
+Weitzman, M., (1974), ‘Free Access vs. Private Ownership as Alternative Systems for Managing
+Common Property, Journal of Economic Theory, 8(2): 225-234.
+Wilen, J., (1979), ‘Fisherman behavior and the design of efficient fisheries regulation programs,’
+Journal of the Fisheries Research Board of Canada, 36: 855-858.
+Wilen, J., (1988), ‘Limited entry licensing: a retrospective assessment,’ Marine Resource Economics
+5: 313-324.
+World Bank. 2004. Saving Fish and Fishers: Toward Sustainable and Equitable Governance of the
+Global Fishing Sector. Report No. 29090-GLB. Washington, D.C.: The World Bank.
+
+26
+
+Table1 Number of fishing vessel in the Gulf of Thailand, 1972-1997.
+Year
+
+Otter board trawl
+
+Pair trawl
+
+Push net
+
+1972
+
+2,813
+
+702
+
+1,232
+
+1973
+
+3,927
+
+824
+
+1,470
+
+1974
+
+3,595
+
+854
+
+1,062
+
+1975
+
+3,397
+
+850
+
+933
+
+1976
+
+3,735
+
+814
+
+697
+
+1977
+
+4,536
+
+878
+
+946
+
+1978
+
+4,610
+
+804
+
+1,137
+
+1979
+
+6,273
+
+1,120
+
+1,394
+
+1980
+
+7,192
+
+1,092
+
+1,644
+
+1981
+
+5,285
+
+910
+
+883
+
+1982
+
+8,030
+
+1,306
+
+1,244
+
+1983
+
+6,849
+
+1,180
+
+941
+
+1984
+
+6,745
+
+1,072
+
+777
+
+1985
+
+6,108
+
+1,122
+
+663
+
+1986
+
+5,416
+
+1,060
+
+579
+
+1987
+
+5,343
+
+1,078
+
+554
+
+1988
+
+4,997
+
+1,046
+
+490
+
+1989
+
+8,825
+
+1,943
+
+1,111
+
+1990
+
+8,686
+
+1,929
+
+1,119
+
+1991
+
+6,941
+
+1,822
+
+765
+
+1992
+
+6,367
+
+1,661
+
+634
+
+1993
+
+6,242
+
+1,539
+
+663
+
+1994
+
+5,531
+
+1,508
+
+543
+
+1995
+
+5,463
+
+1,392
+
+534
+
+1996
+
+5,912
+
+1,610
+
+620
+
+1997
+
+6,036
+
+1,561
+
+771
+
+Source: Department of Fisheries, 1972-1997.
+
+27
+
+Table 2. Nominal Fishing Effort by Gear Type for Demersal and Trash Fish in the Gulf of
+Thailand, 1971-1995 (‘000 hours)
+Otter
+Pair
+Beam
+Year
+Trawl
+Trawl
+Trawl
+1971
+7,036
+1,050
+179
+1972 10,268
+1,349
+980
+1973 13,992
+1,268
+1,172
+1974 12,159
+1,312
+593
+1975 10,942
+1,004
+52
+1976 11,352
+1,302
+475
+1977 13,826
+1,709
+2,003
+1978 12,151
+1,292
+753
+1979 13,747
+1,408
+813
+1980 11,109
+1,266
+691
+1981 10,944
+1,161
+644
+1982 12,402
+1,116
+1,364
+1983 12,651
+1,322
+387
+1984 11,452
+1,195
+248
+1985 12,178
+1,172
+169
+1986 14,551
+1,554
+96
+1987 15,327
+1,794
+32
+1988 14,395
+1,748
+53
+1989 13,311
+1,645
+54
+1990 13,808
+1,610
+54
+1991 11,484
+1,275
+43
+1992 10,492
+1,220
+31
+1993 10,062
+1,423
+35
+1994 11,922
+1,324
+125
+1995 11,529
+1,620
+87
+Source: Department of Fisheries, Thailand
+
+Push
+Net
+988
+467
+1,732
+1,147
+1,251
+930
+1,531
+1,636
+1,540
+1,534
+1,189
+2,553
+1,234
+948
+723
+616
+645
+456
+457
+459
+694
+450
+594
+700
+543
+
+28
+
+Purse
+Seine
+0
+0
+0
+0
+0
+0
+686
+242
+722
+709
+691
+972
+1,430
+1,401
+1,287
+1,527
+1,374
+1,647
+1,435
+2,041
+1,019
+1,114
+1,154
+1,045
+1,873
+
+Gill
+Nets
+0
+0
+0
+0
+0
+0
+0
+162
+639
+408
+375
+352
+432
+467
+613
+722
+698
+740
+472
+554
+1,745
+406
+403
+268
+420
+
+Total
+9,252
+13,064
+18,164
+15,211
+13,248
+14,059
+19,070
+15,832
+17,508
+14,600
+13,940
+17,435
+15,593
+13,844
+14,243
+16,816
+17,798
+16,652
+15,467
+15,931
+13,496
+12,193
+12,114
+14,071
+13,780
+
+Table 3. Total catch, standard fishing effort, and catch per unit of effort, 1971-1995
+Year
+Total Catch
+Total Standardized Fishing
+Catch Per Unit of
+(metric ton)
+Effort
+Standardized Effort
+(hours)
+(kg/hour)
+1971
+395,728
+11,876,715
+33.32
+1972
+
+656,695
+
+14,540,695
+
+45.16
+
+1973
+
+723,422
+
+19,705,566
+
+36.71
+
+1974
+
+656,601
+
+17,177,347
+
+38.22
+
+1975
+
+657,952
+
+15,406,302
+
+42.71
+
+1976
+
+622,349
+
+15,767,966
+
+39.47
+
+1977
+
+639,212
+
+20,418,085
+
+31.31
+
+1978
+
+522,979
+
+17,359,494
+
+30.13
+
+1979
+
+645,951
+
+21,109,841
+
+30.60
+
+1980
+
+625,453
+
+17,523,633
+
+35.69
+
+1981
+
+692,330
+
+16,713,349
+
+41.42
+
+1982
+
+707,190
+
+21,007,226
+
+33.66
+
+1983
+
+647,764
+
+20,110,684
+
+32.21
+
+1984
+
+585,004
+
+18,760,727
+
+31.18
+
+1985
+
+711,164
+
+18,256,176
+
+38.95
+
+1986
+
+888,945
+
+22,938,792
+
+38.75
+
+1987
+
+1,028,110
+
+24,266,210
+
+42.37
+
+1988
+
+920,622
+
+23,363,011
+
+39.41
+
+1989
+
+903,741
+
+21,116,546
+
+42.80
+
+1990
+
+880,614
+
+22,366,674
+
+39.37
+
+1991
+
+774,104
+
+20,549,582
+
+37.67
+
+1992
+
+816,095
+
+16,528,634
+
+49.37
+
+1993
+
+869,601
+
+16,988,426
+
+51.19
+
+1994
+
+852,428
+
+18,619,483
+
+45.78
+
+1995
+
+895,711
+
+19,934,393
+
+44.93
+
+Source: Department of Fisheries, 1972 – 1997.
+Note: Total catch includes demersal “target” and “trash” fish of all species caught in
+demersal fisheries.
+Standardized fishing effort is standardized across gear types to 14-18 m otter
+trawl vessels.
+
+29
+
+Table 4. The Formulae Used To Fit The Schaefer And Fox Production Models And Estimate
+The Relevant Parameters.
+
+Catch-effort relationship
+Linear relationship
+between catch per unit
+of effort and fishing
+effort
+
+Schaefer model
+
+Fox model
+
+Yt   ft -  ft
+
+Y  fe (   f )
+
+2
+
+Yt
+)     ft
+ft
+
+Yt
+    ft
+ft
+
+ln(
+
+fMSY 
+
+fMSY  
+
+Maximum sustainable
+yield (MSY)
+
+
+2
+2
+MSY 
+4
+
+Total revenue (TR)
+
+TR  p( ft -  ft )
+
+TR  pfe(   f )
+
+Marginal revenue (MR)
+
+MR  p(  2 ft )
+
+MR  p (f  e f  e f )
+
+Average revenue (AR)
+The level of effort that
+maximizes economic
+yeild (fMEY)
+Maximum economic
+yeild (MEY)
+Maximum economic rent
+(MER)
+
+AR  p(   ft )
+
+AR  pe(   f )
+
+Level of fishing effort at
+MSY (fMSY)
+
+Nash equilibrium level of
+fishing effort in open
+access
+
+
+
+1
+MSY   e  1
+
+
+
+2
+
+fMEY 
+
+1
+
+(c  p )
+2 p
+
+c
+ fMEY  e fMEY  e fMEY
+p
+
+2
+MEY   fMEY -  fMEY
+
+MEY  pfMEY e(   fMEY )
+
+2
+MER  p( fMEY -  fMEY
+)  cfMEY
+
+MER  pfMEY e(   fMEY )  cfMEY
+c
+ln( )  
+p
+fOA 
+
+fOA 
+
+(c  p )
+p
+
+
+
+Where:
+Yt denotes yield or total landing of fish at time t,
+ft is fishing effort at time t,
+α and β are parameters of the Schaefer model.
+λ and θ are parameters of the Fox model
+p is the constant price of the catch
+c is the constant marginal, When estimating the level of effort that maximizes economic
+rents (fMER) the marginal revenue (MR) and marginal cost of fishing are equated.
+
+30
+
+Table 5. Distribution of Vessel Sizes and Annual Costs of Trawl and Push Nets by Size of
+Fishing Vessel in the Gulf of Thailand, 1995
+Type
+of Size of Vessel No. of Fishing Average
+Amount Cost
+Fishi
+(meters)
+Units
+annual
+cost (Baht x 106)
+ng
+Gear
+(Baht/unit)
+Otter Trawl
+
+< 14
+
+1,784
+
+825,380
+
+1,472.49
+
+14-18
+
+1,948
+
+1,556,740
+
+3,032.53
+
+18-25
+
+1,496
+
+2,275,200
+
+3,403.70
+
+Subtotal
+Pair Trawl
+
+7,908.71
+< 14
+
+16
+
+1,947,864
+
+31.17
+
+14-18
+
+186
+
+2,702,003
+
+502.27
+
+18-25
+
+491
+
+4,608,520
+
+2,262.78
+
+Subtotal
+Push Net
+
+2,796.52
+< 14
+
+402
+
+614,107
+
+246.87
+
+14-18
+
+85
+
+1,173,753
+
+99.77
+
+18-25
+
+35
+
+2,306,508
+
+80.73
+
+Subtotal
+
+427.37
+
+Grand Total
+
+11,132.60
+
+Source: Fisheries Economic Division, Department of Fisheries
+
+31
+
+Table 6. Estimation Results for Schaefer and Fox Models
+Schaefer Model
+Variable
+
+Estimated
+
+Fox Model
+
+Standard t-Ratio Variable
+
+Estimated
+
+Coefficient Error
+Intercept (α)
+
+57.1346
+
+Fishing effort 8.2173E-07
+
+Coefficient Error
+
+Ratio
+
+4.1903
+
+0.0308
+
+136.07
+
+1.0667E-
+
+24.88
+
+1.5892
+
+35.95
+
+Intercept (λ)
+
+5.5049E-
+
+14.9273
+
+Fishing effort 2.7533E-08
+
+08
+
+(f) (β)
+
+Standard t-
+
+09
+
+(f) (θ)
+
+Adj. R2 0.90
+
+Adj. R2 0.96
+
+Standard
+Error 4.0619
+Overall
+F
+222.82, df 24
+No.
+Observations
+25
+
+Standard
+Error 0.0787
+Overall
+F
+618.82, df 24
+No.
+Observations
+25
+
+Table 7. Catch, Revenues, Costs, Profits at Different Levels of Effort for Schaefer Model
+Items
+
+Revenues
+(Baht x 106)
+
+Costs
+(Baht x 106)
+
+Profit
+(Baht x 106)
+
+MSY
+
+Effort
+Catch
+(x 106 std. (x 103 tons)
+hours)
+34.76
+993
+
+6,634
+
+2,422
+
+4,212
+
+MEY
+
+28.42
+
+960
+
+6,413
+
+1,980
+
+4,433
+
+Open
+Access
+Equilibrium
+Actual
+(1995)
+
+56.84
+
+593
+
+3,960
+
+3,960
+
+0
+
+56.62
+
+896
+
+5,983
+
+3,945
+
+2,039
+
+32
+
+Table 8. Catch, Revenues, Costs, Profits at Different Levels of Effort for Fox Model
+Items
+
+Effort
+
+Catch
+
+(x 106 std. (x 103 tons)
+
+Revenues
+
+Costs
+
+Profit
+
+(Baht x 106)
+
+(Baht x 106)
+
+(Baht x 106)
+
+hours)
+MSY
+
+37.69
+
+916
+
+6,116
+
+2,626
+
+3,491
+
+MEY
+
+25.86
+
+860
+
+5,745
+
+1,802
+
+3,943
+
+Open
+69.56
+725
+4,846
+4,846
+0
+Access
+Equilibrium
+Actual
+56.62
+896
+5,983
+3,945
+2,039
+(1995)
+Note: Total catch includes demersal “target” and “trash” fish of all species caught in
+demersal fisheries.
+
+Figure 1. Total Catch (metric tons) of Demersal and Trash Fish in the Gulf of Thailand, 19711995
+1,200,000
+1,000,000
+800,000
+600,000
+400,000
+200,000
+
+19
+93
+
+19
+91
+
+19
+89
+
+19
+87
+
+19
+85
+
+19
+83
+
+19
+81
+
+19
+79
+
+19
+77
+
+19
+75
+
+19
+73
+
+19
+71
+
+0
+
+Year
+
+Source: Department of Fisheries, Thailand
+Note: Total catch (metric tons) includes demersal “target” and “trash” fish of all species
+caught in demersal fisheries.
+
+33
+
+Figure 2. Estimated Schaefer and Fox Model Results for Demersal Fisheries in the Gulf of
+Thailand
+
+Revenues&Costs
+(Bahtsx10^6)
+
+MEY
+
+MSY
+
+6,634
+6,413
+6,116
+5,745
+
+TC=c*fi
+Open
+access
+
+4,846
+
+Open access
+TR=P*Y
+
+3,960
+
+37.69
+25.86 28.42
+56.84
+34.76
+Standard Efforts(St hrx10^6)
+
+34
+
+69.56
+
+Endnotes
+More formally, our comparative statics analysis compares the Pareto-inefficient, non-cooperative
+Nash equilibrium of open access with the Pareto-efficient cooperative equilibrium, MEY. These two
+benchmark equilibriums, when the resource stock is in steady-state equilibrium, correspond to the
+open-access and sole-owner bionomic equilibriums traditionally discussed under the bioeconomic
+framework. The full cooperative equilibrium could arise from a sole owner, completely structured
+private or common property (the latter with effective management), or some other form of cooperation
+or fully structured property right (Ballard and Platteau 1996)
+1
+
+The traditional bioecoomic model implicitly assumes that there is an aggregate input and output due
+to homothetic input-output separability, a homogeneous habitat, and a population that is perfectly
+mixed throughout, or that there is non-joint production with a perfectly allocable composite input
+(fishing effort). Moroever, an analysis disaggregated by gear type and/or species has its own set of
+limitations, including presumed nonjointness. For example, bioeconomic models for a single gear type
+do not incorporate all sources of fishing mortality on the multispecies resource stocks, and thereby do
+not provide fully accurate empirical results for a policy aimed at all sources of fishing mortality on a
+given set of resource stocks. Moreover, policy conclusions from a single-gear bioeconomic analysis
+do not consider spillover effects from these other gear. Bioeconomic models for a single species in a
+multispecies fishery, even if incorporating all gear types, clearly do not capture all multi-species
+interactions in the population dynamics and implicitly assume nonjointness. In short, there are clear
+advantages and disadvantages for the different possible levels of aggregation. In this paper we are
+concerned with the overview status of the demersal fisheries of the Gulf of Thailand.
+2
+
+The background discussion draws from Boonchuwongse and Dechboon (2002), Chullasorn (1997),
+Jirapanpipat (1992), Sripanpaiboon (1995), Suvapepun (1995), and Vadhanakul, Meemeskul, and
+Pramokchutima (1985).
+3
+
+In addition, a major advantage of aggregating multiple species is in specification of fishing effort, and
+implicitly, the capital stock. As a general rule according to economic principles, capital services or
+fishing effort when production is joint cannot be allocated among different outputs or species. We
+thank an anonymous referee for raising these points.
+4
+
+To be perfectly clear, the directed demersal fishery on the “target” species focuses upon demersal
+species. However, part of the catch – “trash” fish -- is comprised of juveniles of “target” demersal
+species, which are of small size and lesser or no market value, and bycatch of other, non-demersal
+species, which often have little or no commercial value. Thus, these bycatch species are undesirable
+outputs and there is joint production with desirable and undesirable outputs with unknown product
+transformation possibilities. In addition, the bycatch is comprised largely of demersal species, but also
+includes some pelagic species, Cepharopod, crab, shrimp. molluscs, and others. (Most trawl gear
+drag along the sea bottom, and hence bring up some animals from the benthic community plus other
+animals that dwell in the lower reaches of the water column.)
+5
+
+OLS estimation when there is f (fishing effort) on both sides of the CPUE equation is standard
+practice in the estimation of bioeconomic models. In addition, this is a standard approach to dealing
+with a common form of heteroscedasticity. If f is exogenous as a fixed explanatory variable, then
+division by f does not introduce simultaneous equation bias and inconsistent estimates of the
+regression coefficients since f is fixed. The fixed explanatory variables paradigm automatically leads
+to a lack of correlation between the disturbance term and the explanatory variable f (which in turn give
+consistent estimates). In contrast, when the explanatory variable f (along with the data on the
+response variable catch) is assumed to be random samples drawn from the population, fixed
+explanatory variables cannot be identically distributed across observations and the random sampling
+assumption technically excludes the classical regression model. We can reasonably consider f to be
+exogenous as a fixed explanatory variable, as opposed to a random sample, since the data are
+population data obtained by aggregating over all observations, vessels, and most gear types.
+6
+
+Additional factors often make ITQs problematic in many (although not all) developing countries,
+especially when there are multiple species. Total allowable catches have to be calculated for each
+7
+
+35
+
+species or assemblage, which is often exceedingly difficult in tropical multispecies fisheries of
+developing countries, particularly with age-structured or synthetic models with their demanding data
+requirements. ITQs are generally assigned to fishers based on species-by-species catch histories,
+which are often non-existent due to the absence of accurate census of fishers and catch histories.
+This limitation is particularly problematic, since the state’s initial allocation of private property rights
+assigns wealth and income flows from the formerly state-owned resource stocks; this distributive
+impact is the most contentious part of any ITQ program. Only when the traditional users of a resource
+are made private owners or when the proceeds from the sale of property rights in the resource are
+remitted to the former users does the competitive private property equilibrium unequivocally Paretodominate the alternatives. (See Baland and Platteau (1996) and Weitizman (1974) for further
+discussion along these lines.) Moreover, limited infrastructure – biological to make population
+assessments for the total allowable catches, informational to establish well-functioning quota markets
+with minimal transactions and information costs, and administrative for compliance through monitoring
+and enforcement of the property right – also make ITQ programs difficult to establish in many
+developing countries.
+8
+
+Much of the discussion in this section builds upon the recommendations first posited by Panayotou
+and Jetanavanich (1987).
+9
+
+Under the 1947 Fisheries Act, a series of ministerial rules and regulations concerning the
+conservation of marine resources has been issued in six groups: (1). Prohibition of the use of certain
+types of fishing gear during the spawning and breeding seasons of some commercially important
+species; (2) Prohibition of certain types of fishing gear in some areas; (3) Protected areas are those
+adjacent to temples and monasteries or any other area designated as such by the governors of
+provinces. All such areas are considered as fish sanctuaries where fishing of any sort is not permitted;
+(4) Prohibition in catching of endangered and threatened species; (5) Ban on the use of poisons and
+stupefying chemicals, explosives and electric stunning; and (6), Prohibition and restrictions on certain
+types and sizes of fishing gear.
+In 1978, the Thai Cabinet adopted a resolution to take measures to control and reduce the number
+of trawlers and push nets. The basic objective of a ministry regulation issued in March, 1990 is to
+gradually reduce the number of trawlers and push nets and thereby bring down demersal catches to
+the optimum sustainable level.
+10
+
+Without a fishery management program that directly and comprehensively addresses the illstructured property right, a problem of asymmetric information and moral hazard is created between
+the principal (fishery manager) and the agents (fishers) (Salvanes and Squires 1995, Jensen and
+Vestergaard (2000, 2002ab), Squires et al 2003, Kirkley and Squires 1999). This information problem
+arises because the fishery manager does not have complete information about all variables relevant
+for regulation (Jensen and Vestergaard 2002b). Hence, the regulator cannot easily and at low cost
+monitor and enforce the number of vessels, the zones they fish in, gear conflicts, levels of harvest and
+species composition, discards and illegal landings, levels and mixes of inputs, and the like. In turn, the
+fishers face economic incentives to shirk through avoiding license registration, payment of license
+fees and other taxes, ignoring gear regulations and other requirements for monitoring, enforcement,
+and regulation.
+11
+
+For additional discussion of co-management in fisheries see (Ahmed et al. 1997, Nielsen et al.2004,
+Pinkerton 1989, Pomeroy and Berkes 1997) and for rural development in general see Baland and
+Platteau (1996).
+12
+
+When the area of access is sufficiently restricted and a well-defined group of resource exploiters is
+created, cooperative behavior by the individual players should be boosted. This has been found to
+improve the conservation and management for other types of common-pool resources (Ballard and
+Platteau 1996, Ostrom 1990, Seabright 1997). When area use rights are actually assigned, thereby
+creating a more well-specified property right than limited access (largely through enhancing the
+exclusive use and universality characteristics), such a program is called territorial use rights for
+fisheries or TURFs (Christy 1982). A management strategy predicated on well-defined areas or even
+TURFs might or might not be fully effective, and little evidence, if any, is available for commercial
+13
+
+36
+
+fishing in developing countries. Nonetheless, the idea has theoretical merit and has worked with other
+common-pool resources, and hence deserves serious consideration, particularly when developed
+through co-management.
+More technically, non-cooperation is often the initial dominant strategy for each vessel and a
+Pareto-inefficient Nash equilibrium and overfishing of the resource stock remain the expected
+outcome without alternative measures under open access. The intent of these measures is to help
+transform the underlying non-cooperative game to a cooperative one. The process of treaty
+negotiation can be borrowed from international environmental agreements, since this process
+transforms strategic incentives and non-cooperation into cooperation. See Barrett (2003) for additional
+discussion.
+14
+
+37
+
+

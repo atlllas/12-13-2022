@@ -1,0 +1,2277 @@
+1
+1
+
+Global warming transforms coral reef assemblages
+
+2
+3
+
+Terry P. Hughes1 , James T. Kerry1 , Andrew H. Baird1 , Sean R. Connolly1,2 , Andreas Dietzel1 ,
+
+4
+
+C. Mark Eakin3 , Scott F. Heron3-5 , Andrew S. Hoey1 , Mia O. Hoogenboom1,2 , Gang Liu3,4 ,
+
+5
+
+Michael J. McWilliam1 , Rachel J. Pears6 , Morgan S. Pratchett1 , William J. Skirving3,4 , Jessica
+
+6
+
+S. Stella6 , Gergely Torda1,7
+
+7
+8
+
+1 Australian
+
+9
+
+University, Townsville, QLD 4811, Australia
+
+Research Council Centre of Excellence for Coral Reef Studies, James Cook
+
+10
+
+2 College
+
+11
+
+Australia
+
+12
+
+3 Coral
+
+13
+
+MD 20740, USA
+
+14
+
+4 Global
+
+Science & Technology, Inc., Greenbelt, MD 20770, USA
+
+15
+
+5 Marine
+
+Geophysical Laboratory, Physics Department, College of Science, Technology and
+
+16
+
+Engineering, James Cook University, Townsville, QLD 4811, Australia
+
+17
+
+6 Great
+
+18
+
+7 Australian
+
+19
+20
+
+of Science and Engineering, James Cook University, Townsville, Queensland 4811,
+
+Reef Watch, U.S. National Oceanic and Atmospheric Administration, College Park,
+
+Barrier Reef Marine Park Authority, PO Box 1379, Townsville, QLD 4810, Australia
+Institute of Marine Science, PMB 3, Townsville, Queensland 4810, Australia
+
+2
+21
+
+Global warming is rapidly emerging as the most prominent threat to the ecological integrity
+
+22
+
+of the world’s coral reefs1-4 , highlighting the need for a better understanding of the impact of
+
+23
+
+heat exposure on the resilience of reef ecosystems and the people who depend on them. Here
+
+24
+
+we reveal the non-linear responses of coral assemblages to a wide array of heat exposures,
+
+25
+
+which arises as their resistance to low levels of stress is increasingly exceeded at higher
+
+26
+
+exposures, resulting in a catastrophic collapse of coral abundances and functions. In the
+
+27
+
+aftermath of the record-breaking marine heatwave on the Great Barrier Reef in 20165 , corals
+
+28
+
+began to die immediately where accumulated heat stress exceeded a critical threshold of 3-4
+
+29
+
+o C-weeks (Degree
+
+30
+
+between 40% and 90% of their coral cover. An exposure of 6 °C-weeks or more drove an
+
+31
+
+unprecedented, regional-scale shift in the composition of coral assemblages, reflecting
+
+32
+
+markedly divergent responses to heat stress by different taxa. These abrupt shifts have
+
+33
+
+transformed the three-dimensionality and ecological functioning of 29% of the 3,863 reefs
+
+34
+
+comprising the world’s largest coral reef system. In the northern third of the Great Barrier
+
+35
+
+Reef, where temperature anomalies in 2016 were the most extreme, the collapse of all major
+
+36
+
+coral taxa is unlikely to be fully reversed in the foreseeable future because of the increasing
+
+37
+
+frequency of marine heatwaves6 . Post-bleaching mass mortality of corals represents a radical
+
+38
+
+shift in the disturbance regimes of tropical reefs, adding to but far exceeding the impact of
+
+39
+
+recurrent cyclones and other local events, representing a fundamental challenge to the long-
+
+40
+
+term future of these iconic ecosystems.
+
+41
+
+Heating Weeks). After eight months, sites exposed to 4-10 o C-weeks lost
+
+3
+42
+
+Marine heatwaves due to global warming have triggered pan-tropical bleaching of corals in
+
+43
+
+1998, 2010 and 2015/20166 , and acute thermal stress is rapidly emerging as the most
+
+44
+
+widespread threat to the world’s coral reefs2-4,7 . Bleaching occurs when the relationship
+
+45
+
+between corals and their photosynthetic symbionts (zooxanthellae, Symbiodinium spp.)
+
+46
+
+breaks down, turning the coral pale. Bleached corals are physiologically damaged and
+
+47
+
+nutritionally compromised, and they can die if bleaching is severe and recovery of their
+
+48
+
+symbionts is prolonged8,9 . However, the relationships between heat exposure and the
+
+49
+
+subsequent mortality of different taxa is not well understood or quantified. While the concept
+
+50
+
+of winners versus losers has been widely applied to describe inter-specific differences in the
+
+51
+
+degree of bleaching11-14 , predicting the definitive losers, namely the corals that fail to regain
+
+52
+
+their colour and ultimately die following heat stress, is key to understanding how climate
+
+53
+
+change affects biodiversity, species composition and ecosystem function. To date, no study
+
+54
+
+has examined the quantitative relationship between a broad range of heat exposures and the
+
+55
+
+response of coral assemblages. The shape of this response curve is essential for identifying
+
+56
+
+critical levels of heat exposure when the initial resistance of different taxa is overcome, and
+
+57
+
+for predicting what further amount of heat exposure could drive a transformation in species
+
+58
+
+composition and ecological functions. Here, we examine geographic patterns of heat
+
+59
+
+exposure and differential mortality of coral taxa along the 2,300 km length of the Great
+
+60
+
+Barrier Reef, arising during the record-breaking marine heatwave of 20165 . We show that
+
+61
+
+taxonomic patterns of bleaching did not predict the identity of the ultimate losers that died,
+
+62
+
+that many corals succumbed immediately from heat stress as well as more slowly following
+
+63
+
+the depletion of their zooxanthellae, and that heat stress drove a radical shift in the
+
+64
+
+composition and functional traits of coral assemblages on hundreds of individual reefs,
+
+65
+
+transforming large swaths of the remote northern third of the Great Barrier Reef from mature
+
+66
+
+and diverse assemblages to a new, degraded system. This altered ecosystem is unlikely to
+
+4
+67
+
+have sufficient time to recover to its original pre-bleaching configuration in the face of future,
+
+68
+
+recurrent climate-driven disturbances.
+
+69
+
+The 2016 bleaching event triggered an unprecedented loss of corals on the northern third of
+
+70
+
+the Great Barrier Reef, and to a lesser extent, the central third, with virtually no heat-stress
+
+71
+
+mortality occurring further south (Fig. 1a, Extended Data Fig. 1, 2). The geographic footprint
+
+72
+
+and intensity of the coral die-off (Fig. 1a) closely matched by the observed north-south
+
+73
+
+pattern in accumulated heat (Fig. 1b), measured as satellite-derived Degree Heating Weeks
+
+74
+
+(DHW, o C-weeks), a widely-used measure that incorporates both the duration and intensity of
+
+75
+
+heat stress15 . The 5 km-resolution DHW values (Fig. 1b) were significantly correlated with
+
+76
+
+the independently-estimated losses of corals on 1,156 reefs (Fig. 1a; r2 = 0.50, p < 0.001). In
+
+77
+
+the northern, 700 km-long section of the Great Barrier Reef (from 9.5-14.5o S), where the heat
+
+78
+
+exposure was the most extreme, 50.3% of the coral cover on reef crests was lost within eight
+
+79
+
+months (Fig. 1b). More broadly, in the 1,200 km extent of the northern and central regions
+
+80
+
+where the bleaching had occurred in March (from 9.5-19.5o S), the decrease by November
+
+81
+
+was 38.2%, and throughout the entire Great Barrier Reef, including the southern third of the
+
+82
+
+Reef where heat exposure was minimal (Fig. 1b), the cover of corals declined by 30.0%
+
+83
+
+between March and November 2016. In comparison, the massive loss of corals from the
+
+84
+
+2016 marine heatwave was an order of magnitude greater and more widespread than the
+
+85
+
+patchier damage that typically occurs on reefs sites within the track of a severe tropical
+
+86
+
+cyclone16 .
+
+87
+
+At the scale of individual reefs, the severity of coral mortality was also highly correlated with
+
+88
+
+the amount of bleaching, and with the level of heat exposure (Fig. 2). Initially, at the peak of
+
+89
+
+temperatures extremes in March 2016, many tens of millions of corals died quickly in the
+
+90
+
+northern half of the Great Barrier Reef over a period of just 2-3 weeks (Fig. 2a). These
+
+91
+
+widespread losses were not due to slow attrition of corals that failed to regain their
+
+5
+92
+
+symbionts. Rather, thermally-sensitive species of corals began to die almost immediately
+
+93
+
+where they were exposed to heat stress of >4°C-weeks (Fig. 1b, Fig. 2a). The amount of
+
+94
+
+initial mortality increased steadily with increasing heat exposure (r2 = 0.50, p < 0.001); where
+
+95
+
+the exposure was <4° C-weeks, fewer than 5% of the corals died, whereas we recorded an
+
+96
+
+initial median loss of 15.6% of corals on reefs with 4-8 °C-weeks exposure, and a median
+
+97
+
+loss of 27.0% of corals at locations that experienced >8 °C-weeks (Fig. 2a). Across the entire
+
+98
+
+Great Barrier Reef, 34.8% of individual reefs experienced >4 °C-weeks, and 20.7% of reefs
+
+99
+
+were exposed to >8 °C-weeks DHW (Fig. 1a). The amount of initial mortality at the peak of
+
+100
+
+summer varied strikingly among different groups of corals, and was highest for Pocillopora
+
+101
+
+damicornis, two species of Isopora, Stylophora pistillata, and staghorn Acropora (Extended
+
+102
+
+Data Figure 4a).
+
+103
+
+During the ensuing Austral winter, the bleached corals in the northern and central Great
+
+104
+
+Barrier Reef either slowly regained their colour and survived, or they continued to die at
+
+105
+
+unprecedented levels. Only a handful, <1%, remained bleached after eight months. The
+
+106
+
+severity of the longer-term loss of corals, measured in situ as the decline in coral cover
+
+107
+
+between March and November, was accurately predicted by the percent of corals that were
+
+108
+
+initially bleached (Fig. 2b; r2 = 0.51, p < 0.001). Specifically, reefs that experienced less than
+
+109
+
+25% bleaching in March typically had almost no loss of cover after eight months (Fig. 2b). In
+
+110
+
+contrast, above this threshold, the loss of coral cover increased progressively, indicating that
+
+111
+
+fewer of the bleached corals survived. Furthermore, the longer-term loss of coral cover
+
+112
+
+accelerated with increasing levels of heat exposure of each reef (DHW, r2 = 0.44, P <0.001;
+
+113
+
+Fig. 2c). Consequently, we recorded almost no loss of coral cover for reefs exposed to 0-3
+
+114
+
+°C-weeks, compared with a 40% decline at 4° C-weeks, 66% for 8 °C-weeks, and extreme
+
+115
+
+declines of >80% for exposures of >9 °C-weeks. The non-linear responses to heat exposure
+
+6
+116
+
+varied significantly among coral taxa (Extended Data Fig. 5), illustrating a spectrum of
+
+117
+
+surivorship among winners versus losers, driving a radical shift in species composition.
+
+118
+
+Post-bleaching mortality has disproportionately transformed the assemblage structure and
+
+119
+
+functional diversity of corals on reefs that experienced high levels of bleaching (affecting
+
+120
+
+>60% of colonies), as illustrated by a non-metric multi-dimensional scaling (nMDS) analysis
+
+121
+
+(Fig. 3). The abundances of all categories of corals decreased to varying degrees on these
+
+122
+
+heavily bleached reefs, shown by the orientation of the nMDS vectors (Fig. 3a) and the
+
+123
+
+directional shift in the before-after assemblages (Fig. 3b). Tabular and staghorn Acropora,
+
+124
+
+Seriatopora hystrix and Stylophora pistillata - fast-growing, three-dimensional, weedy
+
+125
+
+species that dominate many shallow Indo-Pacific reefs – all declined by >75% (Extended
+
+126
+
+Data Fig. 4b). In contrast to the radical shifts on heavily bleached reefs, assemblages changed
+
+127
+
+very little between March and November on reefs that experienced moderate (30-60%) or
+
+128
+
+little (0-30%) bleaching. On these reefs, the nMDS analysis of before and after assemblages
+
+129
+
+shows that shifts in composition were small and multi-directional (Fig. 3c).
+
+130
+
+The response curve of coral assemblages exposed to a range of heat exposures, from 0-10o C-
+
+131
+
+weeks, (measured as the Euclidean distance between before and after compositions on each
+
+132
+
+reef (Fig. 3b, c)), is strikingly non-linear (Fig. 4). The changes in assemblage structure after
+
+133
+
+eight months were small on reefs that were exposed to DHW <6 °C-weeks, whereas reefs
+
+134
+
+subjected to >6 °C-weeks lost >50% of their corals (Fig. 2c) and shifted dramatically in
+
+135
+
+composition (Fig. 4). Satellite-derived DHW data indicate that 28.6% of the 3,863 reefs
+
+136
+
+comprising the Great Barrier Reef experienced thermal exposures of >6° C-weeks during the
+
+137
+
+2016 bleaching event, and 20.7% (800 reefs) were exposed to >8 °C-weeks (Fig. 1).
+
+138
+
+Individual reefs with this severity of heat exposure have undergone an unprecedented
+
+139
+
+ecological collapse, extending southwards from Papua New Guinea for up to 1,000 km (Fig.
+
+7
+140
+
+1). Reefs that were exposed to <6 °C-weeks were located predominantly in the southern half
+
+141
+
+of the Great Barrier Reef, and in a small northern patch at the outer edge of the continental
+
+142
+
+shelf where temperature anomalies in 2016 above the long-term summer maximum were
+
+143
+
+small (Fig. 1b).
+
+144
+
+The abrupt, geographic-scale shift in coral assemblages has also radically reduced the
+
+145
+
+abundance and diversity of species traits that facilitate key ecological functions (Fig. 3d-e,
+
+146
+
+Extended Data Table 1, 2). A before-after analysis of the multi-dimensional trait space of
+
+147
+
+coral assemblages, weighted by the absolute abundance of taxa contributing to each trait,
+
+148
+
+reveals a transformation in the functional-trait composition of assemblages on heavily
+
+149
+
+bleached reefs (affecting >60% of colonies) in the eight month period after March 2016
+
+150
+
+(Fig. 3e). In most cases, reefs shifted away from the dominance of fast-growing, three-
+
+151
+
+dimensional, branching and tabular species with dense skeletons, to a depauperate
+
+152
+
+assemblage dominated by taxa with simpler morphological characteristics and slower
+
+153
+
+growth rates. In contrast, on less-bleached reefs the weighted abundances of functionally
+
+154
+
+important traits typically showed small gains (Fig. 3f).
+
+155
+
+In conclusion, our analyses show that acute heat stress from global warming is a potent driver
+
+156
+
+of a geographic-scale collapse of coral assemblages, affecting even the most remote and well-
+
+157
+
+protected reefs within an iconic World Heritage Area. Forecasts of coral bleaching made
+
+158
+
+continuously by the US National Oceanic and Atmospheric Administration (NOAA) are
+
+159
+
+accompanied with guidance that a DHW exposure of 4o C-weeks usually results in significant
+
+160
+
+bleaching, and 8 °C-weeks may also cause mortality of corals1,15,17 . We show here that
+
+161
+
+substantial mortality occurred on the Great Barrier Reef in 2016 well below 8 °C-weeks
+
+162
+
+(beginning at 3-4 °C-weeks, Fig. 2c), and that the resistance of coral assemblages to heat
+
+163
+
+exposure increasingly collapsed above 6 °C-weeks, triggering large-scale shifts in the
+
+8
+164
+
+composition and ecological functions of reefs (Fig. 3). The threshold we have identified for
+
+165
+
+the breakdown of assemblage structure, approximately 6 °C-weeks (Fig. 4), was transgressed
+
+166
+
+in 2016 throughout most of the northern, as well as much of the central, region of the Great
+
+167
+
+Barrier Reef (Fig. 1). The prospects for a full recovery to the pre-bleaching coral
+
+168
+
+assemblages before the next major bleaching event are poor, for several reasons. First, many
+
+169
+
+of the surviving coral colonies continue to die slowly even after recovery of their algal
+
+170
+
+symbionts, because they have lost extensive patches of tissue, are injured and fragmented,
+
+171
+
+and because corals weakened by bleaching are susceptible to subsequent outbreaks of
+
+172
+
+disease18,19 . Secondly, the replacement of dead corals by larval recruitment and subsequent
+
+173
+
+colony growth will take at least a decade for weedy corals, such as species of Acropora,
+
+174
+
+Pocillopora, Seriatopora and Stylophora10,20,21 . The success of future recruitment will depend
+
+175
+
+upon an adequate supply of larvae from lightly bleached locations, the rapid break down of
+
+176
+
+many millions of dead coral skeletons to provide a more enduring and stable substrate for
+
+177
+
+settling larvae, and the availability of suitable settlement cues and conditions for survival of
+
+178
+
+juvenile corals22 . Thirdly, for longer-lived, slow-growing species, the trajectory of
+
+179
+
+replacement of dead corals on heavily damaged reefs will be far more protracted, almost
+
+180
+
+certainly decades longer than the return-times of future bleaching events7 . The recurrence of
+
+181
+
+mass bleaching during the recovery period will be critical, in view of the global increase in
+
+182
+
+the frequency of bleaching events which are increasingly occurring throughout all phases of
+
+183
+
+El Niño Southern Oscillation cycles6 .
+
+184
+
+The 2015-2016 global bleaching event is a watershed for the Great Barrier Reef, and for
+
+185
+
+many other severely affected reefs elsewhere in the Indo-Pacific6 . Furthermore, the Great
+
+186
+
+Barrier Reef experienced severe bleaching again in early 2017, causing additional extensive
+
+187
+
+damage23,24 . The most likely scenario, therefore, is that coral reefs throughout the tropics will
+
+188
+
+continue to degrade over the current century until climate change stabilises4,25 , allowing
+
+9
+189
+
+remnant populations to reorganize into novel, heat-tolerant reef assemblages. The 2016
+
+190
+
+marine heatwave has triggered the initial phase of that transition on the northern, most-
+
+191
+
+pristine region of the Great Barrier Reef (Fig. 4), changing it forever as the intensity of global
+
+192
+
+warming continues to escalate. The large-scale loss of functionally-diverse corals is a
+
+193
+
+harbinger of further radical shifts in the condition and dynamics of all marine ecosystems,
+
+194
+
+especially if global action on climate change fails to limit warming to +1.5o C above the pre-
+
+195
+
+industrial base-line.
+
+196
+
+10
+197
+
+References
+
+198
+199
+200
+
+1. Eakin, C.M. et al. Caribbean corals in crisis: Record thermal stress, bleaching, and
+mortality in 2005. PLoS ONE 5, e13969 (2010).
+
+201
+
+2. Pandolfi, J. M., Connolly, S. R., Marshall, D. J. & Cohen, A. L. Projecting coral reef
+
+202
+
+futures under global warming and ocean acidification. Science 333, 418-422 (2011).
+
+203
+
+3. Heron, S. F., Maynard, J. A., van Hooidonk, R. & Eakin, C. M. Warming trends and
+
+204
+
+bleaching stress of the World’s coral reefs 1985-2012. Scientific Reports 6, 38402
+
+205
+
+(2016)
+
+206
+
+4. Hughes, T. P. et al. Coral reefs in the Anthropocene. Nature 546: 82-90 (2017b).
+
+207
+
+5. Australian Bureau of Meteorology (BOM). 2016 marine heatwave on the Great Barrier
+
+208
+209
+210
+211
+212
+213
+
+Reef (2016) http://www.bom.gov.au/environment/doc/marine- heatwave-2016.pdf
+6. Hughes .T.P. et al. Spatial and temporal patterns of mass bleaching of corals in the
+Anthropocene. Science (in Press).
+7. Donner, S.D., G.J.M. Rickbeil, S.F. Heron. A new, high-resolution global mass coral
+bleaching database. PLoS ONE 12, e0175490 (2017).
+8. Baird, A. H. & Marshall, P. A. Mortality, growth and reproduction in scleractinian
+
+214
+
+corals following bleaching on the Great Barrier Reef. Marine Ecology Progress Series
+
+215
+
+237, 133-141, (2002).
+
+216
+
+9. Baker, A. C., Glynn, P. W. & Riegl, B. Climate change and coral reef bleaching: An
+
+217
+
+ecological assessment of long-term impacts, recovery trends and future outlook.
+
+218
+
+Estuarine, Coastal and Shelf Science 80, 435-471, (2008).
+
+219
+
+10. Marshall, P. A. & Baird, A. H. Bleaching of corals on the Great Barrier Reef:
+
+220
+
+differential susceptibilities among taxa. Coral Reefs 19, 155-163 (2000).
+
+11
+221
+222
+223
+224
+225
+
+11. Loya Y et al. Coral bleaching: the winners and the losers. Ecology Letters 4, 122-131
+(2001).
+12. Hughes, T. P. et al. Climate change, human impacts, and the resilience of coral reefs.
+Science 301, 929-933 (2003).
+13. Swain, T. D. et al. Coral bleaching response index: a new tool to standardize and
+
+226
+
+compare susceptibility to thermal bleaching. Global change biology 22, 2475-2488
+
+227
+
+(2016).
+
+228
+229
+230
+231
+232
+233
+234
+235
+236
+
+14. Hughes T.P. et al. Global warming and recurrent mass bleaching of corals. Nature
+543: 373-377 (2017a).
+15. Liu, G., et al. Reef-Scale Thermal Stress Monitoring of Coral Ecosystems: New 5-km
+Global Products from NOAA Coral Reef Watch. Remote Sens. 6, 11579-11606 (2014).
+16. Beeden, R. et al. Impacts and recovery from severe Tropical Cyclone Yasi on the
+Great Barrier Reef. PLoS ONE 10(4): e0121272. (2015).
+17. Kayanne, H. Validation of degree heating weeks as a coral bleaching index in the
+northwestern Pacific. Coral Reefs 36: 63-70 (2017).
+18. Muller, E.M. et al. Bleaching increases likelihood of disease on Acropora palmata
+
+237
+
+(Lamarck) in Hawksnest Bay, St. John, US Virgin Islands. Coral Reefs 27, 191-195
+
+238
+
+(2008).
+
+239
+
+19. Miller, J. et al. Coral disease following massive bleaching in 2005 causes 60% decline
+
+240
+
+in coral cover on reefs in the US Virgin Islands. Coral Reefs 28, 925-937 (2009).
+
+241
+
+20. Kayanne, H., Harii, S., Ide, Y. & Akimoto, F. Recovery of coral populations after the
+
+242
+
+1998 bleaching on Shiraho Reef, in the southern Ryukyus, NW Pacific. Marine
+
+243
+
+Ecology Progress Series 239, 93-103 (2002).
+
+244
+245
+
+21. Gilmour J. P., L. D. Smith, A. J. Heyward, A. H. Baird, M. S. Pratchett, Recovery of
+an isolated coral reef system following severe disturbance. Science 340, 69-71 (2013).
+
+12
+246
+
+22. Webster, N. S., R. Soo, R. Cobb, A.P. Negri. Elevated seawater temperature causes a
+
+247
+
+microbial shift on crustose coralline algae with implications for the recruitment of
+
+248
+
+coral larvae. ISME J. 5, 759-770 (2011).
+
+249
+
+23. Hughes, T.P. and J.T. Kerry (2017) Back-to-back bleaching has now hit two-thirds of
+
+250
+
+the Great Barrier Reef. https://theconversation.com/back-to-back-bleaching-has- now-
+
+251
+
+hit-two-thirds-of-the-great-barrier-reef-76092
+
+252
+
+24. Great Barrier Reef Marine Park Authority. Final report: 2016 coral bleaching event on
+
+253
+
+the Great Barrier Reef.
+
+254
+
+http://elibrary.gbrmpa.gov.au/jspui/bitstream/11017/3206/1/Final-report-2016-coral-
+
+255
+
+bleaching-GBR.pdf
+
+256
+
+25. Hartmann, D.L., et al. Observations: Atmosphere and Surface. In: Climate Change
+
+257
+
+2013: The Physical Science Basis. Contribution of Working Group I to the Fifth
+
+258
+
+Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F.,
+
+259
+
+et al. (eds.)]. Cambridge University Press, Cambridge, United Kingdom. (2013).
+
+260
+261
+262
+
+13
+263
+
+Acknowledgements The authors acknowledge support from the Australian Research
+
+264
+
+Council’s Centre of Excellence Program and a Laureate Fellowship to TPH, from the Great
+
+265
+
+Barrier Reef Marine Park Authority, and from the US Oceanic and Atmospheric
+
+266
+
+Administration. The scientific results and conclusions, as well as any views or opinions
+
+267
+
+expressed herein, are those of the authors and do not necessarily reflect the views of NOAA
+
+268
+
+or the US Department of Commerce. We are grateful to Tristan Simpson (Torres Strait
+
+269
+
+Regional Authority) who provided 225 aerial scores of bleaching from the Torres Strait. We
+
+270
+
+thank members of the Australian National Coral Bleaching Taskforce, marine park managers
+
+271
+
+and rangers, and 30 student volunteers, who participated in extensive field studies on the
+
+272
+
+Great Barrier Reef throughout 2016.
+
+273
+
+Author contributions The study was conceptualized by TPH who also wrote the first draft
+
+274
+
+of the paper. All authors contributed to writing subsequent drafts. JTK coordinated data
+
+275
+
+compilation, analyses and graphics. Aerial bleaching surveys were conducted by TPH and
+
+276
+
+JKT. Underwater bleaching and mortality censuses were undertaken by AHB, AD, ASH,
+
+277
+
+MOH, MMcW, RJP, MSP, JSS and GT. CME, SFH, GL, and WJS provided satellite data on
+
+278
+
+heat stress. MMcW undertook the functional trait analysis, and SRC provided statistical
+
+279
+
+advice and modelled loss of coral cover among different taxa.
+
+280
+
+Author information Reprints and permissions information is available at
+
+281
+
+www.nature.com/reprints. The authors declare no competing financial interests. Readers are
+
+282
+
+welcome to comment on the online version of the paper. Correspondence and requests for
+
+283
+
+materials should be addressed to T.P.H. (terry.hughes@jcu.edu.au)
+
+284
+
+14
+
+285
+286
+287
+
+Figure 1. Large-scale spatial patterns in change in coral cover and in heat exposure on the
+
+288
+
+Great Barrier Reef, Australia. (a) Change in coral cover between March and November 2016.
+
+289
+
+(b) Heat exposure, measured as Degree Heating Weeks (DHW, o C-weeks) in the summer of
+
+290
+
+2016.
+
+291
+
+15
+
+292
+
+16
+293
+
+Figure 2. The initial and longer-term response of coral assemblages to heat exposure.
+
+294
+
+Regression curves are fitted using Generalised Additive Models (GAMs), with 95%
+
+295
+
+confidence limits (ribbons). Data points represent individual reefs. (a) Initial coral mortality
+
+296
+
+measured at the peak of bleaching, versus the heat exposure each reef experienced (satellite-
+
+297
+
+based Degree Heating Weeks, DHW, o C-Weeks). (b) Longer-term change in coral cover
+
+298
+
+between March and November 2016 on individual reefs, versus the initial amount of
+
+299
+
+bleaching recorded underwater. (c) Longer-term change in coral cover between March and
+
+300
+
+November 2016, versus heat exposure (DHW) on individual reefs.
+
+301
+
+17
+
+302
+303
+
+Figure 3. Changes in assemblage structure and functional traits of corals following mass
+
+304
+
+bleaching. (a-c) A non-metric multi-dimensional scaling (nMDS) analysis of shifts in coral
+
+305
+
+assemblages between March and November 2016. (a) Fifteen nMDS vectors indicate the
+
+306
+
+responses of individual taxa: (1) Other Acropora, (2) Favids, (3) Isopora, (4) Montipora, (5)
+
+307
+
+Mussidae, (6) Other Pocillopora, (7) Pocillopora damicornis, (8) Poritidae, (9) Seriatopora
+
+308
+
+hystrix, (10) Staghorn Acropora, (11) Stylophora pistillata, (12) Tabular Acropora, (13) Soft
+
+309
+
+corals, (14) Other Scleractinia, and (15) Other sessile fauna. (b) Polygons indicate ordination
+
+310
+
+space that was initially occupied by coral assemblages on each reef in March (dotted line)
+
+311
+
+and again eight months later (solid line). Red arrows connect the before-after pairs of data
+
+312
+
+points for each location to show changes in composition on severely bleached reefs (>60% of
+
+313
+
+colonies bleached) after eight months. (c) Blue arrows connect the before-after pairs of data
+
+314
+
+points for each location on reefs that were lightly or moderately (<60%) bleached. (d-f) An
+
+315
+
+nMDS analysis of shifts in assemblage trait composition between March and November at
+
+18
+316
+
+the same locations. (d) The eight vectors indicate the absolute contribution of traits to coral
+
+317
+
+assemblages: (A) Surface area to volume ratio, (B) Growth rate, (C) Colony size, (D) Skeletal
+
+318
+
+density, (E) Colony height, (F) Corallite width, (G) Interstitial space size, (H) Reproductive
+
+319
+
+mode. (e) The shift in abundance-weighted trait space co-ordinates for coral assemblages
+
+320
+
+over eight months for reefs with >60% bleaching. (f) The shift in abundance-weighted trait
+
+321
+
+space co-ordinates for coral assemblages on reefs with <60% bleaching.
+
+322
+
+19
+
+323
+324
+325
+
+Figure 4. Change in coral assemblages in response to heat exposure. Regression curve is
+
+326
+
+fitted using a Generalised Additive Model (GAM), with 95% confidence limits. Each data
+
+327
+
+point represents the shift in composition, based on the Euclidean distance in a non-metric
+
+328
+
+multi-dimensional scaling analysis of assemblages on individual reefs sampled at the peak of
+
+329
+
+bleaching and eight months later. Heat exposure for each reef is measured as satellite-derived
+
+330
+
+Degree Heating Weeks (DHW, o C-weeks).
+
+331
+332
+
+20
+333
+
+Methods
+
+334
+
+Initial mortality and heat stress
+
+335
+
+We used aerial surveys, conducted in March/April 2016, to measure the geographic extent
+
+336
+
+and severity of bleaching on the Great Barrier Reef, and subsequently converted the
+
+337
+
+bleaching scores into mortality estimates (Fig. 1a) using a calibration curve based on
+
+338
+
+underwater measurements of coral losses (Extended Data Fig. 1). The aerial surveys were
+
+339
+
+conducted throughout the Great Barrier Reef Marine Park and the Torres Strait between
+
+340
+
+Australia and Papua New Guinea, from the coast of Queensland to the outermost reefs, and
+
+341
+
+along the entire Reef from latitudes 9.5-23.5o S. Each of 1,156 individual reefs was scored
+
+342
+
+into one of five bleaching categories: (0) less than 1% of corals bleached, (1) 1-10%, (2) 10-
+
+343
+
+30%, (3) 30-60%, and (4) more than 60% of corals bleached. The accuracy of the aerial
+
+344
+
+scores was ground-truthed by measuring the extent of bleaching underwater on 104 reefs,
+
+345
+
+also during March/April 201614, 25 .
+
+346
+
+We assessed underwater the initial mortality of different taxa due to heat stress, at the same
+
+347
+
+time as the aerial surveys, on 83 reefs that spanned the full spectrum of heat exposures and
+
+348
+
+bleaching. On each reef, the extent of bleaching and mortality on individual coral colonies
+
+349
+
+was measured at two sites using five 10 x 1 m belt transects placed on the reef crest at a depth
+
+350
+
+of 2 m. We identified each colony (at the species or genus level) and recorded a categorical
+
+351
+
+bleaching score for each one (n = 58,414 colonies): (1) no bleaching, (2) pale, (3) 1-50%
+
+352
+
+bleached, (4) 51-99% bleached, (5) 100% bleached, and (6) recently dead. The dead colonies
+
+353
+
+had suffered whole-colony mortality, were white with fully intact fine-scale skeletal features,
+
+354
+
+typically still had patches of rotting coral tissue, and they were experiencing the initial week
+
+355
+
+or two of colonization by filamentous algae, features which distinguished them from corals
+
+356
+
+that died earlier. The timing of our initial underwater censuses, at the peak of the bleaching in
+
+21
+357
+
+March/April 2016, was critical for identifying corals that were dying directly from heat
+
+358
+
+stress, and for measuring the baseline composition of the assemblages.
+
+359
+
+Heat stress on the Great Barrier Reef in 2016 was quantified at 5 km resolution, using the
+
+360
+
+NOAA Coral Reef Watch version 3 Degree Heating Week (DHW) metric15 . DHW values are
+
+361
+
+presented in Fig. 1b as a heat-map (Stretch type: Histogram Equalize) using inverse distance
+
+362
+
+weighting (IDW; Power: 2, Cell Size: 1000, Search Radius: variable, 100 points) in ArcMap
+
+363
+
+10.2.1.
+
+364
+
+Longer term mortality
+
+365
+
+To measure longer-term coral loss (decrease in coral cover after eight months) and its
+
+366
+
+relationship to the level of bleaching and heat exposure, we also conducted detailed before-
+
+367
+
+after assessments of taxon-specific abundances by re-visiting 63 of the 83 reefs. We
+
+368
+
+measured abundances in March/April and eight months later at the same locations in
+
+369
+
+October/November, allowing us to compare changes in coral cover for 15 ecologically and
+
+370
+
+taxonomically distinct components of benthic assemblages, on reefs exposed to a broad
+
+371
+
+spectrum of heat stress. These measurements were conducted at the same two geo-referenced
+
+372
+
+sites per reef, on reef crests at a depth of 2 m, using five 10 m long line-intercept transects per
+
+373
+
+site. There were no cyclones or flood events on the GBR during the dry-season period
+
+374
+
+(Austral Winter) in 2016. Unbleached reefs typically showed small increases in cover due to
+
+375
+
+growth, which we included in the regression analyses. Analysis of change in coral cover was
+
+376
+
+undertaken using the log10 -transformed ratio of final to initial cover. To improve readability
+
+377
+
+of Figure 2 and Extended Data Figure 1, changes in coral cover are presented as percentages
+
+378
+
+calculated from the log-scale.
+
+379
+
+We compared the initial and final composition of corals using non-metric multi-dimensional
+
+380
+
+scaling (nMDS) based on a Bray-Curtis similarity matrix of square-root transformed data,
+
+22
+381
+
+and quantified the shift over time using the Euclidean distance between before-after
+
+382
+
+assemblages at each location. We then estimated the relationship between the shift in
+
+383
+
+composition at each reef versus the level of heat exposure experienced there (Fig. 4). To
+
+384
+
+include all species, the majority of which are too rare to analyse individually, we pooled them
+
+385
+
+into 15 ecologically cohesive groups depending on their morphology, life history, and
+
+386
+
+taxonomy. Three of the 15 are ubiquitous species or species complexes: Pocillopora
+
+387
+
+damicornis, Seriatopora hystrix, and Stylophora pistillata. In each of the multi-species
+
+388
+
+groups, the dominant species or genera on reef crests were: Other Acropora (A. gemmifera, A.
+
+389
+
+humilis, A. loripes, A. nasuta, A. secale, A. tenuis, A. valida); Favids (i.e. species and genera
+
+390
+
+from the formerly recognized Family Faviidae - Cyphastrea, Favia, Favites, Goniastrea,
+
+391
+
+Leptastrea, Montastrea, Platygyra); Mussidae (Lobophyllia, Symphyllia); Isopora (I.
+
+392
+
+palifera, I. cuneata); Other Pocillopora (P. meandrina, P. verrucosa); Other sessile animals
+
+393
+
+(sponges, tunicates, molluscs); Porites (P. annae, P. lobata); Montipora (M. foliosa, M.
+
+394
+
+grisea, M. hispida, M. montasteriata, M. tuberculosa); Staghorn Acropora (A. florida, A.
+
+395
+
+intermedia, A. microphthalma, A. muricata, A. robusta); Soft Corals (alcyonaceans,
+
+396
+
+zooanthids); and Tabular Acropora (A. cytherea, A. hyacinthus, A. anthocercis).
+
+397
+
+We calculated longer-term mortality for all species combined at the scale of the entire Great
+
+398
+
+Barrier Reef in three ways, all of which yielded consistent results. The first approach (Fig.
+
+399
+
+1a) was based on a comparison of the observed loss of total coral cover on 63 reefs that
+
+400
+
+extend along the entire Great Barrier Reef measured underwater between March and
+
+401
+
+November, with aerial bleaching scores of the same locations in March/April (Extended Data
+
+402
+
+Fig. 1). This calibration allowed us to convert the aerial scores of bleaching that we recorded
+
+403
+
+for 1,156 reefs into mortality estimates for each of the five aerial score categories, and to map
+
+404
+
+the geographic footprint of losses of corals throughout the Great Barrier Reef (Fig. 1a). The
+
+405
+
+spatial patterns of coral decline (Fig. 1a) are presented as a heat-map of the calibrated scores
+
+23
+406
+
+(Stretch type: Histogram Equalize) using inverse distance weighting (IDW; Power: 2, Cell
+
+407
+
+Size: 1000, Search Radius: variable, 100 points) in ArcMap 10.2.1.
+
+408
+
+The second methodology for estimating large-scale mortality is independent of aerial surveys
+
+409
+
+of bleaching, and based on the loss of coral cover on 110 reefs (Extended Data Fig. 2). The
+
+410
+
+median cover on these reefs declined between March and November from 34% to 20%
+
+411
+
+(Extended Data Fig. 3). For method two, the observed loss of coral cover was averaged for
+
+412
+
+each of eight sectors of the Great Barrier Reef Marine Park and the Torres Strait (Extended
+
+413
+
+Data Fig. 2), corrected for differences in reef area for each sector based on GIS data provided
+
+414
+
+by the Great Barrier Reef Marine Park Authority, and then summed to calculate the total loss.
+
+415
+
+For method three, we used the fitted relationship between satellite-derived Degree Heating
+
+416
+
+Weeks and observed change in cover (63 reefs; Fig. 2c) to score the losses or gains on all
+
+417
+
+3,863 individual reefs comprising the Great Barrier Reef, and averaged the total. These two
+
+418
+
+alternative approaches for estimating large-scale loss of cover, both based on before-after
+
+419
+
+underwater surveys (Extended Data Fig. 2, Extended Data Fig. 3) yielded consistent results
+
+420
+
+with Fig, 1a – a 27.7 and 29.0% decline, respectively, after 8 months.
+
+421
+
+Differential mortality among coral taxa
+
+422
+
+To estimate how exposure to heat (measured as Degree Heating Weeks, DHW) affects loss of
+
+423
+
+cover differentially among taxa we used a linear mixed effects model. The fixed effect was
+
+424
+
+DHW, and we allowed for a random effect of taxonomic grouping on both the intercept and
+
+425
+
+slope of the relationship between coral cover change and DHW. Coral cover change was
+
+426
+
+measured as log(final % cover + 0.0002) minus log(initial % cover+0.0002) (0.0002 was the
+
+427
+
+smallest observed value in the data set). Also, we excluded from the analysis observations
+
+428
+
+with zero initial coral cover of a particular taxonomic group. This treatment of the data
+
+429
+
+yielded the best agreement between the residuals and the model’s statistical assumptions. The
+
+24
+430
+
+estimated random effect on intercepts was approximately zero, so we eliminated it from our
+
+431
+
+final model. Thus, in the final model, there was a common intercept, but differences between
+
+432
+
+taxa in sensitivity to DHW (i.e., there was a random effect of taxonomic group on the slope).
+
+433
+
+To illustrate these differences, Extended data Fig. 5 plots the estimated slope of coral cover
+
+434
+
+change for each taxon versus DHW as the overall mean effect of DHW plus the taxon-
+
+435
+
+specific random effect. Conditional standard errors plotted in Extended data Fig. 5 are the
+
+436
+
+standard errors on each random effect.
+
+437
+
+Shifts in functional traits
+
+438
+
+To calculate how differential mortality affected the mix of traits in the coral assemblages, we
+
+439
+
+scored eight traits for 12 of the 15 functional groupings (excluding Soft Corals, Other
+
+440
+
+Scleractinia, and Other Sessile Fauna, Extended Data Tables 1 and 2). We chose traits that
+
+441
+
+are likely to influence ecosystem functions. For example, corals with fast growth rates and
+
+442
+
+high skeletal density strongly influence calcification, colony shape affects photosynthesis and
+
+443
+
+the provision of three-dimensional habitat, and the size of corallites is a measure of
+
+444
+
+heterotrophy. The traits were scored using the Coral Trait Database27 , with the exception of
+
+445
+
+colony size which we measured directly for each group on reef crests using the geometric
+
+446
+
+mean of intercept lengths for each taxon from our initial transects. For multi-species groups,
+
+447
+
+the traits were generally identical for all species. Otherwise, for Montipora and Porites, we
+
+448
+
+used the mean score across the reef crest species we encountered. To measure the depletion
+
+449
+
+of traits based on changes in absolute abundances between March and November (Fig. 3e-f),
+
+450
+
+we used a community weighted mean (CWM) analysis of each trait:
+
+451
+452
+
+𝑛𝑛
+
+𝐶𝐶𝐶𝐶𝐶𝐶 = � 𝑎𝑎 𝑖𝑖 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑖𝑖
+𝑖𝑖=1
+
+25
+453
+
+where ai is the abundance of coral taxa i and traiti is the trait value of coral taxa i. This metric
+
+454
+
+provides a trait value for each reef weighted by the total abundance of each taxa. To visualise
+
+455
+
+the overall shift in functional composition, we used a non-metric multi-dimensional scaling
+
+456
+
+analysis (nMDS) based on a Bray-Curtis similarity matrix of square-root transformed data for
+
+457
+
+each trait community weighted mean, creating a multi-dimensional trait space in which reefs
+
+458
+
+are positioned according to the value and abundance of critical traits.
+
+459
+460
+461
+
+Additional References
+26. Hughes, T.P., J.T. Kerry, T. Simpson. Large-scale bleaching of corals on the Great
+
+462
+
+Barrier Reef. Ecology Data Papers
+
+463
+
+http://onlinelibrary.wiley.com/doi/10.1002/ecy.2092/full
+
+464
+465
+466
+467
+
+27. Madin, J. S., et al. The Coral Trait Database, a curated database of trait information for
+coral species from the global oceans. Scientific data 3 (2016).
+
+26
+468
+
+EXTENDED DATA
+
+469
+
+470
+471
+472
+
+Extended Data Figure 1. Calibration of loss of corals on reefs with different amounts of
+
+473
+
+bleaching. Aerial scores of bleaching on the x-axis are: 0 (<1% of colonies bleached), 1 (1-
+
+474
+
+10%), 2 (10-30%), 3 (30-60%) and 4 (60-100%). Change in coral cover on the y-axis was
+
+475
+
+measured in situ between March and November on reefs that were also scored from the air.
+
+476
+
+Boxplots are shown for each aerial category, showing median values (horizontal lines), boxes
+
+27
+477
+
+for the middle two quartiles, vertical lines for the 1st and 4th quartiles, and data points for
+
+478
+
+outliers. Medians were used when calibrating change in cover for each aerial category (see
+
+479
+
+Fig. 1a).
+
+480
+
+28
+481
+
+482
+483
+484
+
+Extended Data Figure 2. Map of loss of coral cover on 110 reefs that were surveyed
+
+485
+
+underwater in 2016. Losses between March and November range from zero (dark green), to
+
+486
+
+1-5% (green), 5-25% (light green), 25-50% (yellow), 50-75% (orange) and 75-100% (red).
+
+29
+
+487
+488
+
+Extended Data Figure 3. A frequency distribution of coral cover on 110 reefs, measured
+
+489
+
+between March (solid bars) and November (hashed bars). Reef locations are shown in
+
+490
+
+Extended Data Fig. 2.
+
+30
+
+491
+492
+
+Extended Data Figure 4. Mortality rates differ among taxa and increase over time. (a) The
+
+493
+
+initial mortality of corals recorded on belt transects on 83 reefs with >60% bleaching (b)
+
+494
+
+Longer-term average loss of cover for taxonomic categories recorded between March and
+
+495
+
+November on 63 re-censused reefs with >60% bleaching. Taxa are plotted in rank order along
+
+496
+
+the x-axis from high to low decreases in cover, with a spectrum of relative winners on the
+
+497
+
+right and losers to the left. Error bars are one standard error.
+
+31
+
+498
+499
+
+Extended Data Figure 5. Differential sensitivity of coral taxa to temperature stress,
+
+500
+
+illustrated by the estimated loss of cover for different groups of corals between March and
+
+501
+
+November as a function of heat exposure (DHW). The horizontal axis is the slope of the
+
+502
+
+relationship between the log-ratio of final and initial coral cover (response variable) and
+
+503
+
+degree-heating weeks (explanatory variable). Values plotted for each taxonomic grouping
+
+504
+
+(ordered from most sensitive to least sensitive) are random effects estimates, with conditional
+
+505
+
+standard errors.
+
+32
+
+506
+507
+
+Extended Data Figure 6. The relationship between the levels of bleaching by individual
+
+508
+
+coral taxa on severely bleached reefs (>60% of all colonies affected), and their subsequent
+
+509
+
+loss of cover eight months later. The weak correlation indicates that the winners-losers
+
+510
+
+spectrum of bleaching among taxa is a poor predictor of which ones ultimately die.
+
+511
+512
+
+33
+513
+
+Extended Data Table 1. Eight traits of coral species and their key functional roles.
+
+Trait
+Growth rate
+
+Skeletal density
+Corallite width
+Interstitial space size
+Colony height
+Surface area to volume ratio
+Colony size
+Reproductive mode
+514
+515
+516
+
+Trait scores
+In mm/year: 0-10 (1), 10-20
+(2), 20-40 (3), 40-60 (4), >60
+(5).
+In g/cm3 : <1 (1), 1-1.4 (2),
+1.4-1.7 (3), 1.7-2 (4), >2 (5)
+In mm: <1 (1), 1-2 (2), 2-5 (3),
+5-15 (4) ; <15 (5)
+(1-5) Based on morphological
+categories.
+(1-5) Based on morphological
+categories.
+(1-5) Based on morphological
+categories
+Rank (1-12) measured from
+reef crest transects
+
+Reef function
+Carbonate framework
+accretion; reef regeneration
+
+Brooders (1), Mixed (2),
+Spawners (3)
+
+Reef connectivity and
+regeneration
+
+Carbonate framework
+accretion
+Filter feeding; nutrient capture
+Habitat provision
+Carbonate framework
+accretion; habitat provision
+Primary productivity; nutrient
+cycling
+Carbonate framework
+accretion; habitat provision
+
+34
+517
+
+Extended Data Table 2. Trait scores for each of 12 groups of corals.
+
+Corallite
+size
+
+Growth
+rate
+
+Colony
+size
+
+Skeletal
+density
+
+Colony
+height
+
+Tissue
+area
+
+Interstitial
+space size
+
+Reproductive
+mode
+
+Bushy
+Acropora
+
+2
+
+3
+
+7
+
+3
+
+3
+
+5
+
+3
+
+Spawner
+
+Favids
+
+4
+
+1
+
+4
+
+3
+
+2
+
+1
+
+1
+
+Spawner
+
+Isopora
+
+2
+
+2
+
+10
+
+3
+
+2
+
+2
+
+1
+
+Brooder
+
+Montipora
+
+2
+
+3
+
+9
+
+5
+
+1
+
+1
+
+1
+
+Spawner
+
+Mussidae
+
+5
+
+1
+
+3
+
+2
+
+2
+
+1
+
+1
+
+Spawner
+
+Other
+Pocillopora
+
+1
+
+3
+
+8
+
+3
+
+3
+
+4
+
+3
+
+Spawner
+
+Pocillopora
+damicornis
+
+1
+
+3
+
+2
+
+4
+
+2
+
+4
+
+3
+
+Brooder
+
+Poritidae
+
+2
+
+2
+
+6
+
+2
+
+4
+
+1
+
+1
+
+Mix
+
+Seriatopora
+hystrix
+
+1
+
+3
+
+1
+
+5
+
+2
+
+3
+
+3
+
+Brooder
+
+Staghorn
+Acropora
+
+2
+
+5
+
+11
+
+4
+
+5
+
+3
+
+5
+
+Spawner
+
+Stylophora
+pistillata
+
+2
+
+3
+
+5
+
+4
+
+2
+
+3
+
+3
+
+Brooder
+
+Tabular
+Acropora
+
+2
+
+4
+
+12
+
+4
+
+3
+
+5
+
+5
+
+Spawner
+
+Taxon
+
+518
+519
+520
+
+

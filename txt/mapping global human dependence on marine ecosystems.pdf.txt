@@ -1,0 +1,3366 @@
+Revised: 12 October 2018
+
+Accepted: 30 October 2018
+
+DOI: 10.1111/conl.12617
+
+LETTER
+
+Mapping global human dependence on marine ecosystems
+Elizabeth R. Selig1,2,3
+
+David G. Hole1,4
+
+Madeleine C. McKinnon1
+Louise Glew11
+Roly B. Russell15
+Will R. Turner1
+
+Edward H. Allison5,6
+
+Jingjie Chu8
+
+Margaret B. Holland12
+Tanja Srebotnjak16
+
+Katie K. Arkema7
+
+Alex de Sherbinin9
+
+Brendan Fisher10
+
+Jane Carter Ingram13
+
+Nalini S. Rao14
+
+Lydia C.L. Teh17
+
+Sebastian Troëng1
+
+Alexander Zvoleﬀ1
+
+1 Conservation International, 2011 Crystal Drive Suite 500, Arlington, Virginia
+2 Norwegian Institute for Water Research, Gaustadalléen 21, Oslo, Norway
+3 Center for Ocean Solutions, Stanford University, 473 Via Ortega, Stanford, California
+4 Department of Biosciences, Durham University, South Road, Durham, DH1 3LE, UK
+5 School of Marine and Environmental Aﬀairs, University of Washington, 3707 Brooklyn Avenue NE, Seattle, Washington
+6 WorldFish, Jalan Batu Maung, Batu Maung, 11960 Bayan Lepas, Penang, Malaysia
+7 Natural Capital Project, Stanford University, c/o School of Environmental and Forest Sciences, University of Washington, Box 352100, Seattle, Washington
+8 Environment & Natural Resources Global Practice, World Bank, 8602 SW 42nd Place, Gainesville, Florida
+9 Center for International Earth Science Information Network (CIESIN), The Earth Institute, Columbia University, P.O. Box 1000, Palisades, New York
+10 Gund Institute for Ecological Economics, University of Vermont, Burlington, Vermont
+11 Science & Innovation, World Wildlife Fund, 1250 24th Street, N.W., Washington, DC
+12 Geography and Environmental Systems, University of Maryland, Baltimore County, 1000 Hilltop Circle, Baltimore, Maryland
+13 Wildlife Conservation Society, 2300 Southern Boulevard, Bronx, New York
+14 Electric Power Research Institute (EPRI), 3420 Hillview Avenue, Palo Alto, California
+15 The Sandhill Institute for Complexity and Sustainability, 5800 Edwards Road, Grand Forks, BC, V0H 1H9, Canada
+16 Harvey Mudd College, 301 Platt Blvd., Claremont, California
+17 Institute for the Oceans and Fisheries, University of British Columbia, AERL 2202 Main Mall, Vancouver, BC, V6T 1Z4, Canada
+
+Correspondence
+Elizabeth R. Selig, Center for Ocean
+Solutions, Stanford University, 473 Via Ortega,
+Room 193, Stanford, CA 94305.
+Email: eselig@stanford.edu
+Funding information
+Rockefeller Foundation
+Editor
+Christopher Brown
+
+Abstract
+Many human populations are dependent on marine ecosystems for a range of beneﬁts, but we understand little about where and to what degree people rely on these
+ecosystem services. We created a new conceptual model to map the degree of human
+dependence on marine ecosystems based on the magnitude of the beneﬁt, susceptibility of people to a loss of that beneﬁt, and the availability of alternatives. We
+focused on mapping nutritional, economic, and coastal protection dependence, but
+our model is repeatable, scalable, applicable to other ecosystems, and designed to
+incorporate additional services and data. Here we show that dependence was highest for Paciﬁc and Indian Ocean island nations and several West African countries.
+More than 775 million people live in areas with relatively high dependence scores.
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original
+work is properly cited.
+© 2018 The Authors. Conservation Letters published by Wiley Periodicals, Inc.
+Conservation Letters. 2019;12:e12617.
+https://doi.org/10.1111/conl.12617
+
+wileyonlinelibrary.com/journal/conl
+
+1 of 10
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Received: 29 May 2018
+
+By identifying where and how people are dependent on marine ecosystems, our
+framework can be used to design more eﬀective large-scale management and policy
+interventions.
+KEYWORDS
+coastal protection, ecosystem services, food security, human dependence, ocean management, sustainable
+development
+
+1
+
+I N T RO D U C T I O N
+
+The value of living natural resources to human well-being is
+becoming increasingly well-recognized, including the importance of marine ecosystems to people (Arkema, Verutes, &
+Wood, 2015; FAO, 2016; Hall, Hilborn, Andrew, & Allison,
+2013; Millennium Ecosystem Assessment, 2005). Coastal
+and inland populations derive a range of monetary and nonmonetary beneﬁts from marine ecosystems including nutritional, economic, cultural, and coastal protection beneﬁts. For
+example, marine ﬁsheries are a critical source of lipids and
+micronutrients (Kawarazuka & Bene, 2010), support more
+than 260 million livelihoods (Teh & Sumaila, 2013), generate
+sizeable revenues for many countries, including US$ 80 billion dollars in export revenues for developing countries (FAO,
+2016), and provide substantial coastal protection services with
+coral reefs reducing wave heights by up to 70% (Narayan,
+Beck, & Reguero, 2016).
+Although these numbers provide a snapshot of the magnitude of beneﬁts that living marine resources (hereafter
+marine resources) can provide, they oﬀer only limited guidance on the ways in which people are dependent and how that
+dependence varies spatially. This knowledge gap poses challenges for regional and national policymakers as well as funders, who risk ignoring or underestimating the importance of
+marine ecosystems in policy eﬀorts and large-scale management planning. To make more eﬀective policy and management decisions, we need a conceptual understanding of dependence and a quantitative estimate of how and where people
+depend on natural ecosystems for their well-being.
+Prominent recent initiatives highlight the importance of
+integrating sustainable development and resource use into
+environmental management, including the United Nations
+Sustainable Development Goals (SDGs) (Sustainable Development Platform, 2014). Sustainable management of marine
+resources is important for several SDGs including those
+related to poverty (goal 1), hunger (goal 2), health (goal 3),
+economic growth (goal 8), and climate-related disaster risk
+reduction (goal 13), and sustainable ocean management (goal
+14) (Sustainable Development Platform, 2014). Understanding patterns of human dependence on marine resources is necessary for achieving these goals and for improving human
+well-being through better resource management. In order to
+
+design policies and management that meet multiple SDGs,
+decision-makers need to understand the mechanisms that create dependence.
+In a ﬁrst attempt to provide such information, we designed
+a novel quantitative framework for assessing dependence that
+is spatially scalable, repeatable, and applicable across diﬀerent ecosystems. Our framework is also capable of incorporating additional indicators or ecosystem service dependencies.
+We applied our framework globally to assess three diﬀerent
+types of dependence on marine resources—nutritional, economic, and coastal protection—using global, publicly available indicators (Table 1; Figure 1). Our focus is on assessing the relative degree of dependence, but we also estimate
+where the greatest concentrations of highly dependent people
+are located. Our results illustrate where people are relatively
+more dependent on marine resources and for what key beneﬁts, so that policies and large-scale planning can be designed
+more eﬀectively.
+
+2
+2.1
+
+M ETH O DS
+Degree of dependence
+
+Using expert input, we identiﬁed four key types of dependence on marine resources: nutritional, economic, coastal
+protection, and cultural (Supporting Methods; Table 1).
+Marine ecosystems are key to cultural identity and well-being
+(Russell, Guerry, & Balvanera, 2013), but we lacked global
+indicators to include it.
+Original data resolution varied by data source, but all calculations were done on a 0.167 decimal degree grid (∼17 km at
+the equator) to preserve some of the underlying spatial variability in the datasets. For nutritional and economic dependence, we take the mean of all grid cell values within a country and report our results at the national scale because most
+data were at that scale (Table S1). Data for coastal protection were largely at ﬁner scales so coastal protection maps
+reﬂect the 0.167 decimal degree grid scale (Figure 1). For
+each type of dependence and mechanism, we chose relevant
+indicators (Table 1), transformed them to meet assumptions of
+normality, and standardized them [0-1] (Supporting Methods;
+Table S3).
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+SELIG ET AL.
+
+2 of 10
+
+Exposure (m)
+
+Low elevation coastal zone
+(LECZ) population (n)
+GDP (o), Governance (p), Density
+of impervious surfaces (q)
+
+Susceptibility
+
+Substitutability
+
+GDP (j), Education (k),
+Governance (l)
+
+Substitutability
+
+Magnitude of beneﬁt
+
+GDP trend (h), Unemployment rate
+(i)
+
+Susceptibility
+
+Measure of people's ability to purchase substitutes
+(e.g., storm defenses), institutional capacity for
+disaster preparedness, and infrastructure for
+dealing with ﬂooding. Higher values indicate
+greater substitutability.
+
+Measure of the proportion of the population
+susceptible to storms and sea-level rise. Higher
+values indicate more people are susceptible.
+
+Measure of the beneﬁt to human populations
+(proportion of population, scaled nationally) from
+coral reefs and mangroves in reducing exposure
+from storms and sea-level rise. Higher values
+indicate greater beneﬁt.
+
+Measures of the ﬁnancial resources available, ability
+to obtain other employment, or to address issues
+in the ﬁsheries sector (e.g., retraining). Higher
+values indicate higher substitutability.
+
+Measure of macroeconomic and microeconomic
+stability, where negative trends indicate more
+susceptibility to ﬁsheries revenue and job losses.
+
+(Adger et al., 2005; Brooks et al.,
+2005; Tol et al., 2004)
+
+(McGranahan et al., 2007)
+
+(Arkema et al., 2013)
+
+(Allison et al., 2009; Mavragani
+et al., 2016)
+
+(Allison et al., 2009; Mavragani
+et al., 2016)
+
+(Allison et al., 2009)
+
+(FAO et al. 2015; Kawarazuka &
+Bene, 2010)
+
+Measure of the availability of alternatives for protein
+and fat and ﬁnancial resources to purchase them.
+Higher values indicate greater substitutability.
+Measures of the proportional beneﬁt provided by
+ﬁsheries (based on exports and ﬁshing access
+agreements) to national revenue and the number
+of jobs to national employment. Higher values
+indicate greater beneﬁt.
+
+(FAO et al., 2015)
+
+(Kawarazuka & Bene, 2010)
+
+Source for conceptual link
+
+Measure of food utilization, where higher values
+indicate greater susceptibility.
+
+Measure of the amount of marine protein in animal
+protein intake, a proxy for the consumption of
+micronutrients. Higher values indicate greater
+beneﬁt.
+
+Indicator description
+
+3 of 10
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Coastal protection
+𝑚 ∗ (𝑛 + (12− 𝑜𝑝𝑞))
+
+(ℎ𝑖 + (1 − j𝑘𝑙))
+2
+̄
+Revenue only: 𝑓̄ ∗ (ℎ + (12− j𝑘𝑙))
+̄
+Jobs only: 𝑔̄ ∗ (𝑖 + (12− j𝑘𝑙))
+
+% of GDP from ﬁsheries revenue
+and public ﬁshing access
+agreements (f), % of ﬁsheries
+jobs to total jobs (g)
+
+Dietary diversity for protein (c)
+and fat (d), gross domestic
+product (GDP) (e)
+
+Substitutability
+
+Magnitude of beneﬁt
+
+Percentage of underweight
+children under 5 (b)
+
+Susceptibility
+
+Economic
+Total: f𝑔 ∗
+
+Percentage of marine dietary
+protein to animal protein (a)
+
+Magnitude of beneﬁt
+
+Nutrition
+∗ 0.5𝑒))
+𝑎 ∗ (𝑏 + (1−(c𝑑
+2
+
+Global proxy indicator(s)
+
+Mechanism
+
+Type of dependence
+
+Indicator descriptions, their conceptual links to the three mechanisms underpinning the diﬀerent types of dependence, and the sources that support those links. See Table S1
+for information on data resolution, year, and data source
+
+TABLE 1
+
+SELIG ET AL.
+
+A
+high
+
+low
+no data
+
+B
+
+C
+
+!!!!!!!
+!!
+
+!
+
+!!!!!!!!
+
+!!!!!
+!!!!
+!!!!!!!
+!!!!!!!!!!
+!!!!!!
+
+!!!
+
+!!!! !
+!
+
+!
+
+! !
+
+!!!!
+!
+
+!
+
+!!!
+
+!!
+
+!!
+!!!
+
+FIGURE 1
+
+!
+
+!
+!!
+!
+
+!
+!!
+
+!!!!!! !!
+!!!
+!!!!!
+!!!
+!!!!! !!
+
+!!!!!
+!!!
+!! ! !
+!!!!!!!!!
+!!!!!!!
+! !!!!
+!!!!
+!!! !!!!!!!!!
+!!!!
+
+!!
+
+!!!!!!!!!!!!
+!!
+!
+
+!
+!!!!!!
+!!! !!!
+!!!!!!!!
+!! !!!!!!
+!!
+!!!!!!!!
+
+!!!!
+
+!! !
+!
+
+!!! !
+!!
+!
+
+!
+!!! !!
+! ! !!!!
+!!!
+!!!!!!!!!!!!!!!
+!! !!!!!! !!
+!!!!!!!!!!!!!!!!!!!!!
+!!!
+!!!!
+!! !!!!!! !!!!!
+! !!! !
+!!!!!!!
+!! !! !!!!! !
+!
+!!! !!!!! !! ! !
+!
+! !!!!!!!!!!
+! !!! !!!!!!
+!!! !!!
+!!
+! ! ! !!
+! ! ! !!
+!!
+!
+! !!
+!!!! !
+!!
+!
+!
+!! !!
+!!!!
+!!
+!!
+
+!!!!!
+
+!!!!
+
+!!!!!!!
+!!!
+!!!! !!!!!
+!!!!!
+! !!!!! !!!!
+!!!!!!
+!!!!!!!!!!!!!!
+!!!!!!
+!!
+!!!!!!!!!!!!!!!!
+!!!!! !!!!!!!!
+!!!! !!!!!!!!!!!!
+!!!!!
+!!! !!!!
+!!!!!!
+!
+!!!!!
+!!!!!
+!
+!!!!!
+!!!!!
+!!!!!!!
+!!!!!
+!!!!!! !!!!!
+!!!
+!!!!!
+!!!!!!!!!!
+!!!!
+!!!!!!
+!!!!!!!!! !!!
+!!!!
+!!!!!!!
+!!
+!!!!! !!
+!!!!!!
+!!!
+!!!
+!!!!!
+!!!!!! !!!!! ! !!!!!!
+!!!!!!!!!!!
+!!!!!!
+!!!!
+!!!!!!!
+!!!!!!
+!!!!!!! !!!!
+!!!
+!!!!!
+!!!!!!!! !!!!! !!!!!!!!!!!
+!!!!!!
+!!!!
+!! !!!
+!!!!!!!!
+!!! ! !!!!!!!!! !!
+! !!!!
+!!!!!!!!!!!!!
+!!!!!!!!!
+!!! ! !!!!!!!!!!
+!!!!
+!!!!!!! ! !!!!!!
+!!! !!!!!!!!!!
+!!!! !
+!!!!
+!!!!
+!!!
+!!!
+!!!!!!
+!!
+!!!!!!!!!!!! !!!!!! !
+!!!!
+!!!!!!!!!!
+!!!!!!!!!!!!!
+!!!!!
+!!!!!!! !!!!!!!!!!!!!!!!
+!!!!! !!!!!
+!!!!!
+!!
+!!!!
+!!!
+!!!!!!!!!
+! !!!
+!!!!
+!!!!!!!!! !!!!!!!!!!
+!!!!
+!!!
+!!!!!!!!!
+!
+!!
+!!
+!!!
+!!!
+!!!!!!!!!!!
+!!!!!!!!!!!
+!!!!
+!!!!!!
+!
+!!!
+!!!!!!!!
+! !!!
+!!!!!!
+!!!!!!
+!!!! !!!!!!!!!!!!!
+!!!!!!!
+!!!
+!!!!!!!!!!!!!!
+!!
+!!!!!!!!!!
+!!!!!!
+!!!!! ! !!!!!!!!!
+!!! !!!!!!
+!!!!!! !!!!!!!
+!!!
+!!!
+!!!
+!!!
+!!!!!!!!
+!
+!
+!!!! !! !!!!!!!!!!!!!!!!
+!!!!
+!!!
+!
+!
+!!!
+!!!!
+!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!!!!!!!
+!!!!
+!!!
+!!!!!!!!!!!!!
+!!!!
+! !! !!!!!!!!!!!!!!!!!!!
+!!!!
+!!!!!
+!! !!!!!!!!!!!!
+!!!!
+!!!!!
+!!!!
+!!!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!!!!!!!
+!!!!!!!!!! !!!!!
+!!!
+!!!!!!
+!!!!!!!!!!!
+!!!!!
+!!!!
+!!!!!!!!
+!!!!!
+!!!!!
+!!!!!!!!! ! !!!!
+!
+!!!!!!!!!!!!!!!!!!
+!!!!!!!!!
+!!!!
+!!!!!!!
+!!!!!!
+!!!!!!
+!!!!!! !!!!
+!!!!!!!!!!!! !!!!!
+!!!!
+!!!!
+! !!!!
+!!!!
+!! !
+!!!!!!!!!!!!
+!!!!
+!!!!
+!! ! !!!!!!!!!! !!
+!!!!
+!!!
+!!!!!
+!!!!!
+!!!
+! ! !!!!! !!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
+!!!
+!
+!!
+!!!!
+!!
+!!
+!!
+!!!!!!!
+!!!!! !!!
+!!!!!!
+!!!!!!
+!!!!!!!!!!!!!!!
+!!!!!!!
+!!!!!!!!!!!!!!!
+!!!!
+!!!
+!!!!!!
+!!!!!!!!
+!!!
+!!!!!!!!
+!!!
+!!!!
+!!!
+!
+!!!!!
+!!!!!!!!!
+!!!!!!!!!!!!
+!!!
+!! !
+!!!
+!!!!!!!!
+!!!! !
+!!!!!!!!!!!!!!
+!!!!
+!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!
+!!!
+!!!!!!!
+!!!!!!!!!!!!!!!!!!
+!!!!!!!!! ! !!!!
+!!!!!!!!!!!!!!!!!!!!
+!!! !!!
+!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!
+!!!!!!!!!! !!!!
+!!!!!!!!
+!!!!!!
+!!!!!!!!! !!!!! !!!!!! !!
+!!
+!!!!!!
+!!!!!
+!!!!!!!
+!!!!
+!! !!!!
+!
+!!! !!!
+!!!!!!!!!!
+!!
+!!!!!!!
+!!!!!
+!
+!!!!!!!!!!!!
+!!!!!!!
+!!!!!!
+!!!!!!!!!!
+!!!!!!
+!!!!
+!!!!
+!!!!
+!!!!!!!! !!!!!!!
+!!!!!!!
+!!
+!!
+!
+!!!!!!! !!!!! !!!!!!!!!
+!!!!!!!!!!!!!!
+!!!!!!!!!!!
+! !!!!!
+!!!!!!!!!!!!!!!!
+!!!!!
+!!!
+!!!
+!!! !!!!!
+!!!!!!!!!!!
+!!!
+!!!!
+!!!
+!!!!!!!!!!!
+!!!
+!!!!!
+!!!!!!!!!!
+!!!!!!!
+!!!
+!!!
+!!!!!
+!!!!!
+!!!
+! !!!!!!!!!
+!!!!!!!!!!!!!
+!!!
+!!!!!
+! !!! !!!
+!!!!!
+!
+!!!!!!!
+!!!!!!!
+! !!!!!!!!
+!!!!!!!
+!!
+!!!
+!!!
+!!!!!!
+!!!
+!!!!!!!!
+!!
+!!!
+!!!!! !!!!!! !! !
+!!!!!!
+!!!!!
+!!!!!
+!
+!!!!!!! !
+!!!!!!!! !! !!!! !!!!
+!
+!!!!!!
+!!!
+! ! !!!! !!!
+! !
+!!!!!
+!!
+! !!!!!!!!! !!!!!!!! ! !!!!!!!!!!!!!!!
+!!
+!!!!!
+!!!
+!!!!!
+!!!!!!!
+!!!!!!!
+!!!!!
+!!!!!!!!!!!!!!!!! !!!!
+!!!!!!
+! ! !!!
+!!!
+!!! !! !!!!!
+!
+!!!!!
+!!!
+!!
+!!!!!!!!!
+!!
+!
+!
+! !!!!
+!! !!!!!!!!! !!!!!
+!!!!!!!!!! !
+!!!!!!!!!
+!!!!!!
+!!!!!!
+!!!!!
+!!!
+!!!!!
+!!!!!!!
+!
+!!!!
+!!!! !!!!!
+!!!
+!
+!
+!
+!!!!!!!!!!!!!
+!!!
+!!
+!!!!!!!!
+!
+!!! !!!
+!!
+!!!! !!!!!!!
+!!!!!!!!
+!!!!
+!! !!!!!!!!! !! !!!!!!!!!!!! !!!! !!!!!
+!!!
+!!!!!!!!!!!!!
+!!!!
+!!! ! !!! !!! !!!
+!!!!!!!!!!!
+! !!!!!!!!!!!!
+!!!!!!!!!!
+!!!! !!!
+!!!! !!!!!!!
+!!!!!!
+! ! !!!! !!!!!!
+!!!!
+!!!! !!!
+!!!!!!
+!!! !
+!!!!
+!!!!!!!
+!! !!! !!!!
+!!!!
+!!!
+!!!
+!!!
+!!!!!
+!!!
+!!!
+!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!
+!
+!!!!!!!!!!!
+!
+!!!!!!!
+!!!!!!
+!!!!!
+!!!!
+!!!!!!!!!!
+!!!!!!
+!!
+!!!!!!
+!!!!!!!!
+!!!
+!!!!!
+!!!!!!!!!
+!
+!!!!!!
+!!!
+!!!
+!!!!
+!!!!!!
+!!!!!!!
+!!!
+!!!
+!!!!
+!!!!!!
+!!!!!!!!!!
+!!!
+!!!!!
+!! !
+!!!!!!!!!!
+!!!
+!!!!!!!
+!!!
+!!!
+! !!!!
+!! !
+!!!
+!!!
+!!
+!!!!!!!!!!!!
+!!!!!!!!!!!!!!!
+!!!!!!!
+!!!
+!!! !!!!!!!
+!
+!!!
+!! !
+!!!!!!!
+!!!!!!!!! !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!
+!!!!
+!!!!
+! !!!!!
+!!!!!!!
+!! !! !!!!
+!!!!
+!!!!!
+!!!
+!!!!!!!!!!
+!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!!!
+!!!
+!!!
+!!!
+!!
+!!!! !!
+!!!
+!!!!!!!!!!!!!!!!
+!!!!!!!!
+! ! !
+!!!!!!!
+!!!
+!!!
+!!!!!
+!!!
+!!!
+!!!!!!!!!!!!!!!!!!!
+!
+!!!
+!!!!!! !!!!!!
+!!!
+!!!!!
+!!!!!
+!!!!!!!
+!!!!
+!!!
+!!!!!!
+!!!!!
+!!!!!!!!!!
+!!
+!!
+!!!!
+!!!
+!!!
+!!!
+!!!!!
+!!!!!
+!
+!!!!
+!!!!!
+!!!!!!
+!!!!!
+!!!!!!
+!!!
+!!!!
+!!
+!!!!!!!
+!!!
+!!!!
+!!!!!!
+!!!!!!
+!!!!!
+!!!!
+!!
+!!!
+!!!!!
+!!!!!
+!!
+!!!!!
+!!!!
+!
+!!!!!!
+!!!!
+!!!
+!!
+!!!!!
+!!!!
+!!!!!
+!! !
+!!!!!!!!!!!!!!!!!
+!!!! !
+!!!!!!!!!
+!!!
+!!!
+!!!!
+!!!!!
+!!!!!!!!!!!!
+!!!!!!!!!!
+!
+!!!!!!!!!!!
+!!
+!
+
+!!!!
+
+!!!
+!!!
+
+!!
+!
+!!!
+!!!!!!!
+!!!!! !!
+
+!!!!
+!!!!!!
+!!!
+!!!!!!!
+!!!!!!!
+!!!!!
+!!
+!!!!
+!!!!!!
+!!!!!!
+!!!!
+!!
+!!
+!!!
+!!!!!!!
+!!!!
+!!!!
+!
+!!!!!
+!!!
+! !!! !!!!
+!!!!!
+!!!!!!!
+!!!
+!! !!!!!
+!!!!!!!!
+!!!!!! !!!!!!!!!!
+!!!!! !!!!!
+!!! !! !!!!!!! !!!!!!! !
+!!
+!!! !!! !!!!!! !!
+!! ! ! !!!!!
+!!!!!!! !!!!!
+! ! !!!!!!!!!
+!!! !!!!!!!!!
+!!!!!
+!!!!!
+!!!!
+
+!!
+!!!!!!!
+!
+!!!!!! !!!!!!!!
+!!!!!! !!!
+! !!!
+!!!!!!!! !!!
+!!!!!! !!!!!!!!!!!
+!!!!!!!
+!!!!!!
+!!!!
+!! !
+!!!!
+!!!
+!!!!
+!!!!!!!!!
+!!!!!!!! !!!!!!!!
+!!!!!
+!!!!!!
+!!!!
+!!
+!!!
+!!
+!!!!
+!!!
+!!!!
+!!!!
+!!!!!
+!!!!!!!
+!!!!!
+!!!!
+!!!!!
+!!
+!!!!!!!!
+!!!
+! !!
+!!
+!!
+!
+!!!!!
+!!!!
+!!! !!
+!
+!!!
+!
+!!!!!
+!!
+!!!
+! !!! !!!!!!!!!!
+!!!! !!
+! !!
+!!!!!!
+!!!!
+! !!
+!!!!!!!!
+!!!! ! !!!!!!
+!!!!!!!!!
+!!!!
+!! !!
+!!
+!!!
+!!!!!! !!!!!!!
+!! !! !!
+!!! !!!
+!!!! !!
+!!!!
+!!
+!!!!!!!!
+!!!!
+!!
+
+!!!!!!!
+!!
+!!!!
+!!!
+!!!!!!!!!!!!!
+!!!
+!!!
+!!!!!
+!!!!!!!!!
+!!!
+!!!!!
+
+!!!!!!!!!!!!!!
+!!!!!!!
+!!!!!!!!!!!
+!!!!!!!
+!!!
+!!!!
+!!!!!
+!!!!
+!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!!
+!!!!
+!!!
+
+!!!!!!!
+!!!!!!!!
+!!!!
+!!!!!
+!!!!
+!!!!!!!!
+!
+!!!!!
+!!!!!!!!
+!!!!!!!!!!!!!!
+!!!!!!!!!!!!
+!!!!!!!
+!!!!!!
+!! !!!!!!
+!!!!!!!!!!!!!!
+! !!
+!!!!
+!!!!!!!!!!!!!
+
+!!!!
+!!!!!!!
+!!!!!
+!
+!!
+!! !!
+!!
+
+!!
+!!!!!!!!
+!!!!!
+!
+!!!!!!!!!!!!
+!! !!!!
+! !!!!
+! !!!!!!!!!!!! !!!!!
+!!!
+!
+!!
+!!!!!
+
+!!
+!!!!!!!
+!!!!!
+!
+!!
+
+!!!
+!!!!
+!!!
+!!!!
+!!!!
+!
+!
+
+!!!!!!!
+!!!!!!!!!
+!!!!!
+
+!!!!!!
+!!
+!!!!!!
+!!!
+!! !
+! !!
+!!! !
+!!
+!
+
+!!
+!!!!!!!
+!!!!
+!!
+!!!!!
+
+!!
+!!!
+!!!
+!!!!!!!
+!!!
+!!!!!
+!!!!
+!!!!!
+!!
+!!!!
+!!!!
+!!!!!!!!!!!!
+!!
+!!
+!!!
+!!!
+!!
+!!!!
+!!!!
+!!!!!
+!!!!
+!
+
+!!!!
+!!!
+!!!!!!!!!
+!!!!!!
+!!!
+!!!
+
+!!!
+!!!!
+!!!!!
+!!
+!!!!
+
+!
+!!
+!!!!
+!!!!!!!
+!!!!!!!
+!!!
+!!!!
+!!!!!
+! !!!!!!!
+!!!!!!!
+!! !
+!!!! !!!!!!!
+!!!!
+!!!
+!!!!
+!!!!!!!
+!! !!
+!!!!
+!!!!! !
+!!!!!!!
+!!!!
+!!!!!!
+!!!!!!
+!!!!!!!
+!!!!!!
+!!!!!!
+!!
+!!!!
+!!!!!
+!!!!!
+!
+!!!!
+!!!!!!
+!!!!
+!!
+!!!!
+!!!
+!!!!!
+!!!!!!!!
+!
+!!!!!!!!!!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!
+!!!!
+!!!
+!!!!!!!!!!!
+!!!!!!
+!!!!!!!!
+!!!!!!
+!
+!!!!!
+!!!
+!!!
+!!!!
+!!!!
+!!!
+!!
+!!!!!!!!!
+!!
+!
+!!
+!!!!!!!!
+!!!!
+
+!!
+!!!!!!!!!
+!!!
+!!!!
+!!!
+
+!!!
+!!!
+
+!
+
+!
+!!!
+
+!!
+
+!!!!
+
+!!!!
+!!!
+!!!!
+
+!
+
+! !!!
+!!!
+!
+!!!!
+
+!!
+!!!!
+!!!!!
+!!
+!!!!!
+
+!!!
+!!!
+
+!!
+
+!!!!
+
+!!!!!!
+!!! !
+!!!! !!!!!
+
+!!!!
+!!!!!!!!!!
+!!!
+! !!!!
+! ! !!!
+!!!!
+!!!
+!!!!!!!!!!!!!!!!! !!!!!!
+!!!
+!!!!
+!!!
+!!!!!
+!
+!!!!!!!!
+!!!!
+!!!
+!!!!!
+!!
+!!!!!!!!!!!!!!!!!!!!
+!!!!
+!! !!!!
+!!!!!!!!!!!!!!!!! !!!!!
+!
+!!!!!!
+!!!
+!!!
+!!!!!!!!
+!!!!!!
+!!!!
+!!!
+!!!!!!
+!!!!
+!!!
+!!!!!!
+!!!!
+!!!!
+!!!
+
+!!!
+!!!
+!!!!!
+!!!!!!
+!!!
+!!!!
+!!!
+!!
+!!!!
+!!!!!!!!
+!!!!
+
+!!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!!!!
+!!!
+!!!!!!!!
+!!!!!!
+
+!!!!
+
+!! !
+!!! !!
+!
+
+!!!!
+!!!!!!
+!!!
+!
+!!!!!
+!!!!!!!!!
+
+!
+
+!
+!!!!!
+
+!!!!
+
+!!
+!!!
+!!!
+!!! !
+
+!!
+
+!
+!!
+
+!!!!!
+!!!!!!
+!!!
+!!
+!!!!!
+!!!!
+!!!!
+! !!!!!
+!!!!!
+!!!!!!!!!
+!!!!!!!!
+!!!!
+!!!
+!!!!
+!!!!!!!!!!!!!!!! !!!!!
+!!!!!!!! !!!!!!!! !!!!!!!! !!!
+!!
+!!!
+!!! !!
+!!!!! !!!
+!!!!
+!!
+!!
+!!!!
+!!!
+!!!
+!!
+!!!
+!! !!!!!
+!!!!
+
+!
+!!!!!!!!!!!!!!!!
+!!!!!
+!!!!!!!!!!
+!!!!!!!
+!!!!!
+!!!!!!!!!!!!
+!!!!!
+!!!!!!
+!!!!!!!!!!!!!!!!
+!!!!!!!!
+!!!!!!!!!!!!!!!
+!!!!!!!!
+!!!!!!!!!!!!!!!! !!!!!!
+!!!
+!!! !
+!!!
+!!!!!!!
+!!!!!!!!!
+!!!!!!
+!!!!
+!!!
+!!!!!!
+!!!!
+!!!!!
+!!!!!!
+!!!!!!!!!!!!
+!!!!!!
+!!!!!!!!
+!!!!!!!
+!!!!
+!!!
+!!!!!!!!!!
+!!!
+!!!!!
+!!!!!!!!!
+!
+!!!!!
+!
+!!!
+!!!! !!!!
+! !!!!
+!!!!
+!!!!
+!!!!!!!!!
+!!!!!!!
+!!
+!!!!!!!
+!!!!!
+!!!
+!!
+!!
+!!!!
+!!!!!!!!
+!
+!!!!!!!
+!!!!
+!!!!! !
+!
+!!!!!!!
+!!
+!! !!
+!!!!
+!!!!!
+!!!!
+!!!!!!!
+
+!!
+!!!
+!!!!!!!!!!!
+!!!!!!!!!
+!!!!!!!!
+!
+!!!
+!!!
+!!!
+!!!!!!
+!!!!!!!!
+!!!!!!!!!! !!
+!!!!
+!!!!!! !!!
+!!!!
+!!
+!!!!!!!!!
+!! !!!!
+!!!!!!!!
+!!!!!!!!!!!!
+!!!
+!
+!!
+!!!!!!
+!!!!!!
+!!!
+!!!
+
+!
+!!!!
+!!!!!
+
+!
+!!!
+!!!!
+
+!
+!!
+!!!! !!
+!! !!!!
+!!!!!!!
+
+!!!!!
+!!!!!!!
+!!!!!!!!!!!!
+!
+!!!!!!
+!!!!!!!!
+!!!!!
+!!!!!!!
+!!!
+!!!!!!!
+
+!!!
+!!!!!!
+!!
+!!!
+
+!!
+!
+!!!!!!!! !!
+!!! !!!!!!!!!!!
+!!! !! !!!
+!!!!
+!!!!
+!
+!!
+!!!!
+!
+!!!!!
+!!!!!!!!! !!!!!!
+!!!
+!!!
+!!!!
+!!!!! !!!!
+!
+!!!
+!! !! !
+!
+!
+!!!!
+!!!!
+!!! !!!
+!!!
+!!!!!!!!!
+!!!!!!! !!!
+!!
+!!
+!!!!
+!!!!!
+!!!!
+!!!!!!!!!!!!!!!!!!
+!!!
+!!!!!!!
+!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!
+!!
+!!!!!!!!
+!!!!! !!!!!!!!!!!!!!!
+!!
+!!!
+!!!!!!!!!!!!!
+!!!
+!!!!!
+!!!
+!!!!!!!!!!!!!
+!!!!!
+!!!! !!! !!!!!!!!
+!!!!!!!!!!!!!
+!!!!!
+! !!!
+!!!!!!
+! !!!! !!!!!!!!
+!!
+! !!!!! !! !! !!!!
+!!!!!!
+!!!!!
+!!!!
+! ! !!!!!!!!!!!
+!!!!!!!
+!!!!!!
+!!!!!! !!!!!!!!!!!!! !!!!!
+!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!
+!!!!!!
+!!!!!!!!!!!!
+!!!
+!!!!!!!!!!!
+!!!!
+!!!!!!!!!!!!! !!!!!
+!!! !!
+!!!!!!
+!!!!
+!!!!!!!!!!!!!!!!!
+!! !!!!!!!!!!!!!
+!!!!! ! !!!
+!!!!!
+!!!!
+!!!!!!
+!!!!!!!!
+!!!!
+!!!!!!
+!!!!!!
+!!!!!
+!!!!
+!!!
+!!!!! !!!!!
+! !!!!!!!!!!!
+!!!!!
+!!!!!!
+!!!!!!!!!!!!!
+!!!!!
+! !
+!!!!
+!!!!!! !
+!!!
+!!!!!
+!!!
+!!!!!
+!! !!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!
+!!!!!!!!!!!
+!!
+!!!
+!!!!!!
+!!!!!
+!!!!
+!!!!!
+!!!
+!!!!!!!
+!!
+!!!!!!!!!!!
+!!!!!!!
+!
+!!!!!!!!
+!
+!!!!
+! !!!!!!!!!!
+!!!!!!!!!
+!!
+!!!!!!!
+! !!!!
+!! !!!
+!!!!!!!
+!!!!!!
+! !!!!!
+!!!!!!!!!!!!!!!
+!! !
+!!!!!!
+!!!!
+! !!!!
+!!!
+!!!!!!! !
+!!!!!!!! !!!
+! !!
+!!!
+!!!
+! !
+!!!!!
+!!!!!!
+!!!!!!!!!
+!!!
+!! !!!!!!!!! !!!!!!!
+!!!!!!!!!
+!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!
+!
+!!!
+!
+!
+!!
+!
+!!!!!
+!!!!!!!!
+!!!!!
+! !! !!!!
+! !!!
+!!!!!!!
+!! !
+!!
+!!!!!!!!
+!!!!!
+!!!!!! !!!!!!
+!
+!!! !!!!!!!!!!
+!!!!!!! !!!!!!!!!!!!!
+! ! !!!!
+!!!!!!!!
+!!
+! ! !!!
+!! !!!
+!!
+!!! !!!
+!
+!!!!!!!!!!
+!!!!! !!!!
+! !!!!!! !!!!!!
+!!!!!!!!!!!
+!!!
+!!
+!!!!!!! !!!!! ! !!!!!!
+!! !! ! !! !!
+!
+!!!!!!!!!! !!!
+! !!!
+!!!
+!!!!!!
+!!!!
+!!!!
+!!!!!!!!
+!!!!!
+!
+!
+!!!!!!!
+!!!!!!!!
+!!!!!
+!!! !!!!!! !!!!
+!!!!
+! !!
+! !!!!!!!!!!!!!!!
+!!
+!
+!!!!!
+!!!!!!!
+!!!
+!!!!!!
+!! !!
+!!!
+!!!!!!!! !!!!!
+!!!!!!
+! !!!!
+!!!!!!! !!!!! !!! !!!!!
+!!!!!
+!!! !
+!!
+!!!
+!!
+! ! !!!!!
+!!!!!
+!
+! !!!!!! !!!!! !!!!!!!!!!!
+!!!
+!!!!
+!! !!!
+!!!!
+!!!!!!!!!!
+!!!!!
+!!!!!
+!!!!
+!!!!!!!!!!!!! !!!!
+!!
+!! !!! !!
+!!
+!!
+!
+!
+!
+!
+!!
+!
+!!!!!!!!!!!!!!!!!
+!
+!!!!
+! ! !!!!!!!!!!!
+!!!
+!!!!!
+!!!!!!!!!!! !!!!!!!!!! !
+!!!!!!! !
+!
+!!!!!!
+!!!!!!! !!!
+!!!!!!!!! !!!!!!!!!!!!!!!!!!!
+!!!
+!!!
+!
+!!!!!
+!!!
+!!!
+! !
+!!!!! !!!!!!!
+!!!!!
+!!!
+!!!!! !!!! !!!
+!!!!!!!
+!!!
+!!!!!!!
+!!!!!!!
+!!!!!!!!! !!!!!!
+!!!!
+!!!!!
+!!!
+!!!!
+!!!
+!! !
+!!
+!!!
+!!!!!!
+!
+!!!!!!!
+!!!!!
+!!!!
+! !!
+!!
+!
+!
+!!!!!!!!!!!!!!!!!!!! !
+!!!!!
+!!!
+!!!!!
+!
+!!!!
+!!!
+!!! !
+!!
+!!!!!!
+!!! !!!!!!
+!!!!!
+!!!!!!!!!!!
+!!
+!!!!!!!!!!! !!!
+!!
+!!!!
+!
+!!!
+!!
+!!!!!!
+!!!
+!!!!!!
+!!!!
+!!!!
+!!
+!!
+!
+!!!!
+!
+!!
+!!!
+! !!!!!!!
+! !!!!!!!! !
+! ! !!!!!!!
+! !
+!!!!!
+!!!
+!!!!!
+!!!!!!!!!!!
+!!!
+!!!
+!!!!!!!!!
+!!
+!!!!!! !!!!!!!!
+!!!!!!! !!!!!!!! !!!!!!!!!!
+!!
+!!!!
+!!!!!
+!
+!!!!!!!
+! !!
+! !!! !!!!!!
+!!! !!!! !!!!
+!!!!!!!! !!!!!
+!!!!!! !!!
+!!
+!!!!!!!
+!! !!! !!!!!!!
+!!!!
+!!
+!!!!
+!!!!!!
+!!!!!
+!!!!!!!!
+!!!!!!
+!!!!
+!!!! !!!!!!!
+!!!!!!!
+!!!!!
+!!!
+!
+!!! !!!!
+!!!!!!!! !!!!!!
+!!!!!!!!!!
+!!!!!!
+!!!!!!!!
+!!!!! !!!!!!
+!
+!
+!!!!!!!!!!!!!!!!
+!!!!!!
+! !!!! !!!!!!!!!!!!!!!
+!!!!!
+!!!!
+!!
+!!!!!!!!!!
+! !!!!
+!!!!!
+!!
+!!!!!! !! !!!!
+!!!!!!!!!!!!
+!!!!!!!! ! !!!!!!!!!! ! !!!!!!!!!!!!!!!! !!!!
+!!!!!!!!!!
+!!!
+!!!!!!
+!!!! ! !!!!
+! !!!!!!!
+!!!!!! !
+!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!
+!!!!!!
+!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!
+!!!!!!!!!
+!
+!!
+!!
+!!
+!
+!!!
+!
+!
+!!!!
+!!
+!!
+!
+!!!!
+!!!
+!!
+!!
+!
+!
+!
+!!!!!
+!
+!
+!!!!
+!
+!!
+!!!!!!! !!!!!!!
+!!!
+!
+! !!
+!!!!!
+!! !!!!
+!!!!!!!! !!
+!!!!!!
+!!!!!!!!!
+!!!!!!
+!!!!
+!!!
+!!!!!!! !!
+!!!!!
+!
+!! !!!!!!
+!!!!!!!!!
+!!!!!!
+!!!!
+! !! !!!!!
+!!!
+!!!!!
+!!
+!!!
+!!!!!!!!!!! !! !!!!
+!!!! !!!!!!!
+!!!!
+! !!!!!!
+!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!
+!!!!!
+!!!!!!!!!!!!
+!
+!!!!!!!!! !!!!!
+!!!
+!!!
+!!!!!!!!! !
+!!!!! !!!! !!!
+!!!! !!!!
+! !!!!!
+! !!!!!!!!!
+!!!!!
+!!!!!! !!!!!
+! !!!!!!!!!!
+!! !!!!! ! !!!!!! !!!!
+!! !!!!!!!! !
+!!!!
+!!!!! !!!!
+!! !!!!!!!! !!!!
+!
+!!!!!! !!!!
+!!!!!!!!
+!! !!!!!
+!!!!!
+!!!!!! ! !!!!!
+!!! !!!
+!!! !!!!!!!!!
+!!!!!! !!!!!!!!!
+!! !!!!!
+!!
+!!!!!!!!!!!
+! !!! !!!
+!!!!!
+!!!!! !!!!
+!!!!
+!!!!!! !!!!!
+!!!!!!!
+!!!!!!!!
+!
+!!! !! !!!!!!
+!!!!
+!!
+!!!!!!!!
+!!!
+!
+!!! !!!!
+!!!!!!!!!!!!!!!!!!!
+!!!!!!!
+!!
+!!!!!!!!!!!!!!!!
+!!! !!!!
+!!!!!!!!!!! !!
+!!!!!!!!!
+!!!
+!!! !
+!!!!!!
+!!!!
+!!!
+!!
+!!! !!!!!!
+!!
+! !!!!!!!!
+!!!!!!
+!!!!!!!!
+!!!!!! !!!
+!!
+!!!!!!!!!!
+!!!!!!
+!!!!!
+! !!!
+!!!!
+!!!!!!!!!!!!!!!!!
+!!!!!!!!!
+!!!!!!!!!
+!!!
+!!!!!
+!!!!!!!!!!
+!!!
+!!!!!!!!!!!!!
+!!!!!!!!!
+!!!!!!!!
+!!!!!!!!
+! !! !!!!
+!!!!
+!!!!!
+!
+!!!!!!! !!!!!!!!
+!!!!! !!!!
+!!!!!!!
+! !!!!!!!!!!!!! ! !!!!!!!!!!!! !!!
+!!!!
+!!!!!! !!!!!!!!!!!!!!! !!!
+!!!! !!!!!!!!!!!!!!!!!!!
+!!! !!!!
+!!
+!
+!!
+!!
+!
+!
+!
+!!!!
+!
+!!!
+!
+!!!
+!
+!!
+!!
+!
+! !!!! !!! !!! !!!!!! !!
+! !!!!!!!!!!!!
+!!!!!! !!!!!!!! ! !!!!
+!!!!!!!!!!
+! !!! !!
+!
+!!! !!!!!
+!
+!!!!!
+!!!!!
+!!!!
+!!!!
+! !! !!!!!!!!!!! !!!!!!!
+!!!!!!
+!!!!!!!!!!! !!!!!!!!!!
+! ! !!!!!!
+!! !!
+!!
+!!!
+!!! !!
+!!!!
+!!! !!!!!! !!!!! !!!!!!!!!!
+!!! !! !!!!!!! !!!!!!
+!!!!!!!!!
+! !!!!
+!!!! !
+!!!!!!!!!!!!! !!
+!!!!!!!!!
+!!!!!!!
+!!!
+!!!!!!!!!
+!!!!!
+!!!
+!!
+!
+!
+!!!! !!!!!!! !!!!
+!
+!!!! !!!!! !!!!!!!!!!!!
+!!!
+!!!!
+!!!!!
+!!!
+!!!!!!!!!
+!!!!!!!!!!!!
+!!!! ! ! !!! ! ! !!!!!!! !!!!!!!
+!
+! !!!!! ! !!!!!! !!!!! !!!!!!!
+!!!!!!!!!
+!! !!
+!!!!!!
+!!!!!
+!! !!!!!!!!! ! !!
+!! !!!!!! !!!!!!
+!!!!!!!!!!
+!!!!!!
+!!!
+!!
+!!!!
+!!!!!
+!!!!!!!!!!!!!!
+!!
+!!
+!!!!
+!!!!!
+!!
+! !!!!!!!
+! !!!! !!!!!!!!! !!!!!!! !
+!!!!!
+!!!!
+! !
+!!!!!!!!!
+!!!!
+!!!!!!!!!!!!
+!!!!!
+! !!!!!!!
+!!!
+!!!!!!!!!!
+!!!!!!!!!!
+!!
+!!!!! !!!!!!
+!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!
+!!!!!
+!!
+!
+!!!!!
+!!!!
+!!!
+!!!!
+!!!!
+!!!!!!
+!!!!
+!! !
+!!!!
+!!!!
+!
+!
+!!!!!!!!!!!!
+!
+!
+!!
+!!
+!!!!!
+!!!!
+!!!!
+!!!!!!!!!
+!!!!!
+!!!!! !!!!!!!!!
+!!!!!!!!!!!!!
+!
+!!!!
+!!!!!!!!
+!! !
+! !!!!
+!!!!!! !!!
+!!!!!!! !
+!!!!!! !!!
+!!
+!!
+!!!!
+!!!!!
+! !!!!!!!
+! !!
+!!!
+!!!
+!!!!!!!!!
+!!!!!!!!!!!!!!!
+!!!!
+! !!
+!!!!!
+!!!! !!!!!
+!!!!!!!!!!!!!! !!
+!
+! ! !!!! !!!! ! !!!!!!
+!
+!!!!!
+!!!!!
+!!!!!!!!!!!!!!!!!!!
+!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!
+!
+!!! !! !
+!!!!!!!!!!
+!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!
+! !! !!!!!!!!!!!!!!!!!!!!!!!! !!!!!! !!!!!!!!!!!
+!!!!!!!!!!!
+!!!!!!! !!!!!!
+!!!!
+!!! !
+!! !!!!!!!!!!!!!
+! !!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!
+!!!!!!!!
+!!!!!!!!!
+!!!!!!
+!!!!!!
+! !!!!
+!!!!
+!!!!!!
+!!!
+!!!!!
+!!!!!!!!!!!!
+!!!
+!!!!!
+!!!!! !!!!!
+!!!!!!!!
+!!!! ! !!!!!!!!
+!!
+! !!!!! !!!!!!!!!!!!!!!!!!!!
+!!!!!!!! !!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!
+!
+!!!!
+!!!
+! !!!
+!!!
+!
+!!!!!!!!!!!!!
+!!!!!!!
+!!!!!! !!!!
+!!!! ! ! !!!!
+!!!!
+!!!!!!!!!
+! !!!!!!!!!
+! !!!!
+!!!!!!
+!
+! !
+!!!! !! !!!!!
+!!!! !!! !!!!!!!!
+! !!!!!!
+! !!!!!!!!!!!!!!
+!!!!!
+!!!!! !!!!!!
+!!!!
+!!!!!!
+!!!!
+!!!!!!!!!
+!!!!!!!
+!!!!!! !!!!
+!!!!!!!!!!!!!!!!!!
+!!!!!!!!!
+! !!!!!!!!!!!!!
+!
+!!!! !!! !!!
+!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
+!!!!! !! !
+!!!!
+! !! !!!
+!!!! !!!!
+!!
+!
+!!
+!
+!!!!
+!!!
+!!
+!
+!!
+!
+! !! !
+! !!!! !!! !!!!!!!
+!!!!!! !!
+!!!!! !!!!
+!!!
+!!
+!!!!!!!
+!! !!!!!!!
+!!!!!!!!!
+!!!!!!! !!!
+!!!!!! !!!! !!!!!!!!!!!
+!!!!!!!!!!!!!!!
+! !!
+!!
+!!!!!
+!!!!!!!!!!
+!!!!!!!! !!!!
+!!!!!!!!!
+!!!!
+!!!!!!!
+!!!!!!!
+!
+!!!
+!
+!!!
+!!!!!
+!!
+!! !!!!!!!!!!
+!!!!!!!!
+!!! !!!!!!!
+!!!!!!!!
+!
+!!!
+!!!!!! !
+!!!!!
+!! !!!!!
+!!!!!
+!!!!!!!!!!!!!!!
+!!!
+!!! !!
+!! !
+!!!!
+!!!!!!!
+!!!!!
+!!!
+!!!!!!! !!! !!!!!
+!! !!
+!!!!!
+!!
+!!!!!!!!
+!!!!!!!!!!! !!!!!!!!!!!!!!!
+!!!!!!!
+!!!!!
+!!!! !!!!!!
+!!!!!!!!
+!!!!!!!!
+!!! !!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!
+!!!!!
+!!!!!!!!
+!!!!!!!
+!! !!! !
+!!
+!!!!
+! !!!
+!!!!!!
+!!!!
+!!!
+! !!! !!
+!!! !!!
+!!!!
+!!!
+!
+!
+!!!
+!
+!!
+!!!!
+!!!!!!!!!!!
+!!
+!!!
+!!!
+!!!!
+!!!! !!!!!
+!!!!!
+!!!
+!!!!!
+!!!!!
+!!!!!
+!!!
+!!!!!!!
+!!!
+!!
+!!!!!!!!!
+!!!!!!!
+!!!!!!!
+!!!!
+!!!!!!!!!!!!!! !!!!!! !!!
+!!!!!!!
+!!
+!!!!!!!!
+!!!
+!!!!!!!
+!!!!!!!!!!
+!!! ! !!
+!!!!!
+!!!!
+!!!!!!!!!!!!!
+!
+!!!
+! !
+!!!!!!!
+!!!!!! !!!!!!!!!
+!!!!!!!
+!!!!!!!!!!!
+!!!
+!!!!! !
+!!!!!!!!!
+!!!!!!!!!!!!
+!!!!!!!
+!!!!!!
+!
+!!!!!
+!!!!!!!!!
+!!!!! !!!!!!
+!!!!!!!!!
+!!!!!!
+!!!!!
+!!!! !!
+! ! !!!!!!!!
+!!!
+!!!!
+!!!!!!
+!!!!!!!!! !!
+!!!!!!!!!!!!!!
+!!!!!!!!
+!!!!
+!!!!!!!!!!!
+!!!!
+!!!!!!
+! !!!!
+!!!!
+!!!!! !!!!!!!!!
+!!!
+!!
+!!!!!
+!!!!!!
+!!!! !!!!!
+!!!!!!!!!!!
+!!!!! !!!
+!!!!!!!!!!!!!! ! !!!!!
+!!!!!
+!!! !!!!!!!!!!!!!!
+!!!!!!!!
+!!!
+!!!!!
+!!!!!!!!!
+!!!!!!!
+!!!!
+!!!!!!!!!!!!!!!!!!!!!!!! !!
+!!!!!
+!!!!!!!!!!!! !!!!!!!!!
+!!
+!!!
+!!!!!!!!! !!!
+!!!!
+!!!!
+!!!!
+! !!!!!
+!
+!!!!!!!!!
+!!!
+!! !!!!!!
+!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!
+!!!!!!
+!!!!!!!
+!
+!!!!! !!
+!!!!!!!!!
+!!!
+!!!!!!!
+!!!!!!
+!!
+!!
+!!!!!!!!! !!
+!!!!!!!!!
+!
+!!!
+!
+!!
+!
+!!
+!!!!!!!
+!!!!!!
+!!!
+!!
+!!!!
+!!!!!!!!!!!!
+!!!!!!!!!
+!!
+!! !!!!
+!!!!!! !!!!!!!!!!!!!!!! !
+!!!!!!!!!!!! ! !!!!!
+!!
+!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!
+!!!!!!! !!!! ! !!!!!
+!!! !
+!!!
+!!
+!!
+!!!!!
+!!!!!
+!!!!!!!
+!!! !!!! !!!!!!!!!
+!!!!!!
+!!!!!!!!!
+!!!!!!!!!!!!!
+!!!
+!!! !!!!!!!!
+!!!!!!!!!!!
+!!!
+!!!!!!!!!!!!!
+!!!!!!!!!!!
+!!!!!!!!!!
+!!! !!!!
+!! !!
+! !!
+!
+!!!!!
+!!!
+!!!!!!!!!
+!!!!!
+!!!!
+!!!!!!
+!!!!!!!
+!!!!!
+!!!!
+!!!!!!!! !!!!!
+!! !!!!!!!
+!!!!
+!!!!!!!!!!!
+!!!!!!!!
+!!!!!!!!!!
+!!!
+!!!!
+!!!
+!!!
+!!!!!!!
+!!!!!!!!!!
+!!!!!!
+!
+!
+!!!
+!!!!!!!!!
+!!!
+!!!
+!!!!!!
+!!! !!
+!!!!!
+!!!!!!!!
+!!!!
+!!!!
+!!!!
+!
+!!!!!
+!!!!!!
+!!!!!
+!!!!!!!!
+!!!
+!!!!!!!!!!
+!!!!!!!!!
+!!!!!!!
+!!
+!!!!!!!!!!!!!!
+!!!!
+!!!! !!!!
+!!!!!
+!!!
+!!!
+!!!!
+! !!!!
+!!!
+!!!!!!!!!!
+!!
+!!!!!!!
+!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!
+!!!
+!!!!!
+!!!!
+!!!!!
+!!!!!!!
+!!!!!!!!!!!!!!!!!
+!!!!!
+!!!!!
+! !!!
+!!
+!!!!!!!
+!!!! !!!!!!
+!!!!!!!!!
+!!!!!!!!
+
+Degree of human dependence on marine ecosystems for (A) nutritional, (B) economic (ﬁsheries), and (C) coastal protection
+
+dependence
+
+2.2
+
+Population analyses
+
+We also identiﬁed where the greatest concentrations of people that have relatively high dependence are located. First, we
+focused our analysis on regions that were within 200 miles of
+the coastline (Bright, Coleman, Rose, & Urban, 2012), where
+dependence on marine ecosystems is likely more direct. Then
+we excluded areas that had a density less than 1 person per
+kilometer grid cell. Within these coastal regions, we identiﬁed places where the dependence value was in the top 10% of
+
+values for one of the three dependence types. Then we calculated the number of people living in these regions of relatively
+high dependence (Bright et al., 2012).
+
+2.3
+
+Robustness analyses
+
+Composite indices are artiﬁcial constructs and as such
+require an analysis of their robustness to diﬀerent construction algorithms (Saisana, Saltelli, & Tarantola, 2005). For the
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+SELIG ET AL.
+
+4 of 10
+
+5 of 10
+
+calculation of each dependence type, we standardized indicators [0-1] to ensure that indicators with larger ranges did
+not have greater importance in the analysis. We then calculated robustness metrics to determine whether our results
+were robust to diﬀerent standardization methods (min-max,
+z-score, deviation from the mean) and diﬀerent aggregation
+approaches (workshop-deﬁned formula, arithmetic mean,
+geometric mean) that were used to combine indicators to calculate each dependence type (Table 1) (OECD and European
+Commission's Joint Research Center 2008; Supporting Methods). To calculate integrated dependence (mean across dependence types), we weighted each dependence type equally.
+
+3
+3.1
+
+RESULTS
+Human dependence framework
+
+We developed an overall conceptual framework to quantify nutritional, economic, and coastal protection dependence
+on marine ecosystems (Supporting Methods; Table 1). This
+quantitative framework is based on three key mechanisms: the
+magnitude of the beneﬁt of the ecosystem service, the susceptibility of the human population to a loss of that beneﬁt, and
+the level of substitutability of that beneﬁt (Table 1). For each
+mechanism and type of dependence, we then identiﬁed indicators that have a conceptual link established in previous studies
+for quantifying that mechanism (Table 1). The general form of
+the framework is:
+(
+Dependence = 𝐵 ×
+
+(
+))
+𝐶̄ + 1 − 𝑆̄
+2
+
+,
+
+(1)
+
+where B is the magnitude of the ecosystem beneﬁt of the
+service, 𝐶̄ is the mean of the susceptibility indicators, and
+𝑆̄ is the mean of the substitutability indicators. The magnitude of the ecosystem beneﬁt (hereafter, beneﬁt) of the service
+is deﬁned as the “current” (based on most recently available
+data), realized beneﬁt from an ecosystem service (Balmford,
+Fisher, & Green, 2011). This deﬁnition does not account for
+sustainability, so current levels of dependence may not be met
+in the future if demand exceeds supply. By focusing on realized beneﬁts, we also implicitly account for cases where there
+may be greater supply, but less demand. Substitutability was
+broadly deﬁned as a function of the quantity and diversity of
+alternatives and their accessibility, including having the ﬁnancial resources to obtain or build alternatives. Greater substitutability will generally mean less dependence, so we take the
+inverse for all substitutability indicators. We chose a linear
+function because there is no evidence that these factors would
+have an exponential relationship. In our framework, dependence results from the multiplicative relationship between the
+magnitude of beneﬁt of the service (B) and susceptibility (C)
+
+and substitutability (S) because the factors interact with each
+other. Because dependence is based on a realized ecosystem
+beneﬁt and the indicators for susceptibility and substitutability are based on vulnerability to a loss of that speciﬁc beneﬁt,
+we do not calculate dependence when B is absent or zero. If a
+susceptibility (C) and substitutability (S) indicator is absent,
+we take the mean of the available indicators. The relationship
+between susceptibility (C) and substitutability (B) is additive
+because they can compensate for each other to some extent. If
+substitutability is high, the population may be less susceptible to a loss of the service because an alternative is available.
+We did not apply any weighting because there is currently no
+conceptual evidence to support it. The form of the calculation for each type of dependence followed Equation (1), but
+varied slightly (Table 1). We ﬁnd our results are robust to
+diﬀerent standardization-aggregation approaches (Supporting
+Results).
+
+3.2
+
+Dependence patterns
+
+Paciﬁc and Indian Ocean island nations, several countries
+along the west coast of Africa, and some countries in Southeast Asia ranked highest for nutritional and economic dependence (Figure 1A,B; Table S6). Although nutritional and
+economic dependence were relatively correlated (Pearson correlation coeﬃcient = 0.58; P < 0.0001), several countries
+exhibited high dependence by one measure, but not the other
+(Figures 1A,B and S8). When economic dependence was disaggregated, dependence on jobs versus revenue also showed
+modest correlation (Figures 2 and S9; Table S6; Pearson
+correlation coeﬃcient = 0.64, P < 0.0001). Coastal protection showed relatively distinct patterns from both nutritional
+(Pearson correlation coeﬃcient = −0.07; P < 0.51) and economic dependence (Pearson correlation coeﬃcient = −0.12;
+P < 0.21), with the highest values along cyclone-prone coasts
+(Figure 1C). When data for all three types of dependence were
+available (40% of countries), countries with highest mean
+dependence were Kiribati, the Maldives, and Tuvalu (Figure 3, Table S6). Across all countries, Kiribati also had the
+highest cumulative (total value across all types of dependence) dependence (Figure S10).
+Country rankings changed signiﬁcantly when we calculated where the greatest numbers of people with relatively
+high dependence were located (Tables 2 and S7–S10). Globally, more than 775 million people were in the top 10% of one
+of the dependence types (Table 2).
+
+4
+
+DIS CUS S IO N
+
+Understanding where and how people are most dependent on
+marine resources is essential to helping guide improved largescale management, prioritize investments, and inform policies
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+SELIG ET AL.
+
+SELIG ET AL.
+
+FIGURE 2
+
+Relationship between dependence on ﬁsheries jobs and dependence on ﬁsheries revenue (both components of economic
+dependence on ﬁsheries)
+high
+
+low
+no data
+
+FIGURE 3
+
+Integrated human dependence on marine ecosystems and number of types of dependence calculated (inset). The integrated map is
+the mean of nutritional, economic (ﬁsheries), and coastal protection dependence scores. In the inset, the number of dependence types used for the
+calculations is shown (purple = 1, blue = 2, and light blue = 3 types)
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+6 of 10
+
+7 of 10
+
+TABLE 2
+
+Top 5 countries with the greatest numbers of people with high dependence (top 10% of values for one of the dependencies) in
+descending order. See Tables S7–S10 for population numbers for all countries
+Country rank
+
+Nutritional
+
+Economic
+
+Coastal protection
+
+All dependencies
+
+1
+
+Indonesia
+
+Myanmar
+
+Philippines
+
+Indonesia
+
+2
+
+Philippines
+
+Vietnam
+
+China
+
+Philippines
+
+3
+
+Nigeria
+
+Morocco
+
+Vietnam
+
+Nigeria
+
+4
+
+Malaysia
+
+Venezuela
+
+India
+
+Vietnam
+
+5
+
+Ghana
+
+Yemen
+
+United States
+
+Myanmar
+
+Dependent population (Top ﬁve countries)
+
+444,589,000
+
+163,015,000
+
+65,562,000
+
+479,104,000
+
+Dependent population (all countries)
+
+524,514,000
+
+240,734,000
+
+76,559,000
+
+775,308,000
+
+and planning processes that maintain the essential beneﬁts
+people rely on. Our results highlight countries where societies and economies are dependent on ecosystem beneﬁts
+from coastal and marine ecosystems. Patterns varied by country and type of dependence, but many island nations in the
+Paciﬁc and Indian Oceans had high levels of dependence
+(Figure 1) whereas countries like Indonesia and the Philippines had greater concentrations of people with relatively
+high dependence (Table 2). By identifying which types of
+dependence are important and the mechanisms underlying
+them, policy can be better tailored to meet the needs of these
+populations.
+
+4.1
+
+Mechanisms of dependence
+
+We found nutritional dependence to be highest in West
+Africa and in several Paciﬁc and Indian Ocean island nations,
+although scores were also relatively high for some developed
+countries (Figure 1A; Table S6). Drivers of high scores varied by the mechanism underpinning the dependence (Table 1).
+High dependence scores in Paciﬁc and Indian Ocean island
+nations and several developed countries (e.g., Norway, Iceland, and Japan) were driven by high ﬁsh consumption rates
+(i.e., high magnitude of beneﬁt) or a strong cultural preference
+for ﬁsh. By contrast, high dependence in West African countries was driven by diﬀerent mechanisms, principally high
+susceptibility (i.e., the percentage of underweight children)
+combined with low substitutability (low dietary diversity and
+low GDP) (Figures S1B–D and S1j). These results not only
+highlight where human populations are dependent on marine
+resources for their nutrition, but also how the mechanisms that
+contribute to this dependence vary in diﬀerent geographies.
+Economic dependence patterns varied depending on the
+relative importance of jobs or revenues in diﬀerent countries
+(Figures 2 and S9). Countries with high dependence on revenue from ﬁsheries exports or foreign ﬁshing access agreements were generally those with major pelagic ﬁsheries or
+high value ﬁsheries like tuna (Figure 2; Table 3). High dependence for jobs was more common in countries with sizeable
+small-scale ﬁsheries (Teh & Sumaila, 2013). Future analyses could assess ﬁshing eﬀort by foreign vessel ﬂeets, the
+
+EEZs targeted by those ﬂeets (Pauly & Zeller, 2016), export
+data on volume (FAO, 2014), and ﬁsh price databases (Tai,
+Cashion, Lam, Swartz, & Sumaila, 2017) to better understand
+how international harvesting patterns and trade may aﬀect
+economic dependence.
+Results for coastal protection dependence showed relatively distinct patterns from both nutritional and economic
+dependence (Figure 1C). In our analyses, high coastal protection dependence arises from a combination of high cyclonic
+storm frequency as well as the presence of key habitats−coral
+reefs and mangroves−that protect coastal areas (Table 1). We
+could not completely account for impacts from low frequency,
+but high severity storms such as those that may occur in
+Myanmar and Bangladesh (Figure S1l; Needham, Keim, &
+Sathiaraj, 2015). In addition, we underestimate dependence
+in temperate regions because we did not have data on noncyclonic or extratropical storms or the extent of salt marshes,
+dune systems, and oyster reefs. Furthermore, various localscale physical and ecological variables besides ecosystem
+presence will determine protective capacity (Arkema, Guannel, & Verutes, 2013). As more temperate ecosystem and
+exposure data become available, we can incorporate them
+into our framework to better assess global coastal protection
+dependence.
+Analyzing patterns of mean dependence across available
+types of dependence highlights places where there are multiple, interacting beneﬁts (Figures 3 and S10; Table S6). High
+dependence often also includes high susceptibility and low
+substitutability, which may indicate strong vulnerability to a
+loss of the beneﬁts from marine resources. In places where
+there are multiple dependencies, policymakers must also consider how best to manage across them.
+
+4.2 Population concentrations of high
+dependence
+Roughly, 775 million people were found to be relatively highly
+dependent on marine ecosystems (top 10% of values for one
+of the three type of dependence; Tables 2 and S7–S10). Of
+these, 525 million people were found to be relatively highly
+dependent on marine ecosystems for nutrition, illustrating
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+SELIG ET AL.
+
+TABLE 3
+
+Linking dependence pathways to management and policy. The dependence path describes the combination of dependence
+
+mechanism
+Examples of high
+dependence countries
+
+Management or policy
+considerations
+
+Food security
+
+Maldives, Kiribati,
+Solomon Islands,
+Sierra Leone, Sri
+Lanka
+
+Access for small-scale ﬁshers;
+Manage ﬁsh stocks sustainably;
+Acknowledge role of seafood in
+nutrition policy; Reduce waste
+and improve food safety;
+Availability of seafood to
+vulnerable populations
+
+High beneﬁt + low
+susceptibility + high
+substitutability
+
+Food quality and
+diversity (cultural
+preference)
+
+Japan, Iceland
+
+Export and import trade policies
+
+High beneﬁt for jobs
+and revenues + high
+susceptibility + low
+substitutability
+
+Overall economic gains
+from ﬁsheries
+
+Marshall Islands,
+Kiribati, Nauru
+
+Manage ﬁsh stocks sustainably;
+Consider potential trade-oﬀs
+between policies maximizing
+beneﬁts for jobs or revenues
+
+High beneﬁt for jobs +
+high susceptibility +
+low substitutability
+
+Employment
+
+Palau, Maldives,
+Senegal
+
+Access for small-scale ﬁshers;
+Support small-scale ﬁsheries
+enterprises
+
+High beneﬁt for revenue
++ high susceptibility
++ low substitutability
+
+Revenue
+
+Federated States of
+Micronesia,
+Seychelles,
+Mauritania
+
+Manage ﬁsh stocks for proﬁtability
+and economic eﬃciency;
+Reduce perverse subsidies,
+implement real cost recovery in
+ﬁsheries access agreements
+
+High beneﬁt for revenue
++ low susceptibility +
+high substitutability
+
+Revenue
+
+Iceland
+
+Manage ﬁsh stocks sustainably;
+Consider how best to minimize
+trade-oﬀs between ﬁsheries and
+potential conﬂicts with other
+activities including energy
+development and mining
+
+High beneﬁt + high
+susceptibility + low
+substitutability
+
+Protection of coastal
+habitats
+
+Madagascar, Mauritius
+
+Protect or maintain coastal habitat
+integrity
+
+High beneﬁt + high
+susceptibility + high
+substitutability
+
+Green-gray
+infrastructure
+planning
+
+Japan, China
+
+Design grey infrastructure to be
+complementary to natural
+habitats; Protect or maintain
+coastal habitat integrity
+
+Dependence
+
+Dependence path
+
+Management focus
+
+Nutritional
+dependence
+
+High beneﬁt + high
+susceptibility + low
+substitutability
+
+Economic
+
+Coastal
+protection
+
+the importance of marine ﬁsheries to food security (Béné,
+Barange, & Subasinghe, 2015). More focus on these places
+may be needed, both in local management and in supply
+chains originating there, to ensure sustainable resource management and a continuation of these beneﬁts in the face of
+increased human needs and pressures on marine resources.
+
+4.3
+
+Linking people to ecosystems
+
+Our quantitative model was designed to be scale-independent
+and ﬂexible enough to incorporate improvements over time
+in the underlying datasets or the addition of more indicators
+(Table 1). We used global, publicly available datasets for our
+analysis (Table S1; Allison, 2011). For some indicators, we
+used proxies such as the percent of GDP from ﬁsheries export
+
+revenues, because domestic ﬁsheries revenue data were not
+available (Table 1). With ﬁner-scale data, dependence could
+be calculated at more local, community-level scales.
+All types of ecosystem beneﬁts ﬂow across space from
+ecosystems to people, but social, institutional, and knowledge
+mechanisms aﬀect access to beneﬁts (Hicks & Cinner, 2014).
+Many of the direct nutritional (e.g., ﬁsh caught) and economic beneﬁts (e.g., ﬁsh processing) can be exported by communities or traded internationally (Swartz, Rashid Sumaila,
+Watson, & Pauly, 2010), making interventions for resource
+management and poverty reduction less clear (Béné, Arthur,
+& Norbury, 2016; Daw, Brown, Rosendo, & Pomeroy, 2011).
+Recent work has calculated spatial variation in estimates of
+the magnitude of some marine ecosystem services (Arkema
+et al., 2015). Our work identiﬁes regions where communities
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+SELIG ET AL.
+
+8 of 10
+
+are likely to be dependent on marine ecosystems services,
+which is a key step in linking people to the ecosystems that
+they depend on. More local-scale beneﬁt transfer modeling
+and supply chain analyses would deepen our understanding of
+how and where speciﬁc ecosystems are providing beneﬁts, the
+magnitude of those beneﬁts and to whom they are accruing.
+
+4.4
+
+Management and policy implications
+
+Our results suggest that management may need to be customized according to which type of dependence is present
+if beneﬁts are to be maintained (Allison 2011) (Table 3). By
+examining patterns in the types of dependence, policymakers
+can determine whether ecosystem health is primarily a concern for the safety of people and property in the coastal zone
+(coastal zone management and habitat protection policies),
+their nutrition and health (food, nutrition and public health
+policy) (Allison, Koehn, Franz, Wiegers, & Callens, 2017),
+their employment prospects (labor mobility and enterprise
+development, ﬁshery management and development policies),
+or the role that an important sector of the maritime economy,
+like ﬁsheries, plays in national economic development (ﬁsheries management and trade policies) (Allison, 2011). Policy
+and management interventions can then be tailored to address
+the speciﬁc barriers to sustainable development (Table 3).
+For example, countries with relatively high economic
+dependence associated with ﬁsheries revenues like Mauritania may focus on consolidation and eﬃciency measures.
+Depending on the country, these could include reducing perverse subsidies (Arnason, Kelleher, & Willmann, 2008) or
+implementing real cost recovery (Le Manach, Chaboud, &
+Copeland, 2013) (Table 3). On the other hand, countries that
+rely on ﬁsheries as a source of employment such as Senegal or Palau may want to focus on supporting small-scale
+enterprises (Allison, 2011) (Table 3). Indeed, ﬁsheries management measures for revenue versus employment may also
+diﬀer. Broadly, ﬁshing mortality from ﬁshing at open access
+equilibrium maximizes employment, whereas ﬁshing mortality at Maximum Economic Yield maximizes macroeconomic
+beneﬁts (Table 3). Policy measures could also aim to “diversify the dependence” by having a portfolio of ﬁsheries that
+focus variously on exports, employment, or food security.
+With information on what drives dependence and how beneﬁts are delivered, policymakers can try to develop policies
+and interventions that support the continued delivery of beneﬁts from those services.
+In developing management strategies, policymakers and
+managers must also consider that maximizing the delivery of one category of beneﬁts may have trade-oﬀs for the
+delivery of other beneﬁts and the well-being of diﬀerent
+groups (Daw, Coulthard, & Cheung, 2015). For example,
+a focus on the delivery of ﬁsh to local communities that
+are nutritionally dependent may result in less private invest-
+
+9 of 10
+
+ment in those ﬁsheries as a commercial enterprise and less
+macroeconomic revenue (Allison, 2011; Bailey & Jentoft,
+1990). On the other hand, there are potential “win-wins” for
+dependent communities such as the maintenance of coastal
+habitats like mangroves that serve both as nursery habitats for ﬁsheries and providers of coastal protection services
+(Barbier et al., 2011). Maximizing synergies while minimizing trade-oﬀs will require understanding the physical and ecological requirements needed to generate multiple beneﬁts,
+their accessibility (Hicks & Cinner, 2014) and the full suite
+of potential trade-oﬀs (Daw et al., 2015) to meet the needs of
+diﬀerent, dependent beneﬁciaries.
+A better understanding and representation of where and
+how people are dependent on marine ecosystems can help
+improve the integration of ﬁsheries and marine ecosystems
+into discussions about sustainable development and poverty
+alleviation, particularly those focused on food security and
+livelihoods with the SDGs. Our novel conceptual framework
+provides an eﬀective, streamlined approach for identifying
+dependent populations. Policymakers can then use this framework to design more eﬀective development and resource management policies and practices to ensure that marine resources
+are sustainably managed for the beneﬁts that are important to
+dependent populations.
+ACKNOW LEDGMENTS
+This research was supported by a grant from the Rockefeller
+Foundation. We thank Chris Golden, Kellee Koenig, Cristina
+Rumbaitis del Rio, and John Thomas for thoughtful feedback.
+REFERENCES
+Adger, W. N., Hughes, T. P., Folke, C., Carpenter, S. R., & Rockstrom,
+J. (2005). Social-ecological resilience to coastal disasters. Science,
+309, 1036–1039.
+Allison, E. H. (2011). Aquaculture, fisheries, poverty and food security
+in WorldFish center editor. Working Paper 2011–65. Penang.
+Allison, E. H., Koehn, Z., Franz, N., Wiegers, E., & Callens, K. (2017).
+Strengthening sector policies for better food security and nutrition
+results. Rome: Fisheries and aquaculture FAO.
+Allison, E. H., Perry, A. L., Badjeck, M. C., Adger, W. N., Brown, K.,
+Conway, D., Halls, A. S., Pilling, G. M., Reynolds, J. D., Andrew,
+N. L., & Dulvy, N. K. (2009). Vulnerability of national economies to
+the impacts of climate change on ﬁsheries. Fish Fish, 10, 173–196.
+Arkema, K. K., Guannel, G., Verutes, G., Wood, S. A., Guerry, A. D.,
+Ruckelshaus, M., Karieva, P., Lacayo, M., & Silver, J. M. (2013).
+Coastal habitats shield people and property from sea-level rise and
+storms. Nature Climate Change, 3, 913–918.
+Arkema, K. K., Verutes, G. M., Wood, S. A., Clarke-Samuels, C. R.,
+Canto, M., Rosenthal, A., Ruckelshaus, M., Guannel, G., Toft, J.,
+Faries, J., Silver, J. M., Griﬃn, R., & Guerry, A. D. (2015). Embedding ecosystem services in coastal planning leads to better outcomes
+for people and nature. Proceedings of the National Academy of Sciences, 112, 7390–7395.
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+SELIG ET AL.
+
+Arnason, R., Kelleher, K., & Willmann, R. (2008). The sunken billions:
+The economic justification for fisheries reform. Washington, DC:
+World Bank and FAO.
+
+Mavragani, A., Nikolaou, I. E., & Tsagarakis, K. P. (2016). Open
+economy, institutional quality, and environmental performance: A
+macroeconomic approach. Sustainability, 8(7), 1–13.
+
+Bailey, C., & Jentoft, S. (1990). Hard choices in ﬁsheries development.
+Marine Policy, 14, 333–344.
+
+McGranahan, G., Balk, D., & Anderson, B. (2007). The rising tide:
+Assessing the risks of climate change and human settlements in low
+elevation coastal zones. Environment and Urbanization, 19, 17–37.
+
+Balmford, A., Fisher, B., Green, R. E., Naidoo, R., Strassburg, B., Kerry
+Turner, R., & Rodrigues, A. S. L. (2011). Bringing ecosystem services into the real world: An operational framework for assessing
+the economic consequences of losing wild nature. Environmental and
+Resource Economics, 48, 161–175.
+Barbier, E. B., Hacker, S. D., Kennedy, C., Koch, E. W., Stier, A. C., &
+Silliman, B. R. (2011). The value of estuarine and coastal ecosystem
+services. Ecological Monographs, 81, 169–193.
+Béné, C., Arthur, R., Norbury, H., Allison, E. H., Beveridge, M., Bush,
+S., Campling, L., Leschen, W., Little, D., Squires, D., Thilsted, S.
+H., Troell, M., & Williams, M. (2016). Contribution of ﬁsheries and
+aquaculture to food security and poverty reduction: Assessing the current evidence. World Development, 79, 177–196.
+Béné, C., Barange, M., Subasinghe, R., Pinstrup-Andersen, P., Merino,
+G., Hemre, G., & Williams, M. (2015). Feeding 9 billion by 2050—
+Putting ﬁsh back on the menu. Food Security, 7(2), 261–274.
+Bright, E. A., Coleman, P. R., Rose, A. N., & Urban, M. L. (2012). LandScan 2011. Oak Ridge, TN: Oak Ridge National Laboratory.
+Brooks, N., Adger, W. N., & Kelly, P. M. (2005). The determinants of
+vulnerability and adaptive capacity at the national level and the implications for adaptation. Global Environmental Change-Human and
+Policy Dimensions, 15, 151–163.
+Daw, T., Brown, K., Rosendo, S., & Pomeroy, R. (2011). Applying the
+ecosystem services concept to poverty alleviation: The need to disaggregate human well-being. Environmental Conservation, 38, 370–
+379.
+Daw, T. M., Coulthard, S., Cheung, W. W. L., et al. (2015). Evaluating
+taboo trade-oﬀs in ecosystems services and human well-being. Proceedings of the National Academy of Sciences, 112, 6949–6954.
+FAO. (2014). FishStat J—Universal software for fishery statistical time
+series. Rome: Food and Agriculture Organization.
+FAO. (2016). The state of the world fisheries and aquaculture 2016.
+Rome: Food and Agriculture Organization.
+FAO, IFAD, WFP. (2015) The State of Food Insecurity in the World
+2015. Meeting the 2015 international hunger targets: Taking stock
+of uneven progress. FAO, Rome.
+Hall, S. J., Hilborn, R., Andrew, N. L., & Allison, E. H. (2013). Innovations in capture ﬁsheries are an imperative for nutrition security in the
+developing world. Proceedings of the National Academy of Sciences,
+110, 8393–8398.
+Hicks, C. C., & Cinner, J. E. (2014). Social, institutional, and knowledge
+mechanisms mediate diverse ecosystem service beneﬁts from coral
+reefs. Proceedings of the National Academy of Sciences, 111, 17791–
+17796.
+Kawarazuka, N., & Bene, C. (2010). Linking small-scale ﬁsheries and
+aquaculture to household nutritional security: An overview. Food
+Security, 2, 343–357.
+Le Manach, F., Chaboud, C., Copeland, D., Cury, P., Gascuel, D., Kleisner, K. M., Standing, A., Sumaila, U. R., Zeller, D., & Pauly, D.
+(2013). European Union's public ﬁshing access agreements in developing countries. PLoS One, 8, e79899.
+
+Millennium Ecosystem Assessment (2005). Ecosystems & human wellbeing: Synthesis. Washington, DC: Island Press.
+Narayan, S., Beck, M. W., Reguero, B. G., Losada, I. J., van Wesenbeeck, B., Pontee, N., Sanchirico, J. N., Ingram, J. C., Lange, G.-M.,
+& Burks-Copes, K. A. (2016). The eﬀectiveness, costs and coastal
+protection beneﬁts of natural and nature-based defences. PLoS One,
+11, e0154735.
+Needham, H. F., Keim, B. D., & Sathiaraj, D. (2015). A review of tropical
+cyclone-generated storm surges: Global data sources, observations,
+and impacts. Reviews of Geophysics, 53, 545–591.
+OECD and European Commission's Joint Research Center. (2008).
+Handbook on constructing composite indicators: Methodology and
+user guide. Paris and Ispra, Italy: OECD.
+Pauly, D., & Zeller, D. (2016). Catch reconstructions reveal that global
+marine ﬁsheries catches are higher than reported and declining.
+Nature Communications, 7, 10244.
+Russell, R., Guerry, A. D., Balvanera, P., Gould, R. K., Basurto, X.,
+Chan, K. M. A., Klain, S., Levine, J., & Tam, J. (2013). Humans
+and nature: How knowing and experiencing nature aﬀect well-being.
+Annual Review of Environment and Resources, 38, 473–502.
+Saisana, M., Saltelli, A., & Tarantola, S. (2005). Uncertainty and sensitivity analysis techniques as tools for the quality assessment of composite indicators. Journal of the Royal Statistical Society: Series A
+(Statistics in Society), 168, 307–323.
+Sustainable Development Platform. (2014). Outcome document-open
+working group on sustainable development goals. New York: United
+Nations.
+Swartz, W., Rashid Sumaila, U., Watson, R., & Pauly, D. (2010). Sourcing seafood for the three major markets: The EU, Japan and the USA.
+Marine Policy, 34, 1366–1373.
+Tai, T. C., Cashion, T., Lam, V. W. Y., Swartz, W., & Sumaila, U.
+R. (2017). Ex-vessel ﬁsh price database: Disaggregating prices for
+low-priced species from reduction ﬁsheries. Frontiers in Marine
+Science, 4, 363.
+Teh, L. C. L., & Sumaila, U. R. (2013). Contribution of marine ﬁsheries
+to worldwide employment. Fish Fish, 14, 77–88.
+Tol, R. S. J., Downing, T. E., Kuik, O. J., & Smith, J. B. (2004). Distributional aspects of climate change impacts. Global Environmental
+Change-Human and Policy Dimensions, 14, 259–272.
+
+S U P P O RT I NG IN FO R M AT I O N
+Additional supporting information may be found online in the
+Supporting Information section at the end of the article.
+How to cite this article: Selig ER, Hole DG,
+Allison EH, et al. Mapping global human dependence on marine ecosystems. Conservation Letters.
+2019;12:e12617. https://doi.org/10.1111/conl.12617
+
+1755263x, 2019, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12617, Wiley Online Library on [03/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+SELIG ET AL.
+
+10 of 10
+
+

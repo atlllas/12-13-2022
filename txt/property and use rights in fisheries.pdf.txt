@@ -1,0 +1,2091 @@
+lOMoARcPSD|18763363
+
+Chapter 3
+
+Property and Use Rights in Fisheries
+Dale Squires
+
+Introduction
+
+Property Rights
+
+Rights-based management is increasingly used to
+manage ﬁsheries throughout the world. Rights
+were, until recently, used almost exclusively to
+manage ﬁsheries within the 200-mile exclusive
+economic zones (EEZs) of nations. Conservation
+and management of transnational ﬁsheries for tunas and other highly migratory species is turning
+to rights-based management as well, but, given
+the transnational nature of these ﬁsheries, the
+sovereignty of nations, and the state of international law, the development of property and use
+rights in these ﬁsheries is proceeding along a different path and within the context of international
+treaties and customary law.
+The purpose of this chapter is to provide a
+general background to property and use rights
+for the conservation and management of transnational ﬁsheries for tunas and other highly migratory species. Such a background facilitates the
+discussion and analysis of rights-based management and the emergence of property rights for
+the conservation and management of transnational
+ﬁsheries for highly migratory species, particularly
+tunas.
+
+From a legal perspective, property is a bundle of
+rights over resources that the owner is free to exercise and that is protected from interference by
+others (Cooter and Ulen 2004). Property rights
+are also political institutions that deﬁne or delimit the range of privileges granted to individuals or groups to speciﬁc assets (Libecap 1989).
+Property rights, as political institutions, allocate
+decision-making authority, and thereby determine
+the economic player in a system and deﬁne the
+distribution of wealth and income, and, more generally, costs and beneﬁts, in a society (Johnson and
+Libecap 1982, Libecap 1989). Property right institutions range from formal arrangements, such as
+constitutional provisions, statutes, and judicial rulings, to informal conventions and customs pertaining to the allocation and use of property (Libecap
+1989). These rights are not immutable, in that they
+may change from one generation to another.
+The major source of externalities, and thereby
+economically inefﬁcient resource use, can be
+traced to various impediments that prevent the
+establishment of property rights (Baumol and
+Oates 1988). Property rights facilitate the socially
+
+39
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+40
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+efﬁcient exploitation of resources, enabling the
+owner to exclude others from the resource and
+thereby internalize the externalities that would occur if access were free (De Meza and Gould 1992).
+The ability to exclude also provides incentives to
+invest in improving the quality of the resource and
+exploit it at a socially optimum rate. Coase (1960)
+emphasized the importance of economic costs and
+discussed the distribution of property rights.
+The nature in which property rights are deﬁned
+and enforced affects an economy’s performance
+in at least two ways (Libecap 1989). First, because property rights institutions assign ownership to assets and designate the beneﬁts and costs
+of resource-use decisions, these institutions structure incentives for economic behavior within the
+society. Second, because these institutions allocate
+decision-making authority, the prevailing property
+rights arrangement determines the composition of
+the players in the economic system.
+Alternative bundles of rights, as deﬁned by the
+strengths of different characteristics of the rights,
+create incentives to use resources in ways with
+varying degrees of economic efﬁciency and conservation. Critically, rights have the potential to
+align the incentives that individuals face with the
+goals of society.
+
+Types of Property Rights
+Property rights come in many different forms and
+can be classiﬁed by the extent to which the holder
+of the right has exclusive use.
+At one extreme is open access (res nullis) or
+the absence of rights in that no entity has exclusive use of the resource (Warming 1911, Gordon
+1954).1 There is the right to access the ﬁshery
+along with others. The high seas are open access,
+because access is free to all, and no user has the
+legal right under the United Nations Convention
+on the Law of the Sea (LOS) and the Agreement
+for the Implementation of the Provisions of the
+United Nations Convention on the Law of the Sea
+of 10 December 1982 relating to the Conservation
+of Straddling Fish Stocks and Highly Migratory
+Fish Stocks (UNIA) to keep another user out. Un-
+
+der open access, no individual resource user has an
+economic incentive to conserve the resource and
+none can conserve the resource by delaying use,
+since that only makes more of the resource available to other users. This is the “Tragedy of the
+Commons.” Fishers have a right to the ﬁsh that
+they catch through the rule of ﬁrst possession, according to which the ﬁrst party to use an unowned
+resource acquires a claim to it (Cooter and Ulen
+2004).2 This ownership rule, however, creates conditions for competitive open-access exploitation if
+there are multiple users of the resource.
+Regulated open access remains open to entrants, but participants are obligated to abide by
+regulations, which are generally biologically motivated to hold aggregate harvests at sustainable
+levels, such as a total allowable catch (TAC), or to
+maintain a prescribed spawning biomass (Homans
+and Wilen 1997).
+State rights (res publicae), which are rights
+held by the state, provide exclusive use by a
+broadly deﬁned group. Individuals or groups may
+be allowed to use the resource, but only according
+to the rules established by the state or its managing
+agency. Strictly speaking, EEZs are state property,
+although in practice many EEZs are referred to as
+open access because, on a de facto, although not
+de jure, basis, access is open to all. When the state
+does not regulate, the resource use is akin to open
+access, even though the state is the legal owner
+(Baland and Platteau 1996).
+Property with exclusive use by a usually smaller
+and better deﬁned group than the state is called
+common property (res communes) (Baland and
+Platteau 1996). The members of the group exclude those that are not members. Members
+of the group have speciﬁed rights and duties.
+Unregulated common property occurs when access rules prevail that deﬁne insiders, as opposed
+to outsiders. Regulated common property occurs when not only is access delimited, but rules
+of membership and use are also deﬁned. Common
+property management implies collective regulations regarding both membership and the way to
+use the resource, and the existence of monitoring and sanctioning procedures so that those rules
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+can be effectively enforced (Baland and Platteau
+2005). Wade (1987), Ostrom (1990), Baland and
+Platteau (1996, 2005), and Seabright (1997) have
+extensively reviewed the conditions for effectively
+regulated common property.3
+Under common property, the right of exclusion
+is assigned to a well-deﬁned group, whereas under open access, a right of inclusion is granted
+to anyone who wants to use the resource (Baland
+and Platteau 1996). Neither open access nor unregulated common property gives individuals the
+proper incentives to act in a socially efﬁcient way.
+Regulated common property has the potential to
+provide proper incentives to individuals and the
+group to conserve the resource stocks and ecosystem and maximize the sustainable economic surplus obtained by using the resource, along with
+aligning the actions of the group with the interests
+of society (Ostrom 1990, Bromley 1991, Baland
+and Platteau 1996).4
+Common property tends to emerge when the
+demand on the resource is sufﬁciently high to
+allow continued open access, but indivisibilities or
+other factors preclude dividing up and allocating
+the resource itself (Ostrom 1990, Baland and
+Platteau 1996, 2005).5 Scale economies, arising
+because of the indivisibilities, lie almost always on
+the side of costs, if the alternative is to divide the
+resource into several private portions that must be
+enclosed and protected. The costs of negotiating,
+deﬁning, and enforcing private property rights are
+increasing with the physical base of the resource.
+Such indivisibilities are pervasive for resources
+that are highly mobile over large expanses of
+space. Other indivisibilities include the costs of
+collecting information and scientiﬁc assessment
+of ﬁsh stocks. Scale economies may also arise in
+beneﬁts, either in the resource itself, such as multiple products from the resource because they form
+part of an overall ecosystem, such as ecosystem
+services, or in complementary factors. Common
+property also generates risk pooling by the holders
+of the resource when there is sufﬁcient variation
+in its returns across time and space. Common
+property is less likely when the value of a resource
+is high and enforcement costs of alternative
+
+Property and Use Rights in Fisheries
+
+41
+
+property forms, particularly private property, are
+moderate. Common property entails considerable
+transaction costs among the group owners and
+arrangements for the distribution of shares of the
+aggregate net beneﬁts among the owners.
+Fishing rights held by individual ﬁshers or subgroups of ﬁshers may be nested within the common ﬁshing rights, but these are attenuated to
+a varying extent by group or community rules
+(Willmann 2000). Common ﬁshing rights are not
+always as exclusive as private property or use, such
+as individual transferable quotas (ITQs), either because of the group’s inability to ensure and protect
+such exclusivity (the cost of doing so might be
+prohibitive) or because the group willingly allows
+others to share in the beneﬁts conferred by the
+common ﬁshing rights.
+Management systems in which groups or organizations of ﬁshers hold catch quotas in the
+form of ﬁshing cooperatives are recently established forms of common rights. In most instances,
+however, common rights are predicated on territorial rights to ﬁshing grounds, ﬁsh aggregating
+devices, natural and artiﬁcial reefs, stretches of
+rivers, or sections of bays and lakes (Willmann
+2000). Willmann (2000: 1) observed that, “Within
+such exclusive territories, use rights and/or utilization rules (e.g., type of gear; time of ﬁshing; etc.)
+may be further deﬁned for speciﬁc ﬁsheries and
+individual ﬁshers or groups of ﬁshers. Utilization
+rules may change in accordance with variability in
+resource availability and abundance.”
+Private property (res privatae) occurs when an
+individual, agent, or ﬁrm holds the rights. The private owner has the right to use and beneﬁt from the
+exploitation, conservation, or sale of the resource.
+Private property can exist only with state sanction
+and protection, and does not necessarily imply the
+absence of state control or regulation. Private property, when the owner is absent and careless about
+the resource, is tantamount to open access because
+formal or legal ownership rights are not actually
+exercised (Baland and Platteau 1996).
+Hybrid property in practice, overlapping combinations, or hybrids of property rights are imposed upon resources. As conditions change, one
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+42
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+form of right may predominate over another. Because of the prevalence of state property or other
+forms of property rights embedded within the unit
+of a state or a regional ﬁshery management organization (RFMO), coupled with the common pool
+and renewable nature of common resources, some
+form of comanagement generally accompanies the
+hybrid rights.6
+
+Use Rights
+Use rights are distinguishable from property
+rights. Property rights entail “ownership” of the
+resource stock itself, but use rights do not.
+Use rights instead pertain to exclusive utilization
+or rights of access. States tend to retain ownership
+of the property, and grant the right of use to individuals or groups. On the high seas, ownership of
+a resources stock is increasingly held by an RFMO
+essentially established through custom as international common property for a particular region or
+species, which, in turn, grants the right of use to
+states, individuals, or groups.
+In the oceans, societies are reluctant to turn over
+ownership of the actual ﬁsh stocks to individuals
+or nonstate groups (Hannesson 2004). Instead, societies in the form of the state retain the property
+right and instead grant rights of use to some of
+the ﬂow from the resource stock (i.e., the catches)
+to individuals, such as with ITQs, or to groups,
+such as ﬁshing cooperatives.7 Societies also readily grant rights of exclusive access to the resource
+stock to well-deﬁned groups, as with limited entry programs. In the United States, these use and
+access rights are now deemed “Dedicated Access
+Privileges,” emphasizing that they are use rights,
+rather than property rights, and, in principle, revocable without compensation. The situation in
+Canada is similar to that in the United States. In
+contrast, in New Zealand use rights have a status
+closer to property rights, and they can be held in
+perpetuity.
+Use rights face more uncertainty in quality of title or tenure, since the objectives of states can vary
+
+over time as the nature of society changes. Similarly, the divisibility and duration of use rights are
+typically less stable than those of property rights.
+Customary use rights are those that have been
+established by custom, rather than by a more formal process. Customary use rights, for example,
+are those that have been established over time for
+the right to ﬁsh for different species in speciﬁed
+areas, perhaps at speciﬁed times, by native peoples or artisanal ﬁshers in developing or developed
+countries. In contrast, a formal legal process establishes ITQs. Customary use rights are often in
+conﬂict with, and in many instances superseded
+by, rights established by a more formal process.
+The Makah Indian tribe of the Olympic Peninsula
+in the state of Washington, the United States, for
+example, developed customary use rights to ﬁsh
+for groundﬁsh, salmon, and whales, which were
+denied by the Euro-Americans for many years, in
+spite of a treaty, until they were reestablished. A
+similar example is found with the Maori people of
+New Zealand.
+There are many good reasons why societies
+seldom grant property rights to the stocks of living
+marine organisms (Squires et al. 1995, Hannesson
+2004).8 One is simply that property rights to
+mobile organisms without static boundaries,
+with the requisite enforcement costs supporting
+exclusivity, are simply not practical, although they
+are with sessile organisms, such as abalones and
+other shellﬁsh. Similarly, indivisibilities of the
+resource stock make granting property rights to
+resource stocks difﬁcult. For example, the habitats
+of ﬁsh stocks overlap, and the same ﬁshing gear
+sometimes indiscriminately ﬁshes different stocks
+(Hannesson 2004). The biological interactions
+among resource stocks and the embedding of
+ﬁsh stocks in an ecosystem with services far
+beyond the ﬁsh that are caught also complicate
+the establishment of property in ﬁsh stocks. Some
+resource stocks straddle the EEZs of states or the
+EEZ of a state and the high seas, and still others
+are highly migratory and span multiple EEZs and
+the high seas. Area rights, in contrast, pertain to
+the spatial dimensions of the ocean, rather than
+to the resource stocks. Private ownership also
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+excludes claims of nonmarket values society may
+place on the organisms or the ecosystem.
+
+Characteristics of Property and
+Use Rights
+Property and use rights may be described as
+having ﬁve characteristics: exclusivity, transferability, duration, quality of title (security), and
+divisibility (Scott 2000a, Grafton et al. 2004).
+Property rights with these characteristics create
+incentives for ﬁshers to identify with the longterm needs for resource conservation and the
+opportunity to ensure beneﬁts from responsible
+ﬁshing even if subsequently leaving the ﬁshery
+(World Bank 2004).
+Exclusivity (ins excludendi) is the most important characteristic. Exclusive use of the resource
+by an individual, group, or state, also means
+excluding others from using or beneﬁting from
+the resource. For example, the EEZ provides the
+state with exclusive use of the resources within
+200 miles of its coast, but beyond 200 miles, on
+the high seas, no individual, group, or state has
+any exclusive use. Exclusivity may include the
+right of access and enjoyment (ius utile), the right
+of withdrawal (ius fruendi or usufructus), and
+the right to prevent interference (ius excludendi)
+(Grafton et al. 2004). Scott (2000a: 18) observes,
+“Exclusivity is valued because it protects the
+right-holder from interference with the ﬁsh
+stock and with ﬁsh catching.” Enforcement and
+protection of the exclusive use are critical for the
+right to fully function.
+Divisibility indicates the ability of the holder of
+the right to divide up the environmental asset or
+the ﬂow of beneﬁts from the asset. For example,
+plots of land can be divided and subdivided into
+smaller units, or quotas can be divided into smaller
+units.
+Transferability (ius disponendi) refers to the
+ease by which owners may trade, give, or bequeath
+the right. Transferability plays a key role in increasing economic efﬁciency, because the stronger
+
+Property and Use Rights in Fisheries
+
+43
+
+the transferability of a right, the easier it is to sell
+the right to those with lowest costs. Fishing licenses may face different degrees of transferability. In some limited entry ﬁsheries, licenses are
+not transferable, the intent being gradual dissolution of the ﬁshery. The lack of transferability lowers the value of a vessel. Divisibility can enhance
+transferability, since it is often easier to exchange
+smaller units of a right than a larger unit; sales of
+smaller units of property are usually easier than
+large tracts.
+Duration is the length of time the right’s powers may be held. Rights might expire every year, as
+do many ﬁshing licenses, or rights might extend
+into perpetuity, as do most ownerships of land.
+Duration facilitates investment and economic efﬁciency, since rights holders are more likely to
+invest in or to husband a resource if they can
+hold the right long enough to enjoy the fruits of
+their labor. Attenuated duration facilitates new entrants into the industry and ﬂexibility of industry
+structure, ownership, and concentration of rights,
+wealth, and assets. Some ITQ systems establish
+rights in perpetuity, while others expire after a limited amount of time. The effective total duration
+after automatic renewals is the critical issue.
+Quality of title (security) (ius possidendi) represents how well the property right is speciﬁed,
+and includes the notion of possession and ownership (de facto and de jure). It refers to the extent
+that the right is recognized in law, such as a title or certiﬁcate of ownership. Scott (2000a: 18)
+notes, “Quality of title is valued because it saves
+the right-holder from the costs of protecting and
+enforcing his rights to be ﬁshing. In most public
+ﬁsheries, the ﬁsherman’s right is secure; but he
+may be surprised by new arrangements and regulations that in effect arbitrarily reduce the characteristics of his right.” Sykes (2010) emphasizes the
+importance of secure property rights, particularly
+for industry-led solutions to management problems, cooperation among themselves in general,
+investment, and resource allocation in general.
+Complete or fully structured property rights
+are those that have all of these characteristics to
+the fullest possible extent (Scott 2000a). The more
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+44
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+complete are property rights, the more the private
+and social net beneﬁts of resource use coincide,
+reducing externalities and the associated losses of
+the common pool. The right of a ﬁsher under open
+access is said to be incomplete or ill-structured because there is no exclusivity, long but meaningless
+duration, substantial if inconsequential security,
+no transferability, and inﬁnite divisibility. Under
+private property, such as ITQs or effort, the individual right has exclusivity, substantial and consequential security, usually, but not always, considerable transferability, duration that is often, but
+not always, in perpetuity and usually considerable
+divisibility.
+Rights are attenuated when the characteristics
+of rights are limited in some manner. For example,
+the Chilean industrial Patagonian toothﬁsh ﬁshery
+ITQ limits duration to 10 years and the Namibian
+hake ﬁshery ITQ does not allow transferability
+(World Bank 2004).
+Rights are said to be flexible when they readily accommodate or adapt to a changing world,
+including climate, ecosystems, markets, and economic systems in general. Rights should allow
+adaptability of user groups for economic and social beneﬁts and sustainable resource use. Excessive rigidity of the right can lower economic efﬁciency or limit the accommodation of the ﬁshery
+sector. The characteristics of excludability, duration, and universality are particularly important
+in this regard. Consider climate change and ﬂexibility. Short-, medium-, and long-term climate
+change leads to changes in the ecosystem and/or
+locations of ﬁsh stocks. Rights that do not allow
+sufﬁcient ﬂexibility for resource users to adapt
+their location, type of ﬁshing (including gear), and
+species harvested can leave user groups stranded
+and over- or underexploitation of resource stocks.
+Northward and southward movements of small
+pelagic species in eastern boundary currents with
+climate change can leave communities and ﬁshers stranded. The U.S. ﬁsheries of the northwestern Atlantic provide another example for which
+climate change, overharvesting, and other factors
+have led to decreasing abundance of groundﬁsh
+and increasing abundance of crustaceans, such as
+
+lobsters and crabs. A rigid property rights system
+can block ﬁshers from switching back and forth as
+ecosystems change. ITQs can also lock in ﬁshers.
+Contracting describes efforts by individuals to
+assign or to modify property rights (Cheung 1970,
+Libecap 1989). Contracting includes both private
+bargaining to assign or adjust informal ownership
+arrangements and lobby efforts to deﬁne, administer, and modify more formal property institutions.
+
+Types of Fishing Rights
+A management system that establishes and allocates rights in the ﬁshery can take many forms,
+and can be classiﬁed according to the basic type
+of property or use right (e.g., common or private property) and the presence (or absence) and
+strength of the characteristics of property rights
+(i.e., exclusivity, transferability, etc.). The term
+“dedicated access privileges” is sometimes applied (especially in the United States) to limited
+entry or limited access, cooperatives or voluntary
+agreements, ITQs, territorial rights, and community development quotas.
+Because the oceans are not practically divisible
+and costs of exclusion, monitoring, transactions,
+and enforcement are higher, these property and use
+rights are normally less complete than, say, enclosing land for farming, such as through the Enclosure Acts in England or enclosure of the Scottish
+Highlands. Ideally, these rights would be deﬁned to
+provide two fundamental incentives: (1) incentives
+for the industry to conduct its operations efﬁciently
+and (2) incentives for preserving the productivity
+of the ﬁsh stocks (Hannesson 2005, Grafton et al.
+2006). Eventually, as rights further develop in response to the rising and increasingly apparent economic and ecological costs and beneﬁts of ﬁshing,
+such rights would encompass ecological functions
+and services and the maintenance of biodiversity.
+Importantly, in ﬁsheries a distinction can be
+made over the resource stock and the ﬂow from
+this resource stock in the form of catches. Stocks,
+such as the level of the resource stock, can be
+added to and subtracted from by ﬂows, such as
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+recruitment and growth or natural and ﬁshing mortality. This stock-ﬂow production process means
+that one form of property or use right can be established over the resource stock and another form
+over the resource ﬂow. The spatial dimension to a
+number of resource stocks and their ﬁsheries also
+allows the potential for different forms of property
+or use rights over the resource stocks and catches
+following different political or jurisdictional delineations, such as straddling stocks that lie in both
+state EEZs and the high seas or highly migratory
+species that transverse state EEZs and the high
+seas.
+There are few instances in which private or corporate rights have been established over resource
+stocks; abalones in South Africa are one exception. Several reasons account for this (Hannesson
+2004). Countries may be reluctant to give up ownership of what is regarded as the common property
+of the nation. Many stocks migrate across national
+boundaries and even the high seas, so management
+of private stocks and enforcement of the property
+right can be limiting. Because of movements of
+ﬁsh stocks, the geographical jurisdiction of the
+right may have to be extensive. Habitats of different species stocks may also overlap, and different stocks are ﬁshed indiscriminately by different
+gear. The more complex the ecosystem and the
+more varied the different species exploited, the
+more difﬁcult it is to establish such rights and the
+more geographically extensive they may be.
+
+Limited Entry or Limited Access
+A ﬁshing license is a right of access to the ﬁshery, but because this right is only one of access
+and does not provide exclusive use of the resource
+stock or the ﬂow from the stock (i.e., catch), vessels then compete with each other to take as large
+a portion of the ﬁsh stock or sustainable target
+catch as possible during the period allowed for
+ﬁshing. The license gives its rights holders relatively weak characteristics (Scott 2000b). Limited
+entry is no longer open access, since some potential users are excluded. Although the rights of
+those who might ﬁsh are far from perfectly ex-
+
+Property and Use Rights in Fisheries
+
+45
+
+clusive, there is some degree of exclusivity. The
+quality of title and security is also stronger than
+open access. Licenses are usually no longer free.
+The state generally has to honor the license, and
+cannot capriciously cancel them, take them back,
+or reduce their content. The state must also protect the holder’s right to the license. Limited entry
+programs differ in their transferability. Some programs allow freely transferable rights; others do
+not allow transferability, the intent being a gradual
+reduction in licenses through attrition and retirement. The lack of transferability lowers the value
+of ﬁshing assets, including the license and the vessel. Duration also varies, with some rights held in
+perpetuity and others that expire with the exit of
+the holder from the ﬁshery.
+In transnational ﬁsheries on shared resource
+stocks, such as tunas and other highly migratory
+species, a limited entry program creates a form of
+common property instead of high-seas open access, such as is accomplished by the Northern Fur
+Seal Treaty (Barrett 2003, 2005). The common
+property and limited entry program can be created
+by customary international law through the auspices of an RFMO, such as the closed Regional
+Vessel Register of the Inter-American Tropical
+Tuna Commission (IATTC). Nothing in the LOS
+or the UNIA prevents creation of a limited entry
+program and common property through a formal
+and binding international agreement, which may
+be regional instead of global.
+The effect of limited entry programs on incentives varies with the numbers of participants
+allowed by the program (Wilen 1988, Townsend
+1990). Many programs are little more than moratoriums on new entry, and are instituted when conditions in the ﬁshery have reached a serious state
+of losses and declining resource stocks. The most
+effective programs are those that are the most restrictive, especially in terms of the numbers and
+qualifying criteria for inclusion. The larger the inclusion, the closer the ﬁshery is to open access, and
+the more the incentives approach those of open access. Because the race to ﬁsh is seldom dampened
+with the incomplete right of limited entry, ﬁshers often continue to invest, add inputs, and adopt
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+46
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+new technology, all of which increase ﬁshing capacity and productivity. In contrast, sufﬁciently
+small numbers, perhaps coupled with area dimensions to the limited entry, may facilitate cooperative behavior among ﬁshers and greater alignment
+of conservation and economic incentives to maintain the license value and health of the resource
+for future use.
+Asymmetric information is an important issue
+in all forms of ﬁshery management, but especially
+under limited access. A moral hazard problem is
+created between the principal (ﬁshery manager)
+and the agents (ﬁshers) (Salvanes and Squires
+1995).9 This information problem arises because
+the ﬁshery manager does not have complete information about all variables for regulation (Jensen
+and Vestergaard 2002, Squires et al. 2003). Hence,
+the regulator cannot easily and at low cost monitor
+and enforce the number of vessels, the zones that
+they ﬁsh in, gear conﬂicts, levels of harvest and
+species composition, discards and illegal landings,
+levels and mixes of inputs, and the like. In turn,
+ﬁshers face economic incentives to shirk through
+avoiding license registration and payment of license fees and taxes and ignoring gear regulations
+and other requirements for monitoring, enforcement, and regulation.
+In short, experience with limited entry has
+shown that excessive exploitation of the ﬁshery
+resources and excess ﬁshing capacity often remain. In contrast, when limited entry is instituted
+in the very early phases of a ﬁshery development
+in which economic rents are still being generated,
+limited entry can be successful, as in the Western
+Australian prawn ﬁsheries; in contrast, limited entry is usually introduced only when there is already
+overﬁshing and overcapacity.
+Most notably, limited entry licenses are imperfect rights that do not directly limit the catch of
+ﬁsh and/or solve the incomplete property rights
+of open access, leaving the open-access incentives
+intact (Townsend 1990, Scott 2000b). It is also notoriously difﬁcult to deﬁne a unique relationship
+between a vessel license and the resulting ﬁshing
+capacity in that a vessel license gives ﬁshers an
+incentive to increase the use of unregulated eco-
+
+nomic inputs not speciﬁed and regulated by the
+license. When rights are incompletely speciﬁed,
+each individual stands to increase his other share
+of the catch by expanding ﬁshing capacity through,
+for example, increasing vessel size when the number of vessels is limited, or, if vessel size is also
+restricted, by expanding unregulated engine horsepower and gear size or by adding electronic gear.
+Technical progress cannot be blocked, and it expands ﬁshing capacity and productivity. Nonetheless, when the alternative of an ITQ system is not
+feasible and when the conditions are right, limited entry may be the second-best solution, and, in
+most instances, can be viewed as a necessary, if
+not sufﬁcient, condition for effective conservation
+and management. License limitation is easier and
+less costly to enforce, since catches or landings do
+not have to be monitored—only the number of vessels. Certain ﬁsheries may also be better managed
+by limits on inputs than on catches.
+
+Voluntary Agreements or Fishing
+Cooperatives
+Voluntary agreements or ﬁshing cooperatives are
+decentralized group management that allocate all
+or part of the available use right among various
+ﬁshing and processing entities within a ﬁshery via
+formal or informal contractual agreements. Some
+cooperatives are organized around gear, such as
+the U.S. Cape Cod Hook and Line cooperative
+or the Inshore Potting Agreement operated by
+inshore ﬁshers of South Devon, England, while
+others are spatially organized, such as the nine Baja
+California (Mexico) cooperatives for lobster and
+abalone; spatial-based cooperatives may closely
+resemble territorial use rights for ﬁsheries (see
+below).
+The use right is most typically a share of the
+TAC (sector quota), which is then internally allocated among group members by criteria, such as
+landings, based over some time period or share of
+quota holdings. This right can also have a spatial
+dimension, including an area right and/or management. The scale can be local or regional. These
+voluntary agreements among vessel owners can
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+reduce ﬁshing costs, improve the market value,
+confer greater control over decisions affecting
+livelihoods, and in general provide the advantages
+of rights-based management. Huppert (2005: 207)
+notes, “Generally, ﬁshing cooperatives accomplish
+through contract what the individual ﬁshing quotas
+do by government regulation. The cooperatives, in
+effect, create private company shares of the TAC
+through written agreement.” Cooperatives allow
+more decentralized management that is more directly tailored to different groups as deﬁned by
+species, gear, port or area, or other means (Pinto
+da Silva and Kitts 2006). Cooperatives can range
+from comprehensive programs that largely replace
+government management to short-term allocation
+agreements (Townsend 2005).
+Fishing cooperatives based on exclusive use of
+group catch quotas are found in the Netherlands,
+New Zealand, the Philippines, Senegal, the United
+Kingdom, New Zealand, Canada, and the United
+States (Willmann 2000, Kitts and Edwards 2003,
+Townsend 2005, Pinto da Silva and Kitts 2006).
+Producer organizations in the Netherlands and
+the United Kingdom have been given the right to
+distribute quotas among their members. In New
+Zealand, Maori have been assigned both territorial
+and quota-based ﬁshing rights. The Australian
+Heard Island-McDonald Island (HIMI) toothﬁsh
+and mackerel iceﬁsh ﬁshery is ﬁshed cooperatively to allow economies of scale (Sykes 2010).
+Fisheries cooperatives in the Norwegian Lofoten
+ﬁshery undertake various regulatory functions,
+primarily based on input limitations, along with
+technical management measures such as closed
+seasons and areas (Jentoft and Kristoffersen
+1989). The matjes herring ﬁshery, participated in
+by vessels of three countries, Denmark, Norway,
+and Sweden, entails a voluntary agreement among
+the producers that coordinates the time of harvests
+to maximize quality and value (Townsend 2005).
+Some U.S. cooperatives include the Bering Sea
+pollock cooperative, the Paciﬁc hake cooperative,
+the Georges Bank Hook Sector allocation, and the
+New England Red Crab Harvesters Association.
+Voluntary agreements, from one perspective,
+provide exclusive use to a well-deﬁned group,
+
+Property and Use Rights in Fisheries
+
+47
+
+forming regulated common use rights. Voluntary
+agreements can also be viewed within the context of comanagement (a process whereby decision
+making is shared between the regulatory authority
+and ﬁshery stakeholder groups).10
+The group objectives can vary widely from
+strictly economic to encompass a wide range of
+goals and objectives that extend beyond merely
+ﬁshing and economics to include social, cultural,
+community, and ecological goals (Pinto da Silva
+and Kitts 2006). Nonetheless, cooperatives are
+more likely to be linked by commercial, rather than
+social and cultural, interests (Townsend 2005). Cooperatives can also engage in research organized
+and ﬁnanced entirely through their own efforts,
+as in New Zealand by the New Zealand Orange
+Roughy Management Company, or cooperatively
+with the management authority, as with the Cape
+Cod hook and line cooperative in New England
+(Pinto da Silva and Kitts 2006, Sykes 2010).
+Fishing cooperatives are not independent of
+government action, in that it has occurred
+among resource users within various rightsbased regimes, including limited entry and ITQs
+(Townsend 2005). In fact, cooperatives more readily function when government has already implemented limited entry, since limited entry addresses
+the most difﬁcult problem of private bargaining:
+which agents must bargain (Townsend 2005). Limited entry thereby provides a stable universe of
+players and a means of accommodating new ones.
+Government deﬁnes rights that reduce transaction
+costs among private agents who develop efﬁcient
+ways to exploit the resource. A critical issue is the
+durability and certainty of the group allocation of
+the overall use right and how the group itself handles this uncertainty.
+Voluntary agreements may be less durable than
+ITQs, due to the inherent issues involved with
+cooperative exploitation of a resource by a group,
+including interﬁrm formal or informal contracting or cooperation in general, monitoring, and
+enforcement.
+Voluntary agreements can be analyzed by the
+characteristics of property rights. When there are
+catch rights, as shares of the TAC, these use rights
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+48
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+can be divisible into very small units. The rights
+can be transferable within the group through various forms of internal or market allocation processes. Various degrees of divisibility of the right
+are allowed, depending upon the form of the arrangement. Transferability of harvest use rights
+from inside and outside of the cooperative or entry of vessels into and outside of the cooperative raises issues pertaining to allocation within
+the group and cooperative membership.11 Some
+cooperatives can adopt use right allocation and
+transfer rules that create de facto ITQs. The cooperative among Paciﬁc whiting catcher-processors
+is an example. The duration of the right or contract
+depends on the relationship between the collaborative group and the regulator and the laws and
+regulatory institutions. The security of title varies
+according to the laws and regulatory institutions of
+the nation. In the United States, for example, conditions must be established to ensure that antitrust
+measures are not implemented (Sullivan 2000).
+Uncertainty is created when the security of title is
+unclear, as with the Montauk Tileﬁsh Association
+in New England (Pinto da Silva and Kitts 2006).
+Use rights are allocated to groups for joint
+harvest, rather than to individuals, as with ITQs,
+raising the issues of group deﬁnition, internal
+organization and management and associated contracting and transactions costs, internal allocation
+of the use right and responsibilities, monitoring,
+and enforcement. Cooperative behavior is most
+likely to succeed when the membership to the
+group is well deﬁned and limited in size, the members share common interests in improved resource
+use, effective monitoring systems are in place, and
+there are effective conﬂict resolution mechanisms
+(Ostrom 1990, Baland and Platteau 1996, 2005,
+Seabright 1997). Decision making varies and includes consensus and voting (Pinto da Silva and
+Kitts 2006). Townsend (2005) observes that these
+voluntary agreements perform well with small
+ﬂeets under corporate ownership, since corporate
+managers have signiﬁcant experience with negotiations and contracts, hence lowering transactions
+costs. New entrants must both acquire shares and
+enter into membership in the group. The durability
+
+of the group depends on the renewal and termination provisions, along with factors fostering
+cooperative behavior. Defection from the group
+can leave it untouched or it can be destabilizing,
+depending on the group’s organization. A welldeﬁned dissolution mechanism for the group and
+alternative plans can be important in case the cooperative is unsuccessful (Pinto da Silva and Kitts
+2006).
+Asymmetric information problems arise, both
+between the ﬁshing cooperative and management
+authority (a general problem between all vessels
+and the authority) and between individual members and the cooperative.
+The economic advantages of voluntary agreements include the potential of lower transaction
+costs in the management of a ﬁshery compared
+to centralized management or individual property
+rights (i.e., savings in information, monitoring and
+enforcement costs through the use of information
+held privately by ﬁshers, and the use of social capital embedded in local and professional organizations and institutions) (Willmann 2000). Greater
+ﬂexibility in ﬁshery management is also possible
+compared to centralized management by the regulatory authority (Townsend 2005). The greater
+certainty in a prescribed quantity of ﬁsh to catch,
+that is, exclusivity, creates economic incentives
+that more closely match individual behavior with
+socially optimal exploitation; such beneﬁts depend
+on the security of title, duration of the right, and the
+nature of the informal and/or formal contract with
+the management authority and among group members. As with ITQs, voluntary agreements can also
+lead to improvements in product quality and product forms and new markets, such as from frozen to
+fresh, more on-board processing and stricter quality standards, and extension of the season length
+due to coordinated ﬁshing among the members,
+thereby increasing value added. Transferability in
+the short term allows matching catches with catch
+rights and in the long term allows the optimal scale
+and timing of harvesting (and processing) and the
+optimal investment in the capital stock. In short,
+individual ﬁrms in the cooperative can focus on
+maximizing revenues and minimizing short-run
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+and long-run costs, subject to the uncertainty of
+the durability of the cooperative.
+Governments often conduct monitoring and enforcement as part of the general process for all
+ﬁshing vessels, regardless of whether these vessels are part of a cooperative. Cooperatives have
+an incentive to lower the transaction costs of monitoring (Townsend 2005), and through lower costs
+and the need for monitoring for the cooperative to
+properly function, the amount of monitoring can
+even increase. Penalties or negative economic incentives may be created between the cooperative
+and the management authority and among members of the cooperative to deter cheating and free
+riding.
+Fishing cooperatives, by lowering transactions
+and information costs, coordinating activities and
+sharing information, and developing new technologies, might form to voluntarily tackle bycatch.
+Such voluntary agreements have been adopted in
+Alaska and in the regional sea turtle program in
+the eastern Paciﬁc Ocean to address bycatch. Voluntary agreements are applied on land to address
+pollution due to credible threats from regulators
+(Segerson and Miceli 1998). Fishing cooperatives
+do not inherently incorporate public good externalities, such as ecosystems and their services and
+maintenance of biodiversity.
+
+Territorial Rights
+Territorial (spatial) use or property rights allocate
+exclusive use to a speciﬁed area of the ocean to a
+single user, most often a group, but the owner can
+also be an individual or corporation. The group, in
+turn, informally or formally allocates use rights to
+its members. Territorial rights, under certain conditions and when effectively managed, are sometimes seen as an effective alternative to private
+rights, such as ITQs.12 Territorial rights differ from
+ocean zoning or area management, which restricts
+ﬁshing in different areas but does not confer a
+property or use right. Catch, effort, vessel and
+gear restrictions, exclusions, and temporary or permanent closures are commonly speciﬁed by area
+(Branch et al. 2006).
+
+Property and Use Rights in Fisheries
+
+49
+
+Territorial rights include informal ﬁshing territories, customary marine tenure, and territorial use
+rights in ﬁsheries (TURFs). TURFs are formally
+assigned exclusive use rights conferred to an area
+or group (Christy 1983). Territorial rights create
+a form of regulated common property to an area,
+giving informal or formal rights to harvest ﬁsh and
+the right to exclude other ﬁshers. Territorial rights
+can be interpreted to include area rights, that is,
+rights to spatially distinct and well-deﬁned areas of
+the ocean. Territorial rights are also related to spatially delineated ITQs, except that territorial rights
+usually relate to a property right over an area and
+to all species and the ecosystem in general, rather
+than to individual species. Territorial rights are
+often viewed as a way to implement communitybased ﬁshery management (Hannesson 2004).
+TURFs can be distinguished from ﬁsher’s cooperatives or associations (Christy 2000). TURFs are
+based on exclusive rights to a (portion of the) resource with a spatial dimension, whereas the latter
+are not.
+Territorial rights are often found in small closeknit communities of inshore or reef ﬁshers for
+shellﬁsh, lobsters, and some ﬁsh, forming a type of
+marine tenure (Johannes 1978, 1988, Cinner 2005,
+Cinner and Awani 2007). Christy (1983) points out
+that less mobile, less migratory species are more
+suitable for territorial rights. Territorial rights can
+similarly be applicable to sedentary stocks and
+ﬁxed gear ﬁsheries.
+Formal territorial rights are used to manage inshore ﬁsheries in Japan, especially sedentary resources, for which these rights are usually assigned
+to ﬁshers’ associations or Fishery Cooperative Associations (FCAs), rather than to individuals or
+ﬁrms (Asada et al. 1983, Ruddle and Akimichi
+1984, Ruddle 1987, Yamamoto 1995, Baland and
+Platteau 1996, Cancino et al. 2007). To collectively manage the territorial rights, the FCAs are
+sometimes subdivided into smaller and more specialized groups that manage single species within
+the territorial right. The lobster ﬁshery of Maine
+is a well-known example of an informal territorial
+right (Acheson 1975). Informal territorial rights
+are also found in Nova Scotian and Scottish salmon
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+50
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+ﬁsheries (Ostrom 1990). Formal territorial rights
+are used in the Italian clam ﬁsheries (Spagnolo and
+Sabatella 2007). Territorial rights are also used
+to manage the ocean quahog ﬁshery in Iceland,
+oysters in the United States, mussels and scallops
+in New Zealand, the Challenger scallop ﬁshery
+in New Zealand, lakes and some coastal areas in
+Sweden, and aquaculture in Mexico (OECD
+2006). Territorial rights are also used for some
+offshore ﬁsheries, including offshore aquaculture
+of blueﬁn tunas and salmon in Norway, Chile, and
+Mexico. Territorial rights are also used to manage inshore ﬁsheries in Chile (Gonzalez 1996,
+González et al. 2006), especially the gastropod
+loco (an abalone) for which they have apparently
+been used with great success (Bernal et al. 1999,
+González et al. 2006, Cancino et al. 2007). Territorial rights may be one of the few practical ways
+to manage some artisanal ﬁsheries, especially in
+tropical countries where marine ecosystems have
+many species and complex multispecies interactions (Christy 2000). Territorial rights can be expected to grow in importance with aquaculture and
+mariculture of all types.
+Informal territorial rights refer to spatially delineated ﬁshing rights that are not enshrined in traditional custom or which are not part of formal law,
+but instead arise through custom and practice. The
+“lobster gangs” of Maine exemplify such, where
+individuals living in communities adjacent to the
+resource hold the rights (Acheson 1975). The exact
+boundaries of the right are developed and enforced
+by custom and social norms, but because they are
+not formally delineated, such boundaries can be
+open to constant challenge and redeﬁnement. Active, but informal, processes exist by which exclusive use is enforced, including verbal threats,
+patrols, and, in some instances, through damage
+of encroaching gear or even retaliation in other
+areas. These rights have, to some extent, been recognized by the state of Maine and incorporated
+into the formal management of lobsters.
+Customary marine tenure systems are one form
+of territorial right that is found in the IndoPaciﬁc (Ruddle and Akimichi 1984, Aikimich
+1984, Johannes 1988, 2002, Aswani 2006, Branch
+
+et al. 2006, Cinner and McClanachan 2006).
+Cinner (2005: 36) observes that “These marine
+tenure institutions can range from relatively simple communally-owned marine areas from which
+outsiders are excluded to the complex and overlapping system of individual and family rights to
+space, species, gear, and even speciﬁc techniques
+of using gear.” Villages declare marine reserves,
+exclude others from exploiting resources in their
+territory, manage the types of gears used, and restrict ﬁshing on certain species.
+Territorial rights, in some instances, are thought
+to spatially allocate ﬁshing effort that achieves an
+economic optimum (Christy 1983, Cancino et al.
+2007). In Japan, ﬁshing effort within a TURF can
+be allocated to mitigate inefﬁcient allocation of effort over space. Because ﬁshing effort is restricted
+among TURFs, efﬁcient allocation of effort across
+a spatial dimension larger than a single TURF is
+not automatically realized, but Branch et al. (2006)
+observe that ﬁshers generally allocate ﬁshing effort to equalize catch per unit of effort (and, by
+implication, proﬁtability) over large areas.
+More generally, territorial rights, as a form of
+common property, in principle, has an advantage
+over a centralized regulating agency in achieving economic efﬁciency through the potential of
+rights holders for possessing sufﬁcient knowledge
+about the state of the resource, its ﬂow of use, and
+the identity and actions of its users to be able to
+manage it directly in a more economically efﬁcient manner (Baland and Platteau 1996, Cinner
+2005). Such rights also are a de facto method of
+pooling the users’ risks and substitutes for missing
+insurance markets. Such rights also more directly
+tackle distributive effects of resource allocation
+decisions.
+Territorial rights, in principle, can increase economic efﬁciency by internalizing spatial externalities (such as larval spillovers from source to sink
+populations, ﬁsh movement among areas, growth,
+multispecies interactions, and ecosystem considerations) within a single institution, allowing the
+territorial rights to address these spatial externalities and to lower economic and ecological costs.
+From the perspective of Coase (1937, 1960) and
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+the boundaries of the market and ﬁrms, territorial rights can be viewed as corresponding to the
+incorporation of market, ecological, and other factors internal to the territorial right, rather than
+allowing these activities to remain external to the
+organization (Robert Deacon, personal communication).
+To internalize spatial externalities, the spatial
+scale of the territorial rights should correspond
+to the scales at which the larval dispersal and
+stock-recruitment processes operate, and at which
+forage ﬁsh even move, thereby generating ﬁshing communities’ incentives to protect local stocks
+(Hilborn et al. 2005). Without such a correspondence, future recruitment into one territorial right
+depends not only on its own local stock, but also
+on neighboring territorial right’s resource stocks,
+a clear indication of a common resource with a
+remaining ecological externality. Overﬁshing in
+one territorial right might otherwise be subsidized by recruitment from stocks of territorial
+rights practicing sound management. Other potential asymmetric externalities remain, such as
+an “upstream” territorial right holder overexploiting a mobile ﬁsh before it can reach the “downstream” TURF’s area. These considerations help
+explain why spatial rights are commonly found on
+coral reefs and with shellﬁsh and similar benthic
+resources.
+Territorial rights do not necessarily and inherently incorporate externalities related to nonmarket economic values ﬂowing from public goods,
+such as maintenance of biodiversity or ecosystems
+and their services, which extend beyond the spatial
+boundaries to the entire population. In other words,
+although territorial rights under some conditions
+can potentially provide efﬁcient exploitation of a
+common resource and public good of the ecosystem and its services, leading to optimizing direct
+and even indirect use values, territorial rights do
+not necessarily lead to the efﬁcient provision of
+any public goods (or avoidance of public bads) related to the ecosystem that may well transcend the
+spatial boundaries of the territorial right or that do
+not correspond to the commercial species of concern to the rights holders. Similar consideration
+
+Property and Use Rights in Fisheries
+
+51
+
+holds for the maintenance of biodiversity, which
+is also a public good.
+Collective use of the territorial rights’ resources
+may require various types of assignment arrangements among ﬁshers to solve problems of congestion and overexploitation of resources in a patchy
+environment, to achieve economic efﬁciency in
+general, and to maintain group harmony. More
+generally, this is an issue in the relationship between resources and the user group, that is, obtaining congruence between appropriation, provision rules, and local conditions (Wade 1987,
+Ostrom 1990, Baland and Platteau 1996). Such
+resource allocation decisions are potentially contentious because they require agreements on the
+distribution of wealth, are difﬁcult to implement
+when a new territorial right is established after
+open access and resource depletion, and may be
+one of the major impediments to the establishment of effective management of common property and territorial rights (Libecap 1989, Christy
+2000). See, for example, Alexander (1980, 1982)
+and the rotation of beach seine groups among different ﬁshing grounds in Sri Lankan ﬁshing villages. Similarly, Japanese and Chilean TURFs rotate ﬁshing over areas of different proﬁtability to
+smooth out differences in proﬁts, incomes, and
+ﬁshing opportunities (Cancino et al. 2007). These
+arrangements are similar to those in Sri Lankan
+ﬁshing villages in which elaborate rotational and
+distributional mechanisms have evolved. Estuarine salmon ﬁshers in Teelin Bay, Ireland, use a
+rotation system of access to the most productive
+ﬁshing spots (Baland and Platteau 1996). Nova
+Scotian inshore ﬁshers, in some cases, have used
+lottery systems to allocate the best locations. More
+broadly, management rules may be required for the
+resources within the territorial rights’ boundaries;
+Baland and Platteau (1996) emphasize that common property institutions can give economically
+efﬁcient resource allocations, but require effective
+management to do so.
+Correspondence between the physical boundary
+of the renewable resource stock and the territorial
+right leads to the well-known common-pool
+problem that arises with other such spatially
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+52
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+distributed resources, notably underground
+aquifers and oil pools (Libecap 1989). When
+the physical boundary of a common property
+resource is not well deﬁned and is unstable, then
+the conditions for effective conservation and
+management decline (Wade 1987, Ostrom 1990,
+Baland and Platteau 1996). Thus, if the renewable
+resource stock lies wholly within the territorial
+right, then the territorial right essentially amounts
+to ownership of the stock. Conversely, with
+species that move beyond the territorial right or
+stocks that straddle one or more territorial rights,
+the common resource problem resulting in the associated externality and overexploitation results.
+Complications arise when the physical boundary
+of the territorial right does not always have a stable
+relationship with the delineation of the resource
+and ecosystem, as is the case with climate change
+in which the territorial right may no longer
+correspond to where the resource has shifted.
+Territorial rights can, in principle, reformulate
+to accommodate remaining, or even shifting,
+externalities. For example, two territorial rights
+that are too small to accommodate downstream
+externalities between the two territorial rights can
+be combined to form a single territorial right,
+thereby internalizing the externality by enlarging
+the territorial right. The key element to resolving
+these externalities is to allow exchange and/or
+reformulation of the territorial rights. Information
+and transactions costs can impede such Coasian
+bargaining between two different territorial rights
+holders. Coordination occurs among Japanese
+TURFs, including development of formal coordinating bodies, and there have even been mergers
+for ﬁsh populations that move across boundaries
+in their yearly cycle (Baland and Platteau 1996,
+Christy 2000, Cancino et al. 2007). Beneﬁt and
+cost-sharing rules for the joint exploitation and
+management of a common resource may have to
+account for the direct proportion of the relative
+amounts of the individual territorial right’s net
+gains.
+Several other critical issues arise. One of the
+most important is setting a TAC for ﬁsh or
+other species that span more than one territorial
+
+right area and allocating shares to the individual
+TURFs. The more mobile or seasonal or otherwise
+variable the species and its abundance, the greater
+the number of species and ecosystem complexity,
+the greater the current depletion, and other related
+factors, the more complex the undertaking. A contracting and comanagement issue then arises in
+coordinating the allocated shares of the TAC with
+the different individual territorial rights.
+Sustainable catch targets must also be developed for populations entirely contained within a
+territorial right, such as with a sedentary and sessile populations (e.g., on a coral reef that does not
+span two or more territorial rights). Such targets
+can be formal or informal, and if the latter, may be
+developed over time through community or association knowledge built up over time. Christy (2000:
+127) observes, “It is quite likely that there is a high
+degree of knowledge about the location and seasonality of individual stocks within a community’s
+ﬁshing area, but it is not necessarily true that this
+knowledge comprehends the relationship between
+ﬁshing effort and yield . . . . In this regard, the function of acquiring information on stock yields cannot always be fulﬁlled solely by the community.”
+When establishing a new territorial right, a contracting problem arises. In addition to the issue
+discussed above, allocation within the group and
+allocation issues outside the group arise. For example, multiple groups of ﬁshers deﬁned by gear
+or location may exploit the same territory. Both
+recreational and commercial ﬁshers may exploit
+the same resource stocks in a territory. Environmentalists may have concerns over ecosystems and
+maintenance of biodiversity within a territory. Different issues arise between resource exploitation,
+ecosystems and their services, and maintenance of
+biodiversity. As with all allocation decisions, different distributions of wealth and net beneﬁts are
+implied, since property rights involve the assignment of exclusive decision making over valuable
+resources, and some parties will be harmed by
+the new deﬁnition of wealth and political power
+(Libecap 1989). Disagreements can occur over
+the nature of either the aggregate beneﬁts or the
+shares. Compensating those potentially harmed in
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+the proposed deﬁnition of rights and increasing the
+shares of inﬂuential parties may produce a political consensus for the proposed institutional change
+(Libecap 1989). Those parties who have had informal claims or have been unusually productive
+under the status quota may be made worse off
+unless their claims or productivity are recognized
+(Libecap 1989). Prior production or prior possession often forms the basis of formal rights allocation. If inﬂuential parties cannot be sufﬁciently
+compensated, say through side payments from
+gainers, new territorial rights may not emerge,
+even if this institutional change would yield net
+beneﬁts for society. Informational problems can
+introduce complications even if such an accord
+can potentially be reached (Libecap 1989).
+Well-deﬁned, clear-cut membership and composition of the group is always critical for effective functioning of common property (Wade 1987,
+Libecap 1989, Ostrom 1990, Baland and Platteau 1996).13 Group size and homogeneity can
+have signiﬁcant impacts. In Japan, membership
+in FCAs is restricted to resident ﬁshers in the
+jurisdictional area of the FCA who ﬁsh for 90–
+120 days per year, the precise period deﬁned by
+each FCA (Ruddle 1987). Even deﬁning the group
+and its membership and deﬁning a ﬁsher are not
+always clear-cut, and if territorial rights are newly
+established or were formerly weak, this problem
+becomes even more acute, since questions of patterns of distribution in wealth and power arise
+(Christy 2000). For example, multiple gear types
+and groups or communities may exploit the same
+ﬁshing grounds in which a TURF is contemplated.
+Some ﬁshers may be part-time and others fulltime, with, for example, seasonal participation in
+ﬁshing depending on seasonal variations in the
+availability of resource stocks, or some kinds of
+gear may use casual labor.
+Questions of entry and exit of the association
+or community are critical because limits on entry
+and deﬁnitions of exclusive use are fundamental
+to a well-functioning property or use right. Conditions and rules, either formal or informal, determine membership, and vary in accordance with
+whether the group is a small-scale ﬁshing com-
+
+Property and Use Rights in Fisheries
+
+53
+
+munity or ﬁsher association (Christy 2000). “The
+traditional rules governing membership in a community and the ﬁshery are likely to be subjected to
+considerable pressure in communities that receive
+a territorial use-right” (Christy 2000: 124). Membership issues heighten when ﬁshery management
+is more successful, and ﬁsheries communities and
+the population of ﬁshers are far from static.
+Enforcement of the territorial rights, including
+or excluding nonowners, when there are mixed
+industrial and artisanal ﬁsheries, can pose challenges. In Japan, the development of industrial
+trawling and entry into coastal waters traditionally
+associated with FCAs and TURFs created such
+problems (Ruddle 1987). The practical impossibility of enforcing any kind of regulation in a
+small-scale ﬁshery for which landings take place
+in remote locations along a long coastline was addressed in Chile by granting secure access rights to
+ﬁshers’ organizations, providing them incentives
+to protect their resources themselves (González
+et al. (2006).
+
+Individual Transferable Quotas
+ITQs are a form of private use right (Christy
+1973). An ITQ provides an individual ﬁsher
+or ﬁshing ﬁrm the right to harvest a deﬁned
+proportion, either an absolute amount or, more
+usually, a percentage, of the TAC within a given
+period, such as a year or season (Squires et al.
+1995, Scott 2000a, 2000b, Hannesson 2004,
+World Bank 2004). The state retains ownership
+of the resource stock, and the regulatory ﬁshery
+body continues to deﬁne the TAC for the ﬁshery.
+Property, as ﬁsh, passes to the operator only
+through the rule of ﬁrst possession, that is, after
+capture. ITQs are used in Australia, Canada,
+Chile, Estonia, Iceland, Greenland, Namibia, the
+Netherlands, New Zealand, and the United States
+(OECD 2006). No ﬁshery has abandoned an ITQ
+policy, once it has been implemented.
+ITQs can be evaluated in terms of the characteristics of property rights (Grafton et al. 2000,
+Scott 2000b). The exclusive use pertains to a use
+right over the catch, but not the resource stock or
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+54
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+the aquatic habitat, that is, ITQs are a usufruct
+right. The holder’s right is in co-use with other
+holders. The ﬁsh stock’s ownership is retained by
+the state within the EEZ. The duration of quota
+shares can be more than one season, but not always
+into perpetuity. In a few instances, the duration is
+limited and the right must be periodically renewed.
+ITQs are transferable and are bought and sold in
+markets. ITQs, like all assets, acquire present values related to the expected net present value of
+the catch over time. ITQs are often transferred in
+the short run to balance underages and overages of
+quotas, and their value in this instance corresponds
+to a rental price. In some instances, ITQ transferability is attenuated in the early years of a program
+to allow rights-holders time to become acquainted
+with the new system and to protect small communities and small-scale ﬁshers. ITQs are often, but
+not always, divisible into smaller units to facilitate exchange. The quality of title and security are
+often similar to licenses, and as a form of right
+are sometimes similar to that of other kinds of
+real property, with the legal status of property, and
+sometimes simply a use right, subject to renewal
+and regulation. Scott (2000b) observed that in the
+introduction of the ITQ, especially in offshore ﬁsheries, the ﬁshers were transported from holding the
+individual powers inherent in an ordinary transferable license, with a little inherent exclusivity,
+to holding a property right with enforceable characteristics, in positive amounts, of long duration,
+transferability, exclusivity, and security.
+ITQs, by more fully strengthening the characteristics of rights, especially exclusivity, greatly
+strengthen the incentives of ﬁshers to utilize the
+resource to obtain the greatest possible sustainable beneﬁts and to conserve the resource. In
+other words, ITQs provide harvesters with longterm and secure rights that are legally enforceable.
+Transfers of individual harvesting rights can also
+help reduce overcapacity and restructure industry to more closely align with a proﬁtable ﬁshery.
+Speciﬁcally, transferability in the long run allows
+the appropriate investment in ﬁshing vessels, gear,
+and equipment and the choice of an optimal scale
+and timing of harvesting and processing, if the
+
+catch is processed at sea. ITQs can also help alter
+the length of a ﬁshing season, since vessels can
+choose when to ﬁsh, given the certainty of harvest right. Sykes (2010) observes, “Therein lies an
+important characteristic of a credible rights-based
+management framework—the notion of rights as
+the currency of restructure and reallocation in
+situations in which overﬁshing presents potential risk to stocks and to the communities dependent upon them.” There is also evidence that
+individual harvesting rights can promote collective action and a custodial attitude among ﬁshers (Scott 1993, 2000a, 2000b). ITQs can lower
+variable and ﬁxed-harvest costs. ITQs can also
+lead to an increase in ex-vessel price and revenue
+through changes in product form to higher-quality
+and higher-valued products and distribute catches
+more evenly throughout a potentially lengthened
+ﬁshing season, as in the British Columbia halibut
+ﬁshery (Grafton et al. 2000).
+ITQs, as a form of private use rights over
+the catch or ﬂow from the resource stock, are
+suitable for some ﬁsheries, but not all, and their
+applicability can be based on a case-by-case
+basis, depending on the conditions at hand (Copes
+1986, Squires et al. 1995, 1998, NRC 1999b,
+Christy 2000, Hannesson 2004, World Bank
+2004, Sanchirico et al. 2006). ITQs, for example,
+are most applicable in ﬁsheries without complex
+multiple species, comparatively stable ﬁsh stocks
+and TACs, sufﬁcient scientiﬁc capability to
+calculate TACs, the capability for monitoring
+catches and enforcing compliance (particularly
+since production is at sea), and laws protecting
+private property in the society (i.e., strength of
+title or security). ITQs have almost always been
+distributed gratis to ﬁshers, based on historical
+catches rather than through auction, which allows
+the resource rent to be retained by ﬁshers.
+ITQs do not fully capture all components of
+total economic value and address public goods externalities associated with ecosystems and their
+services and maintenance of biodiversity. ITQs
+capture primarily commercially derived use values, that is, the value to the commercial ﬁshing industry and consumers. ITQs do not capture
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+indirect use values, such as economic values from
+ecosystem services (which does not entail direct
+use of the resource stock), and existence value derived from the continued existence of biodiversity.
+In principle, the public or environmental groups
+could purchase ITQs, and similar rights can be established over bycatch, habitat, protected species,
+and some metric of biodiversity.
+ITQS do not remove all economic inefﬁciencies that may arise (Scott 1988a, 1988b, 2000b,
+Christy 2000). For example, “race to ﬁsh” incentives can remain when the unit cost of ﬁshing increases within a season or for the most accessible
+and desirable ﬁshing grounds due to the patchiness of ﬁsh distribution. Fishers may face an incentive to harvest in a spatially uneconomical way
+as they attempt to intercept migratory species before their competitors can. Discards of ﬁsh caught
+in excess of a quota held are possible if the ITQ
+exceeds the ﬂow from the resource stock, that
+is, the catch, rather than the stock itself (Scott
+1988a, 1988b). Discards create problems in multispecies ﬁsheries managed by ITQs because the
+quotas for some species are reached before those
+for other species (Squires et al. 1998, Sanchirico
+et al. 2006). “High-grading,” that is, the discarding of marketable, but lower-valued, ﬁsh may occur if and when higher-valued marketable ﬁsh are
+caught and the quota applies to both species or
+the carrying capacity of the boat is reached. ITQs
+do not address the bycatch problem, nor do they
+cover all relevant elements of the ecosystem and
+maintenance of biodiversity.
+Sometimes a distinction is made between an individual vessel quota or individual ﬁshing quota,
+on the one hand, and ITQs on the other. In the
+former, transferability is not allowed, and sometimes security of title is more circumscribed and
+the duration of the right is less. Without transferability, distinguishing the value of the quota from
+the value of the vessel, that is, the portions of the
+economic rent capitalized into each asset, becomes
+difﬁcult.
+Dolphin mortality limits (DMLs) are related to
+ITQs and are the only catch right—in this case a
+bycatch right—allocated to individuals in transna-
+
+Property and Use Rights in Fisheries
+
+55
+
+tional tuna ﬁsheries (Allen et al. 2008). DMLs
+allow a vessel to catch yellowﬁn tuna associated
+with dolphins in the eastern Paciﬁc Ocean and
+the right to a speciﬁed amount of dolphin bycatch
+mortality in the process. DMLs arise out of the
+Agreement for the International Dolphin Conservation Program (AIDCP) and its predecessor, the
+“La Jolla Agreement.” These have allocated annual DMLs to individual vessels since 1992. The
+overall DMLs are divided equally among all vessels that seek individual vessel DMLs. The DML
+is a relatively weak right because exclusivity is
+not complete (there are national mortality limits,
+which, when reached, curtail individual rights), it
+has a maximum duration of one year, security is
+attenuated by the individual holder’s government’s
+ability to reallocate DMLs among vessels of its
+ﬂeet, and transferability, in that vessels changing
+ﬂags retain their DMLs and their records of dolphin mortality during the year to date, and that
+their obligations under the AIDCP are enforced by
+their new ﬂag. Limited transferability of the DMLs
+among vessels is allowed, in that limits from vessels that renounce or forfeit their assigned limits
+are redistributed among other vessels. In practice,
+the parties to the AIDCP have also allowed ad hoc
+transfers among vessels.
+
+Individual Transferable Effort
+Individual transferable effort (ITE) quotas establish a transferable use right in ﬁshing effort, typically denominated in days at sea or number of sets
+of gear, although other units, for example, units of
+gear, such as hooks or traps, can be used. ITE programs are conceived as private use rights, although
+commonly held rights are not out of the question.
+Ownership of the ﬁsh stocks and access is retained
+by the state or international body established by a
+binding international treaty. Compliance can come
+through vessel monitoring systems (VMS; electronic means to track vessel movements) and/or
+on-board observers. ITE programs are not nearly
+as widespread as ITQ programs, although there are
+ITE programs in the New England groundﬁsh ﬁshery, a system of tradable ﬁshing days in the Faeroe
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+56
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+Islands, the Hawaiian pelagic shallow-set longline ﬁshery for swordﬁsh, the Falkland/Malvinas
+Islands squid ﬁshery, the Basque trawl ﬁshery, two
+individual transferable trap programs in Florida,
+the Forum Fisheries Agency states for harvests
+of tunas in their EEZs in the western and central
+Paciﬁc Ocean (denominated in days), ﬂeet capacity in Sweden, and transferable ﬁshing days in
+Spain.14
+Exclusive use is provided for the units of effort held. ITEs can be freely transferable, as in
+the Hawaiian program. Duration can range from
+limited periods of time to perpetuity, with a single
+year’s duration for the Hawaiian program. Divisibility can be ﬁnely structured down to a single
+day or unit of gear. Quality of title and security are
+similar to those of ITQs.
+ITEs represent a major step forward from open
+access and limited entry and are a better structured
+right than either, due in particular to the stronger
+exclusive use by individual vessels. Transferability of days at sea can reduce overcapacity and
+restructure industry to more closely align with a
+proﬁtable ﬁshery.
+Nonetheless, no matter how secure the title, exclusive and transferable ITEs suffer in that they
+are deﬁned in terms of an ill-deﬁned input, ﬁshing effort, rather than catch. Fishing effort is a
+composite of all economic inputs (in fact, it is
+simply an intellectual construct), and measurement by a proxy variable, days at sea, gives an
+incomplete and biased measure. Moreover, there
+is not a unique relationship between a unit of effort measured as a day and the resulting ﬁshing
+capacity and catch in that a day at sea gives ﬁshers an incentive to increase the use of economic
+inputs not speciﬁed by the unit of effort. Without care in crafting the program, a day held by a
+smaller and older vessel can differ markedly from
+a day held by a larger and newer vessel that embodies more advanced technology. Transshipment
+is also an issue, since vessels that can transfer their
+catches at sea to freezer vessels have an advantage
+over vessels that must travel to a port to unload
+their catches. Continued productivity growth, including technical progress, also means that each
+
+day of ﬁshing, although denominated in nominal
+days or units of gear, is more productive each year.
+Because the relationship between effort and catch
+is both nonlinear and stochastic, ITEs are subject
+to random events, such as luck and environmental changes that were not necessarily considered
+when calculating the overall ITE.
+ITEs may be useful when input-based management is preferred, as in complex multispecies
+ﬁsheries for which multiple species greatly complicate ITQ programs, which are necessarily denominated in catches of species or species assemblages (Squires et al. 1995, 1998, Sanchirico et al.
+2006). ITEs might also be useful in short-lived
+ﬁsh stocks, such as squid and some small pelagic
+species, for which the abundance is highly variable
+and nonlinear and stochastic relationships between
+effort and catch are par for the course. ITEs may
+also be useful when the infrastructure necessary
+to enforce use rights over catches is insufﬁcient
+or nonexistent. (Establishment of adequate infrastructure is not a trivial matter, as monitoring is
+often necessary not only at the ports of landing,
+but also after the ﬁsh are landed, when they are
+transported and traded.) Developments in VMS
+facilitate the use of ITEs (and in some instances
+territorial rights). Bycatches may pose less of an
+issue, since there are no catch limits included
+in ITEs (although there could be both ITEs and
+bycatch limits).
+
+Community Quotas
+Community quotas are a form of common use
+rights. Exclusive ﬁshing rights are allocated to
+well-deﬁned communities or groups, rather than
+to individuals. The right can be deﬁned as a share
+of a TAC or to a speciﬁc geographic area. (In
+the latter case, they would effectively become a
+TURF owned by the community.) The community
+decides how to ﬁsh its share. Community quotas
+can also be viewed as a form of collective action
+and as a form of common property or use right.
+Ten percent of the catches of Bering Sea groundﬁsh stocks have been allocated to native Alaskan
+villages in a program of community development
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+quotas allocated as part of ITQ programs (NRC
+1999a, Willman 2000). Community quotas are often used to formalize traditional access rights in
+small-scale ﬁsheries (OECD 2006). Community
+quotas can provide a high degree of exclusivity,
+divisibility, and ﬂexibility.
+Ostrom (1990), Baland and Platteau (1996), and
+others have shown that common property gives an
+economically efﬁcient resource allocation if the
+group management is effective, and an economic
+optimum comparable to individual private property such as ITQs. To the extent that the common
+property internalizes spatially related externalities
+and spatially related ecosystem services and maintenance of biodiversity, then the economic optimum addresses public goods externalities in addition to the common resource stock externality, and
+can outperform individual private property. These
+potential gains from incorporating public good and
+spatial margins of the common resource stock externalities must be tempered by the increases in
+transactions costs internal to the community associated with common property.
+
+Property and Use Rights in Fisheries
+
+57
+
+the RFMO. The latter arrangement corresponds
+to the IATTC AIDCP or to its closed regional
+vessel register. States, in turn, could allocate use
+rights—access, effort, or harvest—of various durations, transferability, exclusiveness, and divisibility to either individuals or groups. States could
+even trade their use rights among one another. Or,
+states could simply leave the EEZ in open access,
+with all that entails.
+
+Hybrid Rights
+Hybrid rights, or overlapping systems of rights,
+are those that are composed of more than one type
+of right and may combine property rights with
+use rights, such as state property and individual
+use rights. In ﬁsheries, many rights are of such
+a form. Other hybrid forms are possible, such as
+Maine’s lobster ﬁshery, which is a hybrid of state
+property with unofﬁcial ownership by the community, rather than by individuals (Acheson 1975).
+The overlap of the de facto, rather than de jure,
+common property with a spatial delineation also
+introduces the element of a TURF.
+
+State Property
+The extension of the EEZs to 200 miles and the
+territorial seas to 12 miles was the last widespread,
+major transformation of property rights in the
+oceans, and was a spatial extension of state property (Hollick 1977, Juda 1996). Further extension
+of the EEZs to pick up straddling stocks or uncovered areas, such as the “doughnut hole” in the
+Bering Sea, or even the high seas, is another possibility, but that would undoubtedly require a major
+United Nations convention (Bjørndal and Munro
+2003, Munro et al. 2004).
+A second potential extension of state rights
+would be the allocation of TACs (i.e., ﬂows from
+the resource stocks) for tunas to the coastal states
+and distant-water ﬁshing nations. Such rights
+could be property if the right is so deﬁned, comparable to the EEZs, and would likely be tied to allocation and state property in the resource stocks.
+State rights could alternatively be a use right of
+some duration, with common property retained by
+
+Concluding Remarks
+More comprehensive and better-deﬁned property
+and use rights are steadily emerging to address
+the economic and ecological inefﬁciencies found
+with common ocean resources as the beneﬁts of
+this institutional change increasingly outweigh the
+costs. Overcapacity, overﬁshing, and dissipation of
+economic rent are the well-known manifestations
+of these inefﬁciencies or costs.
+Rights-based management addressing the common resource externality generally does not fully
+address the externalities arising from the decline
+in public goods of maintenance of biodiversity
+and ecosystems and their services, or conversely
+the rise of public bads of loss of biodiversity and
+ecosystem degradation. Due to the problems of
+clearly deﬁning the nature of the costs and beneﬁts, who pays and who beneﬁts, and investment in
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+58
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+and provision of these public goods, the contracting problem over this growing issue is unlikely to
+be resolved in the near future.
+Various forms of individual and group rights
+have emerged, and are still forming, for marine
+common resources and public goods. Many different forms of property right institutions have
+emerged, which vary in their properties and most
+notably as forms of individual or group rights and
+over individual species or space and ecosystems.
+These different forms of rights emerge in response
+to the biological nature of the resource and ecosystem and the current technology of the production
+process, exclusion, and enforcement, but also as
+rights are determined through the political process, which, in turn, shapes the timing and form
+of the rights that develop. Time and precedent also
+play important roles in determining the range of
+feasible contracting outcomes, that is, a path dependency (Libecap 1989).
+Individual rights tend to be species speciﬁc, and
+as such tend not to internalize all margins of the
+common resource stock externality, most notably
+spatial dimensions, and public good externalities,
+most notably ecosystems and their services and
+maintenance of biodiversity. Group rights for ﬁshing rights include a spatial dimension, at least
+implicitly, in which case some, but not all, of
+the remaining common resource externality and
+public goods externality are internalized. Group
+rights suffer from growing transactions and information costs, and hence contracting costs, as the
+size and heterogeneity of the group increases and
+the more complex is the ecosystem. Group rights
+under certain conditions can provide an outcome
+as efﬁcient as individual rights, as emphasized by
+Ostrom (1990) and Baland and Platteau (1996).
+Rights-based management for transboundary
+common resources and public goods faces even
+greater complexity than for those falling solely
+within the EEZs of individual states. Rights in
+the transnational setting are only just now beginning to develop, albeit in a somewhat tenuous and often rudimentary form, and address not
+only the common resource and public good externalities but the transboundary externality. As
+
+both the potential costs and beneﬁts of property
+and use rights grow in the transnational settings,
+rights-based management can be expected to grow
+and strengthen in tandem. Rights in these settings
+will likely retain some form of state involvement
+and mediation. Property rights institutions are determined through the political process entailing
+negotiations among states and among the parties
+within each state. The political process of deﬁning and enforcing emerging transnational property
+rights can be divisive because of the distributional
+implications of different property allocations, both
+among states and among the parties within each
+state (Libecap 1989). The aggregate gains of a
+transformation to stronger property and use rights
+over transnational common resources and public
+goods are increasingly self-evident, but the distribution of wealth and political power entailed
+by the transformation will be a source of considerable controversy and dispute. At the heart of
+this contracting problem will be devising politically acceptable allocation mechanisms to assign
+the gains from institutional change while maintaining production advantages and compensating
+those potentially harmed. Perfectly compensating
+side payments facilitating agreement may also
+face formidable problems in reaching a political consensus.15 These bargaining problems over
+deﬁning and assigning the rights, related side payments, and enforcing property claims determine
+the nature of the property rights agreements that
+ultimately emerge (Libecap 1989). Contracting
+for property rights over transnational common resources and public goods will face considerable
+challenges in the future.
+
+Endnotes
+1. Latin legal names are given in parentheses.
+These were originally suggested by Chris Stone
+and initially appeared in Grafton et al. (2000).
+2. Libecap (2006: 8) states, “First-possession
+is the dominant method of establishing property
+rights. It assigns ownership on a ﬁrst-come, ﬁrstserved basis or ﬁrst-in-time, ﬁrst-in-right. . . . But
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+the rule-of-capture grants ownership to the ﬂow
+and not generally to the resource stock, and hence
+in the presence of open-access conditions, it can
+exacerbate competitive extraction incentives.”
+3. Baland and Platteau (2005) observed that, for
+example, common property management implies
+collective regulations regarding both membership
+and the way to use the resource, and the existence
+of monitoring and sanctioning procedures so that
+those rules can be effectively enforced.
+4. Baland and Platteau (2005: 9) further observed that “. . . the problem with resources under open access or under community ownership limited to membership rules—what Baland
+and Platteau (1996) call ‘unregulated common
+property’—is the fact that externalities are not
+properly internalised. If there were no transaction
+costs, ‘regulated common property’ (i.e., collective ownership with both membership rules and
+rules of use) would be equivalent to private (and
+state) ownership. Yet, the presence of pervasive
+transaction costs in real world situations tilts the
+balance in favour of private ownership: as a matter
+of fact, being under the control of a single person,
+private ownership avoids all kinds of negotiation
+costs necessary to reach a collective agreement as
+well as all the governance costs that have to be
+incurred with a view to monitoring and enforcing
+such agreements.”
+5. Libecap (1989) observed that because of
+the overwhelming advantages of secure property
+rights, economic agents may adopt or modify
+property rights to mitigate the losses of common
+resources as soon as the beneﬁts outweigh the
+costs. These costs include not only any direct costs
+associated with the new property rights arrangement, but the costs associated with the next-best
+alternative, that is, the opportunity cost. A major factor in the emergence of new ownership arrangements is the distributional conﬂicts and their
+resolution.
+6. Comanagement reshapes “. . . the state interventions so as to institutionalize collaboration between administration and resource users and end
+those unproductive situations where they are pitted against one another as antagonistic actors in
+
+Property and Use Rights in Fisheries
+
+59
+
+the process of resource regulation” (Baland and
+Platteau 1996: 347).
+7. In this regard, ITQs can be seen as resembling
+grazing rights on public land, as opposed to ownership of the grazing land itself, which, instead,
+is retained by the state (Libecap 2010). Similarly,
+under the appropriative rights system, individuals
+were granted usufructory or possessory rights to
+water, rather than fee simple title.
+8. Libecap (2010) discusses comparable reasons for terrestrial resources.
+9. Moral hazard refers to a problem of asymmetric information whereby the actions of one
+party to a transaction are unobservable. It refers to
+the possibility that the redistribution of risk (such
+as that which transfers risk from the insured to the
+insurer) changes people’s behavior. Moral hazard
+arises after a contract. For example, holders of insurance premiums without deductions or penalties
+are more likely to undertake actions that are less
+careful toward loss than if deductions or penalties
+are required. This information problem arises because the ﬁshery manager does not have complete
+information about all variables relevant for regulation. Hence, the regulator cannot easily and at
+low cost monitor ﬁsher behavior.
+10. See Pinkerton (1989), Baland and Platteau
+(1996), and Jentoft (2003) for extensive discussions.
+11. Baland and Platteau (2005) emphasize governance (transactions) costs, the size of the user
+group, income or wealth inequality, and availability of exit opportunities.
+12. Baland and Platteau (1996: 175), when
+discussing common property, state, “Indeed, if
+(1) information is perfect, and (2) there are no
+transaction costs, regulated common property and
+private property are equivalent from the standpoint of the efﬁciency of resource use . . . . Both
+the above property regimes can therefore support
+a Pareto-optimal equilibrium.”
+13. Baland and Platteau (1996: 287–288) observe that several factors are more favorable
+for success: the smaller the number of users;
+the more clearly deﬁned the boundaries of the
+group; the more powerful are those subgroups
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+60
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+who beneﬁt from retaining the commons and the
+weaker are those who favor subgroup enclosure or
+private property; the better developed are existing arrangements among users for discussion of
+common problems; the extent to which users are
+bound by mutual obligations and the more concerned people are about their social reputations
+and punishments against rule-breaking; and the
+more the users already have joint rules for purposes other than common resource use and the
+more bite behind the rules.
+14. Nontransferable individual effort quotas are
+rights attached to a quantity of ﬁshing effort that
+can be deployed over some period of time (OECD
+2006). They tend to be used in ﬁsheries for sedentary species, and are characterized by moderate or
+relatively high levels of exclusive use, duration,
+and quality of title. They are used in Belgium and
+Iceland, where they are speciﬁed as allowable ﬁshing days, in Australia, Canada, France, the United
+Kingdom, and the United States for crab and lobster ﬁsheries, where they are speciﬁed as limited
+numbers of pots or traps, and in France for the
+scallop ﬁshery, where they are speciﬁed as limited
+numbers of hours per ﬁshing day.
+15. Libecap (1989) observed that the transfers
+entailed by side payments can become an assignment of rights in themselves, and that the side payment schemes reached through the political process may be insufﬁciently complete to resolve the
+distributional conﬂicts needed for more than minimal institutional change or may fail to compensate
+all relevant parties.
+
+References
+Acheson JM. 1975. The lobster ﬁefs: economic and ecological effects of territoriality in
+the marine lobster industry. Human Ecology,
+3(3):183–207.
+Akimichi T. 1984. Territorial regulation in the
+small scale ﬁsheries of Itoman, Okinawa. In
+Ruddle K and T Akimichi (eds) Maritime Institutions in the Western Pacific. Senri Ethno-
+
+logical Studies, No. 17. Osaka, Japan: National
+Museum of Ethnology, pp. 89–120.
+Alexander P. 1980. Sea tenure in southern
+Sri Lanka. In Spoehr A (ed.) Maritime
+Adaptations—Essays on Contemporary Fishing Communities. Pittsburgh, PA: University of
+Pittsburgh Press, pp. 91–111.
+Alexander P. 1982. Sri Lankan Fishermen—Rural
+Capitalism and Peasant Society. Monographs
+on S. Asia, No. 7. Canberra: Australian National
+University.
+Allen R, J Joseph, and D Squires. 2008. Paper entitled Workshop on Rights-based Management
+and Buybacks in International Tuna Fisheries.
+University of California at San Diego, May 5–9,
+2008 (http://www.iattc.org/PDFFiles2/AllenJoseph-and-Squires.pdf).
+Asada Y, Y Hirasawa, and F Nagasaki. 1983. Fishery management in Japan. FAO Fisheries Technical Paper, No. 238, 26 pp.
+Aswani S. 2006. Customary sea tenure in Oceania
+as a case of rights-based management: does it
+work? Reviews in Fish Biology and Fisheries,
+15(3):285–307.
+Baland J-M and J-P Platteau. 1996. Halting
+Degradation of Natural Resources: Is There
+a Role for Rural Communities? Oxford, UK:
+Oxford University Press, 440 pp.
+Baland J-M and J-P Platteau. 2005. Economics
+of common property management regimes. In
+Mäler KG and J Vincent (eds) Handbook of
+Environmental Economics, 1st edn, Vol. 3. Amsterdam, the Netherlands: Elsevier Science.
+Barrett S. 2003. Environment and Statecraft:
+The Strategy of Environmental Treaty Making. Oxford, UK: Oxford University Press,
+446 pp.
+Barrett S. 2005. The theory of international environmental agreements. In Mäler KG and
+JR Vincent (eds) Handbook of Environmental Economics, 1st edn, Vol. 3. Amsterdam,
+the Netherlands: Elsevier Science, pp. 1457–
+1516.
+Baumol WJ and WE Oates. 1988. The Theory
+of Environmental Policy, 2nd edn. New York:
+Cambridge University Press, 299 pp.
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+Bernal PA, D Olivia, B Aliaga, and C Morales.
+1999. New regulations in Chilean ﬁsheries
+and aquaculture: ITQ’s and territorial users
+rights. Ocean and Coastal Management,
+42(2–4):119–142.
+Bjørndal T and GR Munro. 2003. The management of high seas ﬁsheries resources and the implementation of the UN Fish Stocks Agreement
+of 1995. In Folmer H and T Tietenberg (eds) The
+International Yearbook of Environmental and
+Resource Economics 2003/2004. Cheltenham,
+UK: Edward Elgar, pp. 1–30.
+Branch TA, R Hilborn, AC Haynie, G Fay, L
+Flynn, J Grifﬁths, KN Marshall, JK Randall,
+JM Scheuerell, EJ Ward, and M Young.
+2006. Fleet dynamics and ﬁshermen behavior:
+lessons for ﬁsheries managers. Canadian Journal of Fisheries and Aquatic Sciences, 63(7):
+1647–1668.
+Bromley D. 1991. Environment and Economy:
+Property Rights and Public Policy. Oxford, UK:
+Blackwell Publishing, 250 pp.
+Cancino JP, H Uchida, and JE Wilen. 2007.
+TURFS and ITQs: collective vs. individual decision making. Marine Resource Economics,
+22(4):391–406.
+Cheung SNS. 1970. The structure of a contract and
+the theory of a non-exclusive resource. Journal
+of Law and Economics, 13(1):49–70.
+Christy FT, Jr. 1973. Fisherman Quotas: A Tentative Suggestion for Domestic Management.
+Kingston, RI: Law of the Sea Institute, University of Rhode Island. Occasional Paper, No.
+19.
+Christy FT, Jr. 1983. Territorial use rights in marine ﬁsheries: deﬁnitions and conditions. FAO
+Fisheries Technical Paper, No. 227, 10 pp.
+Christy FT, Jr. 2000. Common property rights:
+an alternative to ITQs. FAO Fisheries Technical
+Paper, No. 404/1, pp. 118–135.
+Cinner J. 2005. Socio-economic factors inﬂuencing customary marine tenure in the Indo-Paciﬁc.
+Ecology and Society, 10(1):36–49.
+Cinner J and S Awani. 2007. Integrating customary
+management into marine conservation. Biological Conservation, 140(3–4):201–216.
+
+Property and Use Rights in Fisheries
+
+61
+
+Cinner J and T McClanachan. 2006. Socioeconomical factors that lead to overﬁshing in smallscale coral reef ﬁsheries of Papua New Guinea.
+Environmental Conservation, 33(1):73–80.
+Coase R. 1937. The nature of the ﬁrm. Economica,
+4(16):386–405.
+Coase R. 1960. The problem of social cost. Journal
+of Law and Economics, 3(1):1–44.
+Cooter RB and T Ulen. 2004. Law and Economics,
+4th edn. New York: Addison-Wesley, 560 pp.
+Copes P. 1986. A critical review of the individual quota as a device on ﬁsheries management.
+Land Economics, 62(3):278–291.
+De Meza D and JR Gould. 1992. The social efﬁciency of private decisions to enforce
+property rights. Journal of Political Economy,
+100(3):561–580.
+Gonzalez E. 1996. Territorial use rights in
+Chilean ﬁsheries. Marine Resource Economics,
+11(3):211–218.
+González J, W Stotz, J Garrido, J Orensanz,
+A Parma, C Tapia, and A Zuleta. 2006. The
+Chilean TURF system: how is it performing in
+the case of the loco ﬁshery? Bulletin of Marine
+Science, 78(3):499–527.
+Gordon HS. 1954. The economic theory of a
+common property resource. Journal of Political Economy, 62(2):124–142.
+Grafton RQ, W Adamowica, D Dupont, H Nelson,
+RJ Hill, and S Renzetti. 2004. The Economics
+of the Environment and Natural Resources.
+Oxford, UK: Blackwell Publishing, 520 pp.
+Grafton RQ, R Arnason, T Bjørndal, D Campbell, HF Campbell, CW Clark, R Connor, DP
+Dupont, R Hannesson, R Hilborn, JE Kirkley,
+T Kompas, DE Lane, GR Munro, S Pascoe,
+D Squires, SI Steinshamn, BR Turris, and Q
+Weninger. 2006. Incentive-based approaches to
+sustainable ﬁsheries. Canadian Journal of Fisheries and Aquatic Sciences, 63(3):699–710.
+Grafton RQ, D Squires, and KJ Fox. 2000. Private
+property and economic efﬁciency: a study of
+a common-pool resource. Journal of Law and
+Economics, 43(2):679–713.
+Hannesson R. 2004. The Privatization of the
+Oceans. Cambridge: MIT Press, 212 pp.
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+62
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+Hannesson R. 2005. The privatization of the
+oceans. In Leal DR (ed.) Evolving Property
+Rights in Marine Fisheries. Lanham, MD: Rowman and Littleﬁeld, pp. 25–48.
+Hilborn R, JM Orensanz, and A Parma. 2005. Institutions, incentives and the future of ﬁsheries.
+Philosophical Transactions of the Royal Society of London, Series B—Biological Sciences,
+360:47–57.
+Hollick A. 1977. The origins of 200-mile offshore
+zones. American Journal of International Law,
+71(3):494–500.
+Homans FR and JE Wilen. 1997. A model of
+regulated open access resource use. Journal
+of Environmental Economics and Management,
+32(1):1–21.
+Huppert DD. 2005. An overview of ﬁshing rights.
+Reviews in Fisheries Biology and Fisheries,
+15(3):201–215.
+Jensen F and N Vestergaard. 2002. A
+principal-agent analysis of ﬁsheries. Journal
+of Institutional and Theoretical Economics,
+158(2):276–285.
+Jentoft S. 2003. Co-management—the way forward. In Wilson DG, J Raakjaer, and PD Nielson
+(eds). The Fisheries Co-management Experience: Accomplishments, Challenges and
+Prospects. Denmark: Kluwer Academic Publishers.
+Jentoft S and TI Kristoffersen. 1989. Fishermen’s
+co-management: the case of the Lofoten ﬁshery.
+Human Organization, 48(4):355–365.
+Johannes RE. 1978. Traditional marine conservation methods in Oceania and their demise.
+Annual Review of Ecology and Systematics,
+9:349–364.
+Johannes RE. 1988. The role of marine resource
+tenure systems (TURFs) in sustainable near
+shore marine resource development and management in US afﬁliated tropical Paciﬁc islands. In Smith BD (ed.) Topic Reviews in Insular Resource Development and Management
+in the Pacific US-Affiliated Islands. University
+of Guam Marine Laboratory, Technical Report,
+No. 88, pp. 1–28.
+
+Johannes RE. 2002. The renaissance of
+community-based marine resource management in Oceania. Annual Review of Ecology
+and Systematics, 33:317–340.
+Johnson RN and GD Libecap. 1982. Contracting
+problems and regulation: the case of the ﬁshery. American Economic Review, 72(5):1005–
+1022.
+Juda L. 1996. International Law and Ocean Use
+Management: The Evolution of Ocean Governance. London: Routledge, 345 pp.
+Kitts AW and SF Edwards. 2003. Cooperatives in
+US ﬁsheries: realizing the potential of the ﬁshermen’s collective marketing act. Marine Policy,
+27(5):357–366.
+Libecap GD. 1989. Contracting for Property
+Rights. New York: Cambridge University Press,
+142 pp.
+Libecap GD. 2006. Assigning property rights in
+the common pool: implications of the prevalence of ﬁrst-possession rules. Paper prepared
+for Sharing the Fish 06 Conference, February
+26–March 2, 2006, Fremantle, Perth, Western
+Australia.
+Libecap GD. 2010. Rights-based management of
+tuna ﬁsheries: lessons from the assignment of
+property rights on the western U.S. frontier.
+Chapter 8 of this volume.
+Munro GR, A Van Houtte, and R Willman. 2004.
+The conservation and management of shared
+ﬁsh stocks: legal and economic aspects. FAO
+Fisheries Technical Paper, No. 465, 69 pp.
+National Research Council. 1999a. The Community Development Quota Program in Alaska.
+Washington, DC: National Academy Press, 215
+pp.
+National Research Council. 1999b. Sharing the
+Fish: Toward a National Policy on Individual Fishing Quotas. Washington, DC: National
+Academy Press, 436 pp.
+OECD (Organization for Economic Cooperation
+and Development). 2006. Using Market Mechanisms to Manage Fisheries: Smoothing the Path.
+Paris: Organization for Economic Cooperation
+and Development, 327 pp.
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+3
+
+Ostrom E. 1990. Governing the Commons: The
+Evolution of Institutions for Collective Action.
+New York: Cambridge University Press, 298 pp.
+Pinkerton E (ed.) 1989. Co-operative Management of Local Fisheries: New Directions for
+Improved Management and Community Development. Vancouver: University of British
+Columbia Press, 299 pp.
+Pinto da Silva P and A Kitts. 2006. Collaborative ﬁsheries management in the northeast U.S.:
+emerging initiatives and future directions. Marine Policy, 30(6):832–841.
+Ruddle K. 1987. Administrative and conﬂict management in Japanese coastal ﬁsheries. FAO
+Fisheries Technical Paper, No. 273, 93 pp.
+Ruddle K and T Akimichi (eds). 1984. Maritime
+Institutions in the Western Paciﬁc. Senri Ethnological Studies, No. 17. Osaka, Japan: National
+Museum of Ethnology, 329 pp.
+Salvanes K and D Squires. 1995. Transferable
+quotas, enforcement costs and typical ﬁrms: an
+empirical application to the Norwegian trawler
+ﬂeet. Environmental and Resource Economics,
+6(1):1–21.
+Sanchirico J, D Holland, K Quigley, and M
+Fina. 2006. Catch-quota balancing in multispecies individual ﬁshing quotas. Marine Policy, 30(6):767–785.
+Scott A. 1988a. Conceptual origins of rights based
+ﬁshing. In Neher P, R Arnason, and N Mollett
+(eds). Rights Based Fishing. Dordrecht, the
+Netherlands: Kluwer Press, pp. 11–38.
+Scott A. 1988b. Development of property in
+the ﬁshery. Marine Resource Economics, 5(4):
+289–311.
+Scott A. 1993. Obstacles to ﬁshery selfgovernment. Marine Resource Economics, 8(3):
+187–199.
+Scott A. 2000a. Introducing property in ﬁshery
+management. FAO Fisheries Technical Paper,
+No. 404/1, pp. 1–13.
+Scott A. 2000b. Moving through the narrows:
+from open-access to ITQs and self-government.
+FAO Fisheries Technical Paper, No. 404/1,
+pp. 105–117.
+
+Property and Use Rights in Fisheries
+
+63
+
+Seabright P. 1997. Is co-operation habit forming?
+In Dasgupta P and K-G Mäler (eds) The Environment and Emerging Development Issues,
+Vol. 2. Oxford, UK: Clarendon Press.
+Segerson K and TJ Miceli. 1998. Voluntary agreements: good or bad news for environmental protection? Journal of Environmental Economics
+and Management, 36(2):109–130.
+Spagnolo M and R Sabatella. 2007. Driftnets
+buyback program: a case of institutional failure. In Curtis R and D Squires (eds) Fisheries
+Buybacks. Oxford, UK: Blackwell Publishing,
+pp. 145–156.
+Squires D, H Campbell, S Cunningham, C
+DeWees, RQ Grafton, SF Herrick, J Kirkley,
+S Pascoe, K Salvanes, B Shallard, B Turris,
+and N Vestergaard. 1998. Individual transferable quotas in multispecies ﬁsheries. Marine
+Policy, 22(2):135–159.
+Squires D, O Ishak, Y Jeon, J Kirkley, K Kuperan, and I Susilowati. 2003. Excess capacity and sustainable development in Java Sea
+ﬁsheries. Environment and Development Economics, 8(1):105–127.
+Squires D, J Kirkley, and CA Tisdell. 1995. Individual transferable quotas as a ﬁsheries management tool. Reviews in Fisheries Science,
+3(2):141–169.
+Sullivan J. 2000. Harvesting cooperatives and U.S.
+antitrust law: recent developments and implications. Proceedings of the Tenth Biennial Conference of the International Institute of Fisheries Economics and Trade, Corvallis, OR, July
+10–14.
+Sykes DR. 2010. Can rights put it right? Industry
+initiatives to resolve overcapacity issues: observations from a boat deck and a manager’s desk.
+Chapter 7 of this volume.
+Townsend RE. 1990. Entry restrictions in the ﬁshery: a survey of the evidence. Land Economics,
+66(4):359–378.
+Townsend RE. 2005. Producer organizations and
+agreements in ﬁsheries: integrating regulation
+and Coasian bargaining. In Leal DR (ed.)
+Evolving Property Rights in Marine Fisheries.
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+lOMoARcPSD|18763363
+
+64
+
+Part I
+
+Introduction to Transnational Fisheries Management
+
+Lanham, MD: Rowman and Littleﬁeld,
+pp. 195–202.
+Wade R. 1987. The management of common
+property resources: ﬁnding a cooperative solution. World Bank Research Observer, 2(2):219–
+234.
+Warming J. 1911. Om Grundrente av Fiskegrunde.
+Nationaløkonomisk
+Tidsskrift,
+49:499–
+505.
+Wilen J. 1988. Limited entry licensing: a retrospective assessment. Marine Resource Economics, 5(4):313–324.
+
+Willmann R. 2000. Group and community-based
+ﬁshing rights. FAO Fisheries Technical Paper,
+No. 404/1, pp. 51–57.
+World Bank. 2004. Saving Fish and Fishers: Towards Sustainable and Equitable Governance of
+the Global Fishing Sector. Report No. 29090GLB. Washington, DC: Agriculture and Rural
+Development Department.
+Yamamoto T. 1995. Development of a
+community-based
+ﬁshery
+management
+system in Japan. Marine Resource Economics,
+10(1):21–34.
+
+Downloaded by Jun Ha (juha@ucsd.edu)
+
+

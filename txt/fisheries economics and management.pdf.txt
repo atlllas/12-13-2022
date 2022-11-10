@@ -1,0 +1,399 @@
+When a society’s resources and outputs are allocated in such a way that no
+feasible change can improve anyone’s welfare without reducing the welfare of at least
+one other person, then a Pareto optimum exists (named after Vilfredo Pareto, Italian
+economist and mathematician, 1848–1923). A reallocation that makes one person
+better off without making anyone else worse off is called a Pareto improvement. From
+our analysis it should be clear that open access harvesting is not Pareto optimal. By
+reducing effort from E ∞ to E MEY , as shown in figure 3.1, society saves on some factors
+of production that can be used in other sectors of the economy. This saving of
+resources should make it possible for the society to realise a Pareto improvement.
+Note that this criterion is rather strict, requiring that the improvement should take
+place “without making anyone else worse off”. However, economic development
+often takes place with net gains for someone, but losses for others. Even if total gains
+are larger than total losses in monetary terms, such a change is not a Pareto
+improvement because of the losses for someone. The Kaldor-Hicks criterion says that
+if a change in the economy is such that the gainers could compensate the loosers and
+still be better off, this change is beneficial for the society as a whole (J. R. Hicks and
+N. Kaldor published their work in 1939 in the Economic Journal). Compensation is
+hypothetical and this criterion suggests that the change is preferable even if
+compensation does not actually take place.
+
+3.3 Effort and harvest taxes
+In the previous section we have seen that a fishery can provide an economic surplus,
+resource rent, if effort is reduced below the open access level. We also derived the
+effort level E MEY that maximises resource rent. Using the sustainable yield curve, H(E)
+in figure 2.3, what the rent maximising harvest, H MEY , is follows immediately. The
+analysis so far does not tell how the reduction in E could take place. In many
+countries regulation traditionally plays a key role in managing fishing capacity and
+effort. We may think of capacity in numbers and size of vessels whereas effort is
+related to use of vessels in fishing. Examples of management instruments for capacity
+and effort reductions include vessel and fisher licences, effort quotas, length and
+weight limits for hull and fitted vessels, as well as engine power limitations. Such
+regulations are called input regulations. Output regulations related to the harvest of
+34
+
+fish are called quotas – be it total harvest quotas or harvest quotas per enterprise,
+vessel or fisher. In addition, input and output regulations may be combined with
+technical regulations, which include minimum mesh size of gear, minimum size of
+fish, and closed areas and seasons. Some of the regulatory instruments may be
+transformed into market instruments, such as tradeable licences and quotas (more on
+this in the next section).
+
+Indirect management instruments include taxes, fees and subsidies. The latter,
+for example a fuel subsidy, would encourage an expansion of effort and can be
+disregarded as an instrument to reduce effort in the direction of E MEY . In other parts of
+the economy corrective taxes are used to discourage the use of some goods and
+services, for example, motor vehicle fuel and tobacco, and to finance government
+budgets. Corrective taxes can in theory bring marginal private costs into alignment
+with marginal social costs. Such instruments are called Pigouvian taxes (after the
+British economist A. C. Pigou, 1877–1959). In principle, these could be used in
+fisheries, even though in practical fisheries policy they are hardly the regulatory
+means of primary choice among major fishing nations (see, for example, OECD,
+1997). Nevertheless, studying the effects of Pigouvian taxes on fishing effort, as well
+as on resources, is an excellent point of departure for studies in fisheries management
+– and to gain a basic grasp on how economic instruments work. Therefore, let us have
+a closer look at the effects of taxes on effort and harvest.
+
+We have seen in sections 3.1 and 3.2 that a renewable resource like fish is
+economically overexploited under an open access regime, provided the market price is
+high enough and the harvest cost low enough to make it a commercial resource.
+Another interpretation is that the bioeconomic model predicts that open access
+fisheries, in the long run, will not generate resource rent. Figure 3.1 shows that the
+average revenue per unit effort, AR(E), is greater than the marginal cost of effort,
+MC(E) if total participation in the fishery, measured by E, is less than E ∞ . The
+existence of a super-normal profit for the participants attracts new fishers with the
+result that total effort increases. This will take place as long as E is less than E ∞ . On
+the other hand, if effort at the point of departure for our analysis is greater than E ∞
+fishers will have higher costs than revenues and some of them will leave this fishery.
+
+35
+
+Thus, E ∞ is the open access equilibrium level for effort as long as prices and costs are
+constant, and to this effort corresponds an open access equilibrium level of the fish
+stock.
+
+In public discourse “the tragedy of the commons” seems to have several
+meanings, including that effort is higher than the maximum sustainable yield effort,
+effort is higher than the maximum economic yield effort, stock level is lower than the
+maximum sustainable yield stock and that sustainable yield is lower than maximum
+sustainable yield. It is, however, important to distinguish between “tragedies” related
+to biological concepts and to economic concepts. A fish stock that is economically
+over-fished, as is always the case at open access equilibrium, is not necessarily
+biologically over-fished. If fishing costs are high and/or fish price is low, open access
+does not necessarily attract enough effort to cause biological over-fishing. The
+equilibrium effort has to be higher than the maximum sustainable yield effort to cause
+biological over fishing, and this will not happen unless the effort cost is sufficiently
+low and/or the fish price is high enough.
+
+Based on the analysis above it is now clear that the management board should
+aim at doing something with the prices, costs or institutions that fishermen face. For
+fishermen high fish prices may be good in the short run, but with bad institutions
+(open access) this may in the long run be a threat against fish stocks. Using Pigouvian
+taxes, the manager’s task is to find the tax rate, on either effort or harvest, that adjusts
+effort to the maximum economic yield level E MEY . This requires an extensive
+knowledge about the biological and economic characteristics of the fishery, expressed
+in the H(E), TR(E) and TC(E) functions. However, any tax rate lower than the optimal
+one will move the fishery in the right direction, from E ∞ towards E MEY . Let us now
+assume that the manager has all the necessary information freely available so that we
+do not have to include information and management costs in the analysis. Panel (a) of
+figure 3.2 shows total revenues and costs, whereas panel (b) shows average and
+marginal figures.
+
+The following symbols will be used:
+
+36
+
+t E = tax per unit effort (for example, $ per trawl hour or trawler year)
+t H = tax per unit harvest (for example, $ per kg or tonne of fish landed).
+With an effort tax the total cost for the fishers is
+
+(3.14)
+
+TC P ( E ) = (a + t E ) E ,
+
+Figure 3.2. Use of corrective (Pigouvian) taxes on effort and harvest can equate
+social and private costs and social and private revenues.
+where E and a are effort and cost per unit of effort, respectively. The use of subscript
+p for TC underlines that this is the total private cost of the fishers, including what they
+have to pay in effort taxes to the government. Note that for any value of E total
+private cost TC p is greater than the total cost, TC, since fishers have to include the
+effort tax in their costs. The effect of an effort tax can be analysed equivalent to a shift
+in the cost per unit effort, thus increasing the slope of the total cost curve for the
+industry. This is shown in figure 3.2, where TC(E) is the total cost curve exclusive of
+the effort tax and TC p (E) is the total cost curve including the tax. The effect of the
+37
+
+effort tax is to augment total private costs to such a level that the TC p curve intersects
+the total revenue curve for the maximum sustainable yield effort level E MEY . This
+implies that the total revenue, TR(E), is shared between the government, as the tax
+collector, and the fishing industry. The former receives the resource rent, π MEY , and
+the fishers end up with the difference between the total revenue and the resource rent,
+TR(E) minus π MEY . Fishers in total receive TR(E) for their catch, and out of this they
+pay a tax proportionate to their effort. What is left is just enough to cover the costs of
+the fishers. Recall that ordinary remuneration of capital and labour is included in the
+costs.
+
+The total amount of resource rent depends on biological and economic
+characteristics of the fishery, related to the forms of the curves in figure 3.2. In
+general, we could say that low cost fisheries with high priced and/or easy to catch fish
+have the greatest potential for generating resource rent. On the other hand, high cost
+fisheries with low priced and/or hard to catch fish may even make it uneconomical to
+sustain a fishery on a commercial basis. Realising resource rent has a meaning only
+when a fishery generates, or is expected to generate, higher revenues than costs.
+
+With a harvest tax the total private revenue of fishers equals
+
+(3.15)
+
+TR P ( E ) = ( p − t H ) H ( E )
+
+where p and H are the price of fish and of harvest, respectively. Note that TR now has
+the subscript p to underline that the total revenue in (3.15) is what the private industry
+receives net of taxes. The other part, equal to t h H(E), is the government’s tax revenue.
+It is easy to see by re-arranging (3.15) that the total revenue of the fishery, p H (E) ,
+equals the sum of private and government revenues. Recall that the tax rate t h is
+measured in $ per kg or per tonne – in other words we do not use a percentage tax in
+this analysis.
+
+Figure 3.2 panel (b) shows in detail the effects of the two taxes discussed
+above. The MC, AR and MR curves are the before-tax fishery marginal cost, average
+revenue and marginal revenue, respectively. The open access bioeconomic
+equilibrium is at the effort level E ∞ where the fishery marginal cost curve intersects
+38
+
+the average revenue curve. In this case with a horizontal MC curve the effort tax shifts
+this curve upward to MC p , a distance equal to the size of the tax. If, for example, the
+fishery marginal cost is $100 per trawl hour and the effort tax t E also equals $100 per
+trawl hour, the fishery marginal cost including the tax will be twice the pre-tax level.
+In figure 3.2 panel (b) this is illustrated with a MC p curve at a level twice as high as
+the MC curve. The MC p curve intersects the AR curve for an effort level that gives
+maximum economic yield, E MEY . The industry now faces the effort cost including the
+tax and this will equal average revenue AR at equilibrium. For effort levels lower than
+E MEY the AR curve is above the MC P curve. This implies that additional effort will
+enter the fishery due to super-normal profit in the industry, and the stock will decline
+to reduce the average revenue along the downward sloping AR curve towards the
+E MEY level. On the other hand, if effort is above the E MEY level the effort cost
+including the tax is above the average revenue curve, imposing a loss on the
+participating vessels. This implies that some effort will have to leave the industry,
+resulting in lower catch, increased stock level and increased average revenue when
+moving from the right along the AR curve towards E MEY . In case of an effort tax as
+the only management instrument fishers will face a higher cost of effort, but in all
+other respects their adaptation will be as under open access.
+
+In case of a harvest tax, the average and the marginal revenue curves of the
+sustainable fishery are affected as shown in figure 3.2 panel (b). If the price of fish is
+$2.00 per kg and the harvest tax is $1.00 per kg, the net price of fish received by the
+fishers will be $1.00. Whether fishers receive $2.00 per kg and are charged a tax of
+$1.00 per kg, or they receive the net price of $1.00 does not make any difference to
+their net revenues. In the latter case the $1.00 harvest tax is levied on the buyers who
+collect the tax on behalf of the government. With this example the AR p (E) curve has a
+slope about half as steep as the AR(E) curve in figure 3.2. This is due to the definition
+of average revenue; namely total revenue divided by effort. With a constant price of
+fish the numerator of the average revenue will change in proportion with the harvest
+tax for a given level of effort. The right-hand side end point of the average revenue
+curve on the effort axis will not be affected by the harvest tax; thus the intersection is
+at E k for both the AR and the AR P curve.
+
+39
+
+In figure 3.2 the level of the effort tax is such that the linear TC p curve
+intersects the total revenue curve for E MEY . This implies that the total tax revenue
+equals the resource rent:
+
+(3.16)
+
+π MEY = t E EMEY .
+
+In the case of a harvest tax in figure 3.2 the level of this tax has been set such that the
+TR p curve intersects the total cost curve for E MEY . The resource rent in this case is
+exactly of the same amount as the tax revenue:
+
+(3.16)
+
+π MEY = t H H MEY .
+
+By use of taxes on effort or harvest, the profit maximising behaviour of fishers results
+in lower effort than under open access, and those who stay in the industry earn a
+normal remuneration. Open access fisheries give, as we have seen, too many fishers in
+the industry, but resource taxes on effort or harvest could positively alter this. Thus, a
+tax on harvest contributes to decreasing the total revenue of the industry whereas a tax
+on effort contributes to increasing the industry costs. Resource taxes levied on effort
+or harvest would change the private cost or private revenue, respectively, to
+discourage participation in the fishery. The tax authority, traditionally the central
+government, collects the resource rent generated. This tax revenue may be used to
+reduce other taxes or to augment the government’s expenditures. From a policy point
+of view resource rent can be re-distributed, for example, to fishing communities or
+regions, without any efficiency loss. The question of how the resource rent is spent or
+re-distributed should be seen independently of the problem of generating the rent.
+That is one of the strengths of this analysis. However, in actual commercial fisheries
+resource taxes have not been a common management instrument, like in other
+environmental and natural resource saving relations (for an overview of
+environmentally related taxes in industrialised countries, see OECD, 2001; OECD
+2003; and The Environmental Taxes Database of OECD at http://www.oecd.org/).
+Also see chapter 11 on what may happen to fisheries dependent regions and countries
+if distributional issues are neglected.
+
+40
+
+Management does not come for free. There are costs of research and assessment
+of fish stocks and markets, as well as costs of obtaining information on costs and
+earnings of fishing vessels. In addition management and enforcement systems are
+necessary institutions which need economic funding. In some cases locally limited
+ecosystems may be governed more efficient and less costly by fishermen and other
+stakeholders themselves (see Ostrom, 1990, which is one of the major works that
+gained professor Elinor Ostrom the 2009 Nobel price in economics).
+
+3.4 Fishing licences and quotas
+We have seen in the previous section how effort and harvest taxes could be used to
+reduce effort down to or towards the long run optimum, the rent maximising level.
+How much effort is reduced from the open-access level depends on the size of the tax,
+which in this case acts as a price instrument. In simple cases like this, with a single
+resource and no distinction between year classes, with one-dimensional effort (no
+substitution between inputs), no management costs and no uncertainty, the manager
+may choose freely between indirect price instruments (taxes) and direct instruments,
+such as effort and harvest quotas. Price management (taxes) and quantity management
+(quotas) have equivalent effects on overall industry production and economic
+performance, therefore they are called dual instruments. However, to ensure that the
+expected results are lasting, the effort quotas and harvest quotas should be transferable.
+This means that there has to be a quota market to ensure that at any time the most
+cost-effective fishers do the fishing. In a successful MEY-managed fishery resource
+rent per unit effort would be Π MEY /E MEY and resource rent per unit harvest would be
+
+Π MEY /H MEY (recall figure 3.2). These two ratios indicate the equilibrium prices of
+effort and harvest quotas, respectively.
+
+In actual fisheries the initial distribution of the fishing rights, such as vessel
+licences, effort quotas and harvest quotas are often heavily debated. There could be
+several reasons for this, but the main one has to do with the distribution of resource
+rent, which may be significant in well-managed fisheries. Even in a system with nontransferable harvest and effort quotas, significant resource rent may still be generated,
+in particular, if the initial quotas are given for free to those fishers that are most
+
+41
+
+successful under the open access regime. The question is, however, whether these
+fishers also in the future will be the most efficient ones.
+
+Let us now have a closer look at the effects of using licences and quotas as
+management instruments and compare the results to that of taxes. A vessel licence is a
+permission to register and use a vessel for commercial fishing. The licence may or
+may not specify limits to the vessel characteristics, for example, length (metres),
+weight (gross registered tonnes), hold volume (cubic metres) or engine power (horse
+power or kilowatt), and to the type of gear (for example, trawl, long-line or purse
+seine). A licence usually restricts the fishing capacity of the vessel; in general
+capacity is the amount of fish that can be produced per unit of time, for example, per
+year, with existing vessel, equipment and gear at a given stock level, provided the
+availability of variable factors of production is not restricted. 1 While capacity is
+related to the mere existence of the fishing vessel, effort is related to its use, measured
+for example, in hours, days or years. What to use as the unit of effort is mainly a
+question of convenience (see Box 3.1). In what follows we shall focus on effort and
+harvest quotas as management tools without discussing explicitly the use of licences.
+However, there is a close connection between the licence value and the quota value,
+depending on the amount of harvest quotas or effort quotas a licence holder is given
+or allowed to acquire.
+
+Figure 3.3 is derived from figure 3.2 and shows effort along the horizontal axis
+and market price of effort along the vertical axis. Effort and its market price are both
+related to the same unit of measurement. For example, if effort is measured in trawl
+hours the effort quota price is in $ per hour trawling, and if effort is measured in
+whole-year operated trawlers, the price is in $ per trawler year. Resource rent per unit
+effort is the difference between the average revenue per unit effort, AR(E), and the
+marginal cost of effort, MC(E) (see figure 3.2). In a perfect market, disregarding
+uncertainty, the effort quota price reflects the expected resource rent per unit effort
+and the harvest quota price reflects the expected resource rent per unit harvest. The
+licence price in figure 3.3 has its maximum for just one unit of effort, recalling that
+1
+
+A common definition of capacity often used in productivity studies is that of Johansen (1968): “The
+maximum amount that can be produced per unit of time with existing plant and equipment, provided
+the availability of variable factors of production is not restricted”.
+
+42
+
+the highest average resource rent is gained if only one unit of effort participates in the
+fishery. At the other end of the effort price curve is the zero price for the open access
+case. The quota price is zero if the number of effort quotas equals the amount of effort
+that would establish itself under open access. In an open access fishery the market
+price of quotas is zero because no resource rent is generated. The total value of the
+quotas is, as usual, the product of price and quantity. In this case the maximum total
+value of the effort quotas, which is the product m MEY E MEY shown in figure 3.3, is
+equal to the maximum resource rent, Π MEY , shown in figure 3.2. Note that this
+analysis relates to long run equilibrium harvesting where the manager has adapted the
+number of effort quotas to maximise resource rent.
+
+Figure 3.3. Effort quota price as a function of sustainable effort.
+
+So far in this chapter we have studied some long-run aspects of fisheries, in
+particular the cases of open-access and MEY management, assuming that the supply
+of homogenous effort is plentiful at a constant marginal cost of effort, previously
+denoted a. However, from the theory of the firm we recall that increasing marginal
+cost is necessary to avoid corner solutions with “all” or “nothing” production. In
+
+43
+
+fisheries economics the declining stock as a function of effort helps avoid corner
+solutions, as shown in figure 3.2. 2
+
+Let us now assume that in the short run there is increasing marginal cost of
+effort at the firm level (more on this in chapter 6). This means that if there is a market
+
+Figure 3.4. Two firms’ demand for quotas as a function of quota price.
+“Effort/harvest” means effort quota or harvest quota.
+for effort quotas the firm wants to buy more quotas the cheaper they are; the firm may
+be a multi-vessel company, a single vessel company or an owner-operated vessel. The
+downward sloping demand curve corresponds fully to the regular firm’s demand for
+any variable input that can be bought in the market. Figure 3.4 shows the equilibrium
+in a quota market with two competitive firms. The quota price is shown on the vertical
+axis. On the horizontal axis the distance CD measures the managers’ total supply of
+effort quotas or harvest quotas. If effort quotas are used, the total supply CD has to be
+less than the open access effort level to ensure demand and a positive price. If there is
+a positive price for effort quotas this also ensures a positive price for harvest quotas,
+and vice versa. In figure 3.4 quotas in firm A are measured off to the right from C and
+quotas in firm B are measured off to the left from D. The AA curve expresses the
+2
+
+However, one corner solution in figure 3.2 would be zero effort and the virgin fish stock, in the case
+where effort cost is too high for there to be an intersection between the MC(E) and the AR(E) curves.
+Another corner solution would be for zero effort cost, implying extinction of the stock and zero effort
+after the “extinction process” is finished.
+
+44
+
+value of the marginal quota in firm A and the BB curve measures the value of the
+marginal quota in firm B. Thus the AA and the BB curves are the demand curves for
+quotas for firms A and B respectively. Each of these demand curves depends upon
+three things. First, the harvest technology for producing effort from capital, labour and
+other inputs. Second, the price of fish; an increase in the price shifts the demand for
+quota upwards. Third, the amount of vessel specific capital, which may be different
+for the two firms. In this case depicted in figure 3.4 there is more vessel capital in firm
+B than in firm A since the quota demand for any price m is higher in firm B than in
+firm A.
+
+Figure 3.4 shows that the quota price m* is the equilibrium price. For this
+price the total quota, equal to the distance CD, is allocated between the two
+competitive firms according to the profit maximising criterion. 3 If the initial quota
+distribution is CG for firm A and DG for firm B, both firms will gain from a quota
+trade. Firm A will sell quota FG to firm B, and the market equilibrium is established
+at F with the quota price m*. In general, if the manager distributes for free the initial
+total quota CD equally between several firms, which are allowed to trade quotas, a
+competitive quota market ensures that the most efficient firms conduct the actual
+harvest. This is also the case for any other initial free distribution of the total quota.
+When quotas are distributed for free to the fish harvesting firms these firms reap the
+benefits of a successful management regime. Alternatively the manager could auction
+the quotas, and with a competitive market the equilibrium price is m*, as shown in
+figure 3.4. The main difference between an auction and initially free quotas is in the
+distribution of the resource rent. With an auction the auctioneer collects the resource
+rent, whereas the rent benefits the recipients when quotas are distributed for free. This
+may explain why fishers are usually in favour of free initial quotas and why they
+oppose auctions.
+
+Exercise 3.1
+A fish stock with its distribution area limited to a bay is managed locally. Assume that
+the following function describes the annual growth of the stock:
+3
+
+Our use of only two firms is of course to make the model and the discussion as simple as possible,
+even though we know it takes more than two to create a competitive market.
+
+45
+
+

@@ -1,0 +1,3255 @@
+Chapter 2
+
+BIOECONOMICS OF RENEWABLE RESOURCE USE
+JAMES E. WILEN
+University of California
+
+1. Introduction
+One of the characteristics of natural resource economics which makes it both
+interesting and difficult is its heavy reliance on noneconomic as well as economic
+concepts. Basic notions from the fields of law, population biology, petroleum
+engineering, ecology, hydrology, entomology and other fields are increasingly
+appearing in the literature of the field. Over the past two decades the field has
+expanded both in breadth of coverage and also in depth of conceptual development so that a well-rounded natural resources economist needs to have considerable knowledge not only about sophisticated techniques in economics but also in
+several other outside fields.
+In light of these facts, the task of writing a survey chapter on something like the
+bioeconomics of renewable resources runs a risk of ending up looking like the
+Platte River (a mile wide and an inch deep) or too concentrated in economics to
+inform the principal readers (economists presumably) much about relevant concepts in the outside discipline. Accordingly, this chapter attempts to walk a fine
+line of being both compact and comprehensive in discussing relevant concepts
+from economics and biology. In addition, an attempt has been made to identify
+unifying threads and areas of potential future development in bioeconomics.
+This chapter has four major parts. Section 2 discusses the economic concepts
+which appear to be central to analyzing biological situations typically encountered. The concepts are drawn from capital theory and cover two classes of
+problems: a continuous investment/disinvestment problem and a point-input
+point-output problem where timing of a single action is important. Section 3 then
+reviews relevant concepts from biology which affect the nature of the corresponding bioeconomic problem. The section is written with most emphasis on the range
+of population growth mechanisms we see in natural systems and the individual
+characteristics that have evolved to produce such population mechanisms. Section
+4 then draws material from Sections 2 and 3 together in a review of some different
+bioeconomic models and their conclusions. Section 5 concludes by discussing
+likely directions of future research.
+Handbook of Natural Resource and Energy Economics, vol. I, edited by A. V. Kneese and J.L. Sweeney
+© Elsevier Science PublishersB. V., 1985
+61
+
+62
+
+J. E. Wilen
+
+2. Economics and renewable resource use
+2. 1. Renewable resources as stocks of capital
+In natural systems with and without the presence of man, evolutionary forces
+have filled spaces with a diversity of populations of plants, insects, fish, mammals,
+and birds. Although there is disagreement over where evolution is leading the
+system in the long run, there is some understanding of the mechanisms of
+competition and symbiosis between these populations and the elements which act
+to control given population sizes in their particular patches of space.
+From the point of view of man as the ultimate user of these resources,
+populations of natural organisms are most conveniently viewed as stocks of
+capital or assets which provide potential flows of services. Determining how to
+maximize benefits from these resources thus becomes a problem of capital
+theory - deciding mainly how to utilize this "portfolio" of stocks over time. This
+view avoids the ethical issues of whether man has "right" to utilize resources for
+his own good (see discussion in Chapter 5 of this Handbook) but it does admit
+the possibility that "benign" uses, i.e. leaving the system close to "natural", may
+be the best from man's perspective also. In addition, such a view requires that a
+system view be taken in order to account for interrelationships among the
+populations that make up the portfolio.
+The essential questions of modern capital theory are precisely issues of optimal
+use of stocks over time. While early writers stressed the "intermediateness" or
+"round-about" nature of capital, the critical characteristics of capital which make
+it interesting as an economic problem are:
+(i) durability
+(ii) sluggishness-capital stocks cannot be instantly adjusted without incurring some adjustment costs.
+Durability is a crucial distinguishing characteristic of capital since it links past
+decisions with current opportunities and also makes future possibilities dependent
+on today's decision. Inputs that are flows rather than stocks can be treated in a
+sequential series of static decisions since there is no carryover from past decisions
+nor impact on the future from current decisions. Hence, durability in relation to
+decision periods makes it necessary to initiate intertemporal planning and, in
+particular, to forecast the future in order to make the best decision today. In
+addition, the fact of capital's durability makes it a store of wealth, i.e. it assumes a
+value which carries through time, and as a result the stock may be subject to
+speculative decisions as well as pure production-related decisions involving service
+flows.
+The second characteristic (costly adjustment) is also critical in that it forces the
+decision-maker to consider the future in order to spread out the costs of altering
+the capital stock. For example, if a firm is using machinery to produce a product
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+63
+
+and it can rent or purchase/resell at any moment at some fixed price per unit
+capital, then it can simply wait for all uncertainty about product prices, etc. to be
+unveiled and then instantly adjust to meet the desired stock level [Arrow (1964)].
+In this case, with no adjustment costs (i.e. costs which rise as the rate of capital
+stock adjustment increases), determining a capital stock path (or investment plan)
+is really a sequentially static decision problem, requiring no forecasting or
+intertemporal planning. On the other hand, if more machines need a larger
+building, more labor, etc. then there are adjustment costs C(I), where I is the
+investment level, C'(I)> 0 and (critically) C"(I) # 0. Thus if, for example,
+C(I) = 12 and the entrepreneur wants to increase the capital stock by 100 units,
+the costs of investing immediately will be tenfold the costs of adding 10 units each
+year over a ten-year period. The rapid investment policy, of course, will yield
+returns earlier and thus we have a classic intertemporal tradeoff problem where
+one can incur high adjustment costs to get early higher returns or one can adjust
+slower with a returns penalty. The optimal decision depends in a sometimes
+complex manner on a balancing of gains from earlier benefits against costs of
+rapid adjustment.
+In summary, these two characteristics of durability and costly adjustment make
+for a difficult intertemporal planning problem. With durability, it is necessary to
+know the future profiles of prices, costs, and stock sizes and incorporate them into
+optimal decisions at any point in time. Thus, even if there are no adjustment costs
+associated with changing the stock in the future, we are still faced with what we
+refer to as a timing problem of deciding when to change the stock level. With
+positive adjustment costs we face, in addition, an optimal investment/disinvestment problem of deciding how fast to change the stock, since it may be better to
+begin increasing or decreasing the stock early in order to spread out adjustment
+costs.
+
+Biological and other natural resources obviously fit the above characteristics of
+capital stocks. They are durable in that organisms, or the population, or the
+species, generally live beyond the interval of the typical planning period. In
+addition, since all populations have rates of increases limited by their intrinsic
+population biology, they cannot be instantly and costlessly adjusted upwards so
+that there are investment adjustment costs (perhaps zero up to certain rates of
+increase, infinite thereafter). Some stocks which are clustered and easily harvested
+in total (e.g. schooling fish, forests) may be reduced with virtually no increase in
+costs but for other resources as stocks thin out it is usually increasingly expensive
+to harvest remaining units so that reduction adjustment costs may be increasing
+as well. Thus use of natural systems confronts us with both timing and investment/disinvestment problems generally.
+2.2. Capitaltheory - basic results
+
+In order to understand the nature of intertemporal problems and the complexities
+introduced by the above characteristics, it will be useful to consider a simple
+
+J.E. Wilen
+
+64
+
+model of a firm. The firm produces a product Q which can be sold at price p each
+period. The quantity of Q in any period t depends on the quantity of the firm's
+capital stock K via the production function
+
+Q,=F(K,),
+
+F'>O,F"<0.
+
+(1)
+
+There are costs C(I,) of adding to the capital stock where I, is the investment
+rate. We will assume that capital depreciates at a constant proportional rate r so
+that (dK/dt)=k, = I, - rK,. The firm has Ko units of capital initially and wants
+to determine the optimal investment plan which maximizes the present value of
+profits, or
+maxf
+
+[pF(K,)
+
+-
+
+C(I)]e-'dt
+
+s.t.
+K, = It - rK,,
+where 8 is the discount rate. The solution to this problem depends in an
+important way on C(I) and particularly on whether C(I) exhibits adjustment
+costs.' Adjustment costs imply that C(I) increases at an increasing rate in I so
+that marginal costs of adding capital are increasing with the level of addition. A
+reasonable form for C(I) thus might be something like
+C(I ) = Pk '
+
+(3)
+
+where Pk is a (minimum) unit price of investment and where P = 1 implies no
+adjustment costs and > 1 implies positive adjustment costs.
+Consider first the case with / = 1. Then the integrand in (2) becomes
+
+FI(K, I) = pF(K) -Pk' = IA(K, K) =pF(K) - Pk[K+ rK].
+Since it costs nothing extra to rapidly adjust the capital stock compared to a
+slower adjustment, it obviously is better to adjust it as quickly as possible. The
+important issue, however, is what level should the stock be adjusted to? The
+answer to this (and a proof that most rapid adjustment is optimal) is provided in
+an elegant paper by Spence and Starrett (1975). Let M(K)= pF(K) - PkrK and
+let N(K)= -Pk. Spence and Starrett show that for any problem whose augmented integrand (derived by substituting the dynamic constraint into the original integrand) can be written as
+HA,(K,
+
+k) = M(K) + N(K)K,
+
+(4)
+
+the optimal solution reduces to one of simply reaching a steady state level
+K = K * as quickly as possible. In the problem considered above, if there are no
+constraints on I, this would be achieved with an initial "impulse control" with
+I = cc or I = - oo that jumps the capital from KO to K*.
+1Time subscripts will be dropped from this point forward where the meaning is obvious.
+
+65
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+The optimal level K * is found as follows. Let
+S[K(t)] =J
+
+K(
+
+)N(e)de,
+
+sothat S=N(K)K.
+
+(5)
+
+Then, the problem in (2) can be written as
+max
+J
+K, K
+
+[M(K)+N(K)K]e-'dt=fo0 [M(K)+S]e-'dt.
+
+(6)
+
+But the second part of the RHS integral can be integrated by parts to yield:
+J Se-'dt
+
+S [K(t)] -'dt,
+
+=8
+
+0
+
+(7)
+
+0
+
+so that (6) reduces to
+max f
+
+[M(K) +S(K)
+
+e- a
+
+'dt=f
+
+V(K)e-tdt.
+
+(8)
+
+The important thing to note is that the original problem in K and I reduces to a
+simple problem in K alone. Obviously, (8) is maximized by making K follow a
+most rapid approach path (MRAP) to K = K * defined by V'(K *) = 0.2 Thus, we
+have an important rule applicable to any capital problem; namely, if by substituting the constraint into the original integrand we have as an augmented integrand
+7r(K, K) which is linear in K, i.e. as in (4), then the optimal solution is a MRAP
+to K * defined by (8).
+For the specific problem in (2) with /3 = 1, the optimal steady state level of K is
+given by
+
+pF'(K)
+
+(9)
+
+Pk
+= Pk-
+
+The intuition behind this condition is clear: if we happen to be at some level K 0
+and contemplate staying there forever, then the present value of future returns
+will be
+V(Ko)
+
+fo [pF(KO)
+PkOl e -
+
+8'
+
+dt
+
+pF(Ko) -PkrKO
+
+(10)
+
+However, a small change (say AK units) away from this level to a new sustained
+level Ko + AK would change these profits by
+APV(K) AK pF'(Ko) PAK
+(11)
+AK
+6
+The costs of making this change would be PkAK and hence it pays to make
+marginal adjustments as long as the gain (loss) in (11) exceeds the cost (benefit
+from liquidating and selling) of PkAK. At the optimal K= K*, (11) should be
+equal to PkAK and hence condition (9) follows.
+2 Second-order conditions must be met, of course. If more than one local maximum exists, the
+solutions must be compared globally, in which case the initial value K 0 may be important.
+
+J.E. Wilen
+
+66
+
+It should be obvious now that there is a relationship between adjustment costs
+and the MRAP problem. In particular, if C(I) exhibits adjustment costs so that
+, > 1 in (3), then the augmented integrand will no longer be linear in K since
+C(I) will be convex. Thus adjustment costs lead to a more complicated problem
+where simple impulse controls to a steady state are not the optimal solution. As it
+turns out, however, the above hueristic of examining the marginal gains and losses
+associated with moving from a presumed optimal steady-state stock is still valid.
+In particular, as long as the relevant parameters p, Pk and r are autonomous or
+invariant with time, the optimal solution involves approaching some steady-state
+stock level K*. The approach, of course, cannot be MRAP since there are
+adjustment costs.
+Consider, for this more general problem, a situation where we begin with some
+stock level K 0 and we are considering staying at K. Then, since we are
+committed to this steady state level forever, Io = rKO and
+PV(K) =f
+
+e-
+
+[pF(Ko)- C(Io=rKo)]dt =
+
+(Ko) (rK)
+
+(12)
+
+The characteristic of K * which makes it the optimal steady-state level is that an
+incremental increase or decrease to some new level K * + AK must result in no
+gains as before. Suppose that we consider a slight increase AK> 0 from Ko, i.e.
+we add AK units of capital and move to a new steady state K = KO + AK. Then
+the change in the present value of sustained profits will be
+APV(KO) AK
+AK
+
+pF'(K) - C'(rK)rK
+8
+
+(13)
+
+The increase is achieved by purchasing some capital, however, so that we also
+have a short term acquisition cost of
+C()
+AI
+
+AI
+
+C'(Io)AI.
+
+(14)
+
+If we happened to be to the left of the maximum of (12) initially, the acquisition
+would yield a positive contribution (13) offset by a negative cost (14). As long as
+the net gain is positive it pays to make the incremental acquisition. Similar
+reasoning would hold for corresponding marginal liquidations of the capital
+stock. 3 Thus, K * can be identified as that level for which a further incremental
+move results in no net gain or where an equal gain (loss) in sustained profits is
+just matched by the cost (gain) in investment (disinvestment) need to obtain that
+3 In this case, it is convenient to assume symmetric adjustment costs so that the marginal cost of
+adding a unit from the steady-state position is C'(rKO) and the marginal cost of removing a unit is
+
+- C'(rKo).
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+67
+
+move, i.e.
+pF'(K*) C(rK*)r - C'(I*)= C'(rK*).
+
+(15)
+
+The intuition behind this condition is the same as discussed for the linear case in
+that at the long-run optimal steady-state stock, the present value of the benefits of
+a marginal change in the steady-state capital stock are just offset by the (current)
+marginal cost of making that change.
+These results can be expressed graphically as follows. Consider the cost
+function in (3) above with /3 = 2 and
+= 1, i.e. alternatively the case with
+adjustment costs and without them. Figures 2.1(a) and 2.1(b) show the steady-state
+profits per time period for any given long-run K. In the steady state, investment
+(I= rK) must be just enough to cover depreciation and hence C(I) can be
+expressed in terms of the stock level or C(rK). The added costs associated with
+adjustment costs over and above the constant unit investment costs PkrK imply
+that steady-state profits will be maximum at a lower stock level with = 2
+compared with = 1. Figure 2.1(c) graphs conditions (9) and (15) above. The
+optimal steady-state value of K= K * just balances the marginal gains and losses
+associated with an incremental change in the long-run steady-state stock level.
+Note that K* is not where per period sustained profits are largest generally
+(except when 8 = 0). This is because if one happens to be at this point initially, it
+pays to give up a little of these long run profits in trade for some "liquidation"
+gains. In fact, the larger the discount rate the more it pays since future losses in
+steady-state profits become discounted relative to immediate liquidation gains. In
+contrast, if one starts with a low stock, it pays to invest in stock to increase
+long-run sustained profits up until K* is reached. As incremental changes are
+added in this case, (13) and (14) are both positive but the difference or overall
+gain is positive until K = K *. Here, again, with a positive discount rate it does
+not pay to invest up to the point where steady-state profits are maximum since
+immediate take-home profits must be forgone to do so. The higher the discount
+rate, the lower are the prospective gains and the more onerous are the present
+costs.
+What role do adjustment costs play in this problem? Generally adjustment
+costs affect both the steady-state value K * and the optimal approach to K * for
+any arbitrary KO. The affect on K* can be seen in Figures 2.1(a)-2.1(c). In
+particular, if /3 = 1, K=1 is the optimal long-run steady-state stock. In this case,
+however, as discussed before, the optimal approach to K* is simply an impulse
+control which immediately jumps K to K* with I= oo (if K0O<K*) or
+I = - oc (if K > K *). In the more interesting case, as adjustment costs increase,
+K * decreases because the per period costs of maintaining the stock (i.e. replacing
+depreciation) are higher.
+
+68
+
+J.E. Wilen
+
+1
+IoD
+an 13=2 6
+
+rn Jp-=l
+
+Figure 2.1. Optimal steady-state stock levels - with and without adjustment costs.
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+69
+
+The remainder of the optimization problem involves determining how to get to
+K * from some arbitrary K 0 . The problem of determining the explicit optimal
+approach is more technically difficult but basically boils down to the condition
+that K,* satisfy
+C'(It*) =
+
+pF'(K)e -( 8+r)(s- ')ds.
+
+(16)
+
+The expression is basically a non-steady-state version of (15), where It and K t
+now represent optimal (non-steady-state) values. 4 Eq. (16) is an equation for the
+optimal path of It* and k + rK as well and if differentiated with respect to time,
+the result will be a (nonlinear generally) second-order differential equation in K
+whose solution depends upon the end point conditions and the time horizon.5
+For a well-behaved problem (i.e. with F concave, parameters time invariant,
+and C convex) with an infinite time horizon, the solution to the differential
+equation in (16) is qualitatively a smooth asymptotic [see Figure 2.2(a)] approach
+to the steady-state value of K *. If a terminal value KT is to be reached in a finite
+problem, the solution involves staying "close" to K * for a time dependent on the
+horizon length [see Figure 2.2(b)].6 If K > K *, the optimal path is corresponding
+4 This condition is derived as follows. The current valued Hamiltonian for this problem may be
+written as:
+(a) H=pF(K)-C(I)+X[-rK+I].
+The optimal investment level I* satisfies:
+(b) C'(I,*)=X,,
+(c) X, - 8X,= -pF'(K,)+Xr, and
+(d) K= ,* - rK,.
+Integrating (c) directly and evaluating between t and o gives
+X( t ) =f,
+
+pF( K )e
+
+r)
+
+)ds,
+
+which when set equal to (b) gives eq. (16) in the text. Note that the assumption of proportional
+depreciation allows the depreciation costs to be effectively collapsed into a discount factor so that at
+each point along the optimal trajectory, the marginal cost of adding another unit of investment is just
+balanced by the future gross marginal benefits, discounted by the augmented discount factor.
+s To see this, note that differentiating (16) with respect to t gives
+C"(l) i=(r +
+
+)C'(l)-p
+
+F'(K).
+
+Since I = K + 8K, this equation in , I, and K can be re-expressed in terms of K, k, and K. With
+both F'(K) and C'(-) nonlinear, the resulting equation will be a nonlinear second-order differential
+equation, the solution of which is the optimal time path K,*.
+6 This result is the so-called "turnpike" property of the optimal capital accumulation literature, i.e.
+the optimal savings or investment rate calls for getting the capital stock level close to, and thereby
+remaining close to, the "turnpike" level [characterized by (15)] and veering off only if an alternate
+terminal stock must be reached. This makes intuitive sense if it is recalled that K* is defined as that
+level for which incremental changes only decrease the present value of corresponding future returns.
+The rapidity with which one approaches (K*) and subsequently stays there will, of course, be
+governed precisely by the onerousness of costs of adjustment. When adjustment costs are zero, it pays
+to get to K* as quickly as possible and stay as long as possible. As adjustment costs become positive,
+one cannot afford to get too close or stay too long, and hence an asymptotic path arises.
+
+70
+
+J.E. Wilen
+(za)
+K*=1
+K*=2
+
+-
+
+-
+
+---
+
+--------------------I~~H
+
+Ko
+t
+
+K"fi
+
+K'0
+
+T
+
+I=rK *
+
+Figure 2.2. Optimal capital accumulation profiles- with and without adjustment costs.
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+71
+
+N
+
+K
+N1=
+1-(1-K) e-rt
+No
+Figure 2.3. Logistic growth model.
+
+asymptotically decreasing. Finally, for a special case of adjustment costs where
+the investment rate is simply constrained between upper and lower bounds
+I < I, < I, adjustment costs are effectively zero within the range and infinite
+otherwise, giving rise to the so-called bang-bang solution where investment levels
+are I or I until Kit= 1 is reached. 7 This is illustrated in Figure 2.2(c).
+
+2.3. Optimal use of naturalresources- the logistic model
+The above introduction to capital theory focusing on a model of the firm provides
+a useful framework for examining optimal natural resource use since, as discussed
+earlier, it is convenient to view natural resources essentially as capital goods.
+Perhaps the most commonly used model of biological populations is the
+Pearl - Verhulst logistic model [Pearl (1930), Verhulst (1838)] in which the population is assumed to grow as a logistic or S-curve over time (see Figure 2.3). In this
+model, the numbers or biomass of organisms grows rapidly early as the abundance of food is relatively great and then the growth rate tapers off and the
+population asymptotically approaches its carrying capacity K. The equation
+7 This is the model extensively developed by Clark (1976).
+
+72
+
+J.E. Wilen
+
+describing the above growth pattern is
+N(t)=
+
+/
+
+il_
+
+_K
+
+K
+(
+
+.
+
+(17)
+
+) -rt
+
+This can be differentiated with respect to t and rearranged to get
+= rN [1 - (N/K)] = F(N).
+
+(18)
+
+This form reveals the interplay between the model's two parameters, r and K. r
+can be defined as the maximum intrinsic per capita growth rate of the population,
+i.e. lim, o[N/N]. As N -- K, the effective per capita increase r[l - (N/K)I
+declines linearly towards zero.
+The logistic model is actually a flexible model which can represent a variety of
+growth phenomenon in nature-ranging from the length or mass of a single
+animal or group to the numbers or biomass of a whole population. We shall use it
+to introduce two fundamental natural resources using situations - a timing problem and an optimal harvest problem.
+Consider first a problem of timing where there are basically no constraints or
+adjustment costs associated with reducing a given resource. For example, we
+might have a situation where range animals are placed on a pasture and their total
+weight gain follows the logistic in (17). If we are deciding when to remove and sell
+them, we have the problem:
+maxPV(t) = e-"V(t) = e-tP(t)N(t),
+
+(19)
+
+where P(t) is the price per unit biomass at time t. The solution to this problem is
+found by differentiating (19) t, and setting the result equal to zero. Thus the
+solution given by
+'(t* = SV(t*),
+
+(20)
+
+where V(t) represents the value at t. The intuition behind this result is that we
+wait until the increase in value of our capital left "on the hoof" [(t*)] is just
+equal to the opportunity cost forgone by not removing from the pasture; i.e. the
+amount we could get by selling and receiving V(t) and reaping a net gain in
+the bank of V(t) over the same period. If value is growing as in Figure 2.4, the
+optimal time to harvest is that associated with the highest iso-present value curve
+PV.8 Before t*, it pays to leave one's capital in the natural bank since it is
+growing in value faster than it would in the commercial bank. Thus, this result is
+a general one which actually applies to any asset aging problem, whether it be
+wine kept in storage, paintings or antiques held for value increases, etc.
+8 Each of these curves is from the family of iso-present value curves derived by exponentiating some
+amount PV into a future value V, i.e. V,= PVe8'. Alternatively, each curve converts some future
+value V,into a corresponding present value PV = V,e- ' read off the vertical axis.
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+73
+.. _..i
+
+V
+
+V(t) = p(t) N(t)
+
+Figure 2.4. Optimal timing problem.
+
+One additional point of interest in this problem is the relationship between
+costs and prices. If we let C be some fixed costs incurred at harvest time, (20)
+reduces to
+
+R
+
+N](P
+
+) *(21)
+
+Figure 2.5 plots the "own biological rate of interest" of the species N/N against
+the term in brackets in (21). Note first that if the value per unit biomass is
+increasing with age (e.g. a larger tree can be cut into more valuable products) then
+P/P> 0 and it will pay to wait longer. Note also that unless the maximum
+intrinsic growth rate r is greater than the discount rate 8, it will not even pay to
+start the growth process since one can only lose even more money by waiting past
+t = 0 as r(N) declines. Third, if prices are unchanging (P = 0) and there are no
+harvesting costs, the optimal timing date is where IN/N= 8, or where the
+biological rate of interest just falls to the opportunity cost rate of interest. In this
+case, interestingly, the price level has no impact on the timing date since it
+impacts both sides of (20) in the same way. Finally, again with P = 0, the optimal
+timing date is directly related to the cost/price ratio and as C/P gets larger, the
+optimal date gets later.
+
+J.E. Wilen
+
+74
+
+[1-
+
+]
+
+tI
+
+Figure 2.5. Optimal timing problem with costs.
+
+The logistic model is more commonly used to depict populations subject to
+continuous rather than one-shot harvesting. Let N(t) represent the numbers of
+organisms in some natural population which grows to a natural equilibrium size
+(without harvest) of K organisms. By plotting (18) we have the population yield
+curve in Figure 2.6 which shows the number of organisms or biomass added each
+period for various levels of N. Thus, if N=N0, the population is below its
+carrying capacity K and will be producing net surpluses of births over deaths in
+order to reach K. By choosing an instantaneous harvest rate h, man may cause
+the stock to decrease, remain at N, or increase depending upon whether
+
+75
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+No
+
+K
+
+N
+
+Figure 2.6. Logistic growth model yield curve.
+
+h > F(N o ), respectively. It is thus interesting to determine what pattern of harvest
+rates over time would cause the stock to change in such a way as to maximize the
+value of the services it provides. The economic problem facing the owner or
+manager of such as stock would be: 9
+maxf
+sA.
+
+e-"t'[ph-C(N,h)] dt
+(22)
+
+N = F(N)-h.
+This is different from the timing problem in that a whole profile of harvest rates is
+to be determined. Note the similarity with the model of the firm presented earlier.
+Basically in both cases the flow of profits per time period depends upon the stock
+level and the control variable (or investment/disinvestment rates I or h). In the
+firm model, r = (K, I), where r was concave in K, reflecting concave production as a function of K and convex in I reflecting adjustment costs. In the above
+model 7 = r(N, h) and for an interesting capital adjustment problem we need to
+specify r as convex in h. This would be the case, for example, if congestion on
+fishing grounds increased the unit cost of harvesting as h rose. A cost function
+9 Note that this information implicitly assumes that the only values provided by the stock are those
+obtained by harvesting. Also, by writing the exploited yield curve as an additive function, we are
+disallowing feedback between the harvest rate and the species biology.
+
+76
+
+J.E. Wilen
+
+N
+
+N
+
+Figure 2.7. Optimal steady-state stock level- harvesting model with adjustment costs.
+
+77
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+which reflects congestion and unit costs which decrease as the stock density
+increases would be
+C(N, h)=
+
+(h
+
+) 2.
+
+(23)
+
+The solution to the above problem can be intuitively determined as before in
+the investment model of the firm. In particular, there exists an optimal steady
+state N * which just balances the present value of a marginal change in sustained
+rents against the marginal "liquidation" value of reducing the stock further, or
+t
+
+[P( N)- C(N, F(N)] =h
+
+p
+
+2h-
+
+=F(N)
+
+(24)
+
+With the cost function given in (23), the steady-state N* solution is as shown in
+Figure 2.7. The approach is also asymptotic with h * - F(N*) as discussed
+earlier. If the cost function did not incorporate adjustment costs (i.e. if it were
+linear in h), the optimal harvest pattern would be a bang-bang control with an
+initial impulse control if No> N* or h* = O if N o <N* and h = F(N*) thereafter. In the special case where 0 < h < h < oc, h* will again be an extreme value
+control until N* is reached and h* = F(N*) thereafter.
+To summarize, this section introduces some fundamental ideas from economic
+theory that are essential to analyzing optimal use of renewable resources. After
+pointing out the similarities between economic capital and natural capital, we
+discuss some fundamental results from capital theory. A distinction is made
+between timing problems and capital stock adjustment problems and emphasis is
+placed on the role of adjustment costs in the character of the solution. Finally, to
+apply the capital theory concepts in an introductory fashion to bioeconomic
+problems, we use the logistic model in a first look at timing and capital stock
+adjustment problems. In the next section, we begin to explore more fully
+underlying mechanisms in nature which give rise to different population processes.
+The focus of this next section is on the system as a whole, over the evolutionary
+time frame, with special attention to the way evolutionary forces mold individual
+natality and mortality characteristics which then impact population processes.
+
+3. Biological mechanisms in natural populations
+3.1. r- and K-selection
+One of the most important factors guiding evolution of different organisms is
+stability of the habitat. Semi-arid lands are characteristically unstable habitats,
+temperate climates more stable, and tropical climates the most stable where
+"stability" roughly refers to the temporal predictability of nutrient sources.
+
+78
+
+J E. Wilen
+
+Within each climatic belt, food supplies vary considerably on a finer spatial scale
+with variability increasing as the size of the patch decreases. Thus, a given space
+in a forest (relatively stable overall) may contain patches with decomposing fruits,
+dung, temporary water sinks, etc.- each its own micro environment offering
+nutrient sources in various degrees of stability over time. Natural selection has
+produced a spectrum of organisms presumably best adapted to the spatial and
+intertemporal habitat variabilities in such a way that efficiently uses nutrients and
+space. [Southwood (1981)].
+When one examines the variety of bacteria, insects, plants, mammals, fish, and
+birds appearing in natural systems, one of the first regularities which appears is
+the correlation between size and habitat variability. Relatively smaller organisms
+generally inhabit areas with higher variability, whereas larger organisms occupy
+more stable environments. The evolutionary causality is not direct, however, since
+larger animals can range over larger areas and hence create more stability merely
+through increasing habitat space [May (1978)]. In fact, evolution has produced a
+variety of organisms [MacArthur and Wilson (1967)] seemingly designed to make
+the best use of resources whose temporal and spatial appearance varies greatly. At
+one end of the spectrum are the so-called K-selected organisms. These organisms
+must compete with many other organisms in environments with little variation
+and hence they evolve to be efficient in using resources without overshooting
+carrying capacity. For these species, "mistakes" created by losing competitive
+edge to other competitors or by overharvesting have serious evolutionary consequences. Thus, regulatory mechanisms are built into these animals to return to
+carrying capacity quickly and precisely when perturbations do occur. Generally
+speaking, K-selected organisms are large in their species (reindeer, elephants,
+condors) with long generation times, the significance of which will be discussed
+shortly.
+At the other end of the spectrum are r-selected organisms designed to quickly
+exploit food supplies as they become available in (generally smaller) uncertain
+environments. These organisms are usually at the small end of the size spectrum
+and are foragers and opportunists. The r-selected organisms move from one space
+to another as food supplies are found and utilized. Since there are no substantial
+evolutionary penalties for overshooting a given area's carrying capacity, they tend
+to have high reproductive rates and shorter generation times.
+How do the basic characteristics of organisms differ among r- and K-selected
+species? Basically, metabolism, size, generation time, fecundity, mortality, and
+foraging and competitive behavior are different. Smaller organisms have a higher
+surface to volume ratio and hence require higher metabolism simply to maintain
+stasis with their environment. In addition, relatively smaller organisms tend to
+have high fecundity (hence, large gonad/body weight ratios), reproduce quickly,
+and undertake high energy foraging activities, and thus their "deterioration rates"
+are correspondingly high. Lastly, because these organisms have been designed as
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+79
+
+Sequoia
+
+Fir
+Whole
+Kelpe
+·
+*Birch
+I
+a Balsam
+Dog - wood
+
+IOOm
+
+Rhino
+
+I Elk·
+· Bear
+Deer ·eSnake
+
+Im
+
+Fox
+
+Man
+
+· Beaver
+
+Rat
+Salamander
+Crab
+· Horseshoe crab
+Lemm ngq
+b
+Mouse·Starfshn
+eTurtle
+
+10 cm
+
+Scallop
+Snail
+Bee·
+o
+
+Elephant
+
+Newt
+Chameleon
+
+I Oyster
+Horse fly
+
+Icm
+
+House fly
+
+Clam
+
+Drosophla
+Imm
+
+Daphniao
+
+Stentor
+
+Paramecium
+
+100 iL
+
+· D dinum
+
+Tetrohymena
+*
+
+Eug/eno
+* Sprochreta
+
+JO0/
+10y
+E. co/,
+· * Pseudomonos
+8. aureus
+I hour
+
+I day
+
+I week
+
+I month
+
+i year
+
+O0years
+
+100 years
+
+Generaton time
+Figure 2.8. Relationship between size and generation time. [From John Tyler Bonner, Size and Cycle:
+
+An Essay on the Structure of Biology (
+
+1965 Princeton University Press), Fig. I, p. 17. Reprinted by
+
+permission of Princeton University Press.]
+
+exploiters of periodic nutrients, their lifespans have evolved to be relatively brief
+to fit the intertemporal variation in a manner that reduces energy losses associated with foraging ranges and/or storage. All of these characteristics go hand in
+hand to produce an observable pattern in nature, whereby length (size) is
+positively related to generation time . Figure 2.8 shows the fit with some
+organisms. Note that larger organisms are those commonly labeled K-selected
+and the smaller organisms r-selected. In addition, there are several organisms
+around the one year generation period. Natural selection has favored these over
+longer-lived organisms, probably because some natural food supplies vary over
+one year meteorological cycles and animals whose lifespan is in synchronization
+do not need as much storage as a species to overwinter [Bonner (1965)].
+
+80
+
+J. E. Wilen
+
+3.2. Characteristicsof organisms and growth processes
+The interactions between fecundity, mortality, and generation time are best
+discussed by developing a population model. The simplest point of departure for
+considering population processes is to begin at the level of the individual
+organism. Consider first, the numbers of such organisms and growth of such
+numbers over time. Let N(O) be the initial number of reproductivity-capable units
+at some time zero (it is often convenient to look simply at females). Suppose that
+the animals have a lifespan or generation time of exactly years (or any other
+unit of time)." ° Let R represent the net lifetime replacement ratio or the number
+of animals that survive to become reproducers in the next generation, per unit of
+parent stock. Then population size (or descendants of the N(O)) will number
+N(kT) = N(O)Rk.
+
+(25)
+
+Here, k is an integer indexing the number of generations evolving past the first
+generation. Note that R is a growth factor similar to the growth factor we might
+apply to a bank deposit receiving interest-in this case the population "compounds" every
+years and we measure its size at points in time in integers
+multiples of so that t = kT, where k = 1, 2,....
+In the above model, population size is measured by numbers of animals at
+discrete points in calendar time and the critical parameter which determines
+whether the population grows, stays constant, or declines is obviously R, the net
+lifetime reproductive ratio. We may alternatively express R as a continuous
+growth rate r by defining
+r=
+
+InR
+
+(26)
+
+By taking natural logarithms of (25) and using (26) we then have
+N(kr) = N(O)exp[rkT]
+
+(27)
+
+as a model whose critical parameter is an instantaneous growth rate r.
+In this simple model, the population will grow, remain constant, or decline
+depending upon whether r 0, respectively, or alternatively on whether R > 1,
+respectively. The product of r and also has an important interpretation that will
+be explored more fully later. For now, however, it is sufficient to define a system's
+"characteristic return time" t as the time it takes for a system to return to
+equilibrium following a disturbance. For the logistic model previously examined
+this characteristic return time t is approximately proportional to 1/r. Thus, if we
+m In the simplest cases, the organism lasts one season and is replaced by some average R offspring.
+Then season length or lifespan corresponds with generation time. Generally, when organisms overlap
+in time, the concept of generation time is not so clear cut. One definition is the time that it takes a
+stable population to increase by the factor R but other definitions are related to the average age of
+females at reproductive age.
+
+81
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+define
+(28)
+
+t = l/r,
+we can express the parameters above as
+1 lnR
+r
+=
+=.
+
+(29)
+
+This suggests that species with higher lifetime reproduction ratios (R >> 1) may be
+characterized as having low characteristic return times relative to their generation
+time . As will be discussed later, this has important consequences for the
+stability of such populations over time [May (1973a)]. Figure 2.9 shows relationships between r, R, and T for a variety of organisms.
+
+0
+
+0
+P
+C
+0
+
+0
+Co
+o
+C
+
+2
+C
+
+L
+
+t
+
+r
+
+Generation time
+
+(days)
+
+Figure 2.9. Relationships between r,
+
+and R.
+
+82
+
+J.E. Wiien
+
+It is obvious that a model such as (27) is an inadequate description of most
+populations in nature, since most do not explode without limit or crash to
+extinction as is predicted with values of r greater than or less than zero,
+respectively. More generally, as the numbers of organisms begin to impinge on
+their fixed capacity environment, changes in reproductive and mortality rates (R
+in the above model) and the generation time
+adjust to dampen exponential
+population growth. Correspondingly, for a declining population, nature has
+provided stabilizers that work in the direction of increasing r. These mechanisms
+operate differently depending upon whether the species is r- or K-selected.
+Stabilizing mechanisms imply density dependent growth of the population, for
+which a variety of models have been proposed. The characteristics of these models
+depend upon the strength of the density dependence but a fascinating spectrum
+exists even for relatively simple forms. In general terms, density dependence
+implies a relationship between numbers in successive generations such that
+N, = F(N,),
+(30)
+where t indexes the generation and F is some nonlinear function. Table 2.1 [May
+and Oster (1976)] lists some of the forms which have been proposed, each of
+which depicts numbers growing at levels below some equilibrium defined by the
+fixed point
+N* = F(N*)
+(31)
+and declining for levels above N*. These models are often referred to as lumped
+parameter models because the size and age-specific information pertinent to the
+population are collapsed into a single variable N, which may represent numbers,
+biomass, etc.
+The above models are all nonlinear first-order difference equation descriptions
+of numbers of organisms. The simplest form, and one whose structure lends itself
+to ready intuitive interpretation is form 1, or
+N(t + T) = N(t)exp[r(1- N(t)/K)i ].
+(32)
+
+Table 2.1
+Specific equations for F(N)
+N exp[r(1 - (N/K))]
+N[1 + r(l - N/K)]
+XN/(1 +aN) b
+XN/[1 + exp(-A(1 - N/B))]
+AN/[1 + (N/B)b]
+
+XN l
+
+}
+
+as N > K
+N[1/[(a +bN) - oal]]
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+83
+
+In this model K is a measure of the carrying capacity of the environment and r is
+the maximum intrinsic rate of growth of the population. For values of N, = 0 the
+population increases by some rate close to r and for N K the growth rate
+approaches zero, i.e. the system converges to a steady population size N * = K.
+This model is useful because it is capable of expressing the implications of a
+range of natural selection from r-strategists to K-strategists - referring to the two
+parameters of the model. As suggested above, the growth parameter and its
+behavior over a range of population values is critical in determining an organism's
+adaptability to its environment. In this model we can re-express the r in terms of
+the lifetime reproduction ratio and to get
+r(N)= lnRK
+
+N)
+
+(33)
+
+r-selected species have evolved to fill empty ecological niches rapidly and hence
+have high r's over a wide range of population levels. Thus, evolutionary pressures
+will tend to make R large and small. R can be large by having high fecundity
+and high immigration rates and/or low mortality and emigration rates. Generally
+r-strategists have high fecundity levels and spend more energy on foraging and
+filling spaces than tending young - leading to a gross reproductive ratio R that is
+high and a gross survival ratio RD that is low, with the product R= RBRD
+relatively large [Southwood et al. (1974)]. In addition,
+is small as discussed
+before, implying In R/T is relatively large.
+K-selected organisms, on the other hand, evolve to be large to increase their
+interspecific competition. Thus, is relatively large and other things equal r(N)
+smaller than r-selected species. Since their strategy is one of best adapting to a
+stable environment, they evolve so that fecundity and mortality are relatively low,
+with a significant investment in protecting young rather than high RB values
+[Pianka (1970), Southwood et al. (1974)]. Thus, with RB low and RD high, In R
+will be relatively low, and combined with a high T, making r(N) low. With r(N)
+low, however, perturbations will require a long recovery time t, and hence these
+organisms typically have mechanisms which increase RB when the population is
+below K (e.g. larger numbers of offspring at birth) or decrease
+(earlier age to
+maturity) to compensate. Similarly, when the population N nears K, strategies to
+stabilize so that R _ 1 have evolved, such as territorial behavior and other mating
+behavior which excludes potential breeders. Thus, K-strategists are designed to
+stabilize near K, calling for a low r generally. If perturbed globally away from K,
+the mechanisms that have evolved to handle local perturbations may not be
+strong enough and the species may be outcompeted for its former space. Typically, these animals require minimum densities to find mates and reproduce
+(unlike r-strategists, like insects which emit powerful pheromones to attract at low
+
+84
+
+J. E. Wilen
+
+densities) and hence may decline if perturbed below this critical level.
+In between the extreme r- and K-strategists are a host of species which mix
+features of both. For example, certain ungulates such as caribou and deer seem
+adapted to swings in available vegetation longer than the yearly cycle. They have
+higher values of r to allow them to quickly respond to episodic periods of high
+browse availability, but they are kept in check via predators. Thus, when nutrient
+supply is at average levels, predators cause high mortality on older and nutritionally weaker animals but in good years the population "irrupts" and over-runs
+predators to take advantage of sudden nutrient supply increases. Thus, the
+intrinsic growth parameters of these species may fall between the exploiters and
+the K-selected species but the effective growth rate after predation keeps them at
+equilibrium - or at least in regular cycles.
+
+3.3. Dynamic behavior of populations
+What are the implications of these differences in basic characteristics [which we
+have summarized in the single parameter r(N)] for population growth patterns
+over time? This question can be partially answered by considering the above
+model reduced to a single parameter model in r. Let Pt = N(t)/K and measure
+time in units of the generation length (i.e. = 1) so that (32) becomes:
+
+P,+1 = Pexp[r(1 - P,)]
+
+-
+
+F(P,; r).
+
+(34)
+
+By plotting the graph of F as in Figure 2.10, we can trace the course of the
+population ever successive generations as shown. As can be seen, the intersections
+of F with the 45 ° line yields the systems fixed points (equilibria values). More
+importantly, the slope of F at P* determines the nature of the dynamical
+behavior, i.e. whether or not and how fast the system converges to P *. As can be
+seen, the system is locally stable near P* if the slope's absolute value is less than
+1. For values equal to one, the equilibrium N is neutrally stable and P will
+oscillate in regular cycles around P whereas if the slope is greater than one in
+absolute value, the system diverges.
+Such different behavior depending upon the slope raises questions about its
+relationship to r and hence implications for r- and K-selected populations. The
+first question is easily answered, since for this particular model the slope at P*
+equals 1- r. As we discussed previously, evolution has created r-selected
+organisms in such a way that r is relatively large (greater than one, say) whereas
+K-selected organisms have relatively small values of r. If r is on the order of
+0.05 - 0.015 as it is for whales, for example, then the slope will be positive and
+perturbations away from K will be followed by an asymptotic approach as the
+diagram shows. Even if r(N) increases in response to lower densities as it
+
+85
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+Pt
+
+1
+r<1
+
+I
+I
+
+/
+
+1 <r<2
+
+r=2
+
+r>2
+
+Figure 2.10. Stability and the intrinsic growth rate r.
+
+typically does in K-selected organisms, the response will be a globally smooth
+asymptotic approach as long as r(N) is less than one (making the slope still
+positive). As r becomes larger, corresponding to r-selected species, the slope
+becomes negative (as r > 1) and the return after a perturbation becomes cyclic
+with an overshoot followed by an undershoot, etc. As long as the slope is not too
+steep, (i.e. 1 - r < -1 or r < 2), the oscillations converge.
+
+86
+
+J.E. Wilen
+
+To understand the intuitive meaning behind this behavior, return to our
+definition
+r=--
+
+or
+
+r = /t
+
+=
+
+In R.
+
+(35)
+
+In the above system we have defined time units to be generation lengths so that
+T = 1. Note that as we move from K-selected organisms, the lifetime replacement
+ratio R moves from values close to one to larger values. In the lower range,
+1 < R < e, In R will lie between zero and one and (since = 1) r will be less than
+one, resulting in no overshoot behavior. As e < R < e 2, In R lies between one and
+two and there will be an overshoot, but it will be convergent. Interestingly, the
+bifurcation point between asymptotic and oscillating behavior (r= 1) has an
+interpretation relating to the ratio of generation time to recovery time t. Since
+T = 1 and r = 1/tc, the break point r = 1 is actually where the ratio of generation
+time to recovery time is one. As r > 1, the system is one for which the generation
+time exceeds the recovery time and oscillations begin. But the generation time is
+really a lag time in this system in that effects in one period are felt by the next
+generation
+periods later. It is well known in engineering control systems that
+stable control results as long as the response time is close to the lag time of the
+signal. In these models, the signal is transmitted with a one generation (-period)
+lag and as response time begins to get smaller (i.e. response is faster) relative to
+this, the system tends to overshoot the signal. For very fast response time, some
+interesting and counterintuitive behavior begins to occur in fact.
+As just discussed, for the above model, the slope at P * equals 1 - r and, hence,
+the system is locally stable as long as 0 < r < 2. As r increases past 2, however,
+the original equilibrium point becomes a repelling point and some suprising
+behavior begins to emerge [May and Oster (1976), May (1974a, 1976, 1977)].
+Specifically, as r increases through 2, the possible equilibrium values of P* move
+past a single value to two locally stable values which spread symmetrically away
+from P* = 1 as r increases up to another bifurcation point. This implies that for
+each value of r greater than 2 and less than the next bifurcation value, the system
+is characterized by a two-period cycle whereby the population returns to each of
+the two equilibrium points every two periods. As r reaches its next bifurcation
+point (the exact value determined by the specific model), the two previous stable
+equilibria became unstable (as did the first as r - 2, the first bifurcation point)
+and bifurcate into four fixed points implying four-period cycles, and so on. In
+general, as r increases, a hierarchy of cycling models arises, with periods
+1, 2, 4, 8,16,..., etc. As r continues to increase, the window within which each set
+of 2n equilibrium points remains stable decreases, however, so that r approaches
+some limiting value [Li and York (1975)]. The branching diagram in Figure 2.11
+shows the hierarchy of fixed points associated with increasing values of r. For
+example, if r = r as shown, the system will be characterized by fluctuations where
+
+87
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+P.
+
+--------------------
+
+Po
+i
+Po
+
+I
+I
+
+----------------------I
+
+I
+
+i
+
+Ad_______+_~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I
+
+________ _~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I
+I
+I
+I
+2.0
+
+I
+I
+I
+I I
+ro 2.2
+
+Stable equilibrium-asymptotic
+Stable equilibrium-convergent oscillation
+2 point cycle
+4 point cycle
+8 point cycle
+16, 32, 64 etc.
+Chaotic behavior
+
+I
+2.4
+
+I
+I
+I I
+rI 2.6
+
+r
+
+Il
+Y
+
+0 <r<
+1 <r <
+2.000 < r <
+2.526 < r <
+2.656 < r <
+2.685 < r <
+r>
+
+1
+2.000
+2.526
+2.656
+2.685
+2.692
+2.692
+
+Figure 2.11. Equilibria characteristics in a simple model.
+
+P = PO every other period, and P = PO in intervening periods. If r = r the system
+will return to each of four fixed points every four periods.
+As r is increased beyond , the behavior becomes even more surprising as it
+enters into the so-called "chaotic" region. For the model in (34), for example, if
+r > 2.6924 there are an infinite number of cycles possible for each r, each one
+different from the other and dependent upon initial conditions. Moreover, there
+are an uncountable number of initial conditions for which resulting trajectories,
+though bounded, exhibit aperiodic behavior, i.e. the pattern never repeats itself no
+matter how long the time period simulated. Hence, surprisingly, even for a
+relatively simple model, dynamic behavior can range over an incredible richness
+of possibilities from asymptotic approaches to a single equilibrium, to cyclical
+with regular periodicity, to chaotic behavior which, although produced from a
+
+J.E. Wilen
+
+88
+
+predictable mechanical deterministic model, may appear to be completely random
+and unpredictable.
+The practical importance of such chaotic behavior is probably less than the
+intellectual interest it provides. This is because even if there are species whose
+r-values are high enough to imply chaotic oscillations, such behavior is not as
+relevant as that at other nonequilibrium population ranges. Since these organisms
+are opportunists, they are not really inhabiting an area with fixed carrying
+capacity for long and hence do not typically run up against strongly overcompensating density effects close to equilibrium. Instead, r-selected organisms operate at lower densities and expand rapidly and then move on to new patches. Thus,
+even though such odd behavior is predicted near the equilibrium value, it is a
+consequence of the high r in a model which is most relevant in population ranges
+
+Nt+l
+
+election
+
+r-selection
+
+Nk
+
+Nr
+range of variability
+(r-selected)
+
+i-
+
+Nt
+
+N*
+range of
+variability
+(K-selected)
+
+Figure 2.12. r- and K-selected growth characteristics.
+
+-t
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+89
+
+which are removed from K. Figure 2.12 depicts differences between the two
+strategies for relevant population ranges.
+In summary, this section expands on the simple logistic model description of
+populations by focusing on the two critical parameters, the intrinsic growth rate r
+and the carrying capacity K. We have attempted to maintain a "big picture"
+framework for discussion of individual organism characteristics by using a system
+perspective which depicts a spectrum of organisms evolving in response to habitat
+conditions. Thus, the r-K selection paradigm is the backdrop for explaining the
+variety of fecundity, mortality, generation time, and behavioral patterns we
+observe in nature. These individual organism characteristics are then used to
+develop some simple population process models and discuss their dynamical
+properties. It is shown that the intrinsic growth rate r is itself a parameter which
+summarizes natality/mortality factors and, in conjunction with generation time, a
+critical determinant of population stability.
+
+4. Bioeconomics models of natural populations
+4.1. Values derived from natural resources
+In this section we tie together the introductory material in Sections 2 and 3 in a
+review of models of optimal natural resource use. As might be imagined, when
+one confronts the incredible variety of population processes in nature with the
+range of values which man derives from them, the possible permutations of
+optimal use models are large indeed.
+The potential service flows from natural systems may be related to any of a
+number of characteristics of a population from pure numbers of organisms, to
+weight or biomass, to other age/size specific features. These service flows may
+also be stock related, flow related, or population-distribution related. For example, for a population which provides values to photographers or bird or animal
+watchers, the number of sightings may be important and hence generally related
+to the stock level. Hence, other things equal, the optimal policies would be aimed
+towards maintaining a large and viable population size by, for example, habitat
+investments or access controls which minimize adverse impact of these nonconsumptive users (who might indirectly be consumptive users if their activities
+adversely impacted habitats, etc.). Even this case is not totally straightforward,
+however, because the value per encounter may increase more than proportionately
+as the population is smaller and the number of encounters is reduced.
+In a similar manner, man may derive values from a system in its "natural"
+state and hence, again, optimal use would aim at trading off the capturing of these
+values (by viewing or encounters) against the costs of such activities in terms of
+perturbations away from "naturalness". Thus we often limit access to particular
+
+90
+
+J.E. Wilen
+
+endangered species' (condor). Current controversies over whether it is best to
+protect some species in controlled environments or leave them in natural systems
+reflect some of these value conflicts.
+It is also sometimes the case that services are derived from numbers of
+organisms with particular characteristics. Examples are hunting for the more
+highly colored males of a bird species or hunting for large-antlered trophy
+animals. In these cases, optimal policies are geared towards selective harvesting
+which alters the population distribution while (perhaps) maintaining some total
+population size. The interactions between the distribution of characteristics and
+the total population size may be complex as ongoing controversies over either-sex
+deer hunting suggest.
+In other cases more commonly examined, the value derived from natural
+resources is related to consumptive use by harvesting. In these cases the critical
+issues have to do with timing the harvest, determining how many to take, and
+determining the characteristicsof those taken. In real populations, a population's
+number and characteristics are interrelated in sometimes complex ways and hence
+it is generally not enough to simply try and determine (for example) the optimal
+stock level. Generally, as a population is reduced by exploitation, the characteristics and distribution of individual population members change. For example,
+harvesting of whales has led to a decrease in age to maturity and an overall
+increase in size of younger-aged animals. Similarly, harvesting some bird populations often causes more frequent breeding and larger clutch sizes. Thus, the age
+and size distribution, at minimum, are usually altered by harvesting. These factors
+will be discussed in the next subsection which discusses life histories of different
+organisms. At this point, however, it is enough to recall the previous section on
+r-K selection pressures which, in the end, determine generally how we should
+expect a population to respond to exploitation.
+A final factor which is critical to the structure of the appropriate model is the
+mechanism or technology of harvesting. Harvesting technology not only determines the appropriate cost structure (e.g. whether adjustment costs are substantial or not), but it also dictates precisely how the underlying population
+processes will be affected. In some situations it is virtually impossible to selectively harvest so that the age, sex, and size characteristics of the harvest are
+proportional to their representations in the population as a whole. Examples
+include trawl fishing or some long-line fisheries, some seine fisheries such as
+herring or anchovy fisheries, etc. In other cases, it is possible to select into two
+groups as, for example, minimum sizes for crab and salmon, prohibition against
+taking "berried" lobsters (females with eggs), forked antler or better deer hunts,
+mesh size restrictions in net fisheries, etc. At the end of the spectrum are the (rare)
+cases where perfect selectivity is feasible, such as land based fur seal harvests,
+some culling harvests of mammals, etc. The cost and purely physical characteristics of technology are not simply exogenous, of course, since it is sometimes
+cheaper to nonselectively harvest than selectively harvest.
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+91
+
+In summary, the use of natural populations confronts us with choice problems
+of considerable complexity. It is especially important to keep in mind that the
+biological and the economic (or valuation) systems are intricately interrelated. In
+the short run with an unexploited stock, the existing population limits the number
+and kinds (and hence value) of what can be taken. As the population is drawn
+down, however, it is not only numbers taken but also the timing and the
+characteristics of those removed that determining the future service flow from the
+resource. In the long run, evolution may even be producing new organisms that
+are better designed to fit into their new (exploited) environment.
+
+4.2. Life histories of organisms
+In most resource-using situations where harvesting is taking place, the focus of
+management is on biomass rather than numbers alone. Thus, while it is often
+intellectually convenient to focus on the population as a whole, it is important for
+management purposes to understand how characteristics of individuals respond
+to exploitation as well. The response of individuals depends on the genetic code
+built into the organism, of course, and thus our discussion of r-K selection and
+its manifestation in fecundity and mortality patterns is useful here.
+As a broad generalization, large organisms such as vertebrates are K-selected
+and small ones such as insects and bacteria are r-selected. This generalization is a
+bit too broad to be discriminating, however, and within major taxa there are
+generally both r- and K-selected examples. In what follows, we discuss general
+characteristics which seem to fit many (but not all) organisms in the fish,
+mammals and birds taxa.
+4.2.1. Fish populations
+The major stages of development of individual fish include the periods in which
+the organism is spawn (eggs), larva, juvenile, or pre-reproductive, adult (reproduction), and old age. Generally speaking there are density dependent effects in each
+of these life stages as well as external factors (predators, environmental perturbations, etc.) which impact survivorship and growth of the individual organisms in
+the population. With respect to natality factors, it is usually the case that
+fecundity and condition of the eggs are related to food supply available to the
+parent population prior to spawning [Nikolskii (1960), Weatherly (1972)]. A
+considerable amount of weight gain is associated with gonad production and
+when environmental conditions are unfavorable and/or the parent population is
+large relative to food supply, the amount and quality of spawn will be reduced
+and hence overpopulation will be regulated against [Bagenel (1976)].
+During spawn and larvae stage, a significant mortality occurs due to predation
+and sensitivity to environmental changes. This stage is extremely important in
+
+92
+
+J.E. Wien
+
+determining the size and age configuration of many fish populations since adverse
+and favorable environmental conditions can impact relative numbers of survivors
+so radically. It is not uncommon for adjacent year classes to vary from 10 to 90
+fold, a circumstance obviously important to the problem of optimal harvesting
+later in the life cycle.
+As larvae become pre-reproductive juveniles, the mortality rate decreases as
+their mobility and ability to evade predators increases [Beverton and Holt (1957)].
+Throughout this period, length increases approximately linearly with age at a rate
+dependent on food supply. Length gain tapers off near sexual maturity and
+increases slowly after that.
+The above characterization suggests that fish populations on the whole are
+r-selected, i.e they have high fecundity, relatively low generation times, and
+experience high pre-productive mortality. The above life stage characteristics of
+fish also reveal something about how the population will respond to harvesting,
+i.e. other things equal, as the stock is reduced by harvesting, the mechanisms that
+are built in to increase an already high r will begin to operate. Beyond this simple
+statement, however, there exists a wide variety of other things (that are "not
+equal") which affect choice of the appropriate model. Some species, salmon for
+example, have a precise and invariant generation time and they appear at
+absolutely regular intervals to spawn and repeat the cycle. Others spawn almost
+continuously and have populations of mixed and overlapping age classes. Some
+species are small and short-lived (clearly r-selected) whereas others have long
+generation times (e.g. sturgeon over 100 years) and are more clearly classified
+K-selected. Another large group is in the middle of the spectrum, locked in a
+sometimes delicately balanced web of predator-prey interactions. Thus, even
+though as a group fish have r-selection characteristics, there is enough variety
+among fish species to warrant a range of modeling efforts, some of which may be
+based on r-selection, K-selection, or predator-prey assumptions.
+4.2.2. Mammal populations
+Mammals exhibit a lifetime growth pattern similar to fish in that individual
+weight increases rapidly early and then tapers off near sexual maturity. Unlike
+fish, seasonal weight variation around a mean may be substantial as browse, etc.
+availability follows normal seasonal patterns. In addition, many mammals actually lose weight during old age. The availability of food supplies does not seem in
+general to have as significant an impact on growth, and hence sexual maturity
+occurs at a particular age rather than size. Fecundity in mammals is much lower
+than for fish, on the order of one to ten per year as opposed to thousands for fish.
+The relationship between food and fecundity varies across species, but improved
+nutritional status of females often results in an increase in the number of young
+per pregnancy, a decrease in time between pregnancies, or a decrease in age to
+sexual maturity [Caughley (1976)].
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+93
+
+Mortality among mammals follows the so-called "J-curve" relationship with
+high mortality of young, low mortality of reproductive age adults, and high
+mortality among old animals [Taber and Dasman (1958)]. The entire curve may
+be affected by periodic changes in food supply due to environmental changes,
+decreases in predators, etc. [see Caughley (1966) and Hutchison (1978)] curves for
+mammals.
+4.2.3. Bird populations
+Birds are similar to mammals in fecundity schedules in that fecundity rises to
+some relatively fixed level at sexual maturity and remains approximately constant.
+The level may be dependent on food supplies for some birds, however [Lack
+(1966)]. Abundant food supplies result in higher egg quality, an increase in clutch
+size in some species, and sometimes a second brood in the same breeding season.
+The growth rate of birds is similar also to mammals in that it follows an S-shaped
+curve with some within-season variations as food supplies fluctuate seasonally.
+There is some disagreement over whether a typical mortality profile exists but it is
+generally believed that the mortality rate is high for chicks and fledglings and
+then decreases to some constant or increasing pattern [Hutchison (1978)]. Mortality rates differ among territorial birds, with successful territory holders having
+lower rates than those without territories [Watson (1979)]. In addition, mortality
+is significant for many species during winter months, and thus protective habitat
+availability and winter food supplies are critical determinants of some populations.
+These life history characteristics are helpful in predicting how an exploited
+population will differ from an unexploited population. Generally when the stock
+level is reduced there will be r- and K-selection responses in the birth and
+mortality rates due to reduced density dependence. These will manifest themselves differently between broad taxa and also between species within a major
+taxa. Figure 2.13 compares the critical parameters for fish, mammals, and birds in
+rough fashion. These form the basis for discussions of various models of exploited
+populations which appear in the next section.
+
+4.3. Nonoverlapping generations models
+Some species of organisms occur in regular (e.g. Salmon, 7 and 14 year Cicadas)
+or irregular (coniferous forests after a fire) cycles of same-aged cohorts. If these
+do not mix with other cohorts (as subspecies of salmon often do at river mouths,
+or as trees in a mixed forest often do) so that harvesting can be directly only at
+the cohort in question, then a particularly simple form of nonoverlapping
+generation model (NOGM) is appropriate.
+
+J. E. Wilen
+
+94
+BIRDS
+
+MAMMALS
+
+FISH
+
+V
+
+weight
+
+_
+
+4
+
+fecundity
+
+j '7
+
+rI
+
+Li~
+numbers
+surviving
+per adult
+
+6
+
+~~~~~~~~~~--~~~~~~~~~~2-~~~~~
+------
+
+AGE
+
+-
+
+Figure 2.13. Fecundity and natality among fish, birds, and mammals.
+
+There are basically two variants of NOGM depending upon how these populations are connected in time. At one extreme are situations where there is no
+intertemporal link so that the correct model is one that simply optimizes within
+each generation time in question. At the other extreme are cases where subsequent
+populations are affected by this period's "escapement" so that a multigenerational
+model is needed.
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+95
+
+4.3.1. Cases of no intragenerationalinterdependences
+On first thought it seems unlikely that we might find situations in nature where
+there is no connection between individuals in one generation and those in
+another. This is logically true given the nature of the reproductive process. There
+are still at least two classes of circumstances where ignoring intragenerational
+links is appropriate however. The first is where migration and mobility of the
+organisms are high. The second is where mortality in a particular pre-reproductive
+phase in the life process is a critical determinant of ultimate population size. Both
+of these characteristics are likely to arise in extreme r-selected species. The case of
+highly mobile species is easy to see if we think of an insect pest (.g. cotton lygus)
+which invades a farmer's field [Southwood (1975)]. From the individual farmer's
+point of view, the decision of when to spray is not intragenerationally dynamic
+since migration basically determines the initial bug population in his field. There
+is an intergenerational dynamic problem, however, concerning optimal timing of
+sprays for the cohort in question.
+The case where pre-reproductive mortality is limiting is more common and
+occurs for many small fish in particular. For these species, the reproductive (and
+harvestable) population size in one generation has virtually no impact on the
+subsequent generation's population size within a substantialrange. To understand
+this mechanism, consider a case where the spawn of fish in one generation (Sk)
+turns into larvae (Lk) which survive into "recruits" (Rk). Recruits then are either
+harvested (Hk) or become parents (Pk) to the next generation so that we can
+write:
+Rk+l = F(Pk).
+
+(36)
+
+This is a general expression for the Beverton-Holt (1957) stock-recruitment
+model which admits a variety of intragenerational mechanisms, the dynamics of
+which were discussed earlier. Of specific interest are cases where intragenerational
+impacts are negligible. To understand one of these cases, suppose that larval stage
+fish withstand some density-dependent mortality so that
+L/L = -m 1 -m
+
+2
+
+L,.
+
+(37)
+
+If we let S be the spawn surviving into the larval stage and R the recruits leaving
+from the larval stage, we have L(O) = S and L(T)= R. Then (37) can be solved
+over [0, T] to yield:
+aS
+R = l+bS'
+
+wherea,b>0.
+
+(38)
+
+Note that lim s 0 (dR/dS) = a and lim a R = a/b, where the constants a and
+b are related to ml and m2. The above form for the solution also holds if ml and
+m2 are arbitrary nonnegative functions of time, in which case a' and b' are new
+constants [related to ml(t) and m 2(t)] [Clark (1976)]. More interesting is the
+
+96
+
+J.E. Wilen
+
+following [see Clark (1976)]: consider (37) with m 2 = mi > 0 for some interval
+O< tL < t < t < T and zero elsewhere, i.e. where there is at least some density
+dependent mortality for t - tL units of time in the larvae life stage interval
+[0, T]. Then it can be shown that R = L(T) has an upper bound,
+
+1--
+
+R = L(T) <
+
+m(t.-
+
+(39)
+
+tL)
+
+which is independent of S = L(0). Thus, any arbitrary critical period in which
+density dependent survival of organisms occurs may fix the ultimate upper limit
+of recruitment. For species operating in a fluctuating environment, the conditions
+in this critical period may be virtually the sole determinant of the corresponding
+recruitment levels as discussed in the previous section. Thus, for species like
+salmon which undergo high and variable juvenile mortality while in streams, a
+policy such as encouraging aquaculture (nurturing during and releasing after the
+critical period) may be the only significant way of increasing potential catch.
+The importance of the above result is that it shows that a critical phase in the
+pre-recruit stage of an organism's life history may be a far more important
+determinant of the ultimate harvestable population than the basic intragenerational relationship between parent stock Pk-1 and spawn Sk. Thus, for some
+species, it is really not worth saving a large part of recruitment to become parent
+stock because the ultimate size of the next generation's recruitment will be almost
+wholly determined by random environmental factors anyway. In these cases, it is
+appropriate to optimize over each cycle separately.
+The Beverton-Holt model also suggests another interesting special case where
+it is appropriate to ignore intragenerational links and formulate the problem as a
+one-generation optimization problem. This is the case where the fecundity of the
+species is very high. Consider an initially unexploited population characterized by
+the spawn/recruitment relationship in (38) and suppose that spawn depends
+upon the previous generation's parent stock so that S = aP. Then, in equilibrium,
+Rk+ 1 = Rk = R= k+l = Pk so that
+aS k
+Rk+l = Pk+1 = -1 +bSk
+
+I
+
+aaPk
+aP
++ baPk
+
+(40)
+
+Note that the equilibrium value in terms of parameters is R = (aa - 1)/(ab).
+Now suppose that the recruitment is reduced (for example by harvesting) to some
+level so that the parent stock P = eR, where 0 < < 1. Then the corresponding
+recruitment in the next generation will be:
+
+~Rk+sa
+-i [
+k~lP=C
+
+ab
+
+aa
+
+1
+
+-
+
+1 + e(aa-1)J R
+
+=Pk l+e(aa -)
+[ Eaa -]1
+
+aaE
+
++ E(aa - 1
+
+1
+
+(41)
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+97
+
+Rk+l1
+
+Figure 2.14. Recruitment and fecundity.
+
+It will always be the case that harvesting some of last year's equilibrium
+recruitment will result in this year's recruitment being lower since the bracketed
+term is less than one for any e, and as e gets very small (i.e. harvest is large) there
+will be much less recruitment. Notice, however, that a can virtually swamp any
+values of e if it is high enough, and, in fact, as a - oo, the term in brackets
+approaches one. In words, this suggests that species with very high fecundity will
+allow a wide range of harvesting without substantially affecting next year's
+recruitment. The larger a is, the smaller e can be (i.e. the larger harvest can be
+and still maintain next year's recruitment close to this year's). Figure 2.14 shows
+some of these relationships.
+For many species of fish and insects, and perhaps some birds and mammals,
+either or both of the above mechanisms does seem to be operative and hence we
+can assume for all intents and purposes that there is no intertemporal link
+between generations within the relevent range of harvesting. Thus, the problem of
+
+J.E. Wilen
+
+98
+
+determining how many to harvest is unimportant and more important questions
+have to do with when to harvest. With insect populations, for example, there may
+be critical periods in their life-stages where controls are most effective. In fact, as
+shown in (41) above, spraying or otherwise enhancing density dependence in this
+critical window may be the best way to impact the ultimate population size and
+hence minimize potential damage, other things equal.
+4.3.2. Beverton-Holt single-cohort model
+For fish or mammals, the issue of when to harvest is often where biomass has
+reached some critical level. The optimal timing thus depends upon interrelationships between age, length, and weight. With fish and, in fact, most species, it has
+been noted empirically that length, weight, and age of individual organisms tend
+to follow a relatively predictable pattern. For length, for example, a widely used
+model is the von Bertalanffy equation where length (t) grows at a rate depending
+upon the difference between some maximum length lox and the current length, i.e.
+i(t) = K [loo - 1(t)]
+
+(42)
+
+This differential equation has the solution
+
+(43)
+
+1(t) = loo(1 - e-K(t-to)).
+
+Weight over the lifetime is generally related to structural characteristics of the
+organisms and may follow the single allometric relationship:
+
+W = al b.
+
+(44)
+
+Weight has been found empirically to be correlated with the cube of length in a
+wide variety of organisms so that (44) with b = 3 and (43) are often combined to
+yield a von Bertalanffy weight equation:
+W(t) = Woo( - e k(t'-'))
+
+3
+
+.
+
+(45)
+
+In this relationship the inflection point is approximately at the weight level which
+is one-third of Woo.
+The von Bertalanffy weight equation may be combined with a Beverton-Holt
+stock recruitment model to yield a single-cohort model of fishery biomass.
+Consider, for example, a case where a relationship like (36) with m 2 = 0 describes
+numbers during the harvestable recruit stage. This suggests that fish in the recruit
+stage simply die at a constant density independent rate M. Note that we still may
+assume a density dependent mortality process in the larvae or spawning prerecruit
+stages so that intragenerational effects can be ignored. Assume that fishing at
+different intensity levels adds another form of mortality F, so that:
+1 = - N(M +-F(t)),
+
+N(O) =No.
+
+(46)
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+99
+
+The economic problem is one of determining how to maximize the present
+value of the yield (biomass) from this cohort over its generation length assuming
+that the population mortality follows (45) and individual weight gain follows (45).
+The structure of this problem is general enough to admit several different
+harvesting possibilities. For example, if the fishery is a hook-and-line fishery, then
+one must decide a season opening date and level of fishing effort which maximize
+the present value of the biomass yield. If the fishery is a net fishery, the optimal
+season opening date has a direct counterpart in the optimal minimum mesh size,
+since fish girth will correspond in a particular way via the weight equation to age
+(season date) of the fish.
+The general economic problem of maximizing the present value of harvest from
+this cohort may be written
+max
+
+[pF(t)N(t)W(t)-C(F(t))]ea-dt
+
+s.t
+(47)
+Nr= -N(M + F(t)),
+where is the opening date (or corresponding age at which a particular mesh size
+= (7) captures fish). The solution to this problem depends critically on the
+ih
+nature of C(.) as would be expected from the discussion in Section 2.
+The simplest case is where C(F(t)) = 0 and fishing mortality is unbounded so
+that impulse controls F= oo may be applied to harvest all of the biomass
+instantly at some particular age. This problem is basically a pure timing problem
+like the general asset aging model discussed earlier and the solution involves
+finding the optimal date * at which to harvest all of the biomass. Not surprisingly, the optimal date can be characterized as a point *, where allowing the
+biomass one more time unit of growth results in an increase in value just equal to
+the opportunity cost of waiting that unit of time. In this case with zero harvesting
+costs, the integrand in (47) becomes
+V(t) = pF(t)N(t)W(t) = pF(t)B(t).
+To determine B(t), we note that eq. (46) with F= 0 determines the number of
+recruits entering the fishery and (45) gives the weight per fish so that we have
+B(t)lF=o = N(t)W(t) = Noe-MtW(1 - e-K) 3 .
+(48)
+Without fishing, biomass reaches a maximum at a point where (B/B) = (N/N)
++ (W/W) = 0. By (46), (N/N) = -M without fishing so that biomass reaches a
+maximum where (W/IW)- M= 0. Once fishing is applied, beginning at some
+point t = , the biomass is reduced by fishing mortality as well as natural
+mortality. For a constant level of fishing mortality F, the total value of the harvest
+would be
+V(t, F) = Nop
+
+Fe-Mte-(t)W(t)e-tdt.
+
+(49)
+
+100
+
+With an impulse control of F = oo at t = , (49) approaches a finite limit; namely
+the value of the biomass level of date i. The date at which to harvest is easily seen
+as that for which
+
+dV()=V(i*)
+
+(50)
+
+as in the basic timing problem introduced in Section 2. In this fisheries problem,
+if price is constant, the optimal impulse-harvest date is where
+
+dt |F=O = B(i),
+
+(51)
+
+which occurs where [W([)/W(i)] = M + &. As in the basic example discussed in
+Section 2, in this case the higher the discount rate the sooner the harvest. Also
+similarly, with zero costs and constant prices, the optimal harvest date is independent of the price level and depends only on selecting the date which balances the
+"own biological interest rate" (pB/pB) with the discount rate.
+More general models with positive harvesting costs may also be analyzed but
+with more analytical complexity and perhaps somewhat less intuitive results. For
+example, costs may be considered linear so that C(F(t)) = C F(t) [Clark (1976)].
+In this case, the solution involves a bang-bang control where no effort is applied
+until biomass grows beyond the level indicated in (51). Then a positive level of
+effort is applied for an interval of time [tL, to] which reduces the biomass to the
+level where pB(to)= C (see Figure 2.15). As C -- O,tL -.
+and the optimal
+biomass path approaches the vertical asymptote at . Thus the previous impulseharvest problem is the limiting case of the linear cost problem.
+With harvesting costs exhibiting adjustment costs, i.e. with C(F(t)) where
+Ci > 0 and C" * 0, the optimal solution involves a similar harvesting pattern
+where the biomass is allowed tb grow until some critical time and then harvesting
+decreases the biomass. In this case, the optimal harvest rate adjusts so that an
+equality similar to that in the asset aging problem is maintained continuously
+throughout the harvest period. Let El = pBF, - C(Ft). Then the optimal harvest
+rate is such that"1
+dtI
+
+dt
+
+F ) I dF) B-p
+oF
+=8( d
+
+(52)
+
+F
+
+Since the growth constraint N/N = - (M + F) defines a relationship between N
+1 This is derived as follows. The current valued Hamiltonian is
+,a) H=pBF- C(F) + XB, where B = B [-(M+ F)+ (/W)].
+The optimal level of fishing mortality satisfies:
+(b) 17F--pB- C'( F) = B.
+The shadow price must evolve according to:
+(c)
+- 8X= - H,= -pF - X[-(M+ F)+(/WW)I.
+f we multiply this equation by B and rearrange, we get
+(d) XB + BX- BA = --pBF.
+Bu; by (b) above, XB + BA = 'F, so that the optimal path calls for:
+
+1
+
+F,(t)
+
+8
+81F(t)
+=
+
+pBF.
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+101
+
+B
+
+C/p
+M+8
+
+M
+/W
+
+t
+
+to
+
+to
+
+t
+
+Figure 2.15. Optimal harvesting of a Beverton-Holt population- without costs of adjustment.
+
+and F, and since B. = NtW,, (52) can be solved for either the optimal path of F,*
+or for B*, or Nt* as a function of Wt and the other parameters. Although the
+solution is not readily obvious, its properties are qualitatively like the "turnpike"
+results discussed in Section 2. For example, if we consider the case where
+C(F,) = C (F 2 /2) the optimal biomass and fishing effort levels must satisfy
+W
+
+p-F]
+
+(53)
+
+whenever F is positive. For this problem there is an initial phase where harvesting
+is not optimal; namely during periods ("close" to t = 0) when W/W is large.
+When W/ W is large and positive, the own biological rate of interest (W/ W- M)
+exceeds the discount rate and hence it pays to leave fish in the "biological bank".
+As time progresses WI/W decreases until at t = , the own biological interest rate
+equals the discount rate. At this point harvesting begins and biomass is reduced
+to zero asymptotically. Figure 2.16 compares this more general nonlinear case
+
+102
+
+J. E. Wilen
+
+t
+
+tL
+
+to
+
+Figure 2.16. Optimal harvesting with adjustment costs- the Beverton-Holt model.
+
+with the linear case. For this problem (with adjustment costs), the optimal path
+involves harvesting sooner because of the high costs which would otherwise be
+incurred if the harvest path more closely followed the linear-case singular path.
+Note, however, that the optimal path stays relatively close to its linear counterpart in the manner of the turnpike property discussed in Section 2.
+4.3.3. Intragenerationalinterdependencies due to timing
+The above model is applicable in situations where, as discussed before, there are
+virtually no density-dependent intergenerational links and generation time is
+fixed. A second situation which requires a slight modification is where there are
+intergenerational timing links occuring through the generation time. For example,
+in a mature forest, the canopy cover will be such that the next generation will be
+completely and continuously out competed by mature trees. As soon as mature
+trees are cut, however, the next generation seedlings begin to grow and hence the
+earlier (in age) one cuts the forest, the sooner new stocks can start and so on. This
+
+103
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+problem is a version of the point-input point-output problem already discussed
+except that the use of a critical fixed factor (space) must be optimized. The
+problem is the same one faces, for example, if one has fixed storage space and is
+deciding how to store bottles of wine that are increasing in value. The sooner one
+is removed, the sooner a new one can be started aging, etc.
+To understand the nature of this problem, assume that we have a forest, or
+wine cellar, or herd of domestic animals, etc. on fixed space and the value of each
+cohort grows as a function of age. If there are also some fixed costs of amount C,
+incurred per harvest or sale we have:
+PV= e-8t'[V(t) - C] +e-a'2[
+
+(t)
+
+- C] +
+
+.
+
+(54)
+
+To make the problem tractable, assume that soil conditions, etc. do not deteriorate between rotations and that real prices and costs are constant. Then the
+problem looks the same from any time period we consider it (assuming infinite
+horizon) and tk = k t. This reduces the series in (54) to
+PV= e-'[
+
+V(t)- C)] +e-82'[V(t) - C) + .
+
+= Ee-rti[V(t)-C]= [V(t)- C]
+
+1
+
+(55)
+
+Differentiating (55) with respect to t yields, after rearranging:
+fl(t*) = SII(t*)(
+
+1 e
+
+),
+
+(56)
+
+where H(t) = V(t)- C. Note that this form is similar to both (20) and (52) in
+that the optimal time to harvest is one that almost equates the gain from waiting
+an extra unit of time (i.e. leaving one's capital in the forest bank) with the
+financial opportunity cost over the same period [i.e. 8H(t)]. The "almost" part is
+a modification in the basic rule which results in a harvesting date slightly sooner
+than the date where /l(t) = S1(t). The intuition behind this is precisely that the
+intergenerational link makes it costly to wait too long with the existing crop since
+the whole sequence of future crops is thereby postponed. Thus, the optimal timing
+involves balancing off the gains from waiting one more time unit with the existing
+crop (t) against the costs - consisting of opportunity costs on the existing
+standing crop [H(t)] and the opportunity costs associated with not harvesting
+and beginning future rotations sooner. The latter opportunity costs can be seen
+from the above by noting that the RHS term in (56) can be rearranged to get
+H
+
+j(t)(
+ll
+
+e-)=8rH(t)+81(t)( et'_1)
+
+(57)
+
+But the second term on the RHS of (57) is simply 8PV(t) from (55) above, i.e. it
+is the annualized value of the present value of the whole set of harvest rotations.
+This term is often referred to as the site rent Rs(t) and it is basically the amount
+
+J.E.
+
+104
+
+ilen
+
+that the owner of the land should impute as a value to the piece of space involved.
+Since the owner always has the option of immediately harvesting the existing crop
+and (for example) selling the land at a price equal to (55) (presuming the best use
+is in the current crop and that the land market is competitive), he should be
+continuously "charging" himself an implicit rental rate equal to the annualized
+value of the land sale value (RS= 8 PV) when he chooses not to sell and
+continue another year with the existing crop.
+It almost goes without saying that structuring the above foresting problem in
+this particular way makes it a timing problem rather than an investment/disinvestment problem. By assuming simply fixed per rotation costs, we have disallowed any costs of adjustment which would make impulse controls (i.e. taking all
+of the standing crop at the instant t = t*) suboptimal. A more general model with
+adjustment costs in harvesting would mix features of the Beverton-Holt single
+cohort model discussed earlier with the timing model just discussed [see Clark
+(1976)]. One would expect similarly mixed results, i.e. a continual harvest phase
+which allows standing crop value to peak and then decline as the harvest rate
+within each rotation increased. There are some problems with this more general
+structure, however, since one has to assume for tractability either (i) no trees grow
+where others have already been harvested until the last tree in the stand is taken;
+or (ii) the forest is already in an optimal uneven-age equilibrium configuration so
+that the yield over the span of any single rotation is equal to the yield of a given
+single-aged forest. The first assumption is unrealistic and the second assumption
+begs the difficult question of deciding how to get the forest in an optimal
+equilibrium forest in the first place [see Heaps and Neher (1979)].
+4.3.4. Density-dependent intragenerationalinterdependencies
+The final important class of models among nonoverlapping generations consists
+of those having to do with density-dependent intragenerational effects, i.e. where
+the numbers of organisms escaping capture in the previous generation affects the
+current generation's size. This is, it should be noted, a problem of determining
+numbers to be harvested (or actually, allowed to "escape" to become reproducers)
+as opposed to biomass as in previous models. Optimal escapement models are
+applicable in situations where harvesting must take place before recruits enter
+into the reproductive phase, for example, with ocean or river mouth fishing for
+salmon.
+Let us refer to the recruits of generation k (Rk) as those organisms surviving
+early mortality phases to the point where they may either be harvested in amount
+Hk or become parent stock Pk or escapement which determine the size of the next
+generations recruit stock, i.e.
+Rk+l = F(Pk) = F(Rk - Hk).
+
+(58)
+
+Examples of this form were discussed earlier in the case of the Ricker model,
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+105
+
+where stability in discrete generation models were discussed. We will assume that
+F' > 0 throughout so that the overcompensation cases giving rise to population
+oscillations are ruled out. (See discussion in Section 3.3.)
+Let II(Hk, Rk) = pHk - C(Hk, Rk) be the profits from harvesting recruits for a
+given generation and let i equal the discrete discount rate applicable to the length
+of the generation time. Then the economic problem is to determine a feasible
+sequence of harvests {(H, H 2 ,... ) which maximizes
+PV= E H(R
+
+k,
+
+Hk) 1
+
+(59)
+
+k=O
+
+subject to (58). This can be formulated in a manner completely analogous to the
+continuous problem discussed in Section 2, and the solution is likewise similar;
+namely, there exists some steady state escapement level P* = R* - H* which just
+balances off current marginal profit losses (gains) associated with allowing
+(harvesting) one more unit escapement with the higher (lower) subsequent profits
+for the new sustained escapement level. For a general profit function HL(R, H)
+this condition can be written as [see Clark (1976)]
+(I+i)F(P)
+
+-(d+daH
+
+a
+
+(60)
+
+The approach path in this discrete case also depends upon 1H and particularly on
+the nature of adjustment costs. If costs are linear in H, the adjustment path is a
+most rapid approach path to P*, and if costs increase at an increasing rate in H,
+the adjustment is asymptotic.
+4.4. Overlapping generations models
+
+There are, in fact, very few situations in nature where organisms are segregated by
+cohorts in such a way that nonoverlapping generations models are accurate
+depictions of reality. As will be seen, the tractability of even these simple models
+rapidly disappears as more real-world complexities are introduced. As we move
+closer to more precise depictions of real populations, where different age and size
+classes are mixed, the analytical difficulties increase many fold. In this section,
+some examples of mixed-cohort models are discussed, some with corresponding
+optimal harvest solutions and some without. It is this "gray area" between simple
+single-cohort models and equally simple lumped parameter models (which aggregate and ignore age-specific complications) that is closest to reality but, as a
+consequence, also closest to being analytically intractable.
+The difficulties involved in modeling overlapping generations stem from two
+factors - the degree of interdependence between organisms and the general inability in most real-world cases to selectively harvest due to the mixed structure of the
+population. Interdependencies between organisms in the same population may
+take many forms, including density-interdependence within cohorts of a single
+
+106
+
+J.E. Wilen
+
+age class (e.g. when juveniles segregate and feed on a particular nutrient source),
+interdependence between cohorts depending upon total food supply and total
+population size, interdependence depending upon age distribution of the population (e.g. when there is cannibalism of juveniles by certain age classes), etc. In
+addition, there may be complex interdependencies between organisms in a given
+population and those in subsequent generations depending upon similar factors
+as just discussed. With respect to harvesting selectivity, cases range from circumstances where age/size can be perfectly selected and targeted, to the more
+common case of being able to select between two aggregate groups (e.g. when
+minimum mesh size is specified, or when forked-horn antler or full curl horn
+requirements are imposed in hunting), to no selectivity such as is the case in a
+trawl or hook-and-line fishing where each cohort's catch is roughly proportional
+to numbers present in the total population. In general, we would expect that the
+more complex are the interdependencies and the less selective the gear, the more
+difficult it is to characterize the optimal solution to the harvesting problem.
+The easiest case to analyze is where organisms overlap but there are no
+intragenerational interdependencies and no intergenerational interdependencies
+between cohorts of the same population. In this case, we have basically a layered
+Beverton-Holt model in which the population consists of many age classes, each
+growing in total biomass until some age a and then declining. Assume that
+recruitment to each age class is constant and independent of population size and
+age structure and that the generation time or time that organisms spend in the
+recruit phase is T. Then as we successively add and overlap new generations of
+cohorts over the interval (0, T), we will obtain biomass curves which look like
+those in Figure 2.17. Note that as more generations are added, the population
+biomass approaches a constant equilibrium level with a particular equilibrium
+size/age distribution implied.
+The first case to consider is where harvesting gear is completely nonselective.
+Let N(t, a) be the remaining numbers of organisms at year t who entered the
+fishery as recruits in year a. Let w(t, a) be the weight of a fish from cohort a at
+time t. Then the total biomass of age class a will be (without fishing)
+B(t, a) = N(t, a)w(t, a),
+t > a.
+(61)
+The total fishable biomass at any point in time t will thus be the sum of all
+biomass from each age class a at time t, or
+a=t
+
+B(t) =
+
+E
+
+N(t, a)w(t, a),
+
+a=t-T
+
+and the general economic problem is to maximize
+
+PV=
+dS.
+r
+dN(ta)
+dt
+
+e - r' [F(t)B(t) - C(F(t))] dt
+M0+ F~t)] N
+a)(63)
+-
+
+[M+ F(t)] N(t, a).
+
+(62)
+
+107
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+B
+
+t
+
+B
+
+t
+
+B
+
+t
+Figure 2.17. Biomass with overlapping generation.
+
+Note that the formulation implies that harvesting will be taking from all age
+classes in proportion to their abundance in the total population-a feature of
+many bottom fish fisheries and other circumstances (perhaps bird and mammal
+hunting) where no selectivity is practiced.
+The general problem in (64) has not been solved, although solutions to special
+cases have been attempted [see Clark (1971)]. The simplest case is one where
+C[F(t)] = 0 and price per unit biomass is constant. In this case, if we start with
+low fishable biomass, the growth in biovalue will be as shown in Figure 2.18. At
+
+108
+
+J.E. Wilen
+B
+
+L
+
+I__
+
+t
+
+I
+
+T
+
+Ts
+
+V*= PV*e
+
+t/
+
+t*
+
+2t/
+
+t
+
+2t*
+
+t
+
+Figure 2.18. Nonselective harvesting in an overlapping generating population with zero costs.
+
+first glance this looks like a rotation-type problem and, in fact, it has been cast as
+such in an attempt to solve it. This approach appears to be incorrect, however,
+since if successive cohorts are staged to enter the fishery as recruits in fixed
+intervals (usually one year in nature), then harvesting does not allow immediate
+re-initializing of the population as is assumed with forests. As we showed in the
+forestry case, waiting to harvest the current crop involves two costs; one on the
+current standing crop and the other on subsequent crops which could have been
+started immediately. This is a problem involving intragenerational interdependen-
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+109
+
+cies due to timing but, in an overlapping cohort fishery, there are no such
+interdependencies if the staging time between cohorts is exogenously fixed. Given
+that this is the case, the problem reduces to one of maximizing the present value
+of each set of cohorts overlapping in any given interval [t - kT, t], where k is the
+(integer) number of cohorts which stage Ts periods apart over a total recruit
+interval T.
+The solution to the above problem is basically similar to the one-shot timing
+problem introduced in Section 2. In the lower diagram of Figure 2.18, if the
+discount rate is 8, pulse harvesting at t* maximizes the present value of the mixed
+cohort fishery. One can effectively optimize harvests over a given group of mixed
+cohorts since the timing of subsequent recruits is not affected. Note that as 8
+increases to 8', the harvest interval is reduced. In the example shown where k = 3
+and T = 1/3 T, harvesting takes place during recruitment of the third, sixth,
+ninth and so on cohorts with a discount rate of 8 and the second, fourth, sixth
+and so on with a discount rate of 8'. Thus, with nonselectivity and zero costs, the
+optimal overlapping generations problem collapses to a relatively simple sequence
+of single-shot timing problems.
+With selectivity in harvesting, through mesh or hook size or minimum size
+regulations, for example, the optimal policy follows readily from the above as
+long as costs can be ignored. In situations where age of first capture may be
+chosen and smaller fish excluded from harvest, it is obvious that present value will
+improve over the no-selectivity case just discussed. In particular, we know from
+our earlier discussion that for single cohort harvesting with zero costs, the optimal
+mesh size is one associated with the size where the own biological rate of interest
+is just equal to the discount rate, or
+W(t )
+
+M= .
+
+(64)
+
+Thus, the global optimum for the zero cost mixed-cohort case is one achieved by
+using a mesh size corresponding to (64). By pulse-fishing the fishery with the
+optimal mesh size, it is possible to optimize returns from each cohort separately
+and hence from all cohorts together. With cohorts entering the fishery in identical
+intervals and with identical numbers in the initial recruitment, the fishable
+biomass and yield will be approaching uniformity over time as Figure 2.19 shows.
+In the limit, with continuously infinite ("chattering") effort being applied, the
+continuous yield will approach the biomass of a given cohort at age . With
+cohorts entering in nonuniform and/or at different initial levels, the optimal
+policy will still be the same, but of course the fishery will not be characterizable in
+any equilibrium fashion.
+The introduction of costs of harvesting complicates the picture considerably
+and, in fact, the problem has not been solved analytically although some
+
+J.E. Wilen
+
+110
+
+a
+
+Figure 2.19. Perfect selectivity in an overlapping generating population with zero costs.
+
+numerical studies have been done [Hannesson (1975)]. One situation where the
+problem is not different from a sequence of single-cohort selectivity problems is
+where recruits enter into a fishery in a staggered fashion with a staging time Ts
+between years classes which is longer than the time needed to optimally harvest a
+single cohort. Consider Figure 2.20, for example, where biomass of a given cohort
+without fishing has some finite life T after which the last fish dies. As we showed
+in the previous section, the optimal biomass path for a single cohort when costs
+are proportional to fishing effort follows the darkened line so that total harvesting
+time Th = t o - tL. An additional At c units of time pass before the first cohort
+completely disappears after being fished down to pB(to)= C (note that Th is
+smaller as C gets larger). If it happens that the staging time between cohorts T is
+greater than Th + Ate, then there is no problem of "cohort overlap" and one can
+simply choose mesh size corresponding to age tL, harvest the first cohort for Th
+periods, pause, and then harvest the next cohort as was done initially with the
+first. Obviously one cannot improve on the case which effectively optimizes each
+cohort separately.
+As the staging time decreases relative to the harvest period Th (which depends
+and C/P), cohorts overlap so that the originally optimal attempt to
+upon
+optimally harvest the first cohort will (for the mesh size corresponding to tL)
+begin to pick up the second cohort's members as well. This is illustrated with the
+dotted lines; notice that during the early period of the second cohort's harvest,
+there are still first cohort members in the total biomass subject to capture. Thus
+the general problem is: when there are harvesting costs, what is overall optimal
+policy regarding effort levels, harvest intervals and mesh size with potentially
+
+111
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+i
+
+Th
+
+-----i
+
+ate
+
+T
+Figure 2.20. Optimal selective harvesting in overlapping populations- with costs.
+
+overlapping cohorts? Notice that there is a link between staging time T, and some
+critical mesh size size m(T) or equivalently, critical starting harvest date tL. If we
+can postpone harvesting past the date which causes overlapping and then harvest
+with a larger mesh and at a higher rate until pB(to) = C is reached, the delay (as
+long as T is not shorter than tc) will just allow us to harvest each stock
+separately. This is possible (see Figure 2.20) because delaying harvest shortens Th
+and hence makes it less likely for given T, that there will be overlap. Thus the
+problem could be solved if we could show that either it always pays to adjust
+mesh size to selectively harvest, or it never pays, etc. Unfortunately it is not clear
+whether either of these is generally true. It appears from empirical work that the
+answer may depend on the problem's parameters, and hence, in general, it may be
+optimal either to separately harvest cohorts in succession or harvest them together
+in overlapping populations. In the latter case, the earlier discussed mixed-cohort
+timing solution is apparently relevant but the path of harvesting and the mesh
+size in this case with positive harvesting costs have not been determined analyti-
+
+112
+
+J.E. Wilen
+
+cally. One can conjecture, however, that the solution would look like the singlecohort analogue, with a period allowing the mixed stock to build up, followed by
+sustained effort to drive it to the breakeven point, followed by a new sequence,
+etc. The optimal mesh size probably has to be one which allows harvesting to
+effectively separate the mixed-stock harvesting regimes somehow.
+Beyond these attempts, little has been achieved in tackling more general models
+analytically. The critical simplifying assumption which needs relaxing to fit
+real-world circumstances is the assumption of no intragenerational links. A more
+complete model needs to account not only for the age/size specifics of the
+individual cohorts but also for density-dependent relationships between numbers
+in one cohort and those in the next. Thus, a hybrid of the Beverton-Holt and
+stock recruitment models is needed. From all current indications, however, it
+appears that such a model with realistic cost assumptions is analytically untractable and perhaps better approached with simulation techniques or by aggregating
+and thereby ignoring some of the explicit age/size relationships. Beyond this,
+there is need in some populations to consider between-cohort density dependencies. The simplest possibility is to make individual-cohort mortality rates a
+function of the total population but this too may miss important relationships
+which depend on the age distribution of the population - e.g. where older cohorts
+cannibalize younger cohorts.
+
+4.5. Lumped parametermodels
+As discussed earlier, when making the modeling steps from individual to cohort
+to population we are confronted with different problems of aggregation at each
+level. Basically we must decide which features are critical and deserving of special
+focus and which may be safely ignored or parameterized in some way. Apparent
+from the preceding section is the fact that age/size specific models with realistic
+features become unwieldy rapidly, and in particular, when one wishes to include
+intragenerational interdependencies, the age/size specific details probably have to
+be sacrificed unless simulation studies are undertaken.
+Another way to account for stock-recruitment relationships in an overlapping
+generations model is to use a "lumped parameter" model in which the object is a
+single variable like "numbers" or "biomass" of the organisms. Consider, for
+example, a fishery in which recruits live several years and spawning takes place
+every year. Clearly at any point in time, the fishable biomass will contain several
+cohorts and thus the population will change from year to year in some manner
+depending upon their numbers and on their age distribution. For example, an
+exceptionally large year class will have impacts which ripple over many successive
+generations and the impacts can be complex depending upon density dependent
+mechanisms operating between cohorts at each point in time and between
+
+113
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+generations. By making the simplifying assumption that we measure in some units
+such as biomass undifferentiated by age/size characteristics, we can model some
+of the possible intragenerational complexities at a cost of losing some of the
+specific details. These types of models may be appropriate when there is no
+harvesting selectivity possible, for example.
+Sections 2 and 3 introduced two of the simplest lumped parameter models;
+namely, the logistic differential equation model and the discrete Ricker stockrecruitment model. Both of these imply relatively simple intragenerational density-dependent mechanisms which operate instantly (logistic case) or between
+adjacent time periods. The stock-recruitment model, in fact, implies that either
+organisms are recruited to the reproductive population in the first year and
+subsequently have no impact on this stock, or that generations are nonoverlapping and adults die after recruitment. For many species, however, reproductive
+maturity is reached only after some considerable time delay and organisms
+survive over longer periods. Let Nk+1 be the reproductive population in year
+k + 1 and assume that the mortality rate between years of adults is m. If there is a
+delay in recruitment such that this year's new adult recruits are a function of
+adults /3 years ago, we have a delay-difference equation describing the population; namely,
+Nk+ = (1- m)N
+
+k
+
++ F(NK_$).
+
+(65)
+
+Clark (1976) has derived a solution to the fixed proportional costs optimal
+harvesting problem for this delay difference equation and the solution appears
+similar qualitatively to the simple one period delay already discussed. In particular, there is an optimal steady-state stock N* defined by
+(l+i)[(lm)+(l
+
++i)
+
+F(N)]( HI
+
+a
+
+d
+
+(66)l
+
+where H is as defined before. Note that this collapses to the solution derived
+earlier when m = 1 and = 0, the one period stock recruitment case. The optimal
+approach to N* in this more general case is no longer a most rapid approach
+path, but numerical methods applied to parameters for the Baleen Whale by
+Clark show that a MRAP is close to optimal.
+For many species and harvesting situations, a discrete model is most appropriate. In fact, it is frequently the case that species give birth every year so that
+cohorts overlap by roughly one calendar year - particularly in temperate climates.
+In other cases, however, species may mate several times per year and even
+continuously in tropical climates. In these cases, we have overlapping generations
+but with very short staging times. In the limiting case where generations overlap
+continuously, we have a differential equation model of population growth.
+The simplest way to arrive at a continuous overlapping generation model is to
+begin with a Ricker-type model where population members reproduce in genera-
+
+114
+
+J.E. Wilen
+
+tions which live T years each. Then, if we add in other members uniformly in the
+interval [0, T], the limit of such a process can be described with the delay-differential equation
+
+N(t) = N(t)[G(N(t -
+
+(67)
+
+T))].
+
+In this simplest case (uniform distribution is important), the functional form of G
+can be related to the corresponding difference equation form F so that with the
+appropriate choice of discrete model, we might have something like
+T(t)
+
+=rN(t1
+
+r)
+
+(68)
+
+describing a logistic-type model of population growth. The dynamic behavior of
+this particular form depends critically, as did the discrete model, on r, the
+product of the intrinsic growth rate and the generation time. The breakpoint
+between stabilizing and oscillating behavior is where r = (11/2) [May (1973)].
+For values less than (/2)= 1.5707, the system converges to a single stable
+equilibrium point N* = K, and for values greater, the system oscillates in a limit
+cycle whose amplitude is increasingly severe as r gets larger [Jones (1962)].
+A more general form which exhibits the wide variety of behavior earlier
+discussed for difference equations is [May (1980)]
+N= -N+
+
+R[N(t-
+
+(69)
+
+)1.
+
+This is essentially the form utilized by the International Whaling Commission to
+model whale populations with
+
+R[N(t-
+
+)]
+
+N(t- r)[p
+
++ q{1
+
+[N(t-
+
+)
+
+z
+
+J.
+
+(70)
+
+In this model as lengthens and the density affects become increasingly severe
+(as Z increases), the model exhibits a stable equilibrium point, regular limit
+cycles, a hierarchy of cycles with doubling periodicity, and finally aperiodic or
+chaotic behavior with no recognizable structure. Interestingly, beyond the chaotic
+region lies another region where the system collapses back to simple limit cycle
+behavior.
+Note that the above models (68) and (69) are essentially derived by uniformly
+overlapping a sequence of nonoverlapping populations whose individual generation times are . There are no explicit between-cohort density effects, and the
+resulting aggregated model reflects individual cohort-density effects and the
+general impact of the parent population exactly T periods ago on today's (period
+t) population. More realistically, without a uniform initial distribution and with
+density effects that may occur at nondiscrete intervals of the life cycle, we would
+expect population changes today to be related in some more generally weighted
+fashion to past populations, rather than just the population years ago. Thus a
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+115
+
+generalized [May (1973)] version of the delay-differential model is
+A(t)=rN(t)[1
+
+-fi
+
+N(s)w(t-s)ds],
+
+(71)
+
+where w(t - s) is a weighting function. The weighting function has some average
+time delay To associated with it and it turns out that the stability properties of this
+model are similar to (68) above; namely that for critical values of r, = 1.5, the
+system exhibits either stabilizing or oscillating behavior, depending upon whether
+rTO is less than or greater than the critical value, respectively. In fact, our constant
+generation time model (68) is really a special case of this general model where the
+weighting function collapses to a Dirac Delta function (spike) at = T.
+Not much work has been done on delay differential equation harvesting models
+although if the results from the discrete case are any indication, the qualitative
+properties of solutions to simple cases are similar to the instantaneous case. In
+particular, as long as the system is stable (which, recall, calls for r to be on the
+order of 1.5), it is most likely the case that a long-run steady state stock level N*
+exists and is desirable to approach or achieve directly. Consider, as an example,
+the system in (68) with R a quadratic function. Figure 2.21 shows the steady-state
+yield curve which could be harvested continually if the system were in long-run
+equilibrium. Suppose that we wish to get to N* and stay there forever after
+inheriting a stock which has been in long-run equilibrium at N. If harvesting is
+unconstrained we could instantly reduce the stock level to No = N*e - 1. Then the
+stock would grow according to
+N(t)= -N
+
+t
+
+R[N(t-)].
+
+(72)
+
+But for the first
+
+periods R[N(t- )] = R(N) and N will simply decline at a
+rate - . If further harvesting is avoided over the first
+periods, N will simply
+decline to N*. At that point, harvesting can proceed by taking just enough to hold
+the stock at N*, or
+ht+=
+
+-AtN,*r+R[N(t)],
+
+t>T.
+
+(73)
+
+Note that for the next interval [T < t < 2T], R[N(t)] will be changing as it reflects
+the decline from N o to N* which took place in [0, T]. Thus, the harvest rate will
+increase until t = 2 , at which point it locks into the steady state.
+It is reasonable to conjecture similar patterns when there are some constant
+unit harvesting costs which (for example) vary with the stock level lower than the
+above. With respect to the adjustment phase, again it is reasonable to expect a
+near most rapid approach path, with an initial period of zero harvest which allows
+delay effects to catch up. The higher the discount rate, of course, the more costly
+is this waiting period and hence the value of the liquidation benefits will weigh
+heavily in the selection of the ultimate steady state stock. Thus, ceteris paribus, it
+is probably the case that optimal steady-state stock levels in delay-systems are
+
+116
+
+.E. Wilen
+F(Nt)
+
+Nt
+
+N*
+
+N
+
+No
+
+h
+
+N
+
+J
+
+No -
+
+h = G(n*)t
+
+I
+I
+
+J~~~~~
+
+N*
+I
+
+I~
+
+r
+
+2r
+
+h = (t)
+
+i
+
+_
+
+h=O
+
+I
+E
+
+t
+
+Figure 2.21. Delay-differential logistic model.
+
+I
+2r
+
+t
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+117
+
+lower than in nondelay systems. Note, in addition, that stability of the system is
+important here since one cannot even achieve a steady-state stock level if the
+system is oscillatory. For these cases, the optimal solution is obviously much more
+complicated.
+
+5. Summary and conclusions
+This chapter has examined a range of models of optimal use of renewable natural
+resources. We began by using the simple logistic model to introduce problems of
+natural resource use and to illustrate the qualitative characteristics of timing and
+investment/disinvestment problems. Next, a fairly extensive examination of
+population processes was undertaken, framed in the concepts of r- and K-selection. This was done more as a pedagogical device to group organisms we observe
+in nature according to characteristics and their roles in the system. In reality, a
+whole spectrum exists with mixed and overlapping characteristics, but, as a rough
+guide, it is useful to think of extreme r-selected species as having high fecundity
+and mortality, small size, low generation times, and spatially mobile opportunistic
+behavior, whereas K-selected organisms are generally larger, longer-lived, slower
+growing, and more sedentary.
+Given all of this natural variety in characteristics, it is risky, at best, to try to
+generalize and draw some broad conclusions. Nevertheless, there are a few
+synthesizing remarks which seem worth making if for no other reason but to
+stimulate thoughts. Perhaps not surprisingly, these thoughts fall out of an
+intellectual view which places man in the system as just another predator. With
+that perspective, the interesting questions have to do with how to "best" fit (as an
+exploiter) into a system which has evolved over numerous generations (often not
+exploited by men).
+One obvious starting point is that man derives many values from his "use" of
+natural populations-from aesthetic-based, nonconsumptive, and nonparticipative values which are essentially "existence" values for natural systems to participative but nonconsumptive use values related to the stock size (e.g. bird
+watching) to the more familiar consumptive uses derived from harvesting.
+The extent to which man succeeds in being an "efficient" component of the
+system has to do with how well his actions taken to use the system translate into
+values that he desires and how much and what kind of "feedback" the exploited
+natural system produces. At one end of the possibilities are situations where the
+values relate to an undisturbed system and the actions taken to produce those
+values are "benign". At the other end are circumstances where even minimal
+direct use of the system to obtain certain values completely overwhelms the
+"resilience bounds" of the system and collapse results. In between these cases, we
+
+J.E. Wilen
+
+118
+Table 2.2
+Biological parameter
+Intrinsic growth rate
+Generation time
+Breeding interval
+Biomass
+
+Economic parameter
+r
+
+8
+
+T
+
+Ts
+B V
+
+discount rate
+planning period
+harvesting selectivity
+net value
+
+have a myriad of choice problems which involve precisely how to be an efficient
+"predator" and maximize values derived.
+The section on population models and optimal use is a broad overview of the
+range of models which have been developed and the qualitative characteristics of
+some optimal use problems. The characteristics of optimal use patterns depend
+upon the interplay between biological and economic factors, of course, and there
+are some generalizations which can be made relating to an organism's position on
+the r-K spectrum. Table 2.2 lists some key biological parameters and some paired
+economic factors which characterize harvesting problems in particular.
+For extreme r-selected species, r is high, is low (less than one year), and T, is
+also low- usually coincident with . In temperate and more extreme climates,
+r-selected species are often locked into a one-year cycle where each generation is
+born, grows, reproduces, and dies in a year. In tropical climates, and Ts may be
+still low, but the species breeds continuously. Generally speaking, r-selected
+species are small and hence have a relatively low gross value per unit mass. Thus,
+with a few exceptions, costs of harvesting largely determine whether a species is
+feasible to exploit or not. Harvesting costs, moreover, are determined largely by
+the patchiness of the species. Small organisms spread out over large areas are too
+costly, whereas those which agglomerate or are otherwise densely found may be
+worth harvesting.
+The principal economic problems (or efficiency problems) for r-selected species
+have to do mostly with timing rather than investment or disinvestment. Since
+r-selected species are mobile and small, they often become feasible economically
+only during a very short window in their lifetime - usually near their reproductive
+period. In the herring roe fishery, for example, harvest takes place only when the
+herring are schooled up during spawning. The timing that takes place in this
+fishery is often determined on-line and down to the minute in order to maximize
+roe biomass.
+The more towards the r-selection end of the spectrum a species is, the smaller it
+will be, the shorter its generation time, and generally the more expensive it will be
+to harvest selectively. In temperate climates with one reproductive cycle per
+economic planning period (year), it will usually not be necessary to selectively
+harvest anyway since generations will not overlap. If escapement must be
+guaranteed for these species, it is most easily met with escapement targets rather
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+119
+
+than mesh size. In temperate climates, however, since cohorts will overlap and
+since harvesting may take place continuously, it may be necessary to use mesh
+size restrictions or other means to optimize both harvest and escapement.
+In summary, for extreme r-selected species, the technology which has evolved
+(e.g. purse seines) and the biological mechanisms inherent in the species both lead
+to planning problems which are more likely to be short-horizon timing problems
+which imply impulse-type controls as the most efficient way to harvest. As we
+showed in Section 4, the characteristics of these solutions involve waiting until
+biomass reaches a certain critical age and then harvesting quickly. Usually, the
+discount rate 8 is unimportant since it is swamped by r. The smaller the ratio
+(8/r), the closer the critical date of first harvesting to maximum age. Similarly,
+the lower the costs of harvesting, the more complete will be the harvest (neglecting escapement concerns) and the shorter the harvest period. Thus, generally for
+these species, the goal of maximum physical yield is close to maximum economic
+yield.
+In contrast, as we move towards K-selected species, r is low relative to 8 and T
+is long relative to the planning period. A low r means that the stock responds
+sluggishly to harvesting moratoria (investment) and in addition, since K-selected
+organisms are spread out over space, they become more costly to reduce (disinvest) as stock size gets smaller. Hence, K-selected species are characterized by
+adjustment costs and therefore present investment/disinvestment problems rather
+than (or in addition to) timing problems.
+In addition, since T is long and generally greater than Ts (i.e. the species breeds
+several times over a lifetime), the population will almost always overlap and
+consist of mixed sizes and ages. Fortunately, the larger the organism, the more
+feasible it becomes to use technologies and practices that are selective. Thus, the
+critical economic and efficiency problems have to do with determining the optimal
+biomass size, how to achieve it, and, perhaps most important, the composition of
+the harvest which will maximize the present value of resource flows over time.
+As we saw in Section 4, the problems of determining optimal harvesting in
+mixed age/size populations is analytically difficult and generally unsolved. For
+simple circumstances, we can say some things, however. First, the discount rate is
+important in these problems, and, generally speaking, the higher the discount
+rate, the sooner one harvests a given cohort. Second, the qualitative nature of the
+solution depends dramatically on the types of costs incurred in harvesting. If
+costs are zero and perfect selectivity can be practiced, it is possible to optimize
+each cohort in a mixed age/size population separately. With positive but linear
+costs, it is no longer possible to generally characterize the optimal solution. Even
+if perfect selectivity is possible, it may be optimal to pulse harvest the population
+(use no selectivity) every few time periods, or alternatively it may be optimal to
+selectively harvest single cohorts more frequently. The answer appears to depend
+upon the costs and benefits of using more selective measures which, in turn,
+
+120
+
+J.E. Wilen
+
+depend in a complex way on the generation time and the breeding interval T,.
+The lower the ratio (TJT), the more generations overlap and the more likely it is
+that one cannot answer the optimal harvesting pattern question readily.
+Finally, a key aspect of K-selected organisms is their ability to adapt to altered
+densities by maturing earlier, changing mating behavior, etc. Thus, there is a
+complicated relationship between population dynamics, species density, and the
+Logistic Model
+Nt '
+
+P(Nt)
+
+At
+
+T
+
+-
+
+Irl
+
+·
+
+_I .
+
+Differential
+
+Discrete Loglst1C
+
+Delay Model
+
+Nt - J(Nt-T)
+
+Nt+At - G (Nt)
++
+
+t
+
+Continuous and
+Uniform Overlap
+
+T + At
+
+Dirac at s - t -
+
+w(s)
+
+Weighted Average Model
+
+Nonoverlapping Generation Model
+(Ricker Recruitment)
+Nt
+
+i
+
+H(Nt-_)
+
+Nt ' R
+
+I
+
+w(s)N(s)ds
+
+- R[N(t-r)]
+
+B/H Mixed Age Class Model
+
+B(t) - Z
+a
+
+t
+f N(s,a)v(s,a)ds
+
+Ricker Recruitment Model
+Nt
+
+-
+
+Overlap Cohorts Uniformly
+Constant Recruitment R
+
+H(Nt-T)
+
+I
+
+B/H Nonoverlappin Generation Model
+B(t,a) as below. N(t)
+R (exogenous)
+t
+
+Dynamic Pool Model
+Mixed B/H-Ricker
+B(t,a) as below
+N(t) - H(N-_ T )
+Bevertor Holt
+t
+B(t,a) -
+
+f
+
+I
+
+(B/u)
+
+Single Cohort Model
+
+N(s,a)w(s,a)ds
+
+W(t)
+
+t
+Figure 2.22. Logistic model.
+
+W
+o
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+121
+
+age/size/sex distribution of the population. If selectivity is possible, both numbers and characteristics of those harvested must be chosen to optimize values
+derived. Thus, for example, if it is desired to adjust a deer population in a natural
+or overharvested equilibrium to a new one with a large number of large-antlered
+trophy males, it is obvious that the internal dynamics and age/sex structure
+consideration make the problem nontrivial. Similarly, if imperfect or zero selectivity hold, then each harvest rate and profile will have different impacts on the
+distribution of characteristics in the population. Finally, the longer is T, the more
+likely it is that the population will oscillate in its approach to any equilibrium.
+This likelihood increases if harvesting also causes r to go up as density thins.
+The above suggest that the logistic model is an oversimplification at best and
+perhaps better reserved for pedagogical uses with the caveat that it has little
+relevance to many (if any) real-world situations. It is not relevant to r-selection
+harvesting situations and is less relevant to K-selection cases because harvest
+patterns change the functional form as they impact the population distribution.
+One can relax the restrictive assumptions implicit in the logistic model and move
+towards simple and then complicated differential delay systems (see Figure 2.22),
+but to be accurate one still must know how harvesting different numbers with
+different age/size/sex characteristics affects the delays, weighting functions, etc.
+Hence, in the end, if we are interested in real-world management problems, we
+are inevitably forced to disaggregate to pick up the more complicated features of
+mixed age populations. Unfortunately, these appear to be the most intractable
+analytically for reasons discussed in Section 4. However, they have not really been
+given much attention until recently, and perhaps continued analytical and simulation work will shed further insight into the nature of solutions.
+References
+Allen, R.L. and P. Basasibwaki (1974) "Properties of Age-Structured Models for Fish Populations",
+Journalof the Fisheries Research Board of Canada 31, 1119-1125.
+Anderson, L. (1977) The Economics of Fisheries Management (Johns Hopkins University Press,
+Baltimore) p. 214.
+Arrow, K.J. (1964) "Optimal Capital Policy, the Cost of Capital, and Myopic Decision Rules", Annals
+of the Institute of Statistical Mathematics 16, 21-20.
+Arrow, K.J. (1968) "Optimal Capital Policy With Irreversible Investment", in: J.N. Wolfe (ed.),
+Value, Capital and Growth, Papers in Honour of Sir John Hicks (Edinburgh University Press)
+pp. 1-20.
+Bagenel, T.B. (1976) "A Short Review of Fish Fecundity", in: S.B. Gerking (ed.), The Biological Basis
+of Freshwater Fish Production (John Wiley and Sons, New York).
+Beddington, J.R. and D.B. Taylor (1973) "Optimum Age Specific Harvesting of a Population",
+Biometrics 29, 801-809.
+Beverton, R.J.H. and S.J. Holt (1957) On the Dynamics of Exploited Fish Populations (Ministry Agric.
+Fish and Food, London) Fish. Invest. Ser 2, no. 19.
+Botsford, L.W. (1978) Modeling, Stability, and Optimization of Aquatic Productive Systems, Ph.D.
+thesis (University of California, Davis).
+Botsford, L.W. (1981) "Optimal Fishery Policy for Size-Specific, Density-Dependent Population
+Models", Journal of Mathematical Biology 12, 265-293.
+
+122
+
+J.E. Wilen
+
+Botsford, L.W. and D.E. Wickham (1978) "Behavior of Age-Specific, Density-Dependent Models and
+the Northern California Dungeness Crab Fishery", Journalof Fishery Resources Board Canada 35,
+833-843.
+Brauer, F. (1977) "Stability of Some Population Models with Delay", Mathematical Bioscience 33,
+345-358.
+Brauer, F. and D.A. Sanchez (1975) "Constant Rate Population Harvesting: Equilibrium and
+Stability", Theoretical PopulationBiology 8, 12-30.
+Brown, G., Jr. (1974) "An Optimal Program for Managing Common Property Resources With
+Congestion Externalities", Journalof Political Economy 82, 163-174.
+Caughley, G. (1966) "Mortality Patterns in Mammals", Ecology 47, no. 6 pp. 906-918.
+Clark, C.W. (1971) "Economically Optimal Policies for the Utilization of Biologically Renewable
+Resources", MathematicalBioscience 12, 245-260.
+Clark, C.W. (1976) "A Delayed-Recruitment Model of Population Dynamics, With An Application to
+Baleen Whale Population", Journal of Mathematical Biology 3, 381-391.
+Clark, C.W. (1973a) "The Economics of Overexploitation", Science 181, 630-634.
+Clark, C.W. (1973b) "Profit Maximization and the Extinction of Animal Species", Journalof Political
+Economy 81, 950-961.
+Clark, C.W. (1976) Mathematical Bioeconomics: The Optimal Management of Renewable Resources
+(John Wiley and Sons, Inc., New York) p. 352.
+Clark, C.W. and G.R. Munro (1975) "The Economics of Fishing and Modem Capital Theory: A
+Simplified Approach", Journal of Environmental Economics and Management 2, 92-106.
+Clark, C.W. and M. Mangel (1979) "Aggregation and Fishery Dynamics: A Theoretical Study of
+Schooling and the Purse Seine Tuna Fisheries", U.S. Fisheries Bulletin 77, no. 2.
+Clark, C.W., F.H. Clarke and G.R. Munro (1979) "The Optimal Exploitation of Renewable Resource
+Stocks: Problems of Irreversible Investment", Econometrica 47, no. .
+Clark, C., G. Edwards and M. Friedlander (1973) "Beverton-Holt Model of A Commercial Fishery:
+Optimal Dynamics", Journal Fish. Res. Board Can. 30, 1629-1640.
+Crutchfield, J.A. (1975) "An Economic View of Maximum Sustainable Yield", in: P.M. Roedel (ed.),
+Optimum Sustainable Yield as a Concept in Fisheries Management, American Fisheries Society
+Special Publication No. 9 (Washington, D.C.).
+Crutchfield, J.A. and A. Zellner (1962) "Economic Aspects of the Pacific Halibut Fishery", Fishery
+Industrial Research, vol. 1, no. 1 (U.S. Department of the Interior, Washington, D.C.).
+Faustmann, M. (1849) "Berechnung des Werthes, Welchen Waldboden Sowie Nach Nicht Haubare
+Holzbestande fur die Weldwirtschaft Besitzen", A llgemeine Forst und Jagd Zeitung 25, 441.
+Gaffney, M.M. (1960) Concepts of Financial Maturity of Timber and Other Assets (Department of
+Agricultural Economics, North Carolina State College, Raleigh).
+Hannesson, R. (1975) "Fishery Dynamics: A North Atlantic Cod Fishery", Canadian Journal of
+Economics 8, 151-173.
+Heaps, T. and P. Neher (1979) "The Economics of Forestry When the Rate of Harvest is Constrained",
+Journal of Environmental Economics and Management 6, 297-319.
+Holling, C.S. (1973) "Resilience and Stability of Ecological Systems", Annual Review of Ecology and
+Systematics 4, 1-24.
+Hutchison, G.E. (1978) An Introduction to Population Ecology (Yale University Press, New Haven).
+Jaquette, D.L. (1972) "A Discrete-Time Population Control Model", Mathematical Bioscience 15,
+231-252.
+Jones, G.S. (1962) "The Existence of Periodic Solutions of f'(x) = -af(x - 1)[1 + f(x)]", Journal of
+Mathematical Analysis and Applications 5, 435-450.
+Keyfitz, N. (1968) Introduction to the Mathematics of Population (Addison-Wesley, Reading, Mass.).
+Lack, D. (1966) Population Studies of Birds (Clarendon Press, Oxford).
+Leslie, P.H., "On the Use of Matrices in Certain Population Mathematics", Biometrika 33, 183-212.
+Li, T.Y. and J.A. Yorke (1975) "Period Three Implies Chaos", American MathematicalMonthly 82,
+985-992.
+Lotka, A.J. (1925) Elements of Physical Biology (Williams and Wilkins, Baltimore).
+MacArthur, R.H. and E.R. Pianka (1966) "Optimal Use of a Patchy Environment", American
+Naturalist 100, 603-609.
+MacArthur, R.H. and R. Levins (1967) "The Limiting Similarity, Convergence and Divergence of
+Coexisting Species", American Naturalist 101, 377-385.
+
+Ch. 2: Bioeconomics of Renewable Resource Use
+
+123
+
+MacArthur, R.H. and E.O. Wilson (1967) The Theory of Island Biogeography (Princeton University
+Press, Princeton).
+May, R.M. (1973a) "Time-Delay Versus Stability in Population Models With Two and Three Trophic
+Levels", Ecology 54, 315-325.
+May, R.M. (1973) "Stability in Randomly Fluctuating Versus Deterministic Environments", American Naturalist 107, 621-650.
+May, R.M. (1973) Stability and Complexity in Model Ecosystems (Princeton University Press, Princeton).
+May, R.M. (1974) "Biological Populations with Nonoverlapping Generations: Stable Points, Stable
+Cycles and Chaos", Science 186, 645-647.
+May, R.M. (1975) "Biological Populations Obeying Difference Equations: Stable Points, Stable Cycles
+and Chaos", Journal of Theoretical Biology 49, 511-524.
+May, R.M. (1976) "Mathematical Aspects of the Dynamics of Animal Populations", in: S.A. Levin
+(ed.), Studies in Mathematical Biology (American Mathematical Society, Providence, R.I.).
+May, R.M. (1977) "Simple Mathematical Models with Very Complicated Dynamics", Nature 269,
+459-467.
+May, R.M. (1977) "Thresholds and Breakpoints in Ecosystems With a Multiplicity of Stable States",
+Nature 269, 471-477.
+May, R.M. (1979) "The Structure and Dynamics of Ecological Communities", in: R.M. Anderson,
+B.D. Turner and L.R. Taylor (eds.), Symposium of British Ecological Society 20, Population
+Dynamics (Blackwell Scientific Publications, Oxford) pp. 385-407.
+May, R.M. (1980) "Mathematical Models in Whaling and Fisheries Management", in: G.F. Oster
+(ed.), Some Mathematical Questions in Biology, vol. 13 (The American Mathematical Society,
+Providence, R.I.) pp. 1-64.
+May, R.M. (1981) Theoretical Ecology: Principles and Applications (Sinauer Associates, Sunderland,
+Mass.).
+May, R.M., G.R. Conway, M.P. Hassell and T.R.E. Southwood (1974) "Time Delays, Density
+Dependence, and Single Species Oscillations", Journal of Animal Ecology 43, 747-770.
+May, R.M. and G.F. Oster (1976) "Bifurcations and Dynamic Complexity in Simple Ecological
+Models", American Naturalist 110, 573-599.
+May, R.M., J.R. Beddington, C.W. Clark, S.J. Holt and R.M. Laws (1979) "Management of
+Multispecies Fisheries", Science 205, 267-277.
+Maynard Smith, J. (1976) "Evolution and the Theory of Games", American Scientist 64, 41-45.
+Maynard Smith, J. (1971) Mathematical Ideas in Biology (Cambridge University Press, Cambridge,
+England).
+Nikolskii, G.V. (1969) Theory of Fish Population Dynamics (Oliver and Boyd, Edinburgh).
+Oster, G. (1975) "Stochastic Behavior of Deterministic Models", in S.A. Levin (ed.), Ecosystem
+Analysis and Prediction (SIAM-SIMS Conference Proceedings, Alta, Utah) pp. 24-37.
+Pearl, R. (1930) The Biology of Population Growth (Knopf, New York).
+Pearse, P. (1967) "The Optimal Forest Rotation", Forestry Chronicle 43, 178-195.
+Pianka, E.R. (1970) "On r- and K-selection", American Naturalist 104, 592-597.
+Plourde, C.G. (1970) "A Simple Model of Replenishable Resource Exploitation", American Economic
+Review 60, 518-522.
+Plourde, C.G. (1971) "Exploitation of Common-Property Replenishable Resources", Western Economic Journal 9, 256-266.
+Quirk, J.P. and V.L. Smith (1970) "Dynamic Economic Models of Fishing", in: A.D. Scott (ed.),
+Economics of Fisheries Management- A Symposium (University of British Columbia, Institute of
+Animal Resource Ecology, Vancouver) pp. 3-32.
+Reed, W.J. (1980) "Optimum Age-Specific Harvesting in a Non-linear Population Model", Biometrics
+26, 579-593.
+Ricker, W.E. (1954) "Stock and Recruitment", Journal of Fisheries Resource Board Canada 11,
+559-623.
+Rorres, C. (1976) "Optimal Sustainable Yields of a Renewable Resource", Biometrics 32, 945-948.
+Rorres, C. and W. Fair (1975) "Optimal Harvesting Policy for an Age-Specific Population", Mathematical Bioscience 24, 31-47.
+Rothschild, B.J. (1977) "Fishing Effort", in: J. Gulland (ed.), Fish Population Dynamics (John Wiley
+& Sons, New York) p. 372.
+
+124
+
+J.E. Wilen
+
+Schaefer, M.B. (1954) "Some Aspects of the Dynamics of Populations Important to the Management
+of the Commercial Marine Fisheries", Bull. Inter-Amer. Trop. Tuna Comm. 1, 26-56.
+Schaefer, M.B. (1957) "A Study of the Dynamics of the Fishery for Yellowfin Tuna in the Eastern
+Tropical Pacific Ocean", Bull. Inter-Amer. Trop. Tuna Comm. 2, 247-285.
+Schaefer, M.B. (1967) "Fishery Dynamics and the Present Status of the Yellowfin Tuna Population of
+the Eastern Pacific Ocean", Bull. Inter-Amer. Trop. Tuna Comm. 12, 89-137.
+Silliman, R.P. (1969) "Analog Computer Simulation and Catch Forecasting in Commercially Fished
+Populations", Trans. Amer. Fish. Soc. 98, pp. 560-569.
+Sinko, J.W. and W. Streifer (1967) "A New Model for Age Size Structure of a Population", Ecology
+48, 910-918.
+Smith, V.L. (1968) "Economics of Production From Natural Resources", American Economic Review
+58, 409-431.
+Smith, V.L. (1969) "On Models of Commercial Fishing", Journal of Political Economy 77, 181-198.
+Solow, R. (1974) "The Economics of Resources or the Resources of Economics", American Economic
+Review 64, 1-14.
+Southwood, T.R.E. (1975) "The Dynamics of Insect Populations", in: D. Pimentel (ed.), Insects,
+Science and Society (Academic Press, New York) pp. 151-199.
+Southwood, T.R.E. (1977) "The Relevance of Population Dynamics Theory to Pest Status", in: J.M.
+Cherett and G.R. Sagar (eds.), Origin of Pest, Parasite, Disease and Weed Problems (Blackwell
+Scientific Publications, Oxford) pp. 35-54.
+Southwood, T.R.E. (1981) "Bionomic Strategies and Population Parameters", in: R.M. May, Theoretical Ecology (Blackwell Scientific Publications, Oxford) pp. 30-52.
+Southwood, T.R.E., R.M. May, M.P. Hassell and G.R. Conway (1974) "Ecological Strategies and
+Population Parameters", American Naturalist 108, 791-804.
+Southwood, T.R.E. and H.N. Comins (1976) "A Synoptic Population Model", Journal of Animal
+Ecology 45, 949-965.
+Spence, M. (1973) Blue Whales and Applied Control Theory, Technical Report No. 108, (Stanford
+University, Institute for Matherhatical Studies in the Social Sciences).
+Spence, M. and D. Starrett (1975) "Most Rapid Approach Paths in Accumulation Problems",
+International Economics Review 16, 388-403.
+Taber, R.D. and R.F. Dasmann (1957) "The Dynamics of Three Natural Populations of the Deer
+Odocoileus Homeosus Columbiamus", Ecology 38, 233-248.
+Thom, R. (1976) Morphogenesis and Structural Stability (Addison-Wesley, Reading, Mass.).
+Verhulst, P.F. (1838) "Notice sur la Loi Que la Population Suit dans son Accroissement", Correspondance Mathematique et Physique 10, 113-121.
+Volterra, V. (1931) Lecons sur la Theorie Mathematique de la Lutte pour la Vie (Gauthier-Villars,
+Paris).
+Walters, C.J. (1969) "A Generalized Computer Simulation Model for Fish Population Studies", Trans.
+Amer. Fish. Soc. 98, 505-512.
+Watson, A. (1977) "Population Limitation and the Adaptive Value of Territorial Behavior in Scottish
+Red Grouse", in: B. Stonehouse and C.M. Perrins (eds.), Evolutionary Ecology (University Park
+Press).
+
+

@@ -1,0 +1,664 @@
+Marine Policy 93 (2018) 171–177
+
+Contents lists available at ScienceDirect
+
+Marine Policy
+journal homepage: www.elsevier.com/locate/marpol
+
+Mapping nearly a century and a half of global marine ﬁshing: 1869–2015
+a,⁎
+
+Reg A. Watson , A. Tidd
+a
+b
+
+T
+
+b
+
+Institute for Marine and Antarctic Studies, University of Tasmania, Private Bag 129, Hobart TAS 7001, Australia
+Galway-Mayo Institute of Technology (GMIT), Old Dublin Road, Galway, Ireland
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Global ﬁshing
+IUU
+Historical ﬁshing
+Mapping
+Discards
+Database
+
+Understanding global ﬁsheries patterns contributes signiﬁcantly to their management. By combining harmonized unmapped data sources with maps from satellite tracking data, regional tuna management organisations,
+the ranges of ﬁshed taxa, the access of ﬂeets and the logistics of associated ﬁshing gears the expansion and
+intensiﬁcation of marine ﬁsheries for nearly a century and half (1869–2015) is illustrated. Estimates of industrial, non-industrial reported, illegal/unreported (IUU) and discards reveal changes in country dominance,
+catch composition and ﬁshing gear use. Catch of industrial and non-industrial marine ﬁshing by year, ﬁshing
+country, taxa and gear by 30-min spatial cell broken to reported, IUU and discards is available. Results show a
+historical increase in bottom trawl with corresponding reduction in the landings from seines. Though diverse,
+global landings are now dominated by demersal and small pelagic species.
+
+1. Introduction
+Commercial or industrial ﬁshing arguably started before recorded
+history when the immediate needs of ﬁshers were sated allowing their
+excess catch to be traded for beneﬁts before it perished. Now a widely
+traded global commodity [1], seafood is vital to world food security and
+prosperity, with expectations that its importance will only continue to
+grow with human population and climate challenges. Individual populations of harvested species can come under pressure and accessing
+their status and applying suﬃcient management control is challenging
+and often controversial [2]. More broadly though, in natural marine
+systems, there are many limitations to seafood production including the
+solar-powered primary productivity of supporting ecosystems [3,4] and
+the need to maintain the irreplaceable biodiversity of these systems.
+The range of global industrial ﬂeets has expanded to encompass most
+areas of the world's oceans [5,6]. When has the need to get up-to-date
+strategic overviews of global ﬁshing operations ever been more
+pressing?
+Several attempts at mapping broad global ﬁshing patterns [7,8]
+have demonstrated how this information can inform ﬁsheries management as well as marine conservation. Past eﬀorts have concentrated
+on enhancements to foundation data sources such as the United Nation's
+Food and Agriculture Organization (FAO) [9] which countries have
+contributed to since 1950. In recent years, however, a wider range of
+Supporting data sources have become available which includes specialist regional management organisations (rFMO) such as for tuna
+ﬁsheries, and exciting improvements in the tracking of ﬁshing vessels
+⁎
+
+from satellites [10]. Harmonization of data from all possible sources
+can only improve data quality, and for mapping, it's possible spatial
+precision.
+Although mapped catch is now available for periods after 1950
+[7,8] this means that important ﬁshing patterns prior to the 2nd world
+war are usually ignored. Here available data from 1869 is used in
+combination with a new and extended compilation of novel data
+sources including the latest satellite data such as the widely used Automatic [vessel] Identiﬁcation Systems (AIS) [10] to map and visualize
+global ﬁshing patterns. The scale and patterns of change for the last
+century and a half are revealed through a new dataset, which not only
+separates industrial ﬁshing from other ﬁshing, but documents by ﬁshing
+country and associated ﬁshing gear, the entire catch including estimates
+of illegal, unreported and discarded catch.
+2. Methods
+2.1. Data sources, scope and overview
+Input data was sourced from publicly available websites (Table 1.).
+All sources but the tuna regional management organization's (tuna
+rFMO) data and Global Fishing Watch's (GFW) vessel Automatic Identiﬁcation System (AIS)-based data [10] were used initially in a similar
+fashion to [7] and summarised below to map reported landings to
+candidate 30-min spatial cells with a global grid (Supplementary
+Fig. 1). This included a separation of deemed industrial from non-industrial reported landings. Following this there was reevaluation and
+
+Corresponding author.
+E-mail addresses: rwatson@ecomarres.com (R.A. Watson), emperorﬁsh@gmail.com (A. Tidd).
+
+https://doi.org/10.1016/j.marpol.2018.04.023
+Received 22 January 2018; Received in revised form 16 April 2018; Accepted 17 April 2018
+0308-597X/ © 2018 Elsevier Ltd. All rights reserved.
+
+Marine Policy 93 (2018) 171–177
+
+R.A. Watson, A. Tidd
+
+Table 1
+Data sources used in data compilation.
+Source
+
+Description
+
+Link
+
+FAO
+
+FAO Global Fishery and Aquaculture Production Statistics v2017.1.0 Global Capture Production (Release
+date: March 7th, 2017)
+International Committee for the Exploration of the Sea 1950–2015
+Historical data 1903–1949
+Northwest Atlantic Fisheries Organization Catch and Eﬀort 21B 1960–2015 (Updated 1 June 2017)
+Southeast Atlantic Capture Production 1975–2015 (FAO Regional Capture Fisheries Statistics v2017.2.0
+Release date: 15 June 2017)
+General Fisheries Commission for the Mediterranean Capture production 1970–2015 STATLANT 37A
+(Release date: Sept 2017)
+Fishery Committee for the Eastern Central Atlantic Capture production 1970–2015 (FAO Regional
+Capture Fisheries Statistics v2017.2.0 Release date: 15 June 2017)
+Commission for the Conservation of Antarctic Marine Living Resources Statistical Bulletin 2017 vol. 29
+1970–2015
+Sea Around Us project – records for FAO area 18 (Arctic) v2 1950–2014 (extrapolated to 2015)
+Western & Central Paciﬁc Fisheries Commission 1950–2014 (Data accessed June 2017)
+Indian Ocean Tuna Commission 1952–2015 (Data accessed June 2017)
+International Commission for the Conservation of Atlantic Tunas 1956–2015 (Data accessed June 2017)
+Inter-American Tropical Tuna Commission 1954–2015 (Data accessed June 2017)
+Commission for the Conservation of Southern Blueﬁn Tuna 1965–2015 (Data accessed June 2017)
+Global Fishing Watch AIS global data 2016
+International Historical Statistics: The Americas 1750–1988
+International Historical Statistics: Africa, Asia & Oceania, 1750–1993
+
+www.fao.org
+
+ICES
+NAFO
+SEAFO
+GFCM
+CECAF
+CCAMLR
+SAUP
+WCPFC
+IOTC
+ICCAT
+IAATC
+CCSBT
+GFW
+Mitchell, B.R.
+
+ﬁltering of reported landings initially assigned to candidate spatial cells
+through the use of distributional information related to the associated
+ﬁshing gear used, and where applicable, the tuna rFMO and AIS positional data (Table 1.) Subsequently this map of reported landings was
+extended through estimates for reported, Illegal, Unreported and Unregulated (IUU) catch and associated discards for both the industrial
+and non-industrial sectors. The global Human Development Index
+(HDI) [11] was used to assist estimation of IUU associated with nonindustrial ﬁsheries, and served as a simple available proxy for reporting
+likelihood.
+Only records of taxa with a marine origin were used - although some
+are found in other habitats. Where possible, aquaculture production
+was excluded, as were records describing shells, coral, amphibians,
+reptiles, birds and mammals.
+
+www.ices.dk
+www.nafo.int
+www.seafo.org
+http://www.fao.org/gfcm/data/capture-productionstatistics/en/
+www.fao.org/ﬁshery/rfb/ecaf
+www.ccamlr.org
+www.seaaroundus.org
+https://www.wcpfc.int/
+http://www.iotc.org/
+https://www.iccat.int/en/
+https://www.iattc.org/HomeENG.htm
+https://www.ccsbt.org/
+http://globalﬁshingwatch.org/
+
+typically accepted to occur within 200 km of shore and within 50 m of
+depth [14]. Division to sectors is acknowledged to be an imperfect
+science without detailed and speciﬁc data such as from logbooks, surveys etc. which unfortunately are not available for a global assessment.
+2.4. Estimation of IUU and associated discards
+As in [7], estimates of IUU and associated discards were made for
+each record of reported landings. For the industrial sector records the
+current procedure was largely unchanged. The relative association of
+landings with a range of ﬁshing gears was made based on the ﬁshing
+country, the year of ﬁshing and the ﬁshed taxa [15]. This allowed
+published data on rates of IUU and discarding to be used [16,17] to
+guide estimation of the missing components so that the complete catch
+could be estimated, and not simply reported landings.
+For the non-industrial sector it was clear that in order to achieve the
+published catch rates [14], as well as the national estimates for this
+sector published as country reconstructions [8], that the unreported
+component (IUU) of non-industrial ﬁshing was signiﬁcant. It was
+decided that the level of non-reporting in this sector to FAO and other
+parties was inﬂuenced by the national resources available for government monitoring. Therefore, the estimation of IUU for this sector was
+adjusted by country HDI [11], with poorer countries having relatively a
+larger portion of unreported landings. This expected association was
+veriﬁed by examining the breakdowns within country reconstructions
+[8] where a signiﬁcant relationship with R2 = 0.29 was found.
+
+2.2. Initial mapping
+FAO data for the period 1950–2015 was combined and coded with a
+range of other input sources for reported ﬁsheries landings as described
+in [7] (Table 1.). Overlapping records were removed, and only the most
+spatially speciﬁc data was retained. Mapping involved using all means
+to identify the most speciﬁc taxonomy of the reported landing datum
+because this established both the potential range of ﬁshed spatial cells,
+but also a gradient based on the rough abundance of the ﬁshed taxa
+related to critical habitats, ocean depths etc. [12]. Within the statistical
+area reported in source databases, usually only a subset of spatial cells
+were accessible to the ﬁshing ﬂeets of the reporting country [13]. This
+is because most global catch is taken within the claimed exclusive
+economic zone (EEZ) waters of countries where the access of foreign
+ﬁshing ﬂeets is regulated and usually documented.
+
+2.5. Adjustment for associated ﬁshing gear logistics
+It was possible to associate each ﬁshing record with a range of
+ﬁshing gears using the ﬁshing year, country and the ﬁshed taxon as
+described in [7,15]. Each ﬁshing gear was deemed to have a general
+global pattern of probable spatial distribution largely based on distance
+oﬀshore, depth of water and the distributions of target taxa as summarised from previous mapping of catch and ﬁshing eﬀort [7,18]. For
+non-industrial ﬁshing, a single distribution was considered, which favoured the published association with nearshore and shallow areas
+[14].
+The ﬁshing gear logistics distribution was used to ﬁlter and redistribute catch associated with spatial cells in earlier processing. This
+further processing did, for example, rule out sites far oﬀ shore for nonindustrial ﬁshing by proportionately increasing landings associated
+
+2.3. Separation to industrial and non-industrial sectors
+The separation of landings from industrial and non-industrial
+ﬁshing was based on a number of factors. The ﬁrst was whether the taxa
+had a clear association to ﬁshing gear typically not used in non-industrial ﬁshing such as with tuna purse seine operations. Additionally,
+for each country the division was further derived by the relative association of the taxon described as landing by the two ﬁshing sectors
+during the period of ﬁshing by published catch reconstructions [8]. In
+addition, where the ﬁshing occurred was considered important to the
+likely association with a ﬁshing sector. Non-industrial ﬁshing is
+172
+
+Marine Policy 93 (2018) 171–177
+
+R.A. Watson, A. Tidd
+
+Fig. 1. Global catch and landings (million tonnes) for A available reported landings from industrial ﬁsheries showing reported, IUU and discards, B shows expanded
+view of industrial catch from 1986 to 1950, C breakdown to industrial and non-industrial sectors and D breakdown of industrial and non-industrial catch from 1950
+to 2015.
+
+2.8. Mapping historical data (pre-1950)
+
+with nearshore candidate cells. The purpose was to enforce some rational and realistic consideration of gear-based logistic cost/beneﬁt
+constraints on mapped solutions which has been missing in previous
+mapped database versions [7,8].
+
+A number of data sources describe country ﬁsheries landings,
+sometimes by taxa, as early as Roman times. In limited cases, reconstructions exist for some stocks such as Atlantic herring and cod for
+nearly 1000 years [20]. Here the sources described in Table 1 were used
+as the basis for extending mapped reported landings to 1869. The
+procedure used was similar to that described for more recent (post1950) industrial ﬁsheries (above). The spatial guide used was based on
+the same reporting country and ﬁshed taxon in 1950. If there was no
+such matching record then the time period used was generalized to any
+ﬁshing in the 1950s. If this failed then the ﬁshed taxon was generalized
+to a broader taxonomic range. Using this method, it was possible to map
+all available historical records.
+
+2.6. Adjustment for tuna ﬁsheries
+For tuna ﬁsheries, there exists greater mapping challenges and opportunities than for most other ﬁsheries which are largely inshore. Tuna
+ﬁsheries encompass all tropical and sub-tropical seas but each year,
+depending on the oceanographic conditions and any ﬁshing access
+agreements negotiated by roving ﬂeets, the focus of ﬁshing can be in
+vastly diﬀerent areas within the broad range of the ﬁshed taxa. Data
+from FAO and other sources has always been instructive to focus catch
+mapping to speciﬁc locations, as is the data made available by tuna
+rFMOs (Table 1.). Annual distributions, often in 1-degree or 5-degree
+spatial areas were used to improve the redistribution of spatial mapping
+from initial processing for the appropriate tuna taxa and associated
+ﬁshing gears.
+
+2.9. Data structure and availability
+In order to facilitate access to the data described, all the mapped
+data has been made available for public download (http://dx.doi.org/
+10.4226/77/5a65572655f73;
+http://data.imas.utas.edu.au/portal/
+search?uuid=ﬀ1274e1-c0ab-411b-a8a2-5a12eb27f2c0). The mapped
+catch data consists of ASCII records in 5-year blocks with structures
+described in Supplemental Material.
+
+2.7. Adjustment using satellite data
+Most recently it has been possible to track the movement of large
+vessels at sea from satellites. Though there are dedicated systems such
+as satellite vessel monitoring systems (VMS) used extensively in ﬁsheries management, these data are not widely available nor do they
+cover most global ﬁshing operations. Most recently the use of AIS positional vessel tracking has shown promise. With considerable processing, it has even been possible to determine not only if the vessel is a
+ﬁshing but even something about the associated ﬁshing gears used and
+probable vessel size [10]. Unfortunately, the AIS coverage has only
+become good in 2016 and is still weak in some areas such as SE Asia due
+to many factors [19]. Where possible, however, especially for oﬀshore
+ﬁshing for tuna, these data can add another valuable source of information about ﬁshing distributions. AIS data from 2016 was used to
+constrain the mapping of relevant catches for 2015 and, with reducing
+eﬀect, for ﬁshing years back to 2010. Before 2010 it was considered
+that recent AIS data could not improve mapping procedures.
+
+3. Results and discussion
+3.1. Coverage
+Using the described sources and methodology it was possible to
+assemble a mapped global database of reported landings of industrial
+ﬁshing with estimates of their associated IUU and discards for
+1869–2015 inclusive (Fig. 1A). Before 1950 reported landings were
+assumed to come from industrial or commercial ﬁsheries. Before the
+start of FAO's reporting in 1950 (Fig. 1. B) there were much lower levels
+of reported landings and hence their associated IUU and discards were
+much smaller. There was an early peak in reported ﬁshing in the
+1930–40 s before the signiﬁcant reduction during the 2nd world war
+clearly seen in the time series. After the war, global reports of ﬁsheries
+173
+
+Marine Policy 93 (2018) 171–177
+
+R.A. Watson, A. Tidd
+
+and Japan (Fig. 2a). Reported landings, even when adjusted for likely
+underreporting and discarding were much lower than the current intensity of ﬁshing (note units for Fig. 2a and b are in kg whereas for
+Fig. 2c and d they are in tonnes).
+By the early 1900s more countries were collecting national ﬁsheries
+landings statistics (Fig. 2b) and ICES has a historical time series of
+landings in the European seas which still continues from that time. Most
+ﬁsheries were coastal in nature and the majority of ﬁshing vessels had a
+limited endurance because of a range of factors including the challenges
+of preserving the catch. There were exceptions such as the very long
+voyages for cod which was readily accepted salted [23].
+Just before and since the 2nd world war (Fig. 2c) there was a vast
+expansion of global ﬁshing ﬂeets. Fishing intensiﬁed inshore but,
+moreover, ﬂeets now pursued large pelagics like tuna species across
+entire oceans. Fishing deeper allowed ﬁshing down the continental
+slope and to distant seamounts [24,25], however, some of these deeper
+stocks were not as productive as initially thought [26]. It was then
+feasible to ﬁsh in polar regions but it soon became accepted that while
+some species such as krill appeared to have great potential, others were
+long-lived species requiring careful management. Many regional and
+international management agencies began during this period as ﬂeets
+travelled increasingly greater distances [6], and deals were struck for
+access to the declared exclusive economic zones of 200-nautical miles
+that most countries claimed. During this time many poorer countries
+reduced their commercial ﬁshing [27] and allowed the access of foreign
+ﬂeets but it was not always to their advantage to do so [28,29].
+By 2000 (Fig. 2d), ﬁsheries had generally intensiﬁed, particularly in
+the Asian region but also in many other locations. While management
+in some areas limited expansion, there was little control in other places
+as levels of eﬀective ﬁsheries management varied greatly [30]. The
+increased use of waters along the African north-west and west coast by
+initially European ﬂeets (sometimes involving reﬂagging) [27] was
+compounded by ﬂeets from Asia [31]. Catches did not increase despite
+the additional ﬁshing intensity and the increasing area of the oceans
+ﬁshed [18,32]. A greater portion of the ﬁnite marine ecosystem primary
+productivity was directed to harvested seafoods than ever before.
+
+landings quickly returned to prewar levels with a steep and constant
+rise until maximum levels of the 1980–90 s. Following this, levels have
+been fallen slightly despite increasing ﬁshing eﬀort [18,21].
+After 1950 It was possible to make separate estimates for the industrial and non-industrial sectors (Fig. 1C). Though of greater uncertainty, the non-industrial sector is signiﬁcant and may play a greater
+role in the domestic supply of protein in some countries than catch from
+industrial ﬁshing.
+Putting all components of catch from both major sectors together
+(Fig. 1D) their relative magnitude becomes clear. Global estimates of
+marine ﬁsheries catch in recent years has not increased much after
+steady increase from 1949 to the late 1980s. More than half of global
+marine catch is taken by industrial ﬁsheries and now described in international reporting systems such as by the United Nation's FAO databases which collate national data from contributing countries [9].
+The 2nd biggest component of global marine catch is estimated to
+be that currently unreported by non-industrial ﬁsheries, though the
+discards and IUU of industrial ﬁsheries are almost the same magnitude.
+Globally, many ﬁsheries that are managed have been compelled to reduce discarding and to increase the proportion of catch that is reported.
+In some countries, particularly with tropical bottom trawling, what was
+once discarded is returned to shore to feed aquaculture operations. This
+could be a signiﬁcant and growing trend as tropical trawling is extensive [22]. This change to ‘discarding’ practices increases eﬃciency
+in the human-use of killed fauna but also increases net export of biomass from marine systems with unknown consequences. Indeed, this
+value-added practice may even increase the collateral damage caused
+by ﬁshing even reducing incentives for other changes such as increasing
+gear speciﬁcity that would protect vulnerable non-target species and
+critical marine habitats.
+
+3.2. Mapping industrial marine catch since 1869
+Though the global geographic scope of industrial ﬁshing was undoubtedly limited before the 1900s, the reporting was similarly poor.
+Records available include just three ﬁshing countries: Canada, the USA
+
+Fig. 2. Map of average annual reported landings for A 1869–1899, B 1900–1949, C 1950–1999 and D 2000–2015. Units for A and B are kg but for C and D are tonnes
+per year.
+174
+
+Marine Policy 93 (2018) 171–177
+
+R.A. Watson, A. Tidd
+
+Substantial increases to ﬁsh and seafood consumption was increasingly
+supported by expansions to marine and freshwater aquaculture, although feed for these farms often came from marine stocks – forage
+ﬁshes. While important to farming ﬁsh these species, often small pelagics, have important roles in marine food webs [33,34] and support
+marine mammals and seabirds [35].
+In Fig. 2c and d it is clear that the inclusion of additional spatial
+information from tuna rFMOs and from the AIS satellite data more recently has allowed relative hot-spots of ﬁshing on the high seas to be
+highlighted more precisely than previous attempts [7]. Increases to
+spatial precision will have special signiﬁcance to investigations of the
+interaction of ﬁsheries and sensitive habitats and/or wildlife. Because
+ﬁsheries can consume the same species as marine predators it is important to be able to make use of all spatial detail available [35–38] as
+the energetics of foraging by some species are not nearly as generous as
+fossil fuels allow ﬁshing ﬂeets.
+
+3.4. Composition of global industrial catch since 1869
+The composition of global marine catch has changed since the 1880s
+(Fig. 4a). Although less is known about catch composition before 1900,
+most landings were demersal ﬁshes though there have always been
+reported landings of small pelagics for at least 800 years [20,39]. Following the industrial expansion post World War II, ﬁsheries landings
+increased and included in this was a vast expansion of small pelagics
+such as come from the rich upwelling areas, which were then intensively ﬁshed. In more recent years there has been a relative expansion of valuable landings of tunas, shrimps and squid reﬂecting the
+ability of ﬂeets to roam widely, work at night and use energy-intensive
+methods of ﬁshing supported by modern technology in an attempt to
+meet increasing demands for varied seafoods.
+3.5. Fishing gears associated with global catch
+Although the association of ﬁshing gear to reported landings could
+not be extrapolated back in time beyond the 1950s there had already
+been substantial changes in ﬁshing practices since the 1880s. Sails and
+oars were replaced with steam and eventually diesel propulsion. Ice
+allowed longer trips and, with the introduction of freezers, vessel endurance and range greatly expanded. Vessels were faster and more
+powerful, and capable of facing the winds and waves of all seasons.
+Fishing at night became possible and, for some trawled species, ﬁnally
+allowed ﬁshing to occur when predator-wary species like prawns were
+active and available. Trawling gears evolved to cover large areas of the
+bottom and drive small ﬁsh shoals into the nets. Sonar and radar guided
+vessels and ﬁshing gear for safety and eﬀectiveness. Available data only
+allows a brief glimpse into the important and complex development of
+ﬁshing [40].
+Association of ﬁshing gear with catch shows that the relative use of
+ﬁshing gears has changed since 1950 (Fig. 4b). Proportionately, the
+most obvious change is the increase in bottom trawling [22] while the
+use of seine ﬁshing gear appears to have declined. Midwater trawling
+which requires guidance by newer technologies such as sophisticated
+
+3.3. Country share of global reported industrial landings
+During the development of global marine ﬁshing over the last
+century and a half, the dominance of individual countries has changed
+many times. No doubt greatly inﬂuenced by what reporting records
+were available, initially Canada and the USA dominated the world as
+well as Japan (Fig. 3a). By the 1900s, more countries were reporting
+(35 in total) (Fig. 3b). The UK joined Japan and the USA to have the
+greatest shares of the increasing global landings.
+Since 1950 there have been 192 reporting ‘countries’. Japan was the
+leader in the period to 2000 (Fig. 3c) followed by the USSR (as it then
+was), Peru (where anchoveta stocks supplied one of the world's most
+productive ﬁsheries) followed by China, USA, Canada and India.
+Since then (Fig. 3d) China has continued to increase its ﬁshing ﬂeets
+and landings, and now dominates. While Peru's anchoveta ﬁshery were
+still important there were also huge volumes of Pollock landed in
+Alaska – also used primarily as a fodder ﬁsh.
+
+Fig. 3. map of country percentage share of average annual reported landings for A 1869–1899 (3), B 1900–1949 (35), C 1950–1999 (192) and D 2000–2015 (192)
+where the number indicates the number of reporting countries in the period.
+175
+
+Marine Policy 93 (2018) 171–177
+
+R.A. Watson, A. Tidd
+
+Fig. 4. Breakdown of global industrial catch A by major taxonomic groups and B by the associated ﬁshing gears used.
+
+depths.
+With climate change comes new challenges. The distribution and
+productivity of stocks currently supplying seafood and income to many
+of the world's populations will likely change [48,49]. In all likelihood,
+there will be interest in adjusting ocean acidity and sequestering
+greenhouse gases in the oceans. These activities will have international,
+and as yet, poorly understood impacts on marine systems and the services mankind currently depends on. Continued development and use
+of all technologies is required to maintain productive and diverse
+marine environments to safeguard the future food security that the sea
+can provide. The increasingly sophisticated data processing of AIS inputs is rapidly increasing their contribution to monitoring global ﬁshing
+[50]. Future surveillance will include greater use of satellite technology
+such as NOAA's Visible Infrared Imaging Radiometer Suite (VIIRS) to
+add ‘night vision’ to the sophisticated repurposed data coming from
+other vessel signals such as AIS. Unique QR codes for valuable ﬁsh
+products, combined with block chain technologies will strengthen traceability and help combat illegal ﬁshing. These technologies and more
+will also be vital if marine protected areas are used to protect oﬀshore
+areas [10,19] where patrols are costly or ineﬀective. Managing conﬂicting uses will be very challenging in remote areas because marine
+resources will only become more valuable.
+Humans have had a long association with marine resources, indeed,
+they may have ensured our very survival in the past [51] but our use of
+marine resources through ﬁshing has changed remarkably since the
+1800s. Much can be learnt from looking at historical patterns of ﬁshing,
+and they can help make decisions vital to maintaining the marine resources and their environments that mankind all depends on - now and
+in an uncertain future.
+
+sonar arrangements has also increased. This does suggest that although
+our use of energy to ﬁsh has been high for decades it may have continued to increase [41,42]. Nevertheless, at least some ﬁshing operations compare favorably with the energy expenditure required in landbased food production systems [43]. Bottom trawling has additional
+implications to marine habitats as it has high levels of non-targeted
+catch and is well known to often damage or even remove important
+substrates and sessile organisms.
+
+4. Conclusions
+Fishing has coevolved with humans and has been vital to our survival since prehistoric times. Our technologies have adapted and allowed ﬁshing in all but the most extreme environments [40]. Mapping
+global marine catch is very important for a variety of reasons, not least
+because the push to increase wild ﬁsh capture often appears to conﬂict
+directly with the accepted need to maintain marine ecosystems at their
+most diverse, resilient and productive causing much division in the
+marine science community. Perhaps best tackled at a smaller scale
+(national or less) it is nevertheless valuable to get an all-inclusive
+overview if possible, and to see how things have changed over time
+[44]. The challenges are great in inshore waters; however, they now
+increasingly extend to high seas areas and to greater depths [45]. Indeed, of necessity, more and more ﬁshing and marine conservation
+interests have become partners of mutual concern as marine resources
+are pursued by mining, petroleum and other industries. Who would
+have imagined that the petroleum industry's widely used seismic survey
+methods could kill the zooplankton vital to marine ecosystems [46]?
+Though some estimate that our living marine resources such as mesopelagics may be huge [47], understanding marine food webs remains
+vital, including through detailed mapping, to avoid overestimating
+what can be safely removed. Man will have to know much more before
+it can be deemed safe to sequester greenhouse gases into the ocean
+
+Acknowledgements
+The authors acknowledge the support of the Australian Research
+176
+
+Marine Policy 93 (2018) 171–177
+
+R.A. Watson, A. Tidd
+
+changes in depth of ﬁshing, Fish. Res. 140 (2013) 63–65.
+[26] E.A. Norse, S. Brooke, W.W.L. Cheung, M.R. Clark, I. Ekeland, R. Froese,
+K.M. Gjerde, R.L. Haedrich, S.S. Heppell, T. Morato, Sustainability of deep-sea
+ﬁsheries, Mar. Policy 36 (2) (2012) 307–320.
+[27] J. Atta-Mills, J. Alder, U.R. Sumaila, The decline of a regional ﬁshing nation: the
+case of Ghana and West Africa, Nat. Resour. Forum 28 (2004) 13–21.
+[28] R. Nichols, S. Yamazaki, S. Jennings, R.A. Watson, Fishing access agreements and
+harvesting decisions of host and distant water ﬁshing nations, Mar. Policy 54 (2015)
+77–85.
+[29] V. Christensen, P. Amorim, I. Diallo, T. Diouf, S. Guénette, J.J. Heymans, A. Mendy,
+T. Mahfoudh Sidi, M. Palomares, B. Samb, Trends in ﬁsh biomass oﬀ Northwest
+Africa, 1960–2000, West African marine ecosystems: models and ﬁsheries impacts,
+Fish. Cent. Res. Rep. 12 (7) (2004) 215–220.
+[30] C. Mora, R.A. Myers, T.J. Pitcher, C. De Young, R. Sumaila, D. Zeller, R. Watson,
+F.J. Gaston, B. Worm, Management eﬀectiveness of the world's marine ﬁsheries,
+PLoS Biol. 7 (6) (2009) e1000131.
+[31] D. Pauly, D. Belhabib, R. Blomeyer, W. Cheung, A. Cisneros-Montemayor,
+D. Copeland, S. Harper, V. Lam, Y. Mai, F. Le Manach, H. Österblom, K. Mok, L. van
+der Meer, A. Sanz, S. Shon, U. Sumaila, W. Swartz, R. Watson, Y. Zhai, D. Zeller,
+China's distant water ﬁsheries in the 21st century, Fish Fish. 15 (3) (2013) 474–488.
+[32] C.A. Stock, J.G. John, R.R. Rykaczewski, R.G. Asch, W.W.L. Cheung, J.P. Dunne,
+K.D. Friedland, V.W.Y. Lam, J.L. Sarmiento, R.A. Watson, Reconciling ﬁsheries
+catch and ocean productivity, PNAS 114 (8) (2017) E1441–E1449.
+[33] E.K. Pikitch, J.R. Konstantine, T.E. Essington, C. Santora, D. Pauly, R. Watson,
+U.R. Sumaila, P.D. Boersma, I.L. Boyd, D.O. Conover, P. Cury, S.S. Heppell,
+E.D. Houde, M. Mangel, E. Plaganyi-Lloyd, K. Sainsbury, R.S. Steneck, T.M. Geers,
+N. Gownaris, S.P. Munch, The global contribution of forage ﬁsh to marine ﬁsheries
+and ecosystems, Fish Fish. 15 (1) (2014) 43–64.
+[34] T.E. Essington, H.E. Froehlich, E.E. Hodgson, L.E. Koehn, K.L. Oken, M.C. Siple,
+C.C. Stawitz, Fishing ampliﬁes forage ﬁsh population collapses, Proc. Natl. Acad.
+Sci. 112 (21) (2014) 6648–6652.
+[35] K. Kaschner, V. Karpouzi, R. Watson, D. Pauly, Forage ﬁsh consumption by marine
+mammals and seabirds, in: J. Alder, D. Pauly (Eds.), Fisheries Centre Research
+Reports, Fisheries Centre, University of British Columbia, Vancouver, Canada,
+2006, pp. 33–46.
+[36] K. Kaschner, R. Watson, A. Trites, D. Pauly, Mapping world-wide distributions of
+marine mammal species using a relative environmental suitability (RES) model,
+Mar. Ecol. Prog. Ser. 316 (2006) 285–310.
+[37] M. Paleczny, R.W. Furness, E. Hammill, V. Karpouzi, M. LeCorre, A.W. Trites, R.
+Watson, D. Pauly, Are global marine ﬁsheries starving seabirds?, 2nd International
+Marine Conservation Congress, Victoria, Canada, 2011.
+[38] V.S. Karpouzi, R. Watson, D. Pauly, Modelling and mapping resource overlap between seabirds and ﬁsheries on a global scale: a preliminary assessment, CM-Int.
+Counc. Explor. Sea 343 (2007) 87–99.
+[39] B. Poulsen, Reconstructing Stock Fluctuations of North Sea Herring 1604-1850,
+Dutch Herring: an Environmental History, c. 1600-1860, Amsterdam University
+Press., The Netherlands, 2008, pp. 130–159.
+[40] T.J. Pitcher, M.E. Lam, Fish commoditization and the historical origins of catching
+ﬁsh for proﬁt, Marit. Stud. 14 (2) (2015) 1–19.
+[41] R. Parker, P. Tyedmers, Fuel consumption of global ﬁshing ﬂeets: current understanding and knowledge gaps, Fish Fish. 16 (4) (2015) 684–696.
+[42] P.H. Tyedmers, R. Watson, D. Pauly, Fueling global ﬁshing ﬂeets, AMBIO: a, J.
+Hum. Environ. 34 (8) (2005) 635–638.
+[43] R.W.R. Parker, J.L. Blanchard, C. Gardner, B.S. Green, K. Hartmann, P.H. Tyedmers,
+R.A. Watson, Fuel use and greenhouse gas emissions of world ﬁsheries, Nat. Clim.
+Change 8 (2018) 333–337.
+[44] R. Watson, D. Pauly, The changing face of global ﬁsheries - the 1950s vs. the 2000s,
+Mar. Policy 42 (2013) 1–4.
+[45] D. Pauly, J. Alder, E. Bennett, V. Christensen, P. Tyedmers, R. Watson, The future
+for ﬁsheries, Science 302 (5649) (2003) 1359–1361.
+[46] R.D. McCauley, R.D. Day, K.M. Swadling, Q.P. Fitzgibbon, R.A. Watson,
+J.M. Semmens, Widely used marine seismic survey air gun operations negatively
+impact zooplankton, Nat. Ecol. Evol. (2017).
+[47] X. Irigoien, T.A. Klevjer, A. Røstad, U. Martinez, G. Boyra, J.L. Acuña, A. Bode,
+F. Echevarria, J.I. Gonzalez-Gordillo, S. Hernandez-Leon, S. Agusti, D.L. Aksnes,
+C.M. Duarte, S. Kaartvedt, Large mesopelagic ﬁshes biomass and trophic eﬃciency
+in the open ocean, Nat. Commun. 5 (3271) (2014).
+[48] C.J. Brown, E.A. Fulton, A.J. Hobday, R.J. Matear, H.P. Possingham, C. Bulman,
+V. Christensen, R.E. Forrest, P.C. Gehrke, N.A. Gribble, Eﬀects of climate‐driven
+primary production change on marine food webs: implications for ﬁsheries and
+conservation, Glob. Change Biol. 16 (4) (2010) 1194–1212.
+[49] W.W.L. Cheung, R. Watson, D. Pauly, Signature of ocean warming in global ﬁsheries
+catch, Nature 497 (7449) (2013) 365–368.
+[50] D.A. Kroodsma, J. Mayorga, T. Hochberg, N.A. Miller, K. Boerder, F. Ferretti,
+A. Wilson, B. Bergman, T.D. White, B.A. Block, P. Woods, B. Sullivan, C. Costello,
+B. Worm, Tracking the global footprint of ﬁsheries, Science 359 (6378) (2018)
+904–908.
+[51] C.W. Marean, When the Sea Saved Humanity Scientiﬁc American, Scientiﬁc
+American, New York, 2010, pp. 40–47.
+
+Council (Discovery project DP140101377). We are grateful to Global
+Fisheries Watch and particularly D. Kroodsma for access to processed
+satellite data.
+Appendix A. Supporting information
+Supplementary data associated with this article can be found in the
+online version at http://dx.doi.org/10.1016/j.marpol.2018.04.023.
+References
+[1] J.L. Anderson, F. Asche, S. Tveterås, World ﬁsh markets, in: R.Q. Grafton,
+R. Hilborn, D. Squires, M. Tait, M. Williams (Eds.), Handbook of Marine Fisheries
+Conservation and Management, Oxford University Press, Oxford, 2009, p. 784.
+[2] B. Worm, R. Hilborn, J.K. Baum, T.A. Branch, J.S. Collie, C. Costello, M.J. Fogarty,
+E.A. Fulton, J.A. Hutchings, S. Jennings, O.P. Jensen, H.J. Lotze, P.M. Mace,
+T.A. McClanahan, C. Minto, S.R. Palumbi, A.M. Parma, D. Ricard, A.A. Rosenberg,
+R. Watson, D. Zeller, Rebuilding global ﬁsheries, Science 325 (5940) (2009)
+578–585.
+[3] E. Chassot, S. Bonhommeau, N.K. Dulvy, F. Mélin, R. Watson, D. Gascuel, O. Le
+Pape, Global marine primary production constrains ﬁsheries catches, Ecol. Lett. 13
+(4) (2010) 495–505.
+[4] R.A. Watson, D. Zeller, D. Pauly, Primary productivity demands of global ﬁshing
+ﬂeets, Fish Fish. 15 (2014) 231–241.
+[5] T. Morato, R. Watson, T.J. Pitcher, D. Pauly, Fishing down the deep, Fish Fish. 7 (1)
+(2006) 24–34.
+[6] R.A. Watson, G. Nowara, K. Hartmann, B.S. Green, S. Tracey, C.G. Carter, Marine
+foods sourced from farther as their use of global ocean primary production increases, Nat. Commun. 6 (7365) (2015).
+[7] R. Watson, A database of global marine commercial, small-scale, illegal and unreported ﬁsheries catch 1950–2014, Nat. Sci. Data 4 (170039) (2017).
+[8] D. Pauly, D. Zeller, Catch reconstructions reveal that global marine ﬁsheries catches
+are higher than reported and declining, Nat. Commun. (2016).
+[9] F.A.O. Fisheries and Aquaculture Department: Statistics Introduction, 2017.
+〈http://www.fao.org/ﬁshery/statistics/en〉. (Accessed 12 January 2018).
+[10] E.N. de Souza, K. Boerder, S. Matwin, B. Worm, Improving ﬁshing pattern detection
+from satellite AIS using data mining and machine learning, PLoS One 11 (9) (2016)
+e0163760.
+[11] UNDP, Human Development Index (HDI). 〈http://hdr.undp.org/en/content/
+human-development-index-hdi〉. (Accessed 12 January 2018).
+[12] C. Close, W.L. Cheung, S. Hodgson, V. Lam, R. Watson, D. Pauly, Distribution ranges
+of commercial ﬁshes and invertebrates, in: M.L.D. Palomares, K.I. Stergiou, D. Pauly
+(Eds.), Fisheries Centre Research Reports, Fisheries Centre, University of British
+Columbia, Vancouver, Canada, 2006, pp. 27–37.
+[13] R. Watson, A. Kitchingman, A. Gelchu, D. Pauly, Mapping global ﬁsheries: sharpening our focus, Fish Fish. 5 (2) (2004) 168–177.
+[14] R. Chuenpagdee, L. Liguori, M.L.D. Palomares, D. Pauly, Bottom up, global estimates of small-scale marine ﬁsheries catches, in: T.J. Pitcher (Ed.), Fisheries Centre
+Research Reports, University of British Columbia, Vancouver, Canada, 2006(p.
+105pp).
+[15] R. Watson, C. Revenga, Y. Kura, Fishing gear associated with global marine catches:
+I Database development, Fish. Res. 79 (2006) 97–102.
+[16] D.J. Agnew, J. Pearce, G. Pramod, T. Peatman, R. Watson, J.R. Beddington,
+T.J. Pitcher, Estimating the worldwide extent of illegal ﬁshing, PLoS One 4 (2)
+(2009) e4570.
+[17] K. Kelleher, Discards in the world’s marine ﬁsheries. An update., FAO Fisheries
+Technical Paper, FAO, Rome, 2005, p. 131.
+[18] R.A. Watson, W.W.L. Cheung, J.A. Anticamara, R.U. Sumaila, D. Zeller, D. Pauly,
+Global marine yield halved as ﬁshing intensity redoubles, Fish Fish. 14 (2013)
+493–503.
+[19] M. Robards, G.K. Silber, J.D. Adams, J. Arroyo, D. Lorenzini, K. Schwehr, J. Amos,
+Conservation science and policy applications of the marine vessel Automatic
+Identiﬁcation System (AIS)—a review, Bull. Mar. Sci. 92 (1) (2016) 75–103.
+[20] R.A. Watson, T.J. Pitcher, S. Jennings, Plenty more ﬁsh in the sea? Fish Fish. 18
+(2017) 105–113.
+[21] J.D. Bell, R.A. Watson, Y. Ye, Global ﬁshing capacity and ﬁshing eﬀort from
+1950–2012, Fish Fish. 18 (3) (2017) 489–505.
+[22] R. Watson, C. Revenga, Y. Kura, Fishing gear associated with global marine catches.
+II, Trends Trawl. Dredg. Fish. Res. 79 (2006) 103–111.
+[23] M. Kurlansky, Cod: A Biography of the Fish that Changed the World, Walker, New
+York, 1997.
+[24] R. Watson, A. Kitchingman, W.W. Cheung, Catches from world seamount ﬁsheries,
+in: T.J. Pitcher, T. Morato, P.J.B. Hart, M.R. Clark, N. Haggan, R.S. Santos (Eds.),
+Seamounts: Ecology, Fisheries & Conservation, Blackwell, Oxford, UK, 2008, pp.
+400–412.
+[25] R.A. Watson, T. Morato, Fishing down the deep: accounting for within-species
+
+177
+
+

@@ -1,0 +1,2303 @@
+POLICY AND PRACTICE REVIEWS
+published: 19 March 2021
+doi: 10.3389/fmars.2021.613285
+
+Mitigating Bycatch: Novel Insights to
+Multidisciplinary Approaches
+Dale Squires 1* , Lisa T. Ballance 2 , Laurent Dagorn 1 , Peter H. Dutton 3 and Rebecca Lent 4
+1
+
+Southwest Fisheries Science Center, NOAA Fisheries, La Jolla, CA, United States, 2 Marine Mammal Institute, Oregon State
+University, Corvallis, OR, United States, 3 UMR 248 MARBEC Institut de Recherche pour le Développement (IRD), Sète,
+France, 4 Executive Secretary, International Whaling Commission, Cambridge, United Kingdom
+
+Edited by:
+Rob Harcourt,
+Macquarie University, Australia
+Reviewed by:
+Rebecca L. Lewison,
+San Diego State University,
+United States
+Sean Pascoe,
+Commonwealth Scientific
+and Industrial Research Organisation
+(CSIRO), Australia
+*Correspondence:
+Dale Squires
+Dale.Squires@noaa.gov
+Specialty section:
+This article was submitted to
+Marine Affairs and Policy,
+a section of the journal
+Frontiers in Marine Science
+Received: 01 October 2020
+Accepted: 04 January 2021
+Published: 19 March 2021
+Citation:
+Squires D, Balance LT, Dagorn L,
+Dutton PH and Lent R (2021)
+Mitigating Bycatch: Novel Insights
+to Multidisciplinary Approaches.
+Front. Mar. Sci. 8:613285.
+doi: 10.3389/fmars.2021.613285
+
+Fisheries bycatch conservation and management can be analyzed and implemented
+through the biodiversity mitigation hierarchy using one of four basic approaches: (1)
+private solutions, including voluntary, moral suasion, and intrinsic motivation; (2) direct
+or “command-and-control” regulation starting from the fishery management authority
+down to the vessel; (3) incentive- or market-based to alter producer and consumer
+behavior and decision-making; and (4) hybrid of direct and incentive-based regulation
+through liability laws. Lessons can be learned from terrestrial and energy conservation,
+water management, forestry, and atmospheric pollution measures, such as the use of
+offsets, tradeable rights to externalities, and liability considerations. General bycatch
+conservation and management principles emerge based on a multidisciplinary approach
+and a wide array of private and public measures for incentivizing bycatch mitigation.
+Keywords: bycatch, biodiversity mitigation hierarchy, inter-disciplinary, conservation, regulation
+
+CONTEXT: THE BYCATCH ISSUE
+Bycatch refers most often to those species incidentally taken in fishing operations aimed at other
+(target) species. Bycatch in this paper refers to species accidentally caught other than the target
+species, brought on board, dead or alive, and that can therefore be either released alive, discarded
+dead, or landed. Bycatch can be other finfish (including undersized target species), protected
+species (fishes, sea turtles, marine mammals, and seabirds), live corals, or sponge reefs. We include
+habitat impact (Holland and Schnier, 2006; Driscoll et al., 2017) with bycatch (hereafter simply
+bycatch). Central to this paper is the fact that bycatch species and living habitats include vulnerable,
+threatened, endangered, protected or otherwise emblematic species for which the take should be
+minimized. Bycatch in this paper is extended to include habitat impact.
+Economists classify bycatch into two types. The first type is non-target species that are
+commercially harvested and receive a market price, but harvest is not at the ecologicallyeconomically optimum level due to size, age, or contribution to ecosystems. The market price does
+not capture the full costs of foregone biodiversity and ecosystem services, including impacts on
+population growth and food webs, because the bycatch is underpriced. Examples could include a
+commercially landed fish species caught before reaching sexual maturity or a plankton foraging fish
+contributing to the food web. The second type of bycatch is threatened, endangered or protected
+species that are prohibited for retention. Examples include seabirds and sea turtles ensnared in
+pelagic longline gear and marine mammals caught in drift gillnets. Because these species do not
+have a formal market, the bycatch is ‘unpriced,’ even though the species do have non-market value
+through their contribution to biodiversity, the ecosystem, and existence.
+This paper, part of a special issue on bycatch and its mitigation, develops a broad-based
+conservation framework and suite of policy instruments to address bycatch, drawn from marine
+
+Frontiers in Marine Science | www.frontiersin.org
+
+1
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+and terrestrial biodiversity conservation, pollution, and climate
+mitigation examples. While the ecosystem approach to fisheries
+has largely focused on harvest strategies, the future of
+fisheries management will also benefit from the conservation
+and regulatory framework described in this paper. Most,
+if not all, conclusions on bycatch mitigation that have
+been based on harvest strategies can be broadly applied to
+environmental protection of living habitats and to marine
+biodiversity conservation in general, and therefore, to complete
+implementation of the ecosystem approach to fisheries. The
+focus of this paper and the associated case studies pertains to
+commercial fisheries, but when possible, artisanal fisheries are
+also considered.
+The paper develops this broad-based conservation framework
+through three specific objectives. First, using the conservation
+biology mitigation hierarchy as a broad framework, the
+paper provides new insights into the suitability of the no
+net loss objective. Second, the paper extends the previous
+bycatch management literature by developing four regulatory
+categories for fisheries bycatch mitigation: private, direct
+regulation (top-down and command-and-control), incentive
+(market-based), and hybrid. The previous literature, reviewed
+below, largely focused upon reviewing different incentivebased approaches, overlooked private and hybrid approaches,
+and did not establish a systematic, broad approach across all
+four categories.
+Third, the paper breaks new ground by developing the
+broader context for the four regulatory categories that impact
+the choice, design, and effectiveness of each regulatory approach.
+That is, the choice of bycatch mitigation approach and
+specific policy instruments within each approach does not
+occur within a vacuum, but rather within a specific fishery
+context. The type of fishery – gear, target and bycatch species,
+fleet and vessel characteristics, scale of production, markets,
+monitoring and enforcement capacity, quantity and quality of
+available information, potential for bycatch-reducing technology,
+transboundary species, regulatory and management structure,
+and other factors affect the approach to bycatch management and
+appropriate policy instruments.
+The paper is organized as follows. Section “Mitigation
+Hierarchy As a Framework” presents the mitigation hierarchy
+framework, including discussions on no net loss as an objective
+and bycatch mitigation impacts that account for impact equity.
+Section “Basic Regulatory Approaches to Bycatch Mitigation”
+presents four basic bycatch mitigation approaches. Section
+“Incentive-Based Policy and Policy Instruments” addresses the
+incentive-based approach, including pricing bycatch and direct
+and indirect incentives. Section “Direct and Incentive-Based
+Regulation” compares direct and incentive-based regulation.
+Section “Interactions Between Private Solutions and IncentiveBased Policies” develops the potential interactions between
+private solutions and incentive-based regulation. Section
+“Broader Context Shaping Choice and Performance of Policy
+Approach” develops the broader context shaping the choice
+and performance of the different policy approaches. Section
+“Equity and Fairness” raises the issues of equity and fairness in
+bycatch mitigation.
+
+Frontiers in Marine Science | www.frontiersin.org
+
+MITIGATION HIERARCHY AS A
+FRAMEWORK
+Bycatch mitigation and the ecosystem-based approach to fisheries
+management are more than biological and technical issues.
+They also include modifying behavior and decisions made
+by producers (vessel owners/operators and crew, processors,
+distributors, retailers) and consumers to account for the
+biodiversity and ecological impacts of their decisions.
+The mitigation hierarchy (MH) (Business and Biodiversity
+Offsets Programme [BBOP], 2012) provides an overarching
+conservation framework for marine biodiversity conservation
+in general, and is particularly useful for addressing bycatch
+(Lent and Squires, 2017; Milner-Gulland et al., 2018; Squires
+and Garcia, 2018; Squires et al., 2018; Booth et al., 2019a;
+Arlidge et al., 2020b). The MH provides a framework for
+defining measurable goals and structuring available knowledge of
+potential management measures to achieve these goals (MilnerGulland et al., 2018; Booth et al., 2019a). The MH in the bycatch
+context is as follows: (1) Avoid bycatch; (2) Minimize bycatch
+when it cannot be avoided; (3) Restore or rehabilitate bycatch onsite when it cannot be minimized; and (4) Implement biodiversity
+offsets for the same species and stock (or habitat) as a last resort
+to address the residual from the first three steps.
+The first three steps in the MH, generally implemented
+in that order, constitute what could be called conventional
+conservatory mitigation (Squires and Garcia, 2018; Squires
+et al., 2018). They aim to restore the biodiversity to its predisturbance baseline or No Net Loss in biodiversity (NNL)
+or any other agreed “healthy state.” (Here we abstract from
+definition, measurement, and the actual baseline chosen,
+including the issue of “shifting baselines,” Kahn and Friedman,
+1995; Pauly, 1995; Papworth et al., 2009). Avoidance entails
+measures to reduce the probability of encounter between
+potentially harmful gear and potential bycatch by separating
+fishing activity from individuals or stocks of concern (Arlidge
+et al., 2020b). Examples include no-fishing areas, deployment
+restrictions on fishing gear, and dynamic or static time-area
+closures (Hobday et al., 2013; Kaplan et al., 2014; Little et al.,
+2015; Maxwell et al., 2015; Lent and Squires, 2017; MilnerGulland et al., 2018; Squires and Garcia, 2018). Fisheries
+subject to avoidance through time-area closures include the
+Hawaii shallow-set pelagic longline (Curtis and Hicks, 2000;
+Chakravorty and Nemoto, 2001) and California drift gillnet
+swordfish fishery (Janisse et al., 2010; Gjertsen et al., 2014),
+the tropical tuna purse seine fishery of the Eastern Pacific
+Ocean (through “El Coralito”) (Hall and Roman, 2013),
+and the southern and eastern scalefish and shark fishery
+(Australian Fisheries Management Authority [AFMA], 2009).
+Step 2 in the MH, minimization, reduces bycatch through, for
+example, reductions in effort, technology standards, or bycatch
+reducing technological change that alters selectivity. Examples
+include use of circle rather than J-hooks with shallow-set pelagic
+longlines targeting swordfish to minimize sea turtle bycatch
+(Watson et al., 2005), bycatch reduction devices for demersal
+trawl gear (Wakefield et al., 2016), nylon leaders for shark bycatch
+in pelagic longline fisheries (Ward et al., 2008; Booth et al.,
+
+2
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+and similarly, offsets are a public good that are provided by fishery
+operators or other parties. A public good is one available to all
+society without diminishing the amount available and is typically
+privately underprovided since not all benefits can be captured
+by the provider.
+No net loss equates to an a priori level of social welfare, or
+baseline, that only coincidentally gives NNL. Bycatch reduction,
+or more generally offsets and biodiversity, is not only a public
+good, but it is only one contributor to social welfare (which
+accounts for all market and non-market costs and benefits
+impacting society). For example, the NNL objective can lower
+social welfare by not conserving sufficient bycatch if the bycatch
+stock requires rebuilding. The NNL objective can also lower
+social welfare if it restricts target catch to such an amount
+that the foregone social benefits out-weigh the social benefits
+of bycatch mitigation to NNL. NNL can also lower social
+welfare when producer benefits are diminished due to lower
+commercial landings. Whether net consumer welfare decreases
+(from less consumption) or increases (from conservation)
+depends upon society’s valuation of the public good component.
+NNL can further lower social welfare if it constrains offsets
+to a sub-optimal level (Kotchen, 1999). Both social welfare
+and bycatch can decline when the NNL objective requires
+unilateral bycatch reduction of a transboundary bycatch stock,
+lowering producer and consumer benefits in the country of
+regulation and shifting production of the target and bycatch
+species to other, unregulated countries with higher bycatch
+rates (Helvey et al., 2017). Such conservation, production, and
+consumption “leakages” occurred in the Hawaiian shallowset pelagic longline fishery for swordfish when complete
+avoidance (closure) transferred production to unregulated highseas swordfish fleets with higher bycatch rates (Sarmiento,
+2006; Rausser et al., 2009). The increased production was
+imported back into Hawaii as an inferior frozen rather than
+fresh product, thereby lowering consumer welfare, and the
+reduced Hawaiian catch and processing lowered producer
+welfare in Hawaii.
+The NNL objective and its implementation also implicitly
+have distributive impacts that can disproportionately impact local
+and lower-income fishers (Booth et al., 2019a; Griffiths et al.,
+2019a,b). Avoidance, for example, can disproportionately lower
+such fishers’ production, contributing to an inequitable impact
+and lower social welfare, particularly if society accords such
+fishers greater social importance. Compliance can then suffer,
+and without sufficient monitoring and enforcement, bycatch
+can even increase, or effectiveness of offsets could decline say
+through lower local community monitoring and protection.
+NNL can be subject to the requirement that people – especially
+project-impacted – are no worse off, and preferably better
+off, i.e., the Pareto Principle (Griffiths et al., 2019a,b). The
+overall bycatch objective can account for fishers, especially
+small-scale and lower-income, more dependent for income
+and food security, to have a net negative impact on the
+bycatch stock (satisfying no worse off), provided the gains
+and losses across all fisheries combine to achieve the bycatch
+objective (Booth et al., 2019a). An analogous issue arises
+with MSY compared to Optimum Yield that also accounts
+
+2019b), hook depth (Shiode et al., 2005), type of hook and
+position of hook in water column for elasmobranch species in
+pelagic and coastal fisheries (Afonso et al., 2011), Tori lines for
+pelagic longline fisheries seabird bycatch (Gilman et al., 2005,
+2019), the design of fish aggregating devices (FADs) to reduce
+bycatch of pelagic sharks (Dagorn et al., 2012b; Restrepo et al.,
+2017), or targeting of bigger tropical tuna schools (Dagorn et al.,
+2012a). Other examples include use of narrower nets in demersal
+gillnet fisheries to reduce sea turtle bycatch rates (Price and Van
+Salisbury, 2007; Gilman et al., 2010) and longlines raised off the
+bottom for sharks and rays (Favaro and Côté, 2015). Modification
+to gill net size and tension can increase selectivity of certain
+species and life-history stages with meshing and entanglement
+(Thorpe and Frierson, 2009; Harry et al., 2011). Turtle Excluder
+Devices (TEDs) minimize sea turtle bycatch by shrimp trawls
+(Crowder et al., 1994).
+In the third step in the MH, restoration or remediation
+strategies facilitate live release of individuals, their safe return to
+the sea, and their post-release survival (Booth et al., 2019a). For
+example, line cutters to cut hooked sea turtles in pelagic longline
+fisheries reduce post-hooking mortality (Gilman et al., 2006;
+Gjertsen et al., 2010; Dutton et al., 2011). On-board handling of
+caught elasmobranchs before return to sea (Booth et al., 2019b)
+and at-sea release of dolphins while retrieving nets with Eastern
+Pacific tuna purse seine vessels (Hall and Roman, 2013; Hall et al.,
+2017; Gilman et al., 2019).
+The last step of the MH aims to compensate for part or all
+of the residual impact that remains after implementing the first
+three steps by addressing impacts to the same bycatch species and
+stock, either in the same ecosystem or in the global ecosystem.
+Early discussion of fisheries bycatch and offsets are found in
+Worldfish Center (2004), Wilcox and Donlan (2007), Dutton and
+Squires (2008, 2011), Janisse et al. (2010), Pascoe et al. (2011),
+Gjertsen et al. (2014), and Quigley and Harper (2006) discuss
+salmon habitat offsets. Van Dover et al. (2014) discuss deep-sea
+environments. Examples include protection of sea turtle nesting
+sites (Dutton and Squires, 2008, 2011; Janisse et al., 2010; Dutton
+et al., 2011; Gjertsen et al., 2014) and sea bird rookery sites
+(Wilcox and Donlan, 2007; Pascoe et al., 2011) or purchases
+of gear by outside interests for fishers to minimize bycatch in
+fisheries from fleets outside the fishery subject to regulation
+(Gjertsen et al., 2010).
+
+Is the No Net Loss (NNL) Objective
+Appropriate?
+The MH aims for NNL or even a net gain in biodiversity, for
+the stock or population of bycatch species. NNL is sometimes
+Maximum Sustainable Yield (MSY), which is often required
+by law (Wolf et al., 2015; Squires and Garcia, 2018). In other
+instances, some predetermined baseline serves as the NNL.
+No net loss in the absence of a required MSY, however, does
+not necessarily generate the optimum level of producer and
+consumer benefits (hereafter social welfare) when biodiversity, or
+more specifically bycatch and offsets, are considered as a public
+good (Kotchen, 1999; Vicary, 2000). Just to be clear, bycatch
+reduction is the public good that is provided by fishery operators,
+
+Frontiers in Marine Science | www.frontiersin.org
+
+3
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+are impacted by spillovers from the regulated fishery, such as
+regulated fishers impacted by avoidance that now fish in another
+fishery. In practice, the parties of concern may be limited to those
+of the regulated fishery.
+Social distribution weights for Party i, ωi , and equityadjusted bycatch mitigation and equity-adjusted hleast-cost
+i
+
+for the greatest overall benefit to the national economy and
+considers qualification by relevant economic, social, or ecological
+factors (OECD, 2006).
+In lieu of NNL, the bycatch reduction objective can be
+defined in net social welfare gain, population stability, population
+recovery, sustainability or simply catch minimization, depending
+on what is practical given budgetary and operational constraints
+(Booth et al., 2019a). Much like Optimum Yield, the goal can
+be further broadened to account for ecological factors, overall
+social welfare, and distributional impacts on producers and
+consumers. For example, a target or even bycatch species may
+constitute the major protein source for low-income consumers,
+and the impact of lower fish consumption can adversely and
+significantly impact their diet, potentially require substitution to
+higher-cost protein sources (if at all), thereby lowering consumer
+welfare. More broadly, food security and poverty reduction (Béné
+et al., 2016; Booth et al., 2019a) require incorporation into the
+bycatch reduction goal, particularly in low-income countries and
+with artisanal fisheries. An unanswered question, analogous to
+single-species management, is whether a sustainability constraint
+of NNL pertains to each species, in which case weak stockspecies management issues arise for multispecies (target and
+bycatch) species.
+In sum, NNL may or may not be the appropriate objective
+for society, and each case under consideration requires weighing
+the pros and cons for a bespoke approach. Moreover, the issue
+is not just NNL “level” but the conservation method by which
+it is achieved and the equity and fairness of the process and
+distributive impacts.
+
+bycatch mitigation are defined as follows. Let ωi =
+
+η
+
+for
+
+Party i, where Yi denotes per capita income for i, Ȳ denotes
+mean per capita income of all parties N, and η denotes a
+progressivity parameter (elasticity of social marginal utility of
+income). η > (<) 1 makes ωi more (less) progressive. Let Bj /Cj
+denote the least-cost ratio for bycatch Bj in MH step j divided
+by the cost of bycatch mitigation in step j Cj , where the ratio is
+equalized across steps for least-cost bycatch mitigation: Bj /Cj =
+Bk /C
+ k j, k = 1, 2, 3, 4, j 6 = k (Squires and Garcia, 2018). Then,
+ωi Bj /Cj gives greater weight to least-cost bycatch reduction
+for income groups in step j in which  Yi < Ȳ. Equalizing
+across all four steps j, k, j 6 = k, gives: ωi Bj /Cj = ωi [Bk /Ck ]
+Without least-cost consideration, bycatch mitigation with equity
+consideration for lower-income or close proximity groups, as in
+Griffiths et al. (2019a,b) is ωi B, where here B denotes biodiversity
+impacts in general.
+
+Offsets
+Offsets, when applied prior to the final residual step of the MH,
+are a public good (Kotchen, 1999) that become an incentivebased policy substitute for avoidance and minimization (Lent
+and Squires, 2017; Squires and Garcia, 2018; Squires et al.,
+2018; Milner-Gulland et al., 2018). For eligible species, offsets
+can be used as an incentive-based policy instrument earlier
+in the mitigation hierarchy to compensate for any negative
+impacts through off-site conservation actions that improve
+the status of the affected bycatch (same species and stock)
+elsewhere. Bycatch mitigation costs should fall, freeing up scarce
+conservation budgets for other needs, or benefitting fishers
+as the foregone target catch and revenues should fall as less
+avoidance may be required.
+
+Least-Cost Bycatch Reduction
+Least cost or cost-effective bycatch reduction minimizes the
+cost of a given level of bycatch reduction (Dutton and Squires,
+2008; Gjertsen et al., 2010, 2014; Pascoe et al., 2010, 2011;
+Gjertsen, 2011; Innes et al., 2015; Lent and Squires, 2017; Squires
+and Garcia, 2018; Squires et al., 2018; Booth et al., 2019a;
+Arlidge et al., 2020b). It can be extended to the entire MH
+(Squires and Garcia, 2018; Squires et al., 2018; Booth et al.,
+2019a; Arlidge et al., 2020a,b). The least-cost MH minimizes
+costs across and within MH steps and bycatch reduction
+channels. The least-cost MH allows the maximum possible
+bycatch reduction for a given conservation budget and mitigates
+fisheries bycatch consistent with given targets, guidance in the
+Law of the Sea, Regional Fisheries Management Organizations,
+national fishery management authorities, and measures under
+the Convention on Biological Diversity. Through least-cost
+implementation, the MH also enables socioeconomic trade-offs
+to be explicitly incorporated into decisions (Squires and Garcia,
+2018; Booth et al., 2019a).
+
+BASIC REGULATORY APPROACHES TO
+BYCATCH MITIGATION
+The fundamental regulatory approach to bycatch mitigation, and
+biodiversity conservation in general, through the MH may be
+binned into four general categories:
+(1)
+(2)
+(3)
+(4)
+
+Equitable Bycatch Reduction
+
+Private solutions;
+Direct regulation;
+Incentive-based measures;
+Hybrid solutions.
+
+Each of these approaches will be explored in turn in
+the sections below.
+
+Bycatch reduction can be extended to account for equity through
+the use of social distribution (welfare) weights ωi (Little and
+Mirrlees, 1974). In principle, the relevant parties are not just those
+regulated but all parties that are impacted, such as low-income
+consumers deprived of a food source and food security. Impacted
+parties also include fishers outside of the regulated fishery that
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Ȳ
+Yi
+
+Private Solutions
+Private solutions include voluntary and private negotiation
+between producers incurring bycatch and other private parties,
+
+4
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+Social norms may impact compliance to bycatch regulation,
+whether direct or incentive-based.1 Bycatch-regulated vessels
+may be motivated to comply with regulations, and even to go
+beyond literal compliance, not only fear of legal sanctions but
+also by social pressures and norms. (See Thornton et al., 2009 for
+trucking). Along similar lines, voluntary bycatch reduction may
+arise due to credible regulatory threats, but additional compliance
+may arise due to social norms. Larger and more commercialized
+seafood firms may respond more positively to bycatch regulation
+than small firms, since they are more visible and more closely
+scrutinized by regulators, consumers, and advocacy groups and
+are more concerned with brand and social reputation.
+
+intrinsic motivation, and moral suasion. Intrinsic motivation
+refers to behavior/activity coming from within the person for
+its own sake rather than the desire for some external reward.
+Intrinsic motivation contrasts with extrinsic motivation, which
+is engaging in a behavior in order to earn external rewards
+or avoid punishments (Gneezy et al., 2011; Young, 2015).
+Intrinsic motivation includes social and personal norms of
+conservation and altruism.
+Moral suasion can be an important instrument to align
+individual and public interests (Romans, 1966). Monetary
+costs of moral suasion are typically small, they are quickly
+implemented, and can complement economic incentives or
+direct regulation (Bos et al., 2020). By affecting social norms or
+adherence to them, moral suasion is expected to contribute to
+bycatch reduction and to increase compliance.
+Examples include negotiations and voluntary agreements
+such as the United States west coast groundfish fishery case
+discussed below. [See Gneezy et al. (2011), Bowles and PolaníaReyes (2012), Kotchen (2013), Segerson (2010, 2013), Young
+(2015), and Farrow et al. (2017) for general discussions
+of voluntary and private environmental regulation]. Credible
+threats, such as formal public regulation, can incentivize
+voluntary bycatch reduction (Segerson, 2013). Credible threats
+of embargoes and trade measures can also be effective,
+such as with the tuna–dolphin and shrimp–sea turtle issues
+(Joyner and Tyler, 2000).
+Another example is the voluntary program reducing bycatch
+of river herring, blueback, herring, and American shad in the
+northwest Atlantic mid-water trawl fishery targeting Atlantic
+herring and Atlantic mackerel through an industry, state
+government, and university partnership (Bethoney et al., 2017).
+Potential public regulation provided the credible threat that
+motivated the voluntary program to stave off such regulation. In
+the United States, a voluntary program facilitates the donation
+to foodbanks of salmon bycatch in the Bering Sea–Aleutian
+Island trawl fishery (Clucas, 1997; Watson et al., 2020). The
+Alaskan groundfish fishery employs a voluntary program to
+reduce halibut bycatch (Fina, 2017).
+Bycatch policy can also be influenced by intrinsic motivation
+that is inherent in societies, communities, and individuals.
+Intrinsic motivation may be particularly important in economies
+that are less market-centric and are more characterized by noneconomic relationships. Intrinsic motivation may be especially
+important for bycatch in small-scale and artisanal fisheries. Social
+networks can impact intrinsic motivation (Alexander et al.,
+2020; Arlidge et al., 2020a,b). Social norms can be classified
+as folkways, mores, taboos and laws (Young, 2008, 2015). For
+example, customary taboos that temporarily close coral reef areas
+to fishing have long been practiced in Solomon Islands (Foale
+and Manele, 2004; Foale et al., 2011). There is disagreement
+on whether fishing taboos (and customary marine tenure) are
+primarily intended for management between social groups or
+to sustain food security from fisheries (Johannes, 1978). Taboo
+on a clan reef may be declared as a mark of respect for the
+death of a prominent clan member, to protect sacred sites, or to
+prepare for a feast by allowing the short-term replenishment of
+fish (Abernethy et al., 2014).
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Direct Regulation
+Direct regulation, also called top-down or command-andcontrol, focuses on mandating specific behavior through
+standards on technology, process, and performance which
+address in particular the avoidance and minimization steps
+of the MH. A standard is a limitation on behavior on a
+producer, such as a performance standard on the outcome of
+production as with a catch quota or limit (Helfand, 2013).
+Bycatch can be tackled through top-down, direct regulation
+by a fishery management authority, government, or Regional
+Fisheries Management Organization. Direct regulation can be
+accomplished through combination of technology, process, and
+performance standards.
+A technology standard specifies bycatch reduction
+technologies or production processes that producers must
+implement for avoidance or minimization. Examples include the
+prohibition of sundown sets to reduce dolphin mortality when
+setting on dolphins to capture large yellowfin tunas in the Eastern
+Pacific Ocean (Gjertsen et al., 2010; Hall et al., 2017), discarding
+offal on the opposite side of the vessel from which gear is released
+and required use of Tori lines on longline vessels (seabirds)
+(Gilman et al., 2014, 2016), selectivity requirements for gear such
+as mesh size, use of circle hooks with mackerel-type bait rather
+than J-hooks with squid bait (sea turtles) (Kerstetter and Graves,
+2006; Reinhardt et al., 2017), bycatch reduction devices on trawl
+nets (Melli et al., 2020), and the use of pingers on drift gillnets
+(marine mammals, sea turtles) (Gilman et al., 2010). Technology
+standards may change as technology changes. One critical issue
+with technology standards is that they tend to remove incentives
+for fishery operators to find other ways to reduce bycatch and
+they can also freeze bycatch-reducing technology in place.
+A process standard requires that vessels satisfy limits or
+conditions on the process of fishing to achieve avoidance
+or minimization. Examples include bycatch avoidance
+1
+
+An reviewer suggested that the role of social license to operate can be included
+in the discussion on intrinsic motivation and especially social norms. Bycatch is
+often associated with reduced social license, which in turn affects social norms.
+Social license (to operate) can be defined as existing when a project has the ongoing
+approval within the local community and other stakeholders, ongoing approval or
+broad social acceptance and, most frequently, as ongoing acceptance (Prno and
+Slocombe, 2012). Social license thus constrains vessels and supply chain firms
+to meet the expectations of society and to avoid activities that societies deem
+unacceptable rather than compliance with legal requirements (Thornton et al.,
+2009). The relationship between social license to operate and social norms is
+complex and beyond the scope of this paper.
+
+5
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+defining the relative standard can be uniform or differentiated
+and can be adjusted over time.
+In sum, regulatory policy instruments can be based upon the
+state of technology, performance or outcomes of the bycatch
+mitigation, or on the process of production, transportation,
+processing, and distribution. Technology standards tend to
+be easily understood and often are readily accepted. Processcentered policy instruments affect the choice and state of
+technology and the choice and use of inputs in production.
+Performance-based approaches generally provide producers
+greater flexibility in meeting bycatch reduction goals than those
+based upon process. Performance-based approaches tend to
+create stronger and more direct economic incentives because
+they directly address the desired policy outcome. Processcentered incentives are more indirect because only some of
+the inputs and practices are regulated, and the relationship
+between the regulated inputs and the expected outputs can
+be indirect and more uncertain. Process-centered incentives
+are consequently weaker because they are more indirect.
+Nonetheless, performance-centered policy instruments may be
+more difficult and costly to monitor and enforce than processcentered approaches, especially due to at-sea production.
+
+through time-area closures, including Marine Protected
+Areas (Di Lorenzo et al., 2020), such as the time-area closure to
+reduce bycatch of harbor porpoises in the Gulf of Maine sink
+gillnet fishery (Murray et al., 2000) and another that is aimed
+to reduce bycatch of Atlantic cod and yellowtail flounder in
+the Georges Bank scallop fishery (Keith et al., 2020). Limits
+on vessel size or trip length or frequency are another process
+standard. Dynamic ocean management, such as the Hawaii
+Turtle Watch program (Howell et al., 2008), is another form
+of process standard (Hobday et al., 2013; Little et al., 2015;
+Maxwell et al., 2015).
+A performance standard requires vessels meet a standard
+to minimize bycatch, such as a bycatch quota, while allowing
+the vessels to choose any appropriate method to meet that
+standard subject to inherent legal limits such as in the Pacific
+coast United States groundfish trawl fishery (Holland and Martin,
+2019). New Zealand manages bycatch of Hooker’s sea lions
+in the arrow squid trawl fishery through quotas on bycatch
+(Bache, 2003). Performance-based permits are a related policy
+option, involving issuing permits only to those who meet bycatch
+standards (Gjertsen et al., 2010).
+Standards can be uniform across all producers and consumers
+or differentiated by types of producers and consumers.
+Performance standards on bycatch, such as bycatch quotas,
+may be differentiated by vessel size class. For example, in the
+tropical tuna FAD fishery the major determinant of species and
+size caught is vessel’s capacity (size and use of satellite buoys,
+echo-sounders, and supply vessels) (Guillotreau et al., 2011).
+Performance standards through avoidance can impact a broad
+range of fleets, generating diverse responses through fishing effort
+redistribution, such as with a closure of the United Kingdom
+Exclusive Economic Zone for a diverse group of French vessels
+(Dépalle et al., 2020). Another example is sea turtle bycatch
+quotas for Hawaii pelagic longline shallow sets (swordfish) but
+not deep sets (bigeye tuna). Differentiated standards can be
+designed to more closely match producers’ ability to reduce
+bycatch, and thereby could lower costs of compliance.
+Standards can be absolute or relative (Helfand, 2013).
+Standards are defined, either implicitly or explicitly, as a rate,
+such as per unit of time, area, effort, or catch. If the measure
+in the denominator is completely exogenous to the process,
+the standard is absolute, such as an absolute limit on bycatch
+or effort per unit of time (time is exogenous). An absolute
+standard limits total quantity of bycatch. A relative standard,
+also known as rate-based or intensity standard, is a standard
+per unit of catch, bycatch, effort, habitat, or other measure
+over which the regulated entity has some control. Thus, if the
+denominator can be controlled such as bycatch per unit of target
+catch or effort, the standard is relative and does not have a
+limiting total quantity. A relative performance standard example
+is bycatch per unit of input (effort), per unit of gear (e.g., per
+thousand hooks), or per unit of target species catch. If a relative
+standard applies equally to vessels of different sizes or for example
+bycatch rates – a uniform standard – a relative standard will
+require proportionately equal bycatch reduction from all vessels.
+A differentiated relative standard distinguishes the standard by
+vessel size class or some other distinguishing feature. The ratio
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Incentive- or Market-Based Measures
+Incentive-based (also called market-based) measures place a price
+bycatch and thereby give residual bycatch a cost. This bycatch
+cost in turn is incorporated into the price of the catch of target
+species and any bycatch that already may be sold (and hence
+has an existing price). Pricing bycatch then increases the cost of
+production, which in turn incentivizes changes in producer and
+consumer behavior and decision-making to reduce the scale and
+mix of bycatch (Goulder and Parry, 2008).
+Economic incentives, increasingly used to address pollution,
+climate change, terrestrial conservation, water, and energy
+efficiency, have potential for greater application to bycatch
+reduction and marine biodiversity conservation (Hall, 1996;
+Dutton and Squires, 2008, 2011; Gjertsen et al., 2010, 2014; Pascoe
+et al., 2010, 2011; Dutton et al., 2011; Segerson, 2011; Innes
+et al., 2015; Walmo et al., 2016; Lent and Squires, 2017; MilnerGulland et al., 2018; Squires and Garcia, 2018; Squires et al.,
+2018; Booth et al., 2019a,b; Arlidge et al., 2020b). As this
+paper emphasizes, however, economic incentive-based bycatch
+mitigation is context-specific in its design, use and effectiveness.
+Incentive-based bycatch reduction can apply to any step of
+the MH, including offsets to address residual bycatch after the
+first three steps of the MH (Dutton and Squires, 2008; Pascoe
+et al., 2011; Lent and Squires, 2017; Milner-Gulland et al., 2018;
+Squires and Garcia, 2018; Squires et al., 2018; Booth et al., 2019a;
+Arlidge et al., 2020b).
+Incentives can be positive or negative. Positive incentives
+reward producers for reducing bycatch, such as through an
+ecolabel, or subsidies which can be cash or in-kind and direct or
+indirect. An in-kind example is credits for days fishing or access
+to areas closed to fishing if certain bycatch reduction measures
+are implemented. Negative incentives penalize producers for
+bycatch, such as direct taxes (Wilcox and Donlan, 2007;
+Dutton and Squires, 2008, 2011; Gjertsen et al., 2010; Pascoe
+
+6
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+who create the bycatch, must pay for the offsets. Conservatory
+offsets, applied earlier in the MH than compensation, are
+incentive-based (Squires and Garcia, 2018; Squires et al., 2018).
+Payments for ecosystem services provide an example where
+entities concerned about bycatch may be willing to pay those who
+cause the bycatch to reduce their bycatch (Bladon et al., 2016).
+The BPP tends to hold in international fisheries, since there is
+no global institution that requires countries to reduce bycatch
+(although a fleet’s government could require bycatch reduction
+due to that country’s own, internal reasons).
+
+et al., 2010; Dutton et al., 2011; Segerson, 2011; Innes et al., 2015;
+Booth et al., in press) or in-kind and indirect, such as loss of
+access to a fishing ground or fewer days to fish. Full retention
+of bycatch forms an implicit tax, because it displaces target catch
+and revenue (Chan et al., 2014). Tax receipts applied to further
+bycatch reduction form a “double-dividend” bycatch tax (Dutton
+and Squires, 2008; Gjertsen et al., 2010; Pascoe et al., 2010;
+Booth et al., In press). As an example, the Federation of Seafood
+Harvesters (FISH), the industry association of the California drift
+gillnet fishery for swordfish, voluntarily initiated payments in
+the Fall of 2004 to the Asociacion Sudcaliforniana de Proteccion
+al Medio Ambiente y la Tortuga Marina (ASUPMATOMA), a
+Mexican conservation group, to aid their Pacific leatherback
+turtle (Dermochelys coriacea) recovery efforts (Janisse et al.,
+2010). FISH financed the payments for offsets by a voluntary
+tax. The three major United States tuna processors, operating
+through the International Seafood Sustainability Foundation
+(ISSF), voluntarily tax themselves US$1/ton of landed longlinecaught tuna to finance offsets for sea turtle bycatch (Squires et al.,
+2018; Pakiding et al., 2020).
+Individual transferable quotas (ITQs) for bycatch (Boyce,
+1996; Bisack and Sutinen, 2003; Gjertsen et al., 2010; Hannesson,
+2010; Singh and Weninger, 2014; Hall et al., 2017; Miller and
+Deacon, 2017) are another incentive-based policy instrument,
+where bycatch reduction and selling or otherwise transferring
+ITQs confers a benefit and positive incentive through revenues
+earned and buying ITQs to cover bycatch not covered by quota
+creates a cost and negative incentive. Trade of bycatch ITQs may
+be tailored and when applied to weak stock species each fisher
+may be required to hold sufficient rights to cover any bycatch
+(Miller and Deacon, 2017). An advantage to ITQs is that they
+counter the “race-to-fish” associated with an overall bycatch TAC.
+Incentive-based policy instruments can be a combination
+of penalty-and-reward measures, a two-part policy instrument
+(Fullerton and Wolverton, 1999; Segerson, 2011; Kotchen
+and Segerson, 2019). A penalty (indirect tax), such as fewer
+fishing opportunities for not avoiding or minimizing, can be
+coupled with a reward (indirect subsidy), such as extra fishing
+opportunities for avoiding or minimizing (Segerson, 2011;
+Kotchen and Segerson, 2019). The penalty and reward do not
+have to be equal (Fullerton and Wolverton, 1999; Segerson,
+2011; Kotchen and Segerson, 2019). On average over time if
+the penalties and rewards are correctly set, the quota should
+just be met and penalties should just match rewards (Fullerton
+and Wolverton, 1999; Segerson, 2011; Kotchen and Segerson,
+2019). The Scottish credit scheme is designed to reduce cod
+bycatch through a penalty-and-reward system of days (Scottish
+Government, 2011). The Bering Sea pollock mothership fleet
+employs a voluntary credit scheme to reduce salmon bycatch
+(Mize, 2014).
+A deposit-refund system for fishing gear and equipment,
+which can reduce “ghost fishing” is another example of these twopart policy instruments, which can also address the uncertainty
+about the bycatch reduction (Jensen et al., 2017).
+Incentive-based policy can follow either the Polluter Pays
+Principle (PPP) or the User (Beneficiary) Pays Principle (UPP).
+Biodiversity offsets provide an example of PPP, since producers,
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Hybrid Solutions: Bycatch Liability
+Bycatch liability is a performance-based hybrid of direct and
+incentive-based regulation in which parties are held liable for
+bycatch exceeding some baseline. Bycatch liability is typically
+triggered in some period by an event or condition (Lodge et al.,
+2019). Liability requires determining the damages that have
+occurred, whereas most incentive-based policy instruments raise
+the cost of bycatch by enough to incentivize vessel operator
+decision-making and behavior to reduce bycatch.
+Several key challenges arise. One is defining, measuring, and
+monitoring the triggers with relative ease and low costs. Another
+concern is the transactions and information costs of reaching
+and enforcing agreements. A final issue is the burden of proof
+that involves damage to a person, community organization, etc.,
+establishing a direct causal link between their losses and the
+resource user’s activities.
+There are two general forms of liability: strict and negligence
+based. A producer under strict liability is responsible for bycatch
+regardless of the amount of care taken to avoid bycatch (in the
+more legal sense of damage). A producer under a negligence
+rule is not held responsible for bycatch unless the producer
+is negligent in conducting its operations. Full compliance with
+existing regulations can be considered de facto evidence of nonnegligence and thereby absolve the producer of responsibility for
+any residual bycatch. The incentive, cost, and risk implications of
+imposing liability for bycatch depend upon the form of liability
+used (Lodge et al., 2019).
+Strict liability, applying the PPP, holds producers liable for
+actual rather than expected costs of bycatch (Lodge et al.,
+2019). Under negligence liability, non-negligent producers are
+not liable for any residual bycatch. This implied property
+right, and the associated allocation of costs between society
+and producers, contrasts with strict liability and implies
+only partial implementation of the PPP. The scale and cost
+of production and price to target catch for non-negligent
+production do not incorporate the full social cost of production,
+including the bycatch, which is similar to the outcome under
+direct regulation.
+
+INCENTIVE-BASED POLICY AND
+POLICY INSTRUMENTS
+Incentive-based bycatch reduction policy and policy instruments
+create economic incentives to change the behavior and
+decision-making of producers to optimally reduce bycatch.
+
+7
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+full information about bycatch necessary to make decisions
+that lead to the optimal level and mix of bycatch. These
+costs are unaccounted for by producers and consumers, and
+more generally markets and their prices. Without seafood
+prices incorporating these bycatch costs, both target species
+and bycatch are overharvested with excessive bycatch relative
+to target catch.
+Incentive-based policy reduces underpriced bycatch by
+creating a market price for the bycatch that accounts for the
+otherwise un- or underpriced residual bycatch jointly harvested
+with the target catch. Fully pricing the residual bycatch associated
+with the target catch increases the market price for the target
+catch. This higher target catch price conveys information to
+ex-vessel markets transmitted in full or in part through the supply
+chain to consumer markets.
+For example, a coastal community in San Jose, northern
+Peru, has partnered with a local not-for-profit charity to address
+problematic sea turtle bycatch through a trial community
+management cooperative that includes pricing bycatch (Arlidge
+et al., 2020b). The initiative intends to create direct incentives
+for bycatch reduction by giving price premiums to fish caught by
+vessels that follow best-practice bycatch reduction guidelines.
+
+Bycatch is reduced through altering both the bycatch-target
+species catch ratio (substitution effect, mix) and scale of
+production that reduces both bycatch and target species catch
+(scale effect). Incentive-based approaches similarly alter the
+behavior and decision-making of producers in the supply chain
+and consumers in terms of the mix and scale of species to process,
+distribute, and consume. Over a longer period, such incentivebased approaches also generate “dynamic” incentives to create,
+diffuse, and adopt technology that lowers bycatch relative to
+target catch, i.e., to increase the selectivity of fishing.
+Incentive-based approaches offer a number of other
+advantages (Gjertsen et al., 2010; Pascoe et al., 2010; Dutton
+and Squires, 2011; Segerson, 2011; Innes et al., 2015; Walmo
+et al., 2016; Lent and Squires, 2017; Miller and Deacon, 2017;
+Milner-Gulland et al., 2018; Squires and Garcia, 2018; Squires
+et al., 2018; Booth et al., 2019a; Lodge et al., 2019). They allow
+vessels greater flexibility to devise solutions that creatively and
+cost-effectively reduce bycatch. They also allow vessels to flexibly
+respond to changes in market conditions, the environment,
+technology, and resource conditions. They allow vessels to use
+decentralized, privately held information that is unavailable to
+the management authority. For example, vessels can use their
+knowledge about the time of day and location of the bycatch
+to adjust when and where they fish for the target species.
+Bycatch ITQs in the United States West Coast groundfish
+fishery led to fishers altering the deployment of trawl gear to
+either gain more precise information on the location of bycatch
+or to exploit the differential movements of bycatch species
+(Miller and Deacon, 2017). Trawl fishers shifted toward night
+fishing, a time when bycatch species migrate up from the sea
+floor and thereby become less vulnerable to trawl gear, while
+key target species remain near the sea floor. Trawl fishers
+also shifted toward shorter tows to obtain higher frequency
+information on bycatch, enabling avoidance through a shift in
+location when a bycatch stock concentration is encountered.
+In contrast, direct regulation tends to “bind up” or constrain
+vessels, and thereby restrict vessels’ ability to respond to these
+changes. This inflexibility tends to raise production costs, by
+imposing uniform bycatch reduction regulations on a fleet with
+many differences among vessels, captain and crew skills, and
+in how they fish.
+Individuals operating in groups of vessels sufficiently small to
+devise and self-manage their own bycatch reduction scheme may
+be more able to pool risk creating insurance programs which are
+proven to be effective for voluntary approaches for addressing
+rare and stochastic bycatch (Segerson, 2011; Deacon, 2012;
+Holland and Jannot, 2012; Holland and Martin, 2019; Kotchen
+and Segerson, 2019). These small groups have greater incentives
+for vessels to work collectively on activities such as real-time
+information sharing. Disadvantages include the potential for
+free riding on bycatch reduction of others or they can induce the
+“race to fish” as bycatch limits are met.
+
+Direct and Indirect Incentive-Based
+Approaches
+Incentive-based approaches to bycatch reduction can be direct
+or indirect. Direct incentives tie penalties or rewards directly
+to, and conditional upon, verifiable conservation outcomes
+(called conditionality) that otherwise would not have occurred
+(called additionality). Examples of direct incentive approaches
+include payments for ecosystem services (Bladon et al., 2016),
+conservation easements (Deacon and Parker, 2009), taxes and
+subsidies, biodiversity offsets, credits, tournaments and prizes to
+incentivize bycatch-reducing technological change, and property
+rights such as bycatch ITQs.
+Indirect incentives are incentives that are only indirectly
+linked to conservation in general and bycatch in particular
+(Gjertsen and Stevenson, 2011). Indirect incentive measures
+change the relative costs and benefits of specific activities in
+an indirect way (Convention on Biological Diversity [CBD],
+2020). Conservation per se is not directly tied to an economic
+incentive. Instead, conservation occurs as a result of the incentive.
+Individuals are not directly rewarded for pursuing conservation
+activities or achieving a conservation performance/outcome, nor
+are they directly penalized for degrading activities or failure to
+achieve conservation performance. Indirect conservation uses
+development initiatives and changes in business models, product
+markets, employment, and income opportunities to encourage
+local resource users to change their behavior in ways that lead to
+greater conservation.
+The two general categories of indirect incentive-based
+approaches to bycatch reduction are: alternative livelihoods
+(integrated development projects) and community-based
+conservation (community resource management and community
+conservation). Both may be especially suitable for small-scale
+fisheries (Allison and Ellis, 2001). Indirect approaches may not
+
+Pricing Bycatch
+When seafood prices fail to contain information about the
+unpriced or underpriced costs of bycatch, producers (vessels,
+firms in the supply chain) and consumers do not have the
+
+Frontiers in Marine Science | www.frontiersin.org
+
+8
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+supports offsets (Pakiding et al., 2020). Improved nest protection
+has helped optimize hatchling production, but local community
+engagement, through activities that empower and enhance
+quality of life, has been to the successful increases in hatchlings.
+Community-based conservation sometimes is effective and in
+other instances is not (Ostrom, 1990; Baland and Platteau, 1997,
+2000; Berkes, 2004, 2006). For example, a widespread community
+approach to mariculture and fishing prohibition failed to prevent
+poaching within the mariculture ranch, because sanctions were
+ineffective (Hair et al., 2020). A network of communitybased MPAs was established in the early 2000s to conserve
+declining populations of bumphead parrotfish and other locally
+valuable fish (Hamilton et al., 2019). The populations did not
+decline due to sustained fishing pressure, poor enforcement
+of community-based management measures, and loss of fish
+nursery habitats due to logging.
+Indirect incentive policies are potentially more sustainable
+than direct approaches since they do not require on-going
+financing, may be more consistent with social norms, may be
+more useful when the bycatch problem is not well defined or
+property rights are less clearly defined and enforced. However,
+indirect incentives may be ‘one-shot’ in nature due to frontloaded benefits without conditionality or additionality, may be
+in addition to rather than substitute for detrimental activity, and
+have unintended consequences. Communities are heterogeneous,
+and thus benefits and costs are not necessarily incurred in a
+fashion that would foster incentives for all relevant community
+members. This underscores the importance of front-loading
+community engagement in the design and implementation of
+alternative economic activities.
+
+always specifically target bycatch but instead both target and
+bycatch species.
+Alternative livelihoods, such as ecotourism, direct people
+away from the environmentally damaging activity and toward
+an alternative with lower impact livelihood activities providing
+at least equivalent monetary and non-monetary benefits (Wright
+et al., 2015). As an example, community members may receive
+wages as patrollers or rangers of sea turtle nesting beaches to
+protect sites, where the wages provide on-going incentives with
+conditionality and additionality (Gjertsen and Stevenson, 2011;
+Marcovaldi, 2011; Pakiding et al., 2020). In some instances,
+people may simply add the alternative livelihood to their existing
+activities (Torell et al., 2010), precluding bycatch reduction.
+Incentives are not necessarily created for the community as a
+whole. A related approach provides capital or infrastructure to
+the community as a whole, such as a school. An important issue
+is whether incentives are on-going or one-shot and whether there
+is conditionality and additionality. Wright et al. (2015) review
+additional issues.
+Eco-tourism, another type of alternative livelihood, provides
+benefits to all or part of the community for preserving a
+population, such as sea turtles. For example, the communities
+of Kubulau district in southwestern Vanua Levu, Fiji, created a
+network of 13 protected areas to address poaching threats.
+Together with Moody’s Namena Resort, the Kubulau
+communities enforce no-take areas against poaching to protect
+important dive sites, using a surveillance system involving
+community fish wardens. The system is financed through
+dive-tag fees from dive-tourism operations, and the funds
+are used for community-developed, tertiary scholarships, and
+operational costs such as patrolling. Such broad-based programs
+also provide protection to sea turtles and elasmobranchs that
+can be subject to bycatch in other areas (Niesten and Gjertsen,
+2010). The Misool Eco-Resort in Papua, Indonesia entered
+into a 25-year lease with the customary owners of uninhabited
+Batbitim island to establish a no-take zone that protects coral
+reefs, sea turtles, elasmobranchs, and fish, protecting populations
+of potential bycatch over at least part of their life history
+(Niesten and Gjertsen, 2010).
+Community-based conservation is based upon simultaneous
+achieving successful conservation and development (Berkes,
+2004, 2006). Community-based conservation is decentralized
+and entails meaningful community participation in conservation
+(Agrawal and Gibson, 1994). Thus, community-based
+conservation ‘includes natural resources or biodiversity
+protection by, for, and with the local community’ (Western
+and Wright, 1994). Community-based management can take
+many forms and involve many existing institutions. It is
+also contextual and influenced by social norms, customs,
+and culture. For example, community-based management in
+the Pacific Islands tends to involve traditional institutions,
+especially taboos, to implement spatial management (Abernethy
+et al., 2014). Customary marine tenure, an institution, can
+have flexible boundaries that can impact, for example, spatial
+management (Foale and Manele, 2004). Community-based
+conservation is an important component to leatherback sea
+turtle nesting conservation in Papua Barat, Indonesia and
+
+Frontiers in Marine Science | www.frontiersin.org
+
+DIRECT AND INCENTIVE-BASED
+REGULATION
+Regulation can play a critical role in enacting incentive-based
+approaches. Direct bycatch regulation, such as avoidance through
+closed areas, or minimization through bycatch limits or gear
+requirements, has a number of advantages. These include
+the known impact on producer behavior if the producer is
+compliant, low levels of risk for producers when the bycatch
+management requirements are well defined and established, and
+relatively low administrative costs if compliance can be easily
+monitored and enforced.
+Direct bycatch regulation as the sole regulatory approach
+has a number of disadvantages that reflect information, cost,
+and incentive compatibility issues faced by fishery management
+authorities and producers. Direct regulation does not use all of
+the information that can potentially engage bycatch reduction
+options across and within steps of the MH. Direct regulation
+largely uses the information on bycatch mitigation held by the
+fishery management authority when in fact, producers hold
+information, sometimes quite subtle and producer-specific, that
+the fishery management authority does not typically know
+and use. This information grows in importance as producers
+gain experience, learn and adapt. Bycatch mitigation can
+entail multiple, ongoing adjustments in fishing that are taken
+
+9
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+and employ a variety of heuristic procedures to achieve outcomes
+that are ‘good enough’ rather than truly optimal” (Conlisk, 1996).
+Further, a range of emotional, social, cultural and cognitive biases
+shape people’s decisions (Cinner, 2018). Another limitation is
+the interaction of extrinsic motivation – economic incentives –
+with intrinsic motivation, leading to crowding out, as discussed
+below. Bycatch reduction is also shaped by social networks, trust
+and social capital, local leadership and role models, governance
+and institutional structures, social norms and peer pressure,
+perceived legitimacy of regulations, perceived effectiveness of
+proposed measures, and even the skill, experience and motivation
+of individual fishers and captains (Booth et al., 2019b).
+Economic incentive-based approaches may not always have
+a substantial cost advantage over direct regulation if there is
+little heterogeneity in costs among vessels. If incentive-based
+instruments have only a small impact upon target catch prices,
+then the failure to optimally exploit target catch reduction
+channels (that therefore reduce bycatch) under direct regulation
+may have little impact in practice. Instead, direct regulation that
+is tailored to the heterogeneity, such as vessel size class or area
+and time fished or gear type, may be superior. The relative
+conservation and management costs of direct and incentivebased regulation can also tip the balance one way or the other.
+Policy instruments based upon market incentives more
+typically, although not always, create stronger bycatch reduction
+incentives. In some instances, direct regulation can create even
+stronger incentives but at a higher economic cost.
+
+individually and may have varying and even small impacts at the
+vessel-level but collectively can have a significant impact.
+By not pricing residual bycatch, direct regulation does not
+add the cost of the remaining bycatch to the cost and price
+of the target catch (although the target catch production costs
+reflect the higher costs due to direct regulation). The targetcatch price and costs will typically be lower than under bycatch
+pricing, so that vessels are not incentivized to sufficiently reduce
+the scale of production and bycatch-target catch ratio. However,
+sufficiently impactful direct regulation raises costs by enough
+to reduce the scale of production to the desired level (or even
+below), although not in a cost-effective manner, i.e., direct costs
+are unnecessarily incurred by producers to meet bycatch goals.
+Thus, direct regulation does not impose responsibility upon
+producers for any bycatch that might occur despite compliance
+with those regulations. It implies only partial implementation of
+the Polluter Pays Principle, since producers do not pay the cost of
+residual bycatch occurring despite compliance. Direct regulation
+shares bycatch reduction costs between producers (for avoidance,
+minimization, and restoration) and those other stakeholders who
+also suffer from the residual loss of bycatch. By failing to engage
+all bycatch reduction channels across and within steps of the
+mitigation hierarchy and across all producers and fishing areas,
+bycatch will not be reduced in a fully socioeconomically and
+ecologically optimal way.
+Direct bycatch regulation does not generate any funds for
+compensation of either anticipated or unanticipated bycatch.
+Society instead bears the full cost and the full risk of any resulting
+significant bycatch despite compliance. Vessel operators who stay
+in the fleet are making sufficient profits to remain in business,
+however, and consumers who can pay the higher prices are still
+able to consume the product.
+When costs of bycatch mitigation vary across producers,
+uniform or “one-size-fits-all” direct regulation is not costeffective, because it does not create economic incentives to
+meet bycatch mitigation targets in a least-cost way. The costminimizing mitigation approaches can vary by producer, who can
+use producer-specific knowledge and methods. Direct bycatch
+regulation that is differentiated by some criteria, such as different
+limits according to vessel size class, could reduce the regulatory
+costs to vessel operators.
+Direct bycatch regulation can incentivize non-compliance due
+to higher costs, with vessel operators engaging in actions to
+circumvent these regulations and other actions that ultimately
+hinder bycatch reduction and create economic waste. Finally,
+direct bycatch regulation fails to incentivize producers to exceed
+their regulatory requirements set through technology, process, or
+performance standards.
+For all these reasons, reliance solely upon direct regulation to
+reduce bycatch is likely to fall short on several of the criteria that a
+fishery management authority might use in evaluating alternative
+policy approaches. Nonetheless, impactful direct regulation can
+sometimes induce more bycatch reduction than incentive-based
+approaches, particularly in time-critical situations.
+There are also limits to incentive-based approaches due to
+the assumption of purely rational behavior. Thus, “Individuals
+may have bounded rationality, limited by cognitive resources,
+
+Frontiers in Marine Science | www.frontiersin.org
+
+INTERACTIONS BETWEEN PRIVATE
+SOLUTIONS AND INCENTIVE-BASED
+POLICIES
+Economic incentives can interact with private solutions and
+prosocial behavior, notably intrinsic motivation such as social
+norms or altruism, in positive ways, called crowding in, and in
+negative ways, called crowding out (Deci, 1971, 1975; Bowles,
+2008; Gneezy et al., 2011; Bowles and Polanía-Reyes, 2012;
+Rode et al., 2015; Young, 2015; Nyborg et al., 2016; Farrow
+et al., 2017; Booth et al., 2019a). Economic incentives can
+have two effects: the standard relative price effect that makes
+the incentivized behavior more attractive, and an indirect
+psychological effect associated with intrinsic motivation. The
+total effect on behavioral intentions is thus comprised of two
+effects either reinforcing each other through crowding in or
+offsetting each other through crowding out.
+Resumption of dolphin hunting in the Solomon Islands
+after a conservation agreement between local communities and
+a conservation group previously providing financial support
+to develop alternative activities may be due to crowding out.
+Villagers explained that stopping the hunt had brought much
+tension in the village, and that resuming hunting brought
+peace back among community members (Innes et al., 2015;
+Oremus et al., 2015). Overfishing by rural communities in
+Columbia regulated by a weakly enforced quota with a fine as
+evidenced by a common property resource game with the local
+population (Rodriíguez-Sickert et al., 2008; Velez et al., 2010)
+
+10
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+across multiple parties and even multiple fishery management
+authorities (Barrett, 2003, 2010, 2016). This broader bycatch
+context is also holistic, extending beyond fishing interactions
+with the bycatch species to its life cycle and geographic range.
+Unilateral bycatch mitigation can be subject to a conservation
+“leakage,” whereby the same bycatch population faces higher
+mortality in another jurisdiction due to bycatch in a different
+fleet (Mukherjee, 2015; Chan and Pan, 2016; Helvey et al., 2017).
+These leakages may be accompanied by a trade leakage, whereby
+the target catch is imported into the country unilaterally reducing
+bycatch in order to fill the consumption gap of the target species,
+possibly leading to increased bycatch mortality.
+
+and a comparable field experiment by rural Cambodian villagers
+(Travers et al., 2011).
+A producer’s intrinsic motivation can change in response to
+a change in external intervention, or a change in the perceived
+nature of the task or in the producer’s self-perception. In
+some instances, a large psychological effect can crowd out the
+economically incentivized behavior.
+Crowding out can operate through several principal channels.
+One channel is information. The fishery management authority
+(regulator) may be better informed about conservation goals than
+the producer (e.g., owner and/or operator of the vessel, principal).
+The fishery management authority, when better informed than
+the producer, may choose a reward level signaling the difficulty
+of the task and the producer’s ability to complete the task
+satisfactorily, which could require additional economic rewards
+to complete the conservation. The fishery management authority
+may alternatively signal lack of trust in the producer’s ability or
+willingness to reach a satisfactory conservation goal, which in
+turn can lower intrinsic motivation.
+A second channel for crowding out occurs when extrinsic
+economic incentives reduce other intrinsic motives to conserve.
+One example is the higher personal benefit to an individual
+producer associated with a higher level of prosocial behavior,
+thereby impacting the reputational value attributed to a
+producer’s intrinsic and extrinsic motivation. Decreasing the
+signal about a producer’s prosocial preferences and increasing the
+signal about a producer’s self-interest may result in lower image
+motivation and impaired self-esteem. (Image motivation pertains
+to the desire to be liked and well regarded by others and therefore
+depends on behavior visible to others). Offering higher material
+rewards may cause the indirect psychological effect to crowd out
+the standard price effect, depending on the extent to which the
+signals are public.
+In sum, intrinsic motivation interacts with economic
+incentives in complex ways that change over time. In some
+instances, intrinsic motivation is more effective at reducing
+bycatch than economic incentives. Carefully tailored incentives
+can build off intrinsic motivation that enhances rather than
+inhibits bycatch reduction. Incentive-based policy can reinforce
+and shift intrinsic motivation by causing producers to first
+change their behavior, then shift their beliefs to conform to
+that behavior. The effects of incentives depend upon how they
+are designed, the form in which they are given (monetary and
+non-monetary), how they interact with intrinsic motivation,
+and what happens after the incentives are withdrawn. Although
+admittedly complex, the true cost of economic incentives should
+include the adverse effects of any motivation crowding out.
+
+Implications of Industry Size and
+Organization
+In commercial fisheries with reasonably strong and effective
+fishery management, bycatch reduction depends upon
+coordination and agency problems. Agency problems refer
+to attaining compliance when the producers (agents) have more
+information about bycatch reduction than the management
+authority (regulator and principal) (Vestergaard, 2010; Jensen
+et al., 2017). Coordination problems refer to coordinating the
+actions, behavior, and decision-making of producers among
+themselves and with the fishery management authority.
+The effectiveness of bycatch reduction depends upon the
+number of producers, the scale of the individual businesses,
+and industry organization. Consider the different context of a
+fishery such as the large-scale tuna purse seine and longline
+vessels or Pollock or groundfish vessels in the United States North
+Pacific or North Atlantic, and most coastal fishing fleets. Bycatch
+reduction then also depends upon a comparatively strong and
+effective management authority with the capability for at-sea
+monitoring, control, and surveillance of catch or effort and
+effective enforcement and with the capability of organizing and
+coordinating producer behavior.
+When there is a limited number of large-scale producers,
+bycatch reduction is simplified due to the strong coordination
+and lower transactions and information costs among and within
+large companies or other strong cooperative arrangements such
+as formal cooperatives or a mother ship and catcher vessels
+(Deacon, 2012; Kotchen and Segerson, 2019; Aceves-Bueno
+et al., 2020). This can lead to comparatively low transactions
+and information costs within and between organizational
+units and also with the fishery management authority. Lower
+costs in turn allow bycatch limits to be allocated to the
+large organizational units, which then self-resolve these
+issues. With the resulting regulatory interdependency among
+group members, when any member of a group contributes
+to improved group performance, it generates benefits for
+all other group members through penalty avoidance. The
+United States Alaskan large-scale groundfish trawl fleet,
+comprised a limited number of multi-vessel companies,
+voluntarily reduces halibut bycatch through a co-management
+scheme with the North Pacific Fishery Management Council
+(Fina, 2017). Group approaches can also promote information
+sharing, pooling of risks within a group, and reduce uncertainty
+
+BROADER CONTEXT SHAPING CHOICE
+AND PERFORMANCE OF POLICY
+APPROACH
+Transboundary Bycatch
+Some bycatch populations are transboundary such that bycatch
+reduction requires multilateral cooperation or coordination
+
+Frontiers in Marine Science | www.frontiersin.org
+
+11
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+absorbing and lowering the costs of information and transactions
+of bycatch reduction, can also contribute to coordinating the
+different vessels to meet bycatch reduction. However, NGOs can
+also raise costs by introducing additional and heterogeneous
+perspectives into the bycatch management process. In this second
+case, there is a well-developed tool kit of policy instruments that
+can be applied, many of them incentive-based, as discussed in
+the next section.
+In sum, the choice of regulatory approach and policy
+instruments depends, in part, upon the number of vessels or
+firms, their scale of production, and how the industry is organized
+(including cooperatives and centralized industry groups). The
+fishery management authority can often set a bycatch limit and
+a penalty for non-compliance (a negative incentive) or even
+an in-kind reward for compliance, and allow the vessels to
+self-organize, as long as there is sufficient monitoring, control,
+and surveillance. Thus, private solutions, incentivized through a
+strategic threat, may suffice.
+
+(Holland and Jannot, 2012; Holland and Martin, 2019). Such
+regulation has the potential to be voluntary, typically under a
+strategic threat of formal regulation (Kotchen, 2013; Segerson,
+2010, 2013; Kotchen and Segerson, 2019).
+In such a decentralized system, control of catch, monitoring,
+compliance, and enforcement is critical, such as through a basic
+incentive structure. Such an incentive structure could include a
+penalty of a lower bycatch limit for failure to meet the objective
+or a reward such as a larger target catch or longer season or carryforward of bycatch limits from 1 year to the next (Segerson, 2011;
+Kotchen and Segerson, 2019). The comparatively limited number
+of organizational units lowers the costs of coordination and
+reduces the agency (asymmetric information) problem between
+the fishery management authority and the organizational
+units. The larger-sized firms or organizations and fewer vessel
+numbers means that these units can at least partially, if not
+fully, self-organize and coordinate bycatch reduction actions
+internally rather than relying upon markets and the fishery
+management authority to fulfill these functions (Coase, 1937).
+Such actions reduce the problem of differing quality and
+quantity of information – moral hazard – that otherwise
+occurs when producers only partially rather than fully fulfill
+the fishery management authority’s intentions. Each party in
+a “contract” has an incentive and opportunity to gain from
+acting contrary to the principles laid out by the agreement. Here,
+producers may circumvent bycatch reduction regulations by
+taking advantage of loopholes or because the producers’ actions
+are not observed or enforced.
+When there are a large number of limited-scale producers,
+collaborative bycatch reduction becomes more complicated and
+expensive. There is also a greater potential for producers to fail
+to fully reduce bycatch according to intent of the regulations
+or the regulations do not completely cover all relevant bycatch
+possibilities (i.e., moral hazard) (Vestergaard, 2010; Jensen
+et al., 2017). The larger number of individual companies and
+vessels increases the information and transactions costs of
+coordinating the vessels’ actions among themselves and in
+relation to the management authority. The vessels (which
+include multi-vessel companies), to the extent they can selforganize through industry associations and cooperatives, lower
+the costs and difficulties of coordination among themselves
+and with the management authority, i.e., facilitate comanagement. Nonetheless, the management authority and
+the regulatory structure must provide more of the coordination
+and absorb more of the costs of coordination, monitoring,
+and enforcement.
+With more numerous small-scale vessels, the fishery
+management authority must organize more formal, intricate,
+and costly monitoring, control, surveillance, and enforcement
+compared to the first type, due to the larger number and likely
+greater heterogeneity of the producers. The asymmetry of
+information between vessels and the management authority can
+be sizable given the large number of spatially dispersed vessels.
+Markets are used rather than transactions internal to firms in
+the case of larger and fewer firms due to the sizable information
+and transactions costs of coordination among the many vessels
+(Coase, 1937). Non-governmental organizations (NGOs), by
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Information Between Producers and
+Consumers
+Information about bycatch is not equally available throughout
+the supply chain. The quality and level of bycatch information
+decreases from the producer through the processors, distributors
+and on to the consumers. Adverse selection arises when any of
+these involved economic agents has more bycatch information
+than others but for its own benefit does not reveal it to
+the other parties when entering into a bycatch reduction
+agreement, such as unrevealed greater bycatch rates than other
+parties and participating in a certification scheme. Moral hazard
+arises when any involved agents do not fully comply with
+say bycatch reduction requirements when it does not bear the
+full costs of that risky behavior. This asymmetric information
+does not allow socially efficient behavior and decision-making
+for optimal conservation for parties farther from producers
+(Vestergaard, 2010; Kotchen, 2013; Segerson, 2013; Jensen et al.,
+2017). Thus, for example, consumers were initially unaware of
+the dolphin bycatch associated with harvest of large yellowfin
+tunas in the Eastern Pacific Ocean, and as a consequence,
+continued to purchase canned tuna unaware of the dolphin
+bycatch (Ballance et al., 2021). Eco-labels, standards, certification,
+and information programs all intend to rectify this issue by
+signaling information about bycatch, although the information
+quality (e.g., distortions) can readily deteriorate and may
+not even reach producers from consumer markets or higher
+in the supply chain.2
+
+Bycatch Reducing Technological Change
+Bycatch-reducing technological change lowers the ratio between
+bycatch and target catch to better achieve the avoidance and
+especially minimization steps of the MH. Examples include
+2
+
+An anonymous referee noted that certification can provide a price incentive to
+producers, but also provides a signal to consumers, affecting the social license and
+thereby affecting the social norms in the fishery. In theory, with better information
+between producers and consumers, certification may not even be necessary to
+achieve this.
+
+12
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+of pollock that can be harvested. Protecting Chinook reduces
+the pollock catch, creating a high implicit price and cost (of
+foregone pollock catch) to the Chinook population, an input.
+The high implicit Chinook cost incentivizes innovation to
+reduce Chinook salmon bycatch.
+Another factor that incentivizes research and development
+for bycatch-reducing technological change is the market size
+effect, which occurs when new technologies have a large market
+and more abundant inputs. An example is innovation to
+reduce dolphin mortality in the Eastern Pacific Ocean, since
+the target species, yellowfin tuna, entered into the large North
+American and European markets for canned tuna and there
+were abundant inputs of large yellowfin tuna (Gjertsen et al.,
+2010; Hall and Roman, 2013; Hall et al., 2017; Ballance et al.,
+2021). Continued access to these markets and their large volume
+required innovations to reduce dolphin bycatch. Alaskan Pollock
+also has an important market size effect given the volume and
+value of pollock production.
+Social network effects (value of product or service increases
+according to number of others using it and social interactions),
+ideas (accumulated and new technology) and knowledge
+spillovers (new technology adopted by one fisher demonstrates
+benefits to others), and social learning (individuals are influenced
+by actions taken by others when information is dispersed)
+can be important to the adoption of new technology (Arrow,
+1962; Katz and Shapiro, 1986; Romer, 1986, 1990; Jones
+and Romer, 2010; Squires and Vestergaard, 2013a,b, 2018;
+Mobius and Rosenblat, 2014; Sorenson, 2018; Alexander
+et al., 2020; Arlidge et al., 2020a,b). Technology can be
+embodied in the physical capital stock, such as a modified
+or new gear type (e.g., sorting grids for trawl nets), or
+new methods of fishing (learning by doing), such as fishing
+at different times of the day when there is less bycatch.
+Social interactions, social norms, and the number of users
+directly impact the type of new technology adopted and its
+rate of diffusion and adoption. Network scale economies and
+social learning create dynamic incentives that accelerate the
+rate of bycatch-reducing technological change (Arthur, 2009;
+Arlidge et al., 2020a,b).
+Diffusion and adoption of new technology may be enhanced
+through subsidized gear or preferential access to markets (Squires
+and Vestergaard, 2013b; Eigaard et al., 2014). Governments or
+producers in one fishery can subsidize new bycatch reducing
+gear for producers in another fishery with bycatch on the same
+species and population, thereby creating an offset. A commercial
+fleet could finance the adoption of bycatch reducing gear by
+a small-scale fleet with bycatch of the same species, thereby
+reducing the avoidance step of the MH for the commercial fleet
+and allowing fishing that otherwise would not have occurred
+(Gjertsen et al., 2014).
+
+turtle excluder devices for shrimp trawlers (Crowder et al.,
+1994), sorting grids for groundfish trawlers or purse seiners
+(Broadhurst, 2000; Misund and Beltestad, 2000), dyeing pelagic
+longline bait blue, side-setting, and using Tori lines and weighted
+branch lines that sink faster to reduce seabird bycatch (Melvin
+et al., 2014; Gilman et al., 2016, 2020; Hall et al., 2017), the
+Hawaii Turtle Watch program that provides information to
+pelagic longline vessels on areas with sea turtle concentration
+(Howell et al., 2008), circle hooks rather than J hooks to
+reduce sea turtle bycatch encounter and post-hooking mortality
+with pelagic longliners (Andraka et al., 2013), non-entangling
+and biodegradable designs of [FADs used in tuna purse seine
+fisheries reduce the entanglement of sharks, sea turtles and other
+organisms (Moreno et al., 2016), and illuminating gill nets with
+chemical or battery-operated lightsticks to reduce bycatch of
+sea turtles, seabirds and marine mammals (Werner et al., 2006;
+Wang et al., 2013)].
+Producers, acting in their private capacity, tend to provide
+bycatch-reducing technology at a level below what is optimal
+to society (Romer, 1986, 1990; Squires and Vestergaard, 2013b).
+This technology provision is subject to free riding – other
+parties benefit from the technology without contributing to
+the costs of its development and provision. This lowers
+the incentives to supply, through research and development,
+the socially optimal level of the new technology, can slow
+the rate of adoption and even limit the diffusion of the
+new technology. Governments therefore often fill the gap
+(Jaffee et al., 2005). Technology policy seeks to induce and
+finance research and development and account for the underprovision and free riding of bycatch-reducing technological
+change (Squires and Vestergaard, 2013b).
+Nonetheless, direct involvement by industry in research
+and development and learning by doing does occur for
+bycatch reducing technological change (Hall et al., 2000;
+Gilman and Lundin, 2010). For example, bird-scaring Tori lines
+for longlining, and the backdown procedure after dolphins
+are captured, the Medina dolphin safety panel, deploying at
+least one rescuer during backdown, and carrying specified
+dolphin safety/rescue equipment for tuna purse seine vessels
+to reduce dolphin mortality in the Eastern Pacific Ocean
+(Hall and Roman, 2013).
+Bycatch-reducing technological change (as a form of “directed
+technical change”) can arise due to several factors (Acemoglu,
+2002). The price effect on the catch side arises when the
+harvesting technology has lower bycatch and the target catch
+consequently commands a price premium over target catch
+with higher bycatch. An example is pole-and-line caught tuna
+compared to tuna caught using FADs, where the former receives
+a price premium for little or no bycatch. There was a concerted
+effort to ensure that price premium by informing consumers
+and retailers about the difference between pole and line vs.
+FAD-caught tunas. The price effect also arises on the input side
+when there are relatively scarce inputs, and correspondingly high
+input prices incentivize reduced use of this input to reduce
+production costs. An example is scarce, protected Chinook
+salmon that are bycatch to Alaskan pollock (Mize, 2014). The
+regulatory limits on Chinook bycatch constrain the amount
+
+Frontiers in Marine Science | www.frontiersin.org
+
+EQUITY AND FAIRNESS
+Different policies have different impacts upon equity and fairness
+in both process and distribution (consequences), which in turn
+can impact monitoring, compliance, and enforcement. Some
+
+13
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+distributional consequences of bycatch mitigation policies.
+No single policy approach or instrument is superior across
+all possible criteria, and the choice(s) depend upon each
+individual case. The “best” approach on paper may not be
+feasible, and a “second-best” approach that is practicable may
+then be preferred.
+Bycatch reduction is comprised of multiple components
+requiring specific regulations or policies. When combining
+instruments, however, the fishery management authority
+should consider whether the different approaches being
+combined form substitutes or complements. Policy instruments
+that are substitutes can create redundancies without any
+bycatch reduction, which also raises costs and can even
+be counterproductive. Combining approaches that are
+complementary can lead to a better overall outcome than
+use of a single approach in isolation.
+Uncertainty and timing are typically underappreciated but
+often critical to bycatch reduction. Uncertainty arises in
+determining who are the winners and losers, which can delay
+implementation of bycatch policy instruments until the results
+are more clearly sorted out (Libecap, 2014). Benefits are often
+more uncertain and enjoyed further in the future than more
+immediate and certain costs. Uncertainty can lead to waiting
+until more information is available before adopting incentivebased policy instruments or bycatch-reducing technology.
+Compounding uncertainty over the size and distribution of net
+benefits is the time of response for the bycatch population.
+A slowly rebounding population can delay compensation or
+rewards to fishers adopting bycatch reducing policy instruments
+that have serious costs in foregone target catch and revenue or
+have sizable costs in adaptation (such as fishing in another area).
+Fishers facing immediate costs, such as vessel loan payments, may
+not be able to readily adapt.
+Designing and implementing workable solutions to
+bycatch clearly presents a challenge for fishery managers
+and stakeholders. Nevertheless, this work is critically important
+as bycatch is a loss to society and in some cases, can cause
+extinction. A multidisciplinary approach conducted in
+collaboration with the fishing community can provide the
+widest possible array of options for mitigating bycatch whilst
+maintaining a viable fishery.
+
+policies can more inequitably and unfairly impact all or select
+producers and consumers than others.
+The bycatch reduction policy process can be consistent
+with principles of equity and fairness. Bycatch reduction
+policy has distributional consequences, leaving some groups
+relatively better or worse off. Policy impacts can be assessed for
+consequences by equity metrics (Cowell, 2016).
+The impact of differently designed policies upon equity
+and fairness in process and distribution can affect monitoring,
+compliance, and enforcement. Some impacts can be perceived as
+inequitable and unfair if the foregone catch and revenue from
+avoidance and even minimization disproportionately fall upon
+lower-income or otherwise disadvantaged producers and even
+some consumers. Moreover, benefits, whenever they are nonmarket and diffuse across a broad population or whenever there
+are higher prices from eco-labeling, may not be transmitted
+to these fishers. Low-income fishers then bear the costs
+but do not enjoy the benefits of bycatch mitigation, which
+can aggravate any inequitable impacts. The NNL objective
+may also disproportionately impact local and lower-income
+fishers and thereby contribute to an inequitable impact and
+lower social welfare (Griffiths et al., 2019a,b). Policies crafted
+using normative principles of equity and fairness and social
+distribution weights can ensure equity and fairness in process and
+distribution (consequences) (Young, 1994).
+
+CONCLUSION
+Bycatch reduction is not only a technical issue of harvesting
+technology and biology, but also a human issue involving
+behavior and decision-making by producers and consumers.
+Bycatch reduction also occurs within the context of different
+industrial and regulatory structures of fisheries, which in turn
+can impact the choice of basic regulatory approach – private
+solutions, direct regulation, incentive- (market-) based, and
+hybrid – and then choice of policy instruments.
+There is no single “best” approach to bycatch reduction.
+The “best” approach almost invariably differs by the type
+of fishery – the species and its life history, geographical
+distribution (including transboundary stocks), and population
+status, gear, vessel numbers and ownership structure, domestic
+or international fishery, commercial or artisanal fishery,
+the fishery management authority and its governance, the
+importance of markets, geographical location, and legal
+structure of the State or Regional Fisheries Management
+Organization. Nonetheless, for commercial fisheries some
+very basic and broad conclusions can be drawn. In contrast,
+bycatch reduction in artisanal and small-scale fisheries remains
+a challenging issue, in part due to its conflation with economic
+development, and likely includes elements of community-based
+and alternative livelihoods.
+The mitigation hierarchy provides an analytical framework
+by which to evaluate policies to mitigate bycatch. The least-cost
+mitigation hierarchy potentially gives greater bycatch reduction,
+especially when there are limited bycatch mitigation budgets. The
+equitable least-cost mitigation hierarchy can explicitly address
+
+Frontiers in Marine Science | www.frontiersin.org
+
+AUTHOR CONTRIBUTIONS
+All authors listed have made a substantial, direct and
+intellectual contribution to the work, and approved it
+for publication.
+
+ACKNOWLEDGMENTS
+The views expressed are not necessarily those of US NOAA
+Fisheries, the International Whaling Commission, or Institut
+de Recherche pour le Développement. The authors thank
+Steve Stohs for comments but remain responsible for all
+remaining errors.
+
+14
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+REFERENCES
+
+Berkes, F. (2006). From community-based resource management to complex
+systems: the scale issue and marine commons. Ecol. Soc. 11, 45.
+Bethoney, N. D., Schondelmeier, B. P., Kneebone, J., and Hoffman, W. S. (2017).
+Bridges to best management: effects of a voluntary bycatch avoidance program
+in a mid-water trawl fishery. Mar. Policy 83, 172–178.
+Bisack, K., and Sutinen, J. (2003). Harbor porpoise bycatch: ITQs or time/area
+closures in the New England gillnet fishery. Land Econ. 82, 85–102. doi: 10.
+3368/le.82.1.85
+Bladon, A. J., Short, K. M., Mohammed, E. Y., and Milner-Gulland, E. J. (2016).
+Payments for ecosystem services in developing world fisheries. Fish Fish. 17,
+839–859. doi: 10.1111/faf.12095
+Booth, H., Arlidge, W. N. S., Squires, D., and Milner-Gulland, E. J. (in press).
+Bycatch levies could reconcile trade-offs between blue growth and biodiversity
+conservation. Nat. Ecol. Evol.
+Booth, H., Squires, D., and Milner-Gulland, E. J. (2019a). The mitigation hierarchy
+for sharks: a risk-based framework for reconciling trade-offs between shark
+conservation and fisheries objectives. Fish Fish. 21, 269–289. doi: 10.1111/faf.
+12429
+Booth, H., Squires, D., and Milner-Gulland, E. J. (2019b). The neglected
+complexities of shark fisheries, and priorities for holistic risk-based
+management. Ocean Coast. Manag. 182:104994. doi: 10.1016/j.oceco
+aman.2019.104994
+Bos, B., Drupp, M. A., Meya, J. N., and Quaas, M. F. (2020). Moral suasion and
+the private provision of public goods: evidence from the COVID-19 Pandemic.
+Enviorn. Res. Econ. 76, 1117–1138.
+Bowles, S. (2008). Policies designed for self-interested citizens may undermine
+“the moral sentiments”: evidences from economic experiments. Science 320,
+1605–1609. doi: 10.1126/science.1152110
+Bowles, S., and Polanía-Reyes, S. (2012). Economic incentives and social
+preferences: substitutes or complements? J. Econ. Lit. 50, 368–425. doi: 10.1257/
+jel.50.2.368
+Boyce, J. R. (1996). An economic analysis of the bycatch problem. J. Environ. Econ.
+Manag. 31, 314–336. doi: 10.1006/jeem.1996.0047
+Broadhurst, M. K. (2000). Modifications to reduce bycatch in prawn trawls: review
+and framework for development. Rev. Fish Biol. Fish. 10, 27–60.
+Business and Biodiversity Offsets Programme [BBOP] (2012). Standards on
+Biodiversity Offsets. Washington, DC: BBOP.
+Chakravorty, U., and Nemoto, K. (2001). Modeling the effects of area closure
+and tax policies: a spatial-temporal model of the Hawaii longline fishery. Mar.
+Resour. Econ. 15, 179–204. doi: 10.1086/mre.15.3.42629301
+Chan, H. L., and Pan, M. (2016). Spillover effects of environmental regulation for
+sea turtle protection in the Hawaii longline swordfish fishery. Mar. Resour. Econ.
+31, 259–279. doi: 10.1086/686672
+Chan, V., Clarke, R., and Squires, D. (2014). Full retention in tuna fisheries:
+benefits, costs and unintended consequences. Mar. Policy 45, 213–221. doi:
+10.1016/j.marpol.2013.10.016
+Cinner, J. (2018). How behavioral science can help conservation. Science 362,
+889–890. doi: 10.1126/science.aau6028
+Clucas, I. (1997). A Study of the Options for Utilization of Bycatch and Discards from
+Marine Capture Fisheries. Remo: FAO.
+Coase, R. (1937). The nature of the firm. Economica 4, 386–405.
+Conlisk, J. (1996). Why bounded rationality? J. Econ. Lit. 34, 669–700.
+Convention on Biological Diversity [CBD] (2020). Indirect Incentive Measures
+(Market Creation). Available online at: https://www.cbd.int/programmes/socioeco/incentives/indirect-info.shtml (accessed December 16, 2020).
+Cowell, F. A. (2016). “Inequality and poverty measures,” in Oxford Handbook
+of Well-Being and Public Policy, eds M. D. Adler and M. Fleurbaey (Oxford:
+Oxford University Press), 82–125.
+Crowder, L. B., Crouse, D. T., Heppell, S. S., and Martin, T. H. (1994). Predicting
+the impact of turtle excluder devices on loggerhead sea turtle populations. Ecol.
+Appl. 4, 437–445. doi: 10.2307/1941948
+Curtis, R., and Hicks, R. L. (2000). The cost of sea turtle preservation: the case of
+Hawaii’s Pelagic longliners. Am. J. Agr. Econ. 82, 1191–1197. doi: 10.1111/00029092.00119
+Dagorn, L., Filmalter, J. D., Forget, F., Amandè, J., Hall, M. A., Williams, P., et al.
+(2012a). Targeting bigger schools can reduce ecosystem impacts of fisheries.
+Can. J. Fish. Aquat. Sci. 69, 1463–1467. doi: 10.1139/f2012-089
+
+Abernethy, K. E., Bodin, Ö, Olsson, P., Hilly, Z., and Schwarz, A. (2014).
+Two steps forward, two steps back: the role of innovation in transforming
+towards community-based marine resource management in Solomon
+Islands. Global Environ. Chang. 28, 309–321. doi: 10.1016/j.gloenvcha.2014.
+07.008
+Acemoglu, D. (2002). Directed technical change. Rev. Econ. Stud. 69, 781–809.
+Aceves-Bueno, E., Miller, S. J., Cornejo-Donoso, J., and Gaines, S. D. (2020).
+Cooperation as a solution to shared resources in territorial use rights in fisheries.
+Ecol. Appl. 30:e02020.
+Afonso, A. S., Hazin, F. H. V., Carvalho, F., Pacheco, J. C., Hazin, H.,
+Kerstetter, D. W., et al. (2011). Fishing gear modifications to reduce
+elasmobranch mortality in pelagic and bottom longline fisheries off
+Northeast Brazil. Fish. Res. 108, 336–343. doi: 10.1016/j.fishres.2011.
+01.007
+Agrawal, A., and Gibson, C. (1994). Enchantment and disenchantment: the role
+of community in natural resource conservation. World Dev. 27, 629–649. doi:
+10.1016/s0305-750x(98)00161-2
+Alexander, S. M., Staniczenko, P. O. A., and Bodin, Ö (2020). Social ties explain
+catch portfolios of small-scale fishers in the Caribbean. Fish Fish. 21, 120–131.
+doi: 10.1111/faf.12421
+Allison, E. H., and Ellis, F. (2001). The livelihoods approach and management
+of small-scale fisheries. Mar. Policy 25, 377–388. doi: 10.1016/s0308-597x(01)
+00023-9
+Andraka, S., Mug, M., Hallm, M., Pons, M., Pacheco, L., Parrales, M., et al.
+(2013). Circle hooks: developing better fishing practices in the artisanal longline
+fisheries of the Eastern Pacific Ocean. Biol. Conserv. 160, 214–224. doi: 10.1016/
+j.biocon.2013.01.019
+Arlidge, W. N. S., Firth, J. A., Alfaro-Shigueto, J., Ibañez-Erquiaga, B., Mangel, J. C.,
+Squires, D., et al. (2020a). Assessing Information-Sharing Networks within SmallScale Fisheries and the Implicatons for Conservation Interventions. Working
+paper, Department of Zoology, Oxford: Oxford University.
+Arlidge, W. N. S., Squires, D., Alfaro-Shigueto, J., Booth, H., Mangel, J. C., and
+Milner-Gulland, E. J. (2020b). A mitigation hierarchy approach for managing
+sea turtle captures in small-scale fisheries. Front. Mar. Sci. 7:49. doi: 10.3389/
+fmars.2020.00049
+Arrow, K. (1962). The economic implications of learning by doing. Rev. Econ. Stud.
+29, 155–173. doi: 10.2307/2295952
+Arthur, B. W. (2009). The Nature of Technology: What It Is and How It Evolves.
+New York, NY: Free Press.
+Australian Fisheries Management Authority [AFMA] (2009). Southern and Eastern
+Scalefish and Shark Fishery (Closures) Direction No. 1. Canberra: AFMA, 38.
+Bache, S. (2003). Bycatch mitigation tools: selecting fisheries, setting limits, and
+modifying gear. Ocean Coast. Manag. 46, 103–125. doi: 10.1016/s09645691(02)00123-0
+Baland, J.-M., and Platteau, J. P. (1997). Coordination problems in local-level
+resource management. J. Dev. Econ. 53, 197–210. doi: 10.1016/s0304-3878(97)
+00008-4
+Baland, J.-M., and Platteau, J. P. (2000). Halting Degradation of Nature Resources: Is
+There a Role for Rural Communities?. Rome: Food and Agriculture Organization
+of the United Nations.
+Ballance, L. T., Gerrodette, T., Lennert-Cody, C. E., Pitman, R. L., and Squires, D.
+(2021). Interdisciplinary Approaches to Bycatch Mitigation: Lessons from “The
+Tuna-Dolphin Problem”. Oregon: Oregon State University.
+Béné, C., Arthur, R., Norbury, H., Allison, E. H., Beveridge, M., Bush, S. R.,
+et al. (2016). Contribution of fisheries and aquaculture to food security and
+poverty reduction: assessing the current evidence. World Dev. 79, 177–196.
+doi: 10.1016/j.worlddev.2015.11.007
+Barrett, S. (2003). Environment and Statecraft. Oxford: Oxford University Press.
+Barrett, S. (2010). Why Cooperate? The Incentive to Supply Global Public Goods.
+Oxford: Oxford University Press.
+Barrett, S. (2016). Coordination vs. voluntarism and enforcement in sustaining
+international cooperation. Proc. Nat. Acad. Sci. U.S.A. 133, 14515–14522. doi:
+10.1073/pnas.1604989113
+Berkes, F. (2004). Rethinking community-based conservation. Cons. Bio. 18, 621–
+630. doi: 10.1111/j.1523-1739.2004.00077.x
+
+Frontiers in Marine Science | www.frontiersin.org
+
+15
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+Dagorn, L., Holland, K., Restrepo, V., and Moreno, G. (2012b). Is it good or bad
+to fish with FADs? What are the real impacts of the use of drifting FADs on
+pelagic marine ecosystems. Fish Fish. 14, 391–415. doi: 10.1111/j.1467-2979.
+2012.00478.x
+Deacon, R. T. (2012). Fishery management by harvester cooperatives. Rev. Env.
+Econ. Policy 6, 258–277. doi: 10.1093/reep/res008
+Deacon, R. T., and Parker, D. P. (2009). Encumbering harvest rights to protect
+marine environments: a model of marine conservation easements. Agr. Res.
+Econ. 53, 37–58. doi: 10.1111/j.1467-8489.2007.00429.x
+Deci, E. (1971). Effects of externally mediated rewards on intrinsic motivation.
+J. Pers. Psychol. 18, 105–115. doi: 10.1037/h0030644
+Deci, E. (1975). Intrinsic Motivation. New York, NY: Plenum Press.
+Dépalle, M., Thébaud, O., and Sanchirico, J. (2020). Accounting for fleet
+heterogeneity in estimating the impacts of large-scale fishery closures. Mar.
+Resour. Econ. 35, 361–378. doi: 10.1086/710514
+Di Lorenzo, M., Guidetti, P., Di Franco, A., Calò, A., and Claudet, J.
+(2020). Assessing spillover from marine protected areas and its drivers:
+a meta-analytical approach. Fish Fish. 21, 906–915. doi: 10.1111/faf.
+12469
+Driscoll, J., Wallace, S., Turris, B., and Mose, B. (2017). Using Individual Vessel
+Quotas to Manage Coral and Sponge Bycatch: The Case of the British Columbia
+Groundfish Bottom Trawl Fishery. Presentation to Workshop on incentivebased bycatch reduction case studies, Sète: NOAA-IRD-Ifremer.
+Dutton, P. H., Gjertsen, H., and Squires, D. (2011). “Conservation of the
+leatherback sea turtle in the Pacific,” in Handbook of Marine Fisheries
+Conservation and Management, eds R. Q. Grafton, R. Hilborn, D. Squires, M.
+Tait, and M. Williams (Oxford: Oxford University Press), 195–204.
+Dutton, P. H., and Squires, D. (2008). Reconciling biodiversity with fishing: a
+holistic strategy for pacific sea turtle recovery. Ocean Dev. Int. Law 39, 200–222.
+doi: 10.1080/00908320802013685
+Dutton, P. H., and Squires, D. (2011). “A holistic strategy for Pacific sea turtle
+conservation,” in Conservation of Pacific Sea Turtles, eds P. H. Dutton, D.
+Squires, and M. Ahmed (Honolulu: University of Hawaii Press), 37–59. doi:
+10.1515/9780824860196-005
+Eigaard, O. R., Marchal, P., Gislason, H., and Rijnsdorp, A. D. (2014).
+Technological development and fisheries management. Rev. Fish. Sci. Aqu. 22,
+156–174. doi: 10.1080/23308249.2014.899557
+Farrow, K., Grolleau, G., and Ibanez, L. (2017). Social norms and proenvironmental behavior: a review of the evidence. Ecol. Econ. 140, 1–13. doi:
+10.1016/j.ecolecon.2017.04.017
+Favaro, B., and Côté, I. M. (2015). Do by-catch reduction devices in longline
+fisheries reduce capture of sharks and rays? A global meta-analysis. Fish Fish.
+16, 300–309. doi: 10.1111/faf.12055
+Fina, M. (2017). Alaskan Groundfish Trawl and Halibut Bycatch. Presentation to
+Workshop on incentive-based bycatch reduction case studies, Sète: NOAAIRD-Ifremer.
+Foale, S., Cohen, P., Januchowski-Hartley, S., Wenger, A., and Macintyre, M.
+(2011). Tenure and taboos: origins and implications for fisheries in the Pacific.
+Fish Fish. 12, 357–369. doi: 10.1111/j.1467-2979.2010.00395.x
+Foale, S., and Manele, B. (2004). Social and political barriers to the use of marine
+protected areas for conservation and fishery management in Melanesia. Asia
+Pac. Viewp. 45, 373–386. doi: 10.1111/j.1467-8373.2004.00247.x
+Fullerton, D., and Wolverton, A. (1999). “The case for a two-part instrument:
+presumptive tax and environmental subsidy,” in Environmental and Public
+Economics: Essays in Honor of Wallace E. Oates, eds A. Panagariya, P. Portney,
+and R. Schwab (Cheltenham: Edward-Elgar), 32–57.
+Gilman, E., Brothers, N., and Kobayashi, D. R. (2005). Principles and approaches
+to abate seabird by-catch in longline fisheries. Fish Fish. 6, 35–49. doi: 10.1111/
+j.1467-2679.2005.00175.x
+Gilman, E., Chaloupka, M., Dagorn, L., Hall, M., Hobday, A., Musyl, M., et al.
+(2019). Robbing Peter to pay Paul: replacing unintended cross-taxa conflicts
+with intentional tradeoffs by moving from piecemeal to integrated fisheries
+bycatch management. Rev. Fish Biol. Fish. 29, 93–123. doi: 10.1007/s11160-01909547-1
+Gilman, E., Chaloupka, M., Swimmer, Y., and Piovano, S. (2016). A cross-taxa
+assessment of pelagic longline by-catch mitigation measures: conflicts and
+mutual benefits to elasmobranchs. Fish Fish. 17, 748–784. doi: 10.1111/faf.
+12143
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Gilman, E., Chaloupka, M., Wiedoft, B., and Wilson, J. (2014). Mitigating seabird
+bycatch during hauling by pelagic longline vessels. PLoS One 9:e84499. doi:
+10.1371/journal.pone.0084499
+Gilman, E., Chloupka, M., Bach, P., Fennell, H., Hall, M., Musyl, M., et al. (2020).
+Effect of pelagic longline bait type on species selectivity: a global synthesis of
+evidence. Rev. Fish Biol. Fish. 30, 535–551. doi: 10.1007/s11160-020-09612-0
+Gilman, E., Gearhart, J., Price, B., Eckert, S., Miliken, H., Wang, J., et al. (2010).
+Mitigating sea turtle by-catch in coastal passive net fisheries. Fish Fish. 11,
+57–88. doi: 10.1111/j.1467-2979.2009.00342.x
+Gilman, E., and Lundin, C. G. (2010). “Minimizing bycatch of sensitive species
+groups in marine capture fisheries: Lessons from tuna fisheries,” in Handbook
+of Marine Fisheries Conservation and Management, eds R. Q. Grafton, R.
+Hilborn, D. Squires, N. Tait, and M. Williams (Oxford: Oxford University
+Press), 150–164.
+Gilman, E., Zollett, E., Beverly, S., Nakano, H., Davis, K., Shiode, D., et al. (2006).
+Reducing sea turtle by-catch in pelagic longline fisheries. Fish Fish. 7, 2–23.
+doi: 10.1111/j.1467-2979.2006.00196.x
+Gjertsen, H. (2011). “Can we improve our conservation bang for the buck?
+Cost-effectiveness of alternative leatherback turtle conservation strategies,” in
+Conservation of Pacific Sea Turtles, eds P. H. Dutton, D. Squires, and M. Ahmed
+(Honolulu: University of Hawaii Press), 60–84. doi: 10.1515/9780824860
+196-006
+Gjertsen, H., Hall, M., and Squires, D. (2010). “Incentives to address bycatch issues,”
+in Conservation and Management of Transnational Tuna Fisheries, eds R. Allen,
+J. Joseph, and D. Squires (Hoboken, NJ: Wiley-Blackwell Publishing), 225–250.
+doi: 10.1002/9780813820262.ch14
+Gjertsen, H., Squires, D., Dutton, P. H., and Eguchi, T. (2014). Cost-effectiveness
+of alternative conservation strategies with application to the Pacific leatherback
+turtle. Conserv. Biol. 28, 140–149. doi: 10.1111/cobi.12239
+Gjertsen, H., and Stevenson, T. C. (2011). “Direct incentive approaches for
+leatherback turtle conservation,” in Conservation of Pacific Sea Turtles, eds P. H.
+Dutton, D. Squires, and M. Ahmed (Honolulu: University of Hawaii Press),
+164–182. doi: 10.1515/9780824860196-013
+Gneezy, U., Meier, S., and Rey-Biel, P. (2011). When and why incentives (don’t)
+work to modify behavior. J. Econ. Perspect. 25, 191–210. doi: 10.1257/jep.25.
+4.191
+Goulder, L. H., and Parry, I. W. H. (2008). Instrument choice in environmental
+policy. Rev. Env. Econ. Policy 2, 152–174. doi: 10.1093/reep/ren005
+Griffiths, V. F., Bull, J. W., Baker, J., and Milner-Gulland, E. J. (2019a). No net loss
+for people and biodiversity. Conserv. Biol. 33, 76–87. doi: 10.1111/cobi.13184
+Griffiths, V. F., Sheremet, O., Hanley, N., Baker, J., Bull, J. W., and Milner-Gulland,
+E. J. (2019b). Local people’s preferences for biodiversity offsets to achieve ‘no
+net loss’ for economic developments. Biol. Conserv. 236, 162–170. doi: 10.1016/
+j.biocon.2019.05.049
+Guillotreau, P., Salladarré, F., Dewals, P., and Dagorn, L. (2011). Fishing tuna
+around Fish Aggregating Devices (FADs) vs free swimming schools: skipper
+decisions and other determining factors. Fish. Res. 109, 234–242. doi: 10.1016/
+j.fishres.2011.02.007
+Hair, C., Foale, S., Daniels, N., Minimulu, P., Aini, J., and Southgate, P. C.
+(2020). Social and economic challenges to community-based sea cucumber
+mariculture development in New Ireland province, Papua New Guinea. Mar.
+Pol. 117:103940. doi: 10.1016/j.marpol.2020.103940
+Hall, M., Gillman, E., Minami, H., Mituhasi, T., and Carruthers, E. (2017).
+Mitigating bycatch in tuna fisheries. Rev. Fish Biol. Fish. 27, 881–908. doi:
+10.1007/s11160-017-9478-x
+Hall, M., and Roman, M. (2013). Bycatch and Non-Tuna Catch in the Tropical
+Tuna Purse Seine Fisheries of the World. FAO fisheries and aquaculture technical
+paper 568., Rome: FAO, 262.
+Hall, M. A. (1996). On bycatches. Rev. Fish Biol. Fish. 6, 319–352. doi: 10.1007/
+bf00122585
+Hall, M. A., Alverson, D. L., and Metuzals, K. I. (2000). By-catch: problems and
+solutions. Mar. Poll. Bull. 41, 204–219. doi: 10.1016/s0025-326x(00)00111-9
+Hamilton, R. J., Hughes, A., Brown, C. J., Leve, T., and Kama, W. (2019).
+Community-based management fails to halt declines of bumphead parrotfish
+and humphead wrasse in Roviana Lagoon, Solomon Islands. Coral Reefs 38,
+455–465. doi: 10.1007/s00338-019-01801-z
+Hannesson, R. (2010). “Individual quotas for bycatches: lessons for the tunadolphin issue,” in Conservation and Management of Transnational Tuna
+
+16
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+Fisheries, eds R. Allen, J. Joseph, and D. Squies (Hoboken, NJ: Blackwell-Wiley),
+215–224.
+Harry, A. V., Tobin, A. J., Simpfendorfer, C. A., Welch, D. J., Mapleston, A., et al.
+(2011). Evaluating catch and mitigating risk in a multispecies, tropical, inshore
+shark fishery within the great barrier reef world heritage area. Mar. Freshwater
+Res. 62, 710–721. doi: 10.1071/mf10155
+Helfand, G. (2013). “Standards,” in Encyclopedia of Energy, Natural Resources, and
+Environmental Economics, Vol. 3, ed. J. F. Shogren (Amsterdam: Elsevier),
+217–221.
+Helvey, M., Pomeroy, C., Pradhan, N. C., Squires, D., and Stohs, S. (2017). Can
+the United States have its fish and eat it too? Mar. Policy 75, 62–67. doi:
+10.1016/j.marpol.2016.10.013
+Hobday, A. J., Maxwell, S. M., Forgie, J., and McDonald, J. (2013). Dynamic ocean
+management: integrating scientific and technological capacity with law, policy,
+and management. Stanford Envtl. Law J. 33, 125–165.
+Holland, D. S., and Jannot, J. E. (2012). Bycatch risk pools for US west coast
+groundfish fishery. Ecol. Econ. 78, 132–147. doi: 10.1016/j.ecolecon.2012.
+04.010
+Holland, D. S., and Martin, C. (2019). Bycatch quotas, risk pools, and cooperation
+in the Pacific whiting fishery. Front. Mar. Sci. 6:600. doi: 10.3389/fmars.2019.
+00600
+Holland, D. S., and Schnier, K. (2006). Individual habitat quotas for fisheries.
+J. Environ. Econ. Manag. 51, 72–92. doi: 10.1016/j.jeem.2005.04.005
+Howell, E. A., Kobayashi, D. R., Parker, D. M., Balazs, G. H., and Polovina, J. J.
+(2008). Turtle Watch: a tool to aid in the bycatch reduction of loggerhead turtles
+caretta caretta in the Hawaii-based pelagic longline fishery. Endang. Spec. Res.
+5, 267–278. doi: 10.3354/esr00096
+Innes, J., Pascoe, S., Wilcox, C., Jennings, S., and Paredes, S. (2015). Mitigating
+undesirable impacts in the marine environment: a review of market-based
+measures. Front. Mar. Sci. 2:76. doi: 10.3389/fmars.2015.00076
+Jaffee, A., Newell, R., and Stavins, R. (2005). A tale of two market failures:
+technology and environmental policy. Ecol. Econ. 54, 164–174. doi: 10.1016/
+j.ecolecon.2004.12.027
+Janisse, C., Squires, D., Seminoff, J., and Dutton, P. H. (2010). “Conservation
+investments and mitigation: the california drift gillnet fishery and pacific Sea
+turtles,” in Handbook of Marine Fisheries Conservation and Management, eds
+R. Q. Grafton, R. Hilborn, D. Squires, N. Tait, and M. Williams (Oxford: Oxford
+University Press), 231–240.
+Jensen, F., Frost, H., and Abildtrup, J. (2017). Fisheries regulation: a survey of the
+literature on uncertainty, compliance behavior and asymmetric information.
+Mar. Policy 81, 167–178. doi: 10.1016/j.marpol.2017.03.028
+Johannes, R. E. (1978). Traditional marine conservation in oceania and their
+demise. Annu. Rev. Ecol. Syst. 9, 349–364. doi: 10.1146/annurev.es.09.110178.
+002025
+Jones, C. I., and Romer, P. M. (2010). The new Kaldor Facts: ideas, institutions,
+population, and human capital. Am. Econ. J. Macroecon. 2, 224–245. doi:
+10.1257/mac.2.1.224
+Joyner, C., and Tyler, Z. (2000). Marine conservation versus international free
+trade: reconciling dolphins with tuna and sea turtles with shrimp. Ocean Dev.
+Int. Law 31, 127–150. doi: 10.1080/009083200276094
+Kahn, P. H., and Friedman, B. (1995). Environmental views and values of children
+in an inner-city black community. Child Dev. 66, 1403–1417. doi: 10.2307/
+1131654
+Kaplan, D. M., Chassot, E., Amandé, J. M., Dueri, S., Demarcq, H., Dagorn, L., et al.
+(2014). Spatial management of Indian Ocean tropical tuna fisheries: potential
+and perspectives. ICES J. Mar. Sci. 71, 1728–1749. doi: 10.1093/icesjms/fst233
+Katz, M., and Shapiro, C. (1986). Technology adoption in the presence of network
+externalities. J. Polit. Econ. 94, 822–841. doi: 10.1086/261409
+Keith, D. M., Sameoto, J. A., Keyser, F. M., and Ward-Paige, C. A. (2020).
+Evaluating socio-economic and conservaton impacts of management: a case
+study of time-area closures on Georges Bank. PLoS One 15:e0240322. doi:
+10.1371/journal.pone.0240322
+Kerstetter, D. W., and Graves, J. E. (2006). Effects of circle versus J-style hooks on
+target and non-target species in a pelagic longline fishery. Fish. Res. 80, 239–250.
+doi: 10.1016/j.fishres.2006.03.032
+Kotchen, M. J. (1999). Voluntary provision of public goods for bads: a theory of
+environmental offsets. Econ. J. 119, 883–899. doi: 10.1111/j.1468-0297.2008.
+02215.x
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Kotchen, M. J. (2013). Voluntary and information-based approaches to
+environmental management: a public economics perspective. Rev. Environ.
+Econ. Policy 7, 276–295. doi: 10.1093/reep/ret012
+Kotchen, M. J., and Segerson, K. (2019). On the use of group performance and
+rights for environmental protection and resource management. Proc. Nat. Acad.
+Sci. U.S.A. 116, 5285–5292. doi: 10.1073/pnas.1802881115
+Lent, R., and Squires, D. (2017). Reducing marine mammal bycatch in global
+fisheries: an economics approach. Deep Sea Res. II 140, 268–277. doi: 10.1016/
+j.dsr2.2017.03.005
+Libecap, G. D. (2014). Addressing global environmental externalities: transaction
+cost considerations. J. Econ. Lit. 52, 424–479. doi: 10.1257/jel.52.2.424
+Little, A. S., Needle, C. L., Hilborn, R., Holland, D. S., and Marshall, C. T. (2015).
+Real-time spatial management approaches to reduce bycatch and discards:
+experiences from Europe and the United States. Fish Fish. 16, 576–602. doi:
+10.1111/faf.12080
+Little, I. M. D., and Mirrlees, J. A. (1974). Project Appraisal and Planning for
+Developing Countries. New York, NY: Basic Books.
+Lodge, M., Segerson, K., and Squires, D. (2019). “Environmental policy for deep
+seabed mining,” in Environmental Issues of Deep Sea Mining, ed. R. Sharma
+(Cham: Springer), doi: 10.1007/978-3-030-12696-4_13
+Marcovaldi, M. A. (2011). “Project TAMAR-ICMBio,” in Conservation of Pacific
+Sea Turtles, eds P. H. Dutton, D. Squires, and M. Ahmed (Honolulu: University
+of Hawaii Press), 148–164. doi: 10.1515/9780824860196-012
+Maxwell, S. M., Hazen, E. L., Lewison, R. L., Dunn, D. C., Bailey, H., Bograd, S. J.,
+et al. (2015). Dynamic ocean management: defining and conceptualizing realtime management of the ocean. Mar. Policy 58, 42–50. doi: 10.1016/j.marpol.
+2015.03.014
+Melli, V., Hermann, B., Karlsen, J. D., Feekings, J. P., and Krag, L. A. (2020).
+Predicting optimal combinations of by-catch reduction devices in trawl
+gears: a meta-analytical approach. Fish Fish. 21, 252–268. doi: 10.1111/faf.
+12428
+Melvin, E. F., Guy, T. J., and Read, L. B. (2014). Best practice bycatch mitigation
+for pelagic longline fisheries targeting tuna and related fisheries. Fish. Res. 149,
+5–18. doi: 10.1016/j.fishres.2013.07.012
+Miller, S. J., and Deacon, R. T. (2017). Protecting marine ecosystems: regulation
+versus market incentives. Mar. Resour. Econ. 32, 83–107. doi: 10.1086/689214
+Milner-Gulland, E. J., Garcia, S., Arlidge, W., Bull, J., Charles, T., Dagorn, L., et al.
+(2018). Translating the terrestrial mitigation hierarchy to marine megafauna
+bycatch. Fish. Fish. 19, 547–561. doi: 10.1111/faf.12273
+Misund, O. A., and Beltestad, A. K. (2000). Survival of mackerel and saithe that
+escape through sorting grids in purse seines. Fish. Res. 48, 31–41. doi: 10.1016/
+s0165-7836(00)00118-1
+Mize, J. (2014). Report to the North Pacific Fishery Management Council on the
+2013 Bering Sea Pollock Mothership Salmon Savings Incentive Plan. ITEM C7 –
+Mothership Salmon Savings Incentive Plan, April 2014. Alaska, AK: North Pacific
+Fishery Management Council.
+Mobius, M., and Rosenblat, T. (2014). Social learning in economics. Ann. Rev.
+Resour. Econ. 6, 827–847.
+Moreno, G., Restrepo, V., Dagorn, L., Hall, M., Murua, J., et al. (2016). Workshop on
+the Use of Biodegradable Fish Aggregating Devices (FAD). ISSF Technical Report
+2016-18A, Washington: International Seafood Sustainability Foundation.
+Mukherjee, Z. (2015). An economic approach to understanding the international
+transfer of bycatch from unilateral bycatch reduction policies. Mar. Policy 51,
+190–195. doi: 10.1016/j.marpol.2014.07.024
+Murray, K. T., Read, A. J., and Solow, A. R. (2000). The use of time/area closures to
+reduce bycatch of harbour porpoises: lessons from the gulf of maine sink gillnet
+fishery. J. Cetacean Res. Manage. 2, 135–141.
+Niesten, E., and Gjertsen, H. (2010). Economic Incentives for Marine Conservation.
+Arlington, TX: Conservation International.
+Nyborg, K., Anderies, J. M., Dannenberg, A., Lindahl, T., Schill, C., Schlüter, M.,
+et al. (2016). Social norms as solutions. Science 354, 42–43.
+OECD (2006). Optimum Yield (in Fish Harvest). Available online at: https://stats.
+oecd.org/glossary/detail.asp?ID=1915 (accessed March 8, 2021).
+Oremus, M., Leqata, J., and Baker, C. S. (2015). Resumption of traditional drive
+hunting in the Solomon Islands in 2013. R. Soc. Open Sci. 2:140524. doi:
+10.1098/rsos.140524
+Ostrom, E. (1990). Governing the Commons: The Evolution of Institutions for
+Collective Action. Cambridge: Cambridge University Press.
+
+17
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+Pakiding, F., Zohar, K., Allo, A. Y. T., Keroman, S., Lontoh, D., Dutton, P. H.,
+et al. (2020). Community engagement: an integral component of a multifaceted
+conservation approach for the transboundary western Pacific leatherback.
+Front. Mar. Sci. 7:549570. doi: 10.3389/fmars.2020.549570
+Papworth, S. K., Rist, J., Coad, L., and Milner-Gulland, E. J. (2009). Evidence for
+shifting baseline syndrome in conservation. Conserv. Lett. 2, 93–100.
+Pascoe, S., Innes, J., Holland, D., Finas, M., Thebaud, O., Townsend, R., et al.
+(2010). Use of incentive-based management systems to limit bycatch and
+discarding. Int. Rev. Enviro. Resour. Econ. 4, 123–161. doi: 10.1561/101.
+00000032
+Pascoe, S., Wilcox, C., and Donlan, C. J. (2011). Biodiversity offsets: a costeffective interim solution to seabird bycatch in fisheries? PLoS One 6:e25762.
+doi: 10.1371/journal.pone.0025762
+Pauly, D. (1995). Anecdotes and the shifting baseline syndrome of fisheries. Trends
+Ecol. Evol. 10:430. doi: 10.1016/s0169-5347(00)89171-5
+Price, B., and Van Salisbury, C. (2007). Low-Profile Gillnet Testing in the Deep Water
+Region of Pamlico Sound, N.C. Morehead City, NC: North Caroline Department
+of Marine Fisheries.
+Prno, J., and Slocombe, S. L. (2012). Exploring the origins of ‘social license to
+operate’ in the mining sector: perspectives from governance and sustainability
+theories. Res. Policy 37, 346–357. doi: 10.1016/j.resourpol.2012.04.002
+Quigley, J., and Harper, D. (2006). Compliance with Canada’s Fisheries Act: a
+field audit of habitat compensation projects. Environ. Manag. 37, 336–350.
+doi: 10.1007/s00267-004-0262-z
+Rausser, G. S., Hamilton, M., Kovach, R., and Stifter. (2009). Unintended
+consequences: the spillover effects of common property regulations. Mar. Policy
+33, 24–39. doi: 10.1016/j.marpol.2008.03.020
+Reinhardt, J. F., Weaver, J., Latham, P. J., Dell’Apa, A., Serafy, J. E., Browder, J. A.,
+et al. (2017). Catch rate and at-vessel mortality of circle hooks versus J-hooks
+in pelagic longline fisheries: a global meta-analysis. Fish Fish. 19, 413–430.
+doi: 10.1111/faf.12260
+Restrepo, V. V., Dagorn, L., Itano, D., Justel-Rubio, A., Forget, F., and Moreno,
+G. (2017). A Summary of Bycatch Issues and ISSF Mitigation Initiatives toDate in Purse Seine Fisheries, with Emphasis on FADs. Available online at:
+https://www.seafish.org/media/ISSF-2017-06-ASummary-of-Bycatch-Issuesand-ISSF-Mitigation-Activities-to-Date-in-Purse-Seine-Fisheries-withEmphasis-on-FADs.pdf (accessed March 8, 2021).
+Rode, J., Gómez-Baggethun, E., and Krause, T. (2015). Motivation crowding by
+economic incentives in conservation policy: a review of the empirical evidence.
+Ecol. Econ. 117, 270–282. doi: 10.1016/j.ecolecon.2014.11.019
+Rodríguez-Sickert, C., Guzmaìn, R. A., and Cardenas, J. C. (2008). Institutions
+influence preferences: evidence from a common pool resource experiment.
+J. Econ. Behav. Organ. 67, 215–227. doi: 10.1016/j.jebo.2007.06.004
+Romans, J. T. (1966). Moral suasion as an instrument of economic policy. Am.
+Econ. Rev. 56, 1220–1226.
+Romer, P. M. (1986). Increasing returns and long-run growth. J. Polit. Econ. 94,
+1002–1037. doi: 10.1086/261420
+Romer, P. M. (1990). Endogenous technological change. J. Polit. Econ. 98, 71–102.
+Sarmiento, C. (2006). Transfer function estimation of trade leakages generated
+by court rulings in the Hawai’i longline fisher. Appl. Econ. 38, 183–190. doi:
+10.1080/00036840500368078
+Scottish Government (2011). Scottish Government Conservation Credits Scheme:
+Scheme Rules. Versions 2.1 (11 May 2011).
+Segerson, K. (2010). “Can voluntary programs reduce sea turtle bycatch? Insights
+from the literature in environmental economics,” in Handbook of Marine
+Fisheries Conservation and Management, eds R. Q. Grafton, R. Hilborn,
+D. Squires, M. Tait, and M. Williams (Oxford: Oxford University Press),
+618–629.
+Segerson, K. (2011). “Policies to reduce stochastic sea turtle bycatch,” in
+Conservation of Pacific Sea Turtles, eds P. H. Dutton, D. Squires, and M. Ahmed
+(Honolulu: University of Hawaii Press), 370–395. doi: 10.1515/9780824860
+196-021
+Segerson, K. (2013). Voluntary approaches to environmental protection and
+management. Annu. Rev. Resour. Econ. 5, 161–180.
+Shiode, D., Hu, F., Shiga, M., Yokota, K., and Tokai, T. (2005). Midwater
+float system for standardizing hook depths on tuna longlines to reduce sea
+turtle by-catch. Fish. Sci. 71, 1182–1184. doi: 10.1111/j.1444-2906.2005.01
+080.x
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Singh, R., and Weninger, Q. (2014). Cap-and-trade bycatch management with
+costly avoidance and stock uncertainty. Mar. Res. Econ. 30, 97–119. doi: 10.
+1086/679461
+Sorenson, O. (2018). Innovation policy in a networked world. Innovat. Pol. Econ.
+18, 53–77. doi: 10.1086/694407
+Squires, D., and Garcia, S. M. (2018). Economic efficiency and the biodiversity
+mitigation hierarchy with a focus on marine and fishery issues. Conserv. Biol.
+32, 989–997. doi: 10.1111/cobi.13155
+Squires, D., Restrepo, V., and Garcia, S. M. (2018). Fisheries bycatch reduction
+within the least-cost biodiversity mitigation hierarchy: conservatory offsets with
+an application to sea turtles. Mar. Policy 93, 55–61. doi: 10.1016/j.marpol.2018.
+03.018
+Squires, D., and Vestergaard, N. (2013a). Technical change and the commons. Rev.
+Econ. Stat. 95, 1769–1787.
+Squires, D., and Vestergaard, N. (2013b). Technical change in fisheries. Mar. Policy
+42, 286–292. doi: 10.1016/j.marpol.2013.03.019
+Squires, D., and Vestergaard, N. (2018). Rethinking the commons problem:
+technological change, knowledge spillovers, and social learning. J. Environ.
+Econ. Manage. 91, 1–25. doi: 10.1016/j.jeem.2018.06.011
+Thornton, D., Kagan, R. A., and Gunningham, N. (2009). When social norms and
+pressures are not enough: environmental performance in the trucking industry.
+Law Soc. Rev. 43, 405–436. doi: 10.1111/j.1540-5893.2009.00377.x
+Thorpe, T., and Frierson, D. (2009). Bycatch mitigation assessment for sharks
+caught in coastal anchored gillnets. Fish. Res. 98, 102–112. doi: 10.1016/j.fishres.
+2009.04.003
+Torell, E., Crawford, B., Kotowicz, D., Herrera, M. D., and Tobey, J. (2010).
+Moderating our expectations on livelihoods in ICM: experiences from
+Thailand, Nicaragua, and Tanzania. Coast. Manag. 38, 216–237. doi: 10.1080/
+08920753.2010.483166
+Travers, H., Clements, T., Keane, A., and Milner-Gulland, E. (2011). Incentives
+for cooperation: the effects of institutional controls on common pool resource
+extraction in Cambodia. Ecol. Econ. 71, 151–161. doi: 10.1016/j.ecolecon.2011.
+08.020
+Van Dover, C. L., Aronson, J., Pendleton, L., Smith, S., Arnaud-Haond, S., MorenoMateos, D., et al. (2014). Ecological restoration in the deep sea: desiderata. Mar.
+Policy 44, 98–106. doi: 10.1016/j.marpol.2013.07.006
+Velez, M., Murphy, J., and Stranlund, J. (2010). Centralized and decentralized
+management of local common pool resources in the developing world:
+experimental evidence from fishing communities in Colombia. Econ. Inquiry
+48, 254–265. doi: 10.1111/j.1465-7295.2008.00125.x
+Vestergaard, N. (2010). “Principal-agent problems in fisheries,” in Handbook of
+Fisheries Conservation and Management, eds R. Q. Grafton, R. Hilborn, D.
+Squires, M. Tait, and M. Williams (Oxford: Oxford University Press), 563–571.
+Vicary, S. (2000). Donations to a public good in a large economy. Eur. Econ. Rev.
+44, 609–618. doi: 10.1016/s0014-2921(98)00085-3
+Wakefield, C. B., Santana-Garcon, J., Dorman, S. R., Blight, S., Denham, A.,
+Wakeford, J., et al. (2016). Performance of bycatch reduction devices varies
+for chondrichthyan, reptile, and cetacean mitigation in demersal fish trawls:
+assimilating subsurface interactions and unaccounted mortality. ICES J. Mar.
+Sci. 74, 343–358. doi: 10.1093/icesjms/fsw143
+Walmo, K., Bisack, K., Lew, D. K., and Squires, D. (2016). The economics of
+protected marine species: concepts in research and management. Front. Mar.
+Sci. 3:183. doi: 10.3389/fmars.2016.00183
+Wang, J., Barkan, J., Fisler, S., Godinez-Reyes, C., and Swimmer, Y. (2013).
+Developing ultraviolet illumination of gillnets as a method to reduce sea turtle
+bycatch. Biol. Lett. 9:20130383. doi: 10.1098/rsbl.2013.0383
+Ward, P., Lawrence, E., Darbyshire, R., and Hindmarsh, S. (2008). Largescale
+experiment shows that nylon leaders reduce shark bycatch and benefit pelagic
+longline fishers. Fish. Res. 90, 100–108. doi: 10.1016/j.fishres.2007.09.034
+Watson, J. T., Stram, D. L., and Harmon, J. (2020). Mitigating seafood waste
+through a bycatch reduction program. Front. Mar. Sci. 7:576431. doi: 10.3389/
+fmars.2020.576431
+Watson, J. W., Epperly, S. P., Shah, A. K., and Foster, D. G. (2005). Fishing methods
+to reduce sea turtle mortality associated with pelagic longlines. Can. J. Fish.
+Aquatic Sci. 62, 965–981. doi: 10.1139/f05-004
+Werner, T., Kraus, S., Read, A., and Zollett, E. (2006). Fishing techniques to reduce
+the bycatch of threatened marine animals. Mar. Technol. Soc. J. 40, 50–68.
+doi: 10.4031/002533206787353204
+
+18
+
+March 2021 | Volume 8 | Article 613285
+
+Squires et al.
+
+Interdisciplinary Approaches to Mitigating Bycatch
+
+Western, D., and Wright, R. M. (eds) (1994). Natural Connections. Washington,
+DC: Island Press.
+Wilcox, C., and Donlan, C. J. (2007). Compensatory mitigation as a solution
+to fisheries by- catch-biodiversity conservation conflicts. Front. Ecol. Environ.
+5:331.
+Wolf, S., Hartl, B., Carroll, C., Neel, M. C., and Greenwald, D. N. (2015).
+Beyond PVA: why recovery under the endangered species act is more
+than population viability. Bioscience 65, 200–207. doi: 10.1093/biosci/biu
+218
+Worldfish Center (2004). “Bellagio blueprint for action on pacific sea turtles,” in
+Conservation of Pacific Sea Turtles, eds P. Dutton, D. Squires, and M. Ahmed
+(Honolulu: University of Hawaii Press), 15–32. doi: 10.1515/9780824860196004
+Wright, J. H., Hill, N. A. O., Roe, D., Rowcliffe, J. M., Kümpel, N. F., Day, M., et al.
+(2015). Reframing the concept of alternative livelihoods. Cons. Bio. 30, 7–13.
+doi: 10.1111/cobi.12607
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Young, H. P. (1994). Equity: How Groups Divide Goods and Burdens Among Their
+Members. Princeton: Princeton University Press.
+Young, H. P. (2015). The evolution of social norms. Ann. Rev. Econ. 7, 359–387.
+Young, H. P. (2008). “Social norms,” in New Palgrave Dictionary of Economics, 2nd
+Edn, eds S. N. Durlauf and L. E. Blume (London: Macmillan).
+Conflict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could be construed as a
+potential conflict of interest.
+Copyright © 2021 Squires, Balance, Dagorn, Dutton and Lent. This is an open-access
+article distributed under the terms of the Creative Commons Attribution License
+(CC BY). The use, distribution or reproduction in other forums is permitted, provided
+the original author(s) and the copyright owner(s) are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice. No
+use, distribution or reproduction is permitted which does not comply with these terms.
+
+19
+
+March 2021 | Volume 8 | Article 613285
+
+

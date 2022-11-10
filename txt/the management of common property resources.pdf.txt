@@ -1,0 +1,590 @@
+Cambridge Journal of Economics 1987,11, 95-106
+
+The management of common property
+resources: collective action as an
+alternative to privatisation or state
+regulation
+Robert Wade*
+Under what circumstances will villagers co-operate to supply themselves with goods and
+services that they all need but could not provide for themselves individually? In what
+circumstances are those who face a potential 'tragedy of the commons' able to organise a
+system of rules by which the tragedy is averted?
+Many writers on collective action and common property consider that these circumstances are very limited. A long line of collective action theorists has argued that people
+placed in a situation in which they could all benefit from co-operation will be unlikely to
+co-operate in the absence of an external enforcer of agreements. An equally long line of
+theorists on property rights has argued that common property resources are bound to be
+over-exploited as demand rises. The only solution is private enclosure, according to
+some theorists, or state regulation, according to others.1 In Robert Smith's words, 'it is
+by treating a resource as a common property that we become locked in its inexorable
+destruction' (1981, p. 465).
+My own research findings from South India are difficult to reconcile with these arguments. Within one small area, I found some villages with a more sophisticated set of
+arrangements for regulating canal irrigation and grazing (and for supplying other public
+goods as well) than had been previously reported for Indian villages. Other villages
+nearby, however, showed no sign of these arrangements. The research results have been
+reported at length elsewhere, and will not be repeated here (Wade, 1986 and forthcoming).
+Here, the aim is to show why the theories of collective action and common property to
+which I referred are not appropriately applied to village resource situations like those of
+the Indian villages; and to specify the questions which need to be answered in order to
+judge the likelihood that peasant villagers will be able to sustain locally-based rules of
+restrained access to common property resources. The dismal frequency of degraded
+grazing commons, despoiled forests, over-exploited groundwater and depleted fisheries
+shows only too clearly that collective action cannot be presumed to be always a viable
+* Agriculture and Rural Development Department, The World Bank, and Institute of Development
+Studies at the University of Sussex. I am grateful to Richard Kimber, Ford Runge, Hans Binswanger, and
+especially to Elinor Ostrom for discussions on various points of the argument. The views presented here are
+those of the author, and should not be interpreted as reflecting those of the World Bank.
+1
+For references, see citations later in text.
+
+96
+
+R. Wade
+
+route for common property resource management. On the other hand, there are no good
+analytical reasons for presuming that it will generally fail.
+Common property and common-pool resources
+Exclusive possession (freehold) is one extreme on a continuum of property rights. No
+property, as in ocean fisheries or the atmosphere, is the other extreme. In between lies
+common property, where the rights to exploit a resource are held by persons in common
+with others. These rights may take a variety of forms: they may allow unlimited exploitation for those within a specified group (as in commercialfisheriesunder national jurisdiction, until recently), or they may stipulate limits on exploitation for each user (as is
+commonly the case for commercial fisheries today, or as in 'stinting' of a grazing
+commons).
+It is helpful to distinguish between the type of property right and the type of resource, to
+allow for the fact that the same type of resource may be exploited under a range of property
+rights. Our interest is in those resources that might be called 'common-pool' resources.
+Common-pool resources are to be understood as a sub-set of public goods (as that term is
+used in economics). All public goods have the property that many can use them at the same
+time, because exclusion is difficult. But some public goods yield infinite benefits, in the
+sense that if A uses more there is no reduction in the amount available for others (lighthouses and weather forecasts, for example). Common-pool resources, by contrast, are
+public goods with finite, or subtractive benefits; if A uses more, less remains for others.
+Common-pool resources are therefore potentially subject to congestion, depletion, or
+degradation, i.e. use which is pushed beyond the limits of sustainable yields (Blomquist
+and Ostrom, 1985; Randall, 1983).
+Canal water is a common-pool resource: it can be used jointly, because of the high cost of
+excluding a landowner with commandable land; and its consumption is subtractive in the
+sense that water applied to A's land is not simultaneously available for B's. So when water
+is scarce, congestion is likely, manifested in conflict, hoarding, and yield reductions where
+water arrives too late. Groundwater meets the same common-pool criteria, as do unfenced
+grazing land and unfenced forests. These three resources—water, grazing and trees—
+form vital parts of the livelihoods of large sections of the population in developing
+countries, and the issue of how to prevent their over-exploitation as population grows is of
+great importance for development policy.
+The prevailing view can be stated as follows: If a group of people are placed in a situation
+where they could mutually benefit if all adopted a rule of restrained use of a common-pool
+resource, they will not do so in the absence of an external enforcer of agreements. Each
+individual has an incentive to ignore the social costs of his resource use for fear that others
+will capture the benefits of the resource before he can. The lack of exclusion from the
+resource thus creates an incentive for a rate of aggregate use which exceeds the physical or
+biological renewal of the resource (Ostrom, 1985B).
+Far-reaching proposals for institutional change in the management of common-pool
+resources have been justified by this kind of argument (Ostrom, 1985A; Runge, 1986).
+According to one school, the establishment of full private property rights over the
+commons is a necessary condition for avoiding such a tragedy (Demsetz, 1967; North and
+Thomas, 1977; Johnson 1972; Picardi and Siefert, 1976). According to another, only
+the allocation of full authority to regulate the commons to an external agency—usually
+meaning the state—can hope to succeed (Ophuls, 1973; Ehrenfeld, 1972; Carruthers
+
+Management of common resources
+
+97
+
+and Stoner, 1981; Hardin, 1968). For proponents on both sides, the policy issue is simply
+how to get the desired change accomplished with the least opposition from those
+involved.
+Theories of collective action
+Our problem—to define the conditions under which a set of common-pool resource
+users may agree to follow a rule of restrained use without an external enforcer of the
+agreement—is a sub-problem of the theory of public goods, which is a sub-theory of the
+theory of collective action. Collective action is action by more than one person directed
+towards the achievement of a common goal or the satisfaction of a common interest (that
+is, a goal or interest that cannot be obtained by an individual acting on his own). If the
+common goal or common interest is characterised by infinite benefits and non-exclusion,
+the achievement of that common goal or interest means that a public or collective good has
+been provided. Thus, the collective action might be 'formulation of a rule of restrained
+access to a common-pool resource and observance of that rule', and the public good might
+be the situation of sustainable exploitation that results.
+Much of the pessimism about the practical viability of collective action in the use of
+common-pool resources stems from the conclusions of several theories of collective
+action. One theory is the Prisoners' Dilemma model of strategic choice. Another is Garrett
+Hardin's 'tragedy of the commons'. A third is Mancur Olson's 'logic of collective action'. I
+shall now show why these theories are misleading for many (but not all) situations of
+common-pool resource use.
+The Prisoners' Dilemma
+
+The parable of the Prisoners' Dilemma is well-known, and need only be summarised
+here. Two suspects are being separately interrogated about a crime they jointly
+committed. They know that if they both stay silent they will receive a light prison
+sentence. If one stays silent while the other confesses the first will receive a long prison
+sentence while the other goes free. If both confess they both receive a medium prison
+sentence. Each person can choose only once—which means that if one chooses to stay
+silent while the second confesses the first cannot then confess upon learning of his
+sentence. This is what creates the dilemma. Their joint interest is for both not to confess
+(that is, for them to 'co-operate' with each other). But the outcome is that both confess
+(both 'defect'). From the point of view of either one of them, staying silent while the other
+confesses would give the worst outcome, and confessing at least ensures that this outcome
+is avoided while it also opens the possibility that the confessor will go free if the other stays
+silent. In this single-period game the choice of best strategy is made regardless of the
+expected choice of the other player, and that is the important point for our purpose.
+Confessing is, in other words, the 'dominant' strategy.
+This parable extends to common-pool resource use by regarding the choice as being
+either to co-operate with others in a rule of restrained access or to not co-operate. The
+argument is that each individual has a clear preference order of options:
+(i) everyone else abides by the rule while the individual enjoys unrestrained access (he
+'free rides' or 'shirks');
+(ii) everyone, including himself, follows the rule ('co-operates');
+(iii) no one follows the rule;
+
+98
+
+R. Wade
+
+(iv) he follows the rule while no one else does (he is 'suckered').
+Given this order of preferences, the stable group outcome is the third-ranked alternative:
+unrestrained access to all in the group. The second-ranked alternative, with mutual rulebound restraint, is more desirable. But this is not stable equilibrium, because each individual has an incentive to cheat and go for hisfirstranked alternative (restrained access by
+all except him). Even if it then turns out that no one else follows the rule, his cheating at
+least ensures that he avoids his own worst alternative—following the rule while no one else
+does.
+In this situation the only solutions are either coercion from outside the group to force
+people to reach and maintain the social optimum (second preference), or a change in the
+rules from outside the group to a private property regime.
+The Prisoners' Dilemma has exercised a continuing fascination for social theorists
+because it appears to provide a solid basis for the disturbing conclusion that rational
+people cannot achieve rational collective outcomes. It seems to be applicable to all
+situations in which it is possible for some to refuse to co-operate while others are willing to
+co-operate.
+However, two key assumptions must hold if a situation is to be plausibly modelled as
+a Prisoners' Dilemma and if, therefore, the pessimistic conclusions of the Prisoners'
+Dilemma are to be applied to it. The first is that the players choose in ignorance of each
+other's choices. The second is that each player chooses only once before the payoffs are
+received, and so cannot change his mind upon finding out what the other has done
+(Wagner, 1983). The first assumption has the important implication that the players
+cannot negotiate among themselves to change the rules of the game, so as to secure more
+desirable collective outcomes. The changes in rules must come, if at all, from outside the
+group.
+These assumptions clearly fit the core parable, where the two suspects have no
+communication, no pre-existing ties, no Mafia-like code of honour, no expectations of
+future interaction, and each knows that if he remains silent (co-operates) while the other
+confesses (defects) he will not have another opportunity to confess. The same assumptions
+may also make a useful first approximation to situations of industrial pollution, depletion
+of ocean fisheries, or some cases of deforestation, for example. In such situations, it is
+difficult to monitor compliance with a rule of restrained access; thus any one would-be
+polluter or ocean fisherman or tree user can calculate that his own cheating will not be
+noticed, and equally that were he to comply with the rule others would make the same
+calculation and therefore cheat, leaving him as the sucker.
+Where, however, the situation is an enduring or recurrent one, the logic changes. If the
+players in a Prisoners' Dilemma know that the game will be played repeatedly into the
+future, the chances that they will co-operate today in the hope that others will then do so
+are much higher than where the game is played only once (Axelrod, 1981). This is true
+even if the rules of each round of the game are consistent with the two key assumptions
+stated earlier, so that each player continues to make his choice in ignorance of what the
+other players have chosen in that round, andfindsout what they did only when the payoffs
+are received.
+If, in addition, we assume that the players learn quickly what the others have chosen and
+can alter their own choice before the payoffs of each round are received, then the rational
+strategy is—in sharp contrast to the simple Prisoners' Dilemma—one of conditional cooperation: 'co-operate first, defect if the other defects', or 'no first cheat'.
+
+Management of common resources
+
+99
+
+If, further, we assume that the players are able to negotiate changes in the rules of the
+game among themselves, then one likely rule change is the introduction of penalties for
+violating agreements. The effect of such penalties is to reinforce the tendency towards
+co-operation.
+So with these new and by no means unrealistic assumptions it begins to seem that
+rational individuals can, after all, achieve rational collective outcomes. But what constitutes rational choice-making is now much more complex than in the Prisoners' Dilemma.
+Here the rational individual must calculate the consequences of his own attempt to free
+ride (cheat or defect) on the extent of free riding by others in the group (Kimber, 1981). If
+his own free riding is noticed and if others retaliate by themselves attempting to free ride,
+there may be no public good to free ride upon, in which case free riding is not a rational
+strategy even for a strictly self-interested individual. 'Co-operate first and defect if the
+other defects' is the more rational strategy. But if there are many players even this may
+not be rational, for the consequence of mass retaliatory defection may again be to stop
+provision of the public good. Here the players have an incentive to respond to signs of
+nonco-operation by co-operating to increase each other's incentive to co-operate, through
+exhortation and stiffer penalties for nonco-operation. In this more complex situation
+considerations of morality, power, and loyalty also intrude as checks on free riding, as
+when people choose not to free ride even when they know that others are co-operating
+because to do so would run against moral standards of 'do not take advantage of others in
+the group' or expose them to reprisals from outside the game (reprisals based on property
+of caste relations, for example). Rawls (1971) has shown analytically how the compliance
+of one individual to a code of conduct can reinforce others in behaving likewise.
+Free riding, in this view, remains a possibility, but not, as in the Prisoners' Dilemma, an
+imperative (Runge, 1984; Kimber, 1981; Sugden, 1984; Snidal, 1985). Institutions which
+give people the assurance that if they do comply with the rules they will not be the sucker—
+that those others who do not comply will be punished—greatly increase the chances of
+voluntary compliance. This is important, because the law as a mechanical barrier—
+whether local law or national law—can be effective only when a tiny minority of the
+population is likely to break it. Most of the observance of rules has to be voluntary, because
+the cost of enforcement when large numbers of people comply involuntarily (through a
+calculus of evasion and punishment) is likely to be prohibitively high.
+How does all this relate to village resource use? In the typical Indian village, the context
+of common-pool resource use resembles more closely the assumptions which lead rational
+choice-makers to co-operate than it resembles the assumptions of the Prisoners' Dilemma.
+That is, village common-pool resource use should usually be modelled as a recurring
+game, in which the possibility of undetected free riding is fairly low, and in which the
+villagers generally do have some control over the structure of the situation in which they
+find themselves. Insofar as this is true, rational choice-making is different in village
+resource use from what is rational in anomic situations like the Prisoners' Dilemma
+parable. In villages, rational individuals can (subject to other conditions to be discussed)
+voluntarily comply with rules of restrained access.
+The main exception occurs when some people in a village become desperate. They may
+then contemplate short-run strategies which they would not contemplate in normal times.
+They may be tempted to be the first cheater. For example, when a severe drought struck
+the Indian village whose common-pool resource institutions provided the starting
+point for this critique, there was a real danger that many people would start to calculate
+that those who did not break the irrigation rulesfirstwould not get any water (would be the
+
+100
+
+R. Wade
+
+suckers), as rule violation reached such a level as to make detection and punishment
+impossible. In other words, there was a danger that some people's perception of the
+situation would change to resemble a Prisoners' Dilemma. It was just at that time that
+the village council1 increased the number of water guards and sent repeated warnings to
+the village populace via the village crier that no one was to interfere with the work of the
+village's 'common irrigators'. Violators were subject to stiff fines, and exposed to loss of
+social reputation through having to plead their case in public before the council. All this
+activity by the council can be understood as an attempt to re-assure irrigators that rule
+breakers would not get away with it, so there would be no sucker's payoff; the situation
+would not be allowed to become a Prisoners' Dilemma.
+
+Hardin's tragedy of the commons
+
+Although Hardin does not use the Prisoners' Dilemma, his argument shares the same
+assumptions and can be formally represented as a variant of the simple model (Dawes,
+1975). Hardin begins by asking the reader to imagine a finite pasture 'open to all'. Each
+herdsman is assumed to be a rational utility maximiser who receives positive utility from
+selling his own animals and negative utility from overgrazing. When the aggregate of all
+herdsmen's activities begins to exceed the sustainable yield of the pasture, each herdsman
+is still motivated to add more and more animals since he receives all of the proceeds from
+his extra animals and only a partial share of the additional cost resulting from his own overgrazing. The denouement is appalling: 'each man is locked into a system that compels him
+to increase his herd without limit—in a world that is limited. Ruin is the destination
+towards which all men rush, each pursuing his own best interest in a society that believes
+in the freedom of the commons' (1968, p. 1244). Hardin finds the only viable solution in
+'mutual coercion, mutually agreed upon', by which restrained access can be enforced. He
+takes for granted that this must be done through the state apparatus—in other words, by
+an authority external to those directly affected by the commons.
+Just as the Prisoners' Dilemma assumes that each participant has no information about
+the other's choice, so Hardin's parable assumes that the individual herder has no information about the aggregate state of the commons and its nearness to the point of collapse.
+This assumption permits Hardin to have the herder make a decision just prior to collapse
+that is against his own self-interest—to add another animal thereby precipitating the
+collapse, with the consequence that he, as well as the others, loses all. At issue is die
+amount of information people have about the larger situation in which they operate
+(Kimber, 1983). Empirically, there may be situations of extensive common grazing lands
+used by scattered communities which come close to the informational assumption of
+Hardin's model; ocean whaling prior to the International Whaling Convention may be
+another case in point. But the informational assumption often does not make sense in die
+usual Asian village situation. Here, monitoring the condition of the commons, and of
+cheating, is frequently fairly easy.
+Similarly, just as the Prisoners' Dilemma says nothing about how the calculations are
+affected by different absolute values of the payoff, so Hardin's parable does not distinguish
+between commons where the resource is vital for die individuals' survival, and those
+where it is not. It is more likely that Hardin's relentless logic will operate where the
+' The village council is constituted entirely by the villagers for themselves and does not derive its authority
+from the state.
+
+Management of common resources
+
+101
+
+resource is not vital than where it is (Kimber, 1983). Where survival is at stake, the rational
+individual will exercise restraint at some point.
+Finally, Hardin, like many others who argue that common property resources are
+bound to be depleted without effective state regulation, fails to make the distinction
+between situations of no property and situations of common property. He begins his
+argument by assuming 'a pasture open to all'. The case is quite different where a joint
+ownership unit exists, and access is open only within the bounds of this unit. Here the
+chances of getting compliance with rules of restrained access are much better. Yet Hardin
+and others, by ignoring the distinction, inappropriately generalise their results for no
+property to cover common property as well. Peasant cases of successful common-pool
+resource management all involve common property rather than no property.
+
+Olson's logic of collective action
+
+Mancur Olson's 'logic of collective action' can be seen as another variant of the Prisoners'
+Dilemma, although Olson himself does not use it in his exposition. His core proposition is
+this: 'unless there is coercion or some other special device to make individuals act in their
+common interest, rational, self-interested individuals will not act to achieve their common or
+
+group interests' (1971, p. 2). That is, interest group membership, in the sense of contributions to a group objective, must be accounted for not by the rational, self-interested
+choice of individuals, but by their being compelled or offered inducements to belong.
+(The punishments and inducements must be 'selective' so that those who do not contribute can be treated differently from those who do.) Without either selective punishments or inducements, individuals will free ride, and the public good will not be supplied
+or will be supplied in sub-optimal amounts.
+In other words, (1) voluntary collective action will not produce public goods, and (2)
+collective action based on selective (that is, excludable) positive or negative incentives may
+produce public goods. Existing cases of common interest groups are thus to be explained
+in terms of selective punishments or inducements. This argument is stated without qualification at the start of Olson's book, and its compelling simplicity has made it one of the
+touchstones of debate on collective action questions. Later in the book, however, the
+argument is restricted to 'large' interest groups only, in a taxonomy of 'small', 'intermediate', and 'large' groups. A 'small' group is one in which a single individual has
+an interest in providing the public good irrespective of the contribution of others.
+'Intermediate' and 'large' groups are those where no one individual has this interest and
+where some co-operation is therefore necessary. Intermediate groups differ from large
+groups in that the actions of a single member with regard to whether he contributes or not
+are noticeable to others in an intermediate group, but not to others in a large group. In
+Olson's words, an intermediate group is one 'in which no single member gets a share of the
+benefit sufficient to give him an incentive to provide the good himself, but which does not
+have so many members that no one member will notice whether any other member is or is
+not helping to provide the collective good' (1971, p. 50). So intermediate groups can
+detect free riding more readily than large groups can, because 'noticeability' is higher for
+intermediate groups than for large groups.
+Olson argues that the likelihood of voluntary collective action (without selective
+punishments or inducements) is high for small interest groups, low for large ones, and
+indeterminate for intermediate ones. However, he gives little guidance as to how to distinguish the three types of groups in practice. His own examples of large groups are
+
+102
+
+R. Wade
+
+organisations like trade unions or professional associations with a widely scattered membership, and against this standard, interest groups in peasant communities are presumably
+typically intermediate groups. If so, the implication is that Olson's theorem simply does
+not apply to the situation of peasant villages (Ostrom, 1985 A).
+Nonetheless, it is worth drawing attention to two findings from my study of collective
+action in Indian villages which run counter to the spirit of Olson's argument, putting aside
+the difference in group size. My study examined the institutions of collective action for
+resource management in 31 irrigated villages in a single district of South India. I was
+particularly interested in why some villages have an elaborate form of organisation for
+village-based common-pool resource management, while other villages in the sample have
+none; only a few miles might separate villages of each type. Such organisations are entirely
+independent of the state. I found that the main factor explaining the presence or absence
+of collective organisation is the net collective benefit of that action. This is hardly
+surprising—it would be astonishing if it were not true. Its interest comes from the
+failure of Olson's argument—as well as the Prisoners' Dilemma, Hardin's tragedy of the
+commons, and explanations based on classic sociological variables—to explain the same
+pattern of inter-village variation. Olson's argument would lead us to account for noncooperation in terms of free riding, and to account for co-operation in terms of
+punishments or inducements which overcome free riding. Yet in these villages selective
+inducements are completely lacking, and selective punishments (as in fines or even social
+opprobrium) are present but are hardly the central motivating factor. The presence or
+absence of selective punishments cannot bear much weight in an explanation of variation
+between villages. They are not the ingredient that ensures the provision of the public good
+in the Olsonian manner.
+In short, these villages exemplify the proposition that it is possible for an interest group
+organisation to emerge voluntarily and be sustained, on the whole, voluntarily—that is,
+without selective benefits or costs—if the net collective benefit is high enough. Rather than
+focus on this collective benefit1 Olson concentrates on the size of selective benefits and
+costs used to discriminate between people who contribute or fail to contribute to the
+provision of the public good. He simply assumes the net collective benefit to be high, since
+free riders must by definition be a sub-set of those who value the public good highly. So
+the argument inclines one to interpret evidence of non-co-operation fame de mieux as
+evidence for the free rider hypothesis, rather than for the hypothesis of low collective
+benefit.
+Olson leaves open the question of whether the source of selective punishment or inducement is inside the group or outside. If one interprets his argument in the friendliest of
+ways, he is simply saying that negative selective sanctions are an essential part of the
+organisational design needed to sustain collective action. But he can also be read as
+suggesting that the sanctions must be organised from outside the group itself, specifically
+by the state. Whatever Olson's position, this is the view adopted by many writers on the
+tragedy of the commons, and the Prisoners' Dilemma model appears to provide an
+analytical justification for it.
+My findings and those of many others contradict this. We have many examples where
+villagers have established rules, monitored the condition of the commons, monitored
+1
+
+It is not that Olson says or implies that the size of the collective net benefit is irrelevant; he simply does not
+give it much attention. Occasional passages like the following suggest that it is important: 'A group which has
+members with highly unequal degrees of interest in a collective good, and which wants a collective good that is
+(at some level of provision) extremely valuable in relation to its cost, will be more apt to provide itself with a
+collective good than other groups with the same number of members' (1971, p. 45).
+
+Management of common resources 103
+1
+
+cheating, and assigned punishment. We also have, of course, many more examples of
+cases where attempts to do this have failed, and where in the absence of state regulation or
+private property the commons has degenerated. But the successful cases of locally devised
+rule systems indicate that it is not necessary for regulation of the commons to be imposed
+from the outside (McKean, 1984, p. 56; Ostrom, 1986). The critical question is, What are
+the conditions in which success is likely? But this is not a question which the more popular
+collective action theories encourage one to ask.
+Where Olson and other collective action pessimists are surely right is in the need for
+some sanction to back up agreements. Their emphasis on the difficulties of strictly voluntary collective action—that which proceeds from moral commitment, or habit, or a calculation of the benefits to each if each complies—is a useful counter to the simple optimism of
+those who believe that community development projects, people's participation, water
+users' associations and the like are mainly a matter of teaching people what their real
+common interests are, or a matter of changing their values in a less individualistic
+direction. On the contrary, the ability to make people do what they may not immediately
+want to do, by means of sanctioned rules, is a necessary ingredient of any arrangement for
+common-pool resource management. My own study of Indian villages provides much
+evidence consistent with this argument, as do studies by Ostrom (1986) and many others.
+But perhaps the most telling evidence comes from Japan. Japanese villagers have had a
+strong community identity and have been very concerned about social reputation and
+bonds within the group. They have also, according to McKean, internalised the preservation of the commons as a vital goal. Yet 'even this most co-operative, compliant group of
+people were vulnerable to temptations to bend, evade, and violate the rules governing the
+commons. Thus there had to be a scheme of penalties and these had to be enforced'
+(McKean, 1984, p. 54). A great deal of care went into the design and operation of the
+(village-based, not state-based) penalty mechanism.
+The issue of the voluntariness of collective action therefore has to be considered at
+two levels. At the constitutional level people can negotiate voluntarily a set of rules of
+restrained access orfinancialcontributions, their incentive to do so being the prospective
+net collective benefit. At the level of action, most of the compliance with the rules must
+also be voluntary, not the result of a calculus of evasion and punishment. But the rules
+must be backed by a system of punishment, the existence of which helps to reassure any
+one person that if he follows the rules he will not be suckered, and which at times of crisis
+can directly deter.2 This argument makes the size of the net collective benefit the major
+factor in explaining the presence or absence of corporate organisation in groups like
+Indian villages.
+The conditions for collective action
+This critique of three popular collective action theories, combined with empirical knowledge of the conditions in which the users of common-pool resources have established
+arrangements to prevent over-use, suggest a number of factors on which successful collective action depends. In the extreme case, we would not expect to find effective rules of
+1
+For example, McKean (1984) on Japan; Gilles and Jamtgaard (1981) on Peru; Campbell and Godoy (1985)
+on the Andes; Hitchcock (1981), Peters (1983), and Thomsen (1980) on Africa; Netting (1978) on
+Switzerland. See further Runge (1986) and Ostrom (1985B).
+2
+This argument is in line with some of the early writings in public choice theory, notably Buchanan and
+Tullock (1962) and Ostrom (1968). Later work in the public choice tradition has tended to focus too much on
+the issue of financial contributions.
+
+104
+
+R. Wade
+
+restrained access organised by the users themselves when there are many users, when the
+boundaries of the common-pool resources are unclear, when the users live in groups
+scattered over a large area, and when undiscovered rule-breaking is easy. In these circumstances, degradation of the commons can confidently be expected as demand increases,
+and privatisation or state regulation may be the only options. The further an actual case
+deviates from this extreme the more likely will the people who face the problem be able to
+organise a solution.
+To spell it out in more detail, the likelihood of successful organisation depends on the
+following:1
+/. The resources
+(i) the smaller and more clearly denned the boundaries of the common-pool resources
+the greater the chances of success.
+2. The technology
+(i) the higher the costs of exlusion technology (such as fencing) the better the chances
+of success.
+3. Relationship between resources and user group
+(i) Location: the greater the overlap between the location of the common-pool
+resources and the residence of the users the greater the chances of success.
+(ii) Users' demands: the greater the demands (up to a limit) and the more vital the
+resource for survival the greater the chances of success.
+(iii) Users' knowledge: the better their knowledge of sustainable yields the greater the
+chances of success.
+4. User group
+(i) Size: the smaller the number of users the better the chances of success, down to a
+minimum below which the tasks to be performed by such a small group cease to be
+meaningful (perhaps because, for reasons to do with the nature of the resources,
+action to mitigate common property problems must be done by a larger group, if at
+all).
+(ii) Boundaries: the more clearly defined are the boundaries of the group the better the
+chances of success,
+(iii) Relative power of sub-groups: the more powerful are those who benefit from
+retaining the commons, and the weaker are those who favour sub-group enclosure
+or private property, the better the chances of success.
+(iv) Existing arrangements for discussion of common problems: the better developed
+are such arrangements among the users the greater the chances of success.
+(v) Extent to which users are bound by mutual obligations: the more likely that
+promises entered into will be kept the better the chances of success,
+(vi) Punishments against rule-breaking: the more the users already have joint rules for
+purposes other than common-pool resource use, and the more bite behind those
+rules, the better the chances of success.
+5. Noticeability
+(i) Ease of detection of rule-breaking free riders: the more noticeable is cheating on
+agreements the better the chances of success. Noticeability is a function partly of 1,
+3(i),and4(i).
+6. Relationship between users and the state
+(i) Ability of state to penetrate to rural localities, and state tolerance of locally-based
+authorities: the less the state can, or wishes to, undermine locally-based authorities,
+1
+See also Ostrom (1985B), the starting point of my own formulation.
+
+Management of common resources
+
+105
+
+and the less the state can enforce private property rights effectively, the better the
+chances of success.
+Many of these facilitating conditions are found in the situations in which Asian peasant
+villagers typically use common-pool resources. The more they are present, the more
+promising is the collective action route. But, as the list itself implies, there can be no
+presumption that the collective action route will generally work, any more than there can
+be a presumption that private property or state regulation will generally work. My argument is only that (a) the propensity to descend into anarchy or destruction is neither as
+strong nor as general as the Prisoners' Dilemma model and its variants imply, and (b) that
+where a situation looks promising for collective action according to the above criteria,
+government officials should treat this option as seriously as the other two.
+One good reason for taking it seriously is that collective action is likely to be much
+cheaper in terms of state resources than the other two (Runge, 1986). Both private
+property regimes and state control regimes are expensive to make effective. Already
+over-stretched states in developing countries may not be able to provide the necessary
+resources to make them work across myriad micro-locations. A malfunctioning approximation to a formalised system of state control or private property rights, based on a distant
+authority only dimly aware of local conditions, may be worse in terms of resource management than a strategy which aims to improve, or at least not impair, local systems of
+rules.
+The government can help these local systems by providing a legal framework, and
+perhaps technical assistance. The legal framework should make it possible for local collective action organisations to obtain legally enforceable recognition of their identity and
+rights within the society, and to call upon the state as an enforcer of last resort (Korten,
+forthcoming). Obvious as it may sound, few countries in Asia have given much attention to
+this task, with respect to rural as distinct from modern urban organisations. If governments move in this direction, their efforts should widen the range of situations in which
+locally-based common property regimes can be expected to work.
+Bibliography
+Axelrod, E. 1981. The evolution of cooperation among egoists, American Political Science Review,
+vol. 75, June
+Blomquist, W. and Ostrom, E. 1985. Institutional capacity and the resolution of a commons
+dilemma, Policy Studies Review, vol. 5, no. 2
+Buchanan, J. and Tullock, G. 1962. The Calculus of Consent, University of Michigan Press
+Campbell, Bruce and Godoy, R. 1985. 'Common-field agriculture: the Andes and medieval England
+compared', Geography Department, Queens University of Belfast, mimeo
+Carruthers, I. and Stoner, R. 1981. 'Economic aspects and policy issues in groundwater development', World Bank Staff Working Paper No. 496, Washington, DC, The World Bank
+Dawes, R. 1975. Formal models of dilemmas in social decision-making, in Kaplan, M. and Swartz,
+S. (eds), Human Judgement and Decision Processes, New York, Academic Press
+Demsetz, H. 1967. Toward a theory of property rights, American Economic Review, vol. 57
+Ehrenfeld, D. 1972. Conserving Life on Earth, New York, Oxford University Press
+Gilles, J. L. and Jamtgaard, K. 1981. Overgrazing in pastoral areas: The commons reconsidered,
+Sodologia Ruralis, vol. 21
+Hardin, G. 1968. The tragedy of the commons, Science vol. 162, December
+Hitchcock, R. K. 1981. Traditional systems of land tenure and agrarian reform in Botswana, Journal
+of African Law, vol. 24
+Johnson, O. 1972. Economic analysis, the legal framework and land tenure systems, Journal of Law
+and Economics, vol. 15
+Kimber, R. 1981. Collective actions and the fallacy of the liberal fallacy, World Politics, vol. 33, no. 2
+
+106
+
+R. Wade
+
+Kimbcr, R. 1983. 'The tragedy of the commons reappraised', Department of Politics, University of
+Keele, mimeo
+Korten, F. forthcoming. The policy framework for community management, in Korten, D. (ed.),
+Community Management: Asian Experiences and Perspectives, Kumarian Press
+McKean, M. 1984. 'Management of traditional common lands in Japan', Department of Political
+Science, Duke University, mimeo
+Moore, B. 1967. Social Origins of Dictatorship and Democracy, Harmondsworth, Penguin
+Netting, R. 1972. Of men and meadows: strategies of Alpine land use, Anthropological Quarterly vol.
+45, no. 3
+North, D. and Thomas, R. 1977. The first economic revolution, Economic History Review, vol. 30
+Nozick, R. 1974. Anarchy, State and Utopia, Oxford, Basil Blackwell
+Olson, M. 1971. The Logic of Collective Action, Cambridge, Harvard University Press
+Ophuls, W. 1973. Leviathan or oblivion, in Daley, H. (ed.), Toward a Steady State Economy, San
+Francisco, W. H. Freeman
+Ostrom, E. 1985A. 'Are successful efforts to manage common-pool resources a challenge to the
+theories of Garrett Hardin and Mancur Olson?', Working paper W85-31, Workshop in Political
+Theory and Policy Analysis, Indiana University
+Ostrom, E. 1985B. 'The rudiments of a revised theory of the origins, survival and performance of
+institutions for collective action', Working paper W85-32, Workshop in Political Theory and
+Policy Analysis, Indiana University
+Ostrom, E. 1986. Institutional arrangements for resolving the commons dilemma: some contending
+approaches, in McKay, B. and Acheson, J. (eds), Capturing the Commons, University of Arizona
+PTess
+Peters, P. 1983. 'Cattlemen, Borehole Syndicates and Privatization in the Kgatleng District of
+Botswana', Ph.D. Thesis, Boston University
+Picardi, A. and Siefert, W. 1976. A tragedy of the commons in the Sahel, Technology Review, vol. 78
+Randall, A. 1983. The problem of market failure, Natural Resources Journal, vol. 23, no. 1
+Rawls, J. 1971. A Theory ofJustice, Harvard University Press
+Runge, C. Ford 1984. Institutions and the free rider: the assurance problem in collective action, The
+Journal of Politics, vol. 46
+Runge, C. Ford 1986. Common property and collective action in economic development, World
+Development, forthcoming
+Smith, R. 1981. Resolving the tragedy of the commons by creating private property rights in
+wildlife, CATO Journal, vol. 1, no. 2
+Snidal, D. 1985. Coordination versus Prisoners' Dilemma: implications for international cooperation and regimes, American Political Science Review vol. 79
+Sugden, R. 1984. Reciprocity: the supply of public goods through voluntary contributions,
+Economic Journal vol. 94
+Thomsen, J . T . I 980. 'Peasant perceptions of problems and possibilities for local-level management
+of trees in Niger and Upper Volta,' paper presented at the African Studies Association Meetings,
+15-18 October
+Wade, R. 1986. Common property resource management in South Indian villages, in Common
+Property Resource Management, Washington DC, National Academy Press.
+Wade, R. 1986. Village Republics: Economic Conditions for Collective Action in South India,
+Cambridge University Press
+Wagner, R. 1983. The theory of games and the problem of international competition, American
+Political Science Review, vol. 77
+
+

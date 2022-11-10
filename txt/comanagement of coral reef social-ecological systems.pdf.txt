@@ -1,0 +1,414 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/221724230
+
+Comanagement of Coral Reef Social-Ecological Systems
+Article in Proceedings of the National Academy of Sciences · March 2012
+DOI: 10.1073/pnas.1121215109 · Source: PubMed
+
+CITATIONS
+
+READS
+
+468
+
+581
+
+17 authors, including:
+Joshua Cinner
+
+Tim R Mcclanahan
+
+James Cook University
+
+Wildlife Conservation Society
+
+206 PUBLICATIONS 16,907 CITATIONS
+
+521 PUBLICATIONS 34,645 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Aaron Macneil
+
+Nicholas A J Graham
+
+Dalhousie University
+
+James Cook University
+
+127 PUBLICATIONS 8,722 CITATIONS
+
+247 PUBLICATIONS 22,777 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Capacity building for sustainable Fisheries Management in the Southwest Indian Ocean region - FisherMan View project
+
+Understanding Community Support towards Marine Protected Areas in the Philippines View project
+
+All content following this page was uploaded by Ahmad Mukminin on 20 May 2014.
+The user has requested enhancement of the downloaded file.
+
+Comanagement of coral reef social-ecological systems
+Joshua E. Cinnera,1, Tim R. McClanahanb, M. Aaron MacNeilc, Nicholas A. J. Grahama, Tim M. Dawd,e,
+Ahmad Mukmininf, David A. Fearyg, Ando L. Rabearisoah, Andrew Wamukotai,j, Narriman Jiddawik, Stuart J. Campbellf,
+Andrew H. Bairda, Fraser A. Januchowski-Hartleya, Salum Hamedk, Rachael Laharil, Tau Morovel, and John Kuangel
+a
+Australian Research Council Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, QLD 4811, Australia; bMarine Program, Wildlife
+Conservation Society, Bronx, NY 10460; cAustralian Institute of Marine Science, Townsville, QLD 4180, Australia; dSchool of International Development,
+University of East Anglia, Norwich NR4 7TJ, United Kingdom; eStockholm Resilience Centre, Stockholm University, SE-106 91 Stockholm, Sweden; fWildlife
+Conservation Society, Bogor 16141, Indonesia; gSchool of the Environment, University of Technology, Sydney, NSW 2007, Australia; hConservation
+International, Ankorondrano, 101 Antananarivo, Madagascar; iCoral Reef Conservation Program, Kibaki Flats, Mombasa, Kenya; jSchool of Natural Sciences,
+Linnaeus University, SE-391 82 Kalmar, Sweden; kInstitute for Marine Science, University of Dar Es Salaam, Zanzibar, Tanzania; and lWildlife Conservation
+Society Papua New Guinea Program, Goroka, Eastern Highlands, Papua New Guinea
+
+In an effort to deliver better outcomes for people and the ecosystems they depend on, many governments and civil society
+groups are engaging natural resource users in collaborative management arrangements (frequently called comanagement). However, there are few empirical studies demonstrating the social and
+institutional conditions conducive to successful comanagement
+outcomes, especially in small-scale ﬁsheries. Here, we evaluate 42
+comanagement arrangements across ﬁve countries and show that:
+(i) comanagement is largely successful at meeting social and ecological goals; (ii) comanagement tends to beneﬁt wealthier resource
+users; (iii) resource overexploitation is most strongly inﬂuenced by
+market access and users’ dependence on resources; and (iv) institutional characteristics strongly inﬂuence livelihood and compliance
+outcomes, yet have little effect on ecological conditions.
+
+|
+
+|
+
+common property governance human–environment interaction
+institutional design principles common-pool resources
+
+|
+
+T
+
+|
+
+he perceived failure of many open-access and top-down government approaches to managing common-pool resources has
+inspired a shift in governance toward community-based comanagement arrangements that provide local people with a greater
+say in the allocation and use of their resources (1). Comanagement is thought to help make resource management initiatives
+more legitimate in the eyes of stakeholders and more reﬂective of
+local conditions, creating better incentives for people to comply
+with rules on their own accord (2, 3). In the context of small-scale
+ﬁsheries, which support the livelihoods of some 200 million people,
+comanagement arrangements can be successful at sustaining
+resources and improving livelihoods of resource users (Fig. 1) (1, 4,
+5). However, comanagement can also create new incentives for
+overexploitation, exacerbate existing social inequalities, and lead to
+other undesirable social and ecological outcomes (3, 6–9). Critical
+questions remain about what communities, donors, and policymakers can do to promote desirable comanagement outcomes.
+Contextual conditions such as poverty, dependence on resources, and access to markets inﬂuence whether people successfully
+manage or overexploit common-pool resources (10–12). In addition, speciﬁc institutional characteristics, known as design principles, are thought to increase the likelihood of sustained collective
+action by creating conditions that encourage users to cooperate
+with common property institutions (10). These principles include
+graduated sanctions (punishments that increase with the frequency and severity of infringements), clearly deﬁned boundaries,
+collective choice rules (where users can participate in decisionmaking processes to change rules), and conﬂict resolution mechanisms, among others (10, 13, 14). To date, previous empirical
+studies have not tended to evaluate the potential role of speciﬁc
+institutional designs in achieving successful comanagement outcomes (15).
+Here, we examine how social and ecological outcomes are
+related to key institutional design and socioeconomic covariates
+www.pnas.org/cgi/doi/10.1073/pnas.1121215109
+
+in 42 coral reef ﬁshery comanagement arrangements across Kenya,
+Tanzania, Madagascar, Indonesia, and Papua New Guinea (Fig. 2
+and SI Appendix, Table S1). We used Ostrom’s diagnostic framework for analyzing social-ecological systems (4, 11, 16) to guide
+our study design (SI Appendix, Fig. S1 and Table S1). Using a
+combination of underwater visual census of reef ﬁshes and
+semistructured interviews with >1,000 resource users and local
+leaders (SI Appendix), we quantiﬁed the relative importance of
+household and community-scale factors inﬂuencing three independent comanagement outcomes. These outcomes were as
+follows: (i) perceived impacts of comanagement on livelihoods of
+resource users; (ii) reported compliance with restrictions; and (iii)
+the exploitation status of ﬁshery resources (SI Appendix).
+Results and Discussion
+Comanaged ﬁsheries generally perform well on all three measures
+of success. In particular, 54% of resource users perceived beneﬁcial
+outcomes for their livelihoods; 88% reported that comanagement
+arrangements were mostly or fully complied with; and comanaged
+ﬁsheries generally maintained a greater standing ﬁsh biomass than
+ﬁshed areas lacking local management (but, as expected, both were
+considerably more exploited than most no-take ﬁsheries closures in
+the same countries; Fig. 3 and SI Appendix). Our results are, however, not uniformly positive: There are cases where comanagement
+has not achieved positive social or ecological outcomes. Determining how these poorly performing comanagement systems
+can be improved requires a better understanding of how speciﬁc
+social and ecological outcomes are associated with particular institutional and contextual conditions (11) (SI Appendix, Fig. S1).
+We used a series of Bayesian-hierarchical models to quantify
+relationships between the probability of successful comanagement
+outcomes and the 22 household and community-scale covariates
+(Fig. 4). For our metric of perceived livelihood impacts, we used
+separate estimates to identify differences between the self-identiﬁed losers and winners resulting from comanagement (Fig. 4 A and
+B). The most successful comanagement arrangements for the
+livelihoods of users occur when key institutional designs are in
+place; when knowledge about the role humans play in ecosystem
+decline is high; where people have long been involved in comanagement; and when they are wealthier (Fig. 4 A and B and SI
+
+Author contributions: J.E.C., T.R.M., T.M.D., and A.W. designed research; J.E.C., T.R.M.,
+N.A.J.G., T.M.D., A.M., D.A.F., A.L.R., A.W., N.J., S.J.C., A.H.B., F.A.J.-H., S.H., R.L., T.M., and
+J.K. performed research; J.E.C., T.R.M., M.A.M., N.A.J.G., and A.H.B. analyzed data; and
+J.E.C., T.R.M., M.A.M., N.A.J.G., T.M.D., A.M., D.A.F., A.L.R., A.W., N.J., S.J.C., A.H.B., F.A.J.-H.,
+S.H., R.L., T.M., and J.K. wrote the paper.
+The authors declare no conﬂict of interest.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+1
+
+To whom correspondence should be addressed. E-mail: Joshua.Cinner@jcu.edu.au.
+
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1121215109/-/DCSupplemental.
+
+PNAS Early Edition | 1 of 4
+
+SUSTAINABILITY
+SCIENCE
+
+Edited by Elinor Ostrom, Indiana University, Bloomington, IN, and approved February 28, 2012 (received for review December 21, 2011)
+
+Fig. 1. (A) Coral reefs support small-scale ﬁsheries in many low-income, tropical nations. As with many other types of common-pool resources, reef ﬁsheries
+are often overexploited when effective institutions are not in place (10). (B) The complex and multispecies nature of small-scale reef ﬁsheries, illustrated by
+this harvest from Indonesia, makes them particularly difﬁcult to effectively manage solely through top-down regulations, especially in the resource-deﬁcient
+context in which many tropical national ﬁsheries agencies operate (1). (C) Comanagement arrangements that allow resource users to develop and enforce
+locally appropriate rules about resource use, such as this periodically harvested ﬁsheries closure from Papua New Guinea, can provide substantial beneﬁts to
+resource users, achieve high levels of compliance, and potentially lead toward more sustainable ﬁsheries (24, 41). Photos by J.E.C.
+
+Appendix). This latter result suggests that despite the strong potential for positive social and ecological outcomes, comanagement
+can contribute to social inequity by creating opportunities for local
+elites to control resources (6, 7, 17). By providing users with
+a greater say in the allocation of resources, comanagement is likely
+to involve a redistribution of access rights (18), and the wealthy
+may be better poised to take advantage of these changes (17, 19).
+There is no evidence, however, that comanagement is detrimental
+to the livelihoods of the poor (Fig. 4B), who are often marginalized
+in other types of governance regimes in regards to resource allocation and entitlements (19, 20). To ensure that comanagement
+
+Fig. 2. Map of study comanagement sites across the Indo-Paciﬁc in Kenya
+and Tanzania (1), Madagascar (2), Indonesia (3), and Papua New Guinea (4).
+Orange dots indicate approximate locations of ﬁshery comanagement sites.
+
+2 of 4 | www.pnas.org/cgi/doi/10.1073/pnas.1121215109
+
+arrangements attain the levels of perceived equity and legitimacy
+necessary for long-term success (3, 21), managers must ﬁnd ways to
+deliver beneﬁcial livelihood outcomes to the poor. Delivering
+these outcomes will require an equitable distribution of power (6,
+
+Fig. 3. Comparison of standing biomass in no-take ﬁsheries closures, comanaged ﬁsheries, and sites with no local management. Levels of ﬁsh biomass are
+demonstrably higher in comanaged areas {350 [265, 450] kg/ha; highest posterior density (HPD) [95% uncertainty intervals (UI)], n = 27} than in comparable
+open-access reef ﬁsheries (177 [116, 261] kg/ha, n = 26), but no-take ﬁshery
+closures have the highest expected biomass (619 [417, 818] kg/ha, n = 16). HPD
+and 95% UI are based on a (normal) Bayesian linear random-effects model for
+log(biomass) given management status. Biomass data for no-take ﬁshery closures and sites with no-local management are from parallel studies on the
+ecological outcomes of different coral reef management strategies in our study
+countries (refs. 24 and 40 and SI Appendix).
+
+Cinner et al.
+
+22) and, in some cases, may involve poverty reduction strategies,
+such as the provision of microcredit loans (23).
+Compliance is a continual challenge for many ﬁsheries management and marine conservation initiatives (21, 24). Institutional
+design principles are thought to create conditions conducive to
+cooperation in common property scenarios (10), and we found
+that high levels of reported compliance are positively related to
+graduated sanctions (Fig. 4C and SI Appendix). There is also
+moderate evidence that reported compliance is higher when comanagement arrangements are further from markets, where
+respondents are wealthier, and where they trust their leaders and
+other community members (Fig. 4C). There are frequent calls to
+establish territorial use rights that provide local resource users
+with exclusive rights to their ﬁshing grounds (4), but we found that
+in a developing country comanagement context, compliance was
+lowest under this type of restricted access arrangement (Fig. 4C).
+Interviews with resource users revealed plausible explanations for
+this seemingly counterintuitive result: (i) Several key informants
+and respondents noted that membership (i.e., who had access
+rights) became difﬁcult to clearly deﬁne because of marriage
+arrangements between members and nonmembers. In the context
+of many of our study sites, access rights were determined by afﬁliation with speciﬁc social groupings (e.g., community or clan), as
+opposed to a formal licensing arrangement. Interestingly, we did
+not ﬁnd that “clearly deﬁned membership” (one of the institutional design principles) had a consistent effect on compliance throughout the 42 sites, but respondents suggest that
+confusion about membership may play an important role in some
+local contexts; and (ii) Communities often lacked patrol boats or
+systems of offshore surveillance to effectively enforce these types
+of access rights. A number of users noted that by the time they
+paddled or sailed out to enforce the access rights, infringers with
+motorized boats had left. In addition to adequate enforcement
+capacity, comanagement compliance is also about creating conditions that are conducive to people cooperating (10, 21). Managers and donors can help build the legitimacy, social capital, and
+trust that foster cooperation by making targeted investments that
+Cinner et al.
+
+lead toward transparent and deliberative comanagement systems
+(1, 3, 21, 22, 25).
+The state of reef ﬁshery resources is often assumed to be primarily driven by Malthusian overﬁshing related to the size of
+nearby human settlements (e.g., refs. 26 and 27). However, a key
+ﬁnding from this study is that the exploitation status of comanaged ﬁsheries is most strongly affected by access to markets and
+levels of dependence on marine resources (Fig. 4D), providing
+potential levers for policy action. Strategies that address the
+complex linkages between ecosystems, local livelihoods, and
+market access will be critical for sustainable ﬁsheries comanagement (14, 28, 29). These strategies may include, for example, livelihoods-focused approaches to poverty reduction (28)
+and improved market governance through sustainable harvesting
+certiﬁcations (29, 30).
+This study models the inﬂuence of a range of institutional design principles on common property outcomes using primary data
+across large geographic and social scales. A surprising ﬁnding is
+that these institutional characteristics thought to inﬂuence the
+sustainability of commons governance are strongly related to social, but not ecological, outcomes in the comanagement of smallscale ﬁsheries (Fig. 4). Critically, these design principles may help
+people organize effectively and perceive beneﬁts from collective
+action (10), but they do not ensure that a given organization will
+sustainably manage resources. Indeed, people may collectively
+organize to exploit resources rather than to sustain them (9).
+Consequently, organizing collective action for sustainability rather
+than short-term exploitation may require an adaptive comanagement approach (31–33) that: (i) fosters learning about the
+social-ecological system (34), (ii) incorporates local and scientiﬁc
+knowledge systems (35), (iii) creates incentives for ecosystem
+stewardship (36), and (iv) invests in multiscale governance
+arrangements that network comanagement organizations and
+foster key linkages with higher levels of social and political organization (10, 37).
+Our study provides empirical evidence that comanagement
+can help to sustain ﬁsheries and the people that depend on them,
+PNAS Early Edition | 3 of 4
+
+SUSTAINABILITY
+SCIENCE
+
+Fig. 4. Inﬂuence of social-ecological system attributes of reef-ﬁshery comanagement outcomes across the 42 study sites in the Indo-Paciﬁc. Parameter
+estimates are Bayesian posterior median values and 95% UI for the 16 model-selected covariates (y axis) relating to the local social-economic and political
+setting (S; orange); characteristics of resource users (U; yellow); and the governance system (GS; purple). The multinomial model provided separate estimates
+for respondents that perceived positive and detrimental livelihood outcomes from comanagement. Responses include the following: perceived beneﬁcial
+livelihoods outcomes (A); perceived detrimental livelihood outcomes (B); reported compliance (C); and magnitude of observed ﬁsh biomass (kilograms per
+hectare) (D). Positive response estimates are indicated in green; negative are indicated in red; and evidence of no effect is indicated in blue. Filled circles
+indicate strong evidence of covariate effects; open circles denote estimates with an increased level of uncertainty as to their direction; green and red open
+circles have >80% of their posterior density in either a positive or negative direction, respectively. These results are discussed in more detail in SI Appendix.
+Response estimates are standardized to be directly comparable within each column and include both household and community-level covariates, modeled at
+the appropriate scale. Missing variables occurred in models with no DIC-based support (SI Appendix). Asterisk indicates that, effect sizes are standardized
+within each response relative to their mean divided by two times their SD.
+
+even in the social-ecological contexts most susceptible to failure:
+artisanal, multispecies, coastal ﬁsheries in low-income countries
+(1). However, the likelihood of this happening is higher when
+certain social, economic, and institutional conditions are in place.
+Managers and donors can facilitate desirable comanagement
+outcomes by working with resource users on context-dependent
+strategies to improve livelihoods and governance, such as
+dampening the negative inﬂuence of global markets, providing
+equitable livelihood beneﬁts, and strengthening local institutions
+(10, 29, 38). These policy actions will be a substantial departure
+from the norms of many ﬁsheries managers, and implementing
+them effectively will require forging partnerships with social
+scientists, donors, ﬁnancial institutions, and civil society (39).
+Methods
+
+other stakeholders), underwater visual census, and analyses of secondary
+sources such as population censuses (SI Appendix, Table S1). In total, we
+conducted 960 resource user interviews, 53 key informant interviews, 54
+community leader interviews, and 51 organizational leader interviews. Our
+data collection provided information on three dependent variables (perceived impact of comanagement on the livelihoods of users; perceived
+levels of compliance, and reef ﬁsh biomass); and 22 covariate attributes
+relating to the local governance system, the social, economic, and political
+setting, and the socioeconomic characteristics of resource users in each
+community (SI Appendix, Fig. S1 and Table S1). Additionally, ﬁsh biomass
+data from comanaged sites were compared with 26 sites without local-level
+management and 16 no-take ﬁshery closures in our study countries (SI
+Appendix). We used Ostrom’s diagnostic framework (11, 40) to build a series of Bayesian hierarchical models that quantify the relationship between
+our 22 measured covariates and three dimensions of comanagement success (SI Appendix, Table S3).
+
+Details are provided in SI Appendix.
+We studied 42 independent comanagement arrangements spanning ﬁve
+Indo-Paciﬁc countries: Kenya, Tanzania, Papua New Guinea, Indonesia, and
+Madagascar. We used purposive sampling to ensure variation in independent variables. To gather information and triangulate results in each
+study site, we used a combination of household surveys, semistructured
+interviews with key informants (community leaders, resource users, and
+
+ACKNOWLEDGMENTS. We thank E. Ostrom and T. Hughes for providing
+helpful comments and S. Pardede, T. Kartawijawa, and C. Huchery for
+providing ﬁeld and ofﬁce assistance. Funding was provided by the Australian
+Research Council, Western Indian Ocean Marine Science Association’s Marine Science for Management program, National Geographic Society, Christensen Fund, and Packard Foundation Grant 2009-33893.
+
+1. Gutiérrez NL, Hilborn R, Defeo O (2011) Leadership, social capital and incentives
+promote successful ﬁsheries. Nature 470:386–389.
+2. Jentoft S, McCay BJ, Wilson DC (1998) Social theory and ﬁsheries co-management.
+Mar Policy 22:423–436.
+3. Jentoft S (2000) Legitimacy and disappointment in ﬁsheries management. Mar Policy
+24:141–148.
+4. Gelcich S, et al. (2010) Navigating transformations in governance of Chilean marine
+coastal resources. Proc Natl Acad Sci USA 107:16794–16799.
+5. Evans L, Cherrett N, Pemsl D (2011) Assessing the impact of ﬁsheries co-management
+interventions in developing countries: A meta-analysis. J Environ Manage 92:
+1938–1949.
+6. Béné C, et al. (2009) Power struggle, dispute and alliance over local resources: Analyzing ‘democratic’ decentralization of natural resources through the lenses of africa
+inland ﬁsheries. World Dev 37:1935–1950.
+7. Blaikie P (2006) Is small really beautiful? Community-based natural resource management in Malawi and Botswana. World Dev 34:1942–1957.
+8. Gelcich S, Edwards-Jones G, Kaiser MJ, Castilla JC (2006) Co-management policy can
+reduce resilience in traditionally managed marine ecosystems. Ecosystems (N Y) 9:
+951–966.
+9. Hutric M (2005) Lobster and conch ﬁsheries of Belize: A history of sequential exploitation. Ecol. Soc. 10:21.
+10. Ostrom E (1990) Governing the Commons: The Evolution of Institutions for Collective
+Action (Cambridge Univ Press, Cambridge, UK).
+11. Ostrom E (2009) A general framework for analyzing sustainability of social-ecological
+systems. Science 325:419–422.
+12. Adams WM, Brockington D, Dyson J, Vira B (2003) Managing tragedies: Understanding conﬂict over common pool resources. Science 302:1915–1916.
+13. Agrawal A (2001) Common property institutions and sustainable governance of resources. World Dev 29:1649–1672.
+14. Dietz T, Ostrom E, Stern PC (2003) The struggle to govern the commons. Science 302:
+1907–1912.
+15. Cox M, Arnold G, Tomas SV (2010) A review of design principles for community-based
+natural resource management. Ecol. Soc. 15:38.
+16. Ostrom E, Cox M (2010) Moving beyond Panaceas: A multi-tiered diagnostic approach
+for social-ecological analysis. Environ Conserv 37:1–13.
+17. Christie P (2004) Marine protected areas as biological successes and social failures in
+southeast Asia. Am Fish Soc Symp 42:155–164.
+18. Schlager E, Ostrom E (1992) Property-rights regimes and natural-resources - a conceptual analysis. Land Econ 68:249–262.
+19. Adger WN, Kelly PM (1999) Social vulnerability to climate change and the architecture
+of entitlements. Mitig Adapt Strategies Glob Change 4:253–266.
+20. Sen A (1982) Poverty and Famines: An Essay on Entitlement and Deprivation (Oxford
+Univ Press, Oxford), p 257.
+21. Sutinen JG, Kuperan K (1999) A socio-economic theory of regulatory compliance. Int J
+Soc Econ 26:174–193.
+
+22. Berkes F (2009) Evolution of co-management: Role of knowledge generation,
+bridging organizations and social learning. J Environ Manage 90:1692–1702.
+23. Karlan D, Zinman J (2011) Microcredit in theory and practice: Using randomized credit
+scoring for impact evaluation. Science 332:1278–1284.
+24. McClanahan TR, Marnane MJ, Cinner JE, Kiene WE (2006) A comparison of marine
+protected areas and alternative approaches to coral-reef management. Curr Biol 16:
+1408–1413.
+25. Pollnac R, et al. (2010) Marine reserves as linked social-ecological systems. Proc Natl
+Acad Sci USA 107:18262–18265.
+26. Sandin SA, et al. (2008) Baselines and degradation of coral reefs in the Northern Line
+Islands. PLoS ONE 3:e1548.
+27. Pauly D (1990) On Malthusian overﬁshing. Naga. The ICLARM Quarterly 13:3–4.
+28. Allison EH, Ellis F (2001) The livelihoods approach and management of small-scale
+ﬁsheries. Mar Policy 25:377–388.
+29. Berkes F, et al. (2006) Ecology. Globalization, roving bandits, and marine resources.
+Science 311:1557–1558.
+30. Lewis D, et al. (2011) Community Markets for Conservation (COMACO) links biodiversity conservation with sustainable improvements in livelihoods and food production. Proc Natl Acad Sci USA 108:13957–13962.
+31. Armitage DR, et al. (2009) Adaptive co-management for social-ecological complexity.
+Front Ecol Environ 7:95–102.
+32. Folke C, Hahn T, Olsson P, Norberg J (2005) Adaptive governance of social-ecological
+systems. Annu Rev Environ Resour 30:441–473.
+33. Schultz L, Duit A, Folke C (2011) Participation, adaptive co-management, and management performance in the world network of biosphere reserves. World Dev 39:
+662–671.
+34. Armitage D, Marschke M, Plummer R (2008) Adaptive co-management and the paradox of learning. Glob Environ Change 18:86–98.
+35. Aswani S, Hamilton R (2004) Integrating indigenous ecological knowledge and customary sea tenure with marine and social science for conservation of bumphead
+parrotﬁsh (Bolbometopon muricatum) in the Roviana Lagoon, Solomon Islands. Environ Conserv 31:69–83.
+36. Steneck RS, et al. (2011) Creation of a gilded trap by the high economic value of the
+Maine lobster ﬁshery. Conserv Biol 25:904–912.
+37. Berkes F (2007) Community-based conservation in a globalized world. Proc Natl Acad
+Sci USA 104:15188–15193.
+38. Scales H, Balmford A, Liu M, Sadovy Y, Manica A (2006) Keeping bandits at bay?
+Science 313:612–614, author reply 612–614.
+39. Hughes TP, Bellwood DR, Folke C, Steneck RS, Wilson J (2005) New paradigms for
+supporting the resilience of marine ecosystems. Trends Ecol Evol 20:380–386.
+40. Ostrom E (2007) A diagnostic approach for going beyond panaceas. Proc Natl Acad Sci
+USA 104:15181–15187.
+41. McClanahan TR, et al. (2011) Critical thresholds and tangible targets for ecosystembased management of coral reef ﬁsheries. Proc Natl Acad Sci USA 108:17230–17233.
+
+4 of 4 | www.pnas.org/cgi/doi/10.1073/pnas.1121215109
+
+View publication stats
+
+Cinner et al.
+
+

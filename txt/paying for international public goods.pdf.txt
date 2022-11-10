@@ -1,0 +1,988 @@
+AMBIO (2011) 40:798–806
+DOI 10.1007/s13280-011-0156-2
+
+REVIEW PAPER
+
+Paying for International Environmental Public Goods
+Rodrigo Arriagada, Charles Perrings
+
+Received: 21 December 2010 / Revised: 20 April 2011 / Accepted: 29 April 2011 / Published online: 2 June 2011
+
+Abstract Supply of international environmental public
+goods must meet certain conditions to be socially efficient,
+and several reasons explain why they are currently undersupplied. Diagnosis of the public goods failure associated
+with particular ecosystem services is critical to the development of the appropriate international response. There are
+two categories of international environmental public goods
+that are most likely to be undersupplied. One has an
+additive supply technology and the other has a weakest link
+supply technology. The degree to which the collective
+response should be targeted depends on the importance of
+supply from any one country. In principle, the solution for
+the undersupply lies in payments designed to compensate
+local providers for the additional costs they incur in
+meeting global demand. Targeted support may take the
+form of direct investment in supply (the Global Environment Facility model) or of payments for the benefits of
+supply (the Payments for Ecosystem Services model).
+Keywords International environmental public goods 
+Ecosystem services  Payments for ecosystem services 
+Global environmental public
+
+INTRODUCTION
+How can we best secure the provision of international
+environmental public goods (IEPGs)—public goods offering benefits that span multiple national jurisdictions? It is
+well understood that markets undersupply public goods,
+and there is a wealth of evidence that many environmental
+public goods have been systematically undersupplied over
+a long period of time (Millennium Ecosystem Assessment
+2005). If environmental public goods occur at the scale of
+the nation state or below, the failure of markets to supply
+
+123
+
+public goods may be offset by the actions of local or
+national governments. There exist many national agencies
+with responsibilities for the provision of environmental
+public goods such as habitat for rare and endangered species, clean water, environmental health protection, and so
+on. There also exist many offset or mitigation systems for
+securing private provision of public goods at a national
+level (Madsen et al. 2010). At the international level, where
+there is no supranational authority to take responsibility,
+the failure of markets to deliver environmental public
+goods is more difficult to offset. Depending upon the
+magnitude and distribution of the payoffs to public good
+provision, individual countries will have a stronger or
+weaker incentive to commit resources to their provision.
+Doing more than that depends upon agreement between
+nation states (Kaul et al. 2003a; Barrett 2007).
+Many IEPGs are strictly global. Examples include the
+conservation of the genetic diversity on which all future
+evolution depends, the mitigation of climate change, the
+control of emerging infectious diseases, and the management of sea areas beyond national jurisdiction. Many more
+are regional, such as the control of acid rain, the management of multi-country river basins, and the protection of
+international watersheds (Touza and Perrings 2011). Like
+all public goods, IEPGs exhibit both consumption indivisibilities and non-excludability. Non-excludability means
+that once the good is provided, none can be excluded from
+enjoying the benefits it confers. Indivisible consumption
+occurs when one country’s enjoyment of the benefits does
+not diminish the amount available for others. Public goods
+are said to be ‘pure’ when they are both non-exclusive and
+non-rival (indivisible) in consumption. They are said to be
+impure if they are either partially excludable or partially
+rival—the most common form of which are local public
+goods, particularly the local common pool resources
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+AMBIO (2011) 40:798–806
+
+799
+
+analyzed by Ostrom (1990). In most cases, it is not possible
+for any single state to provide such goods on its own.
+International public good supply depends on either international coordination or international cooperation (Anand
+2004).
+This article focuses on IEPGs whose benefits extend to
+people in multiple countries. Such IEPGs frequently also
+deliver benefits across multiple generations (Kaul et al.
+1999), but we do not address this aspect of the problem. In
+practice, the beneficiaries of international public goods
+include national populations and their representatives,
+nation states, transnational corporations and non-governmental organizations, as well as a newly emerging set of
+institutions. Globalization has altered the way that members of civil society organize themselves across national
+boundaries. The information revolution has also stimulated
+new forms of social participation. New networks, frequently built around environmental websites, enable the
+exchange of ideas and implementation techniques. These
+new relationships and interactions have created a ‘global
+environmental public’, interested in asserting new rights
+and responsibilities to the resources of the planet. Its
+concerns span both the ethical responsibilities of individuals, organizations, countries and corporations, and the
+alternative forms of governance of the biosphere.
+Following the Millennium Ecosystem Assessment, we
+suppose that the benefits people obtain from biosphere
+depend on a set of ecosystem services comprising:
+•
+
+•
+
+•
+
+•
+
+Provisioning services: products people obtain from
+ecosystems, such as food, fuel, fiber, fresh water, and
+genetic resources.
+Cultural services: nonmaterial benefits people obtain
+from ecosystems through spiritual enrichment, cognitive development, reflection, recreation, and aesthetic
+experiences.
+Regulating services: benefits people obtain from the
+regulation of ecosystem processes, including air quality
+maintenance, climate regulation, erosion control, regulation of floods and droughts, regulation of human
+diseases, and water purification.
+Supporting services: those that are necessary for the
+production of all other ecosystem services, such as
+primary production, production of oxygen, and soil
+formation.
+
+These services affect human wellbeing in many ways:
+through their role in the production of consumption goods,
+their support of human health and security, or the satisfaction of peoples’ cultural and spiritual needs. A number
+of these services have the characteristics of IEPGs, the
+most important of which involve the regulating and supporting services. Figure 1 indicates the relation between
+categories of ecosystem services and components of
+
+wellbeing identified by the Millennium Ecosystem
+Assessment. Of these, only the provisioning services consistently generate benefits that are both divisible (rival) and
+exclusive. The other services yield benefits that are generally indivisible and non-exclusive. We focus on the group
+of ecosystem services that are both public and international. These are services that: (i) cover more than one
+group of countries; (ii) benefit not only a broad spectrum of
+countries but also a broad spectrum of the global population; (iii) meet the needs of both present and future generations (Kaul et al. 1999; Anand 2004). International
+public goods generated in any one county must therefore
+generate spillover effects beyond a nation’s boundary
+(Morrissey et al. 2002).
+IEPGs can further be classified according to their
+‘technology of supply’ (Sandler 2004). The standard
+treatment of public goods focuses on demand (Hirshleifer
+1983). However, understanding the technology of supply of
+IEPGs is critical to the development of appropriate incentives. Three common examples of public good supply
+technologies are ‘additive’, ‘best shot’, and ‘weakest link’
+technologies. As the name implies, in the additive case, the
+socially available amount Y of a public good is nothing but
+the ‘simple sum’ of the separate amounts, yi, produced by
+each of m participating countries, the i = 1,…, m. In the
+case of simple sum public goods, such as carbon sequestration, each unit of carbon sequestered has the same value
+no matter where it occurs. In the case of weighted sum
+public goods, such as habitat protection, the contribution of
+each hectare protected depends on its characteristics
+(Sandler 2004). For ‘best shot’ public goods, the benefit to
+all countries is determined by the most effective provider.
+For example, the Centers for Disease Control and Prevention are funded by the U.S.A., but provide information
+on infectious diseases to all countries. For ‘weakest link’
+public goods, the benefits to all countries are limited to the
+benefits offered by the least effective provider. The best
+example of this is the control of infectious diseases. So for
+HIV and tuberculosis, the level of protection available to
+all countries is only as good as the control of the disease
+exercised in the poorest, most densely populated, and least
+well-coordinated country (Perrings et al. 2002).
+Social composition functions
+X
+Y¼
+yi Summation
+i
+Y ¼ min yi Y ¼ min yi
+i
+
+i
+
+Weakest-link
+
+Y ¼ max yi
+i
+
+Best-shot
+
+Of all the Millennium Ecosystem Assessment ecosystem
+services, the regulating services are most often supplied as
+IEPGs. Examples include disease control, which is
+frequently supplied as a weakest or weaker link public
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+123
+
+800
+
+AMBIO (2011) 40:798–806
+
+Fig. 1 Linkages between
+ecosystem services and human
+well-being (arrow’s width
+intensity of linkages between
+ecosystem services and human
+well-being) (adapted from
+Millennium Ecosystem
+Assessment, 2003)
+
+CONSTITUENTS OF WELL-BEING
+ECOSYSTEM SERVICES
+Provisioning
+(food, fuel , fiber, fresh water, and
+genetic resources)
+
+Supporting
+(nutrient
+cycling, soil
+formation,
+and primary
+production)
+
+Regulating
+(air quality maintenance, climate
+regulation, erosion control,
+regulation of floods and droughts,
+regulation of human diseases, and
+water purification)
+Cultural
+(spiritual enrichment, cognitive
+development, reflection,
+recreation, and aesthetic
+experiences)
+
+ARROW’S COLOR
+Potential for mediation by socioeconomic factors
+Low
+
+Medium
+
+good, climate regulation through, e.g., carbon sequestration,
+which is supplied as an additive pure public good, or
+watershed protection which is generally an additive but
+impure public good (Holzinger 2001; Dombrowsky 2007;
+Touza and Perrings 2011). Many international public goods
+are also jointly produced with local public goods.
+Biodiversity in tropical forests, for example, yields a set of
+private benefits in the form of timber and other products
+including medicinal plants, hunting, fishing, recreation, and
+tourism. At the same time, tropical forests are a source of
+carbon sequestration, genetic information, hydrological and
+microclimatic regulation—commonly described as cobenefits (Perrings and Gadgil 2003).
+An important feature of IEPG is that their spatial extent
+depends partly on the natural hydrological and atmospheric
+flows, and partly on the social linkages between countries—the flow of goods, people, and information. The
+global reach of carbon sequestration is a property of the
+general circulation system, but the global reach of disease
+regulation is a property of the global trade and air transportation systems. In fact, the closer integration of the
+world economic system has rapidly increased the number
+of environmental public goods that are global in reach
+(Kaul et al. 2003b):
+•
+
+•
+
+New technologies increasingly enhance human mobility as well as the movement of goods, services, and
+information around the world (e.g., case of transmission
+of human diseases and air pollution as international
+environmental public bads).
+Economic and political openness have provided further
+impetuses to cross borders and transnational activities
+
+123
+
+Security
+• Personal safety
+• Secure resource access
+• Security from disasters
+Basic material for good life
+• Adequate livelihoods
+• Sufficient nutritious food
+• Shelter
+• Access to goods
+
+Health
+• Strength
+• Feeling well
+• Access to clean air and water
+
+Good social relations
+• Social cohesion
+• Mutual respect
+• Ability to help others
+
+High
+
+•
+•
+
+(e.g., case of transmission of human diseases and air
+pollution as international environmental public bads).
+Systematic risks have increased (e.g., case of climate
+change as an international environmental public bad).
+International regimes are becoming more influential,
+often formulated by small groups of powerful nations
+yet often claiming universal applicability (e.g., case of
+bio-prospecting contracts to find cure for cancer and
+other human diseases).
+
+The central problem addressed in this article is how to
+secure environmental public goods that (a) are provided at
+particular locations but offer benefits over a wider area, and
+(b) generate local benefits that are below the local cost of
+supply. These are the IEPGs that are most likely to be
+undersupplied. This article is organized in four sections.
+The following section reviews the fundamental problem
+with IEPGs—the incentive that each country has to free
+ride on the efforts of others. A third section then considers
+the options for addressing the problem. This reviews the
+applicability of currently popular instruments, such as
+payments for ecosystem services, in terms of the characteristics of the public good concerned. A final section
+draws out the implications for national and international
+environmental policy.
+
+WHY ARE INTERNATIONAL ENVIRONMENTAL
+PUBLIC GOODS UNDERPROVIDED?
+International environmental public goods generate benefits
+that spill over national borders, so that the benefits (or
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+AMBIO (2011) 40:798–806
+
+801
+
+costs) of those goods extend beyond the country of origin.
+If the marginal local benefits of public good provision are
+less than the marginal local costs, there will be no incentive
+to provide the public good at all. If the marginal local
+benefits of public good provision exceed the marginal local
+costs of provision, but benefits also accrue to other countries, there will be an incentive to produce the public good,
+but unless the country is a ‘best-shot provider’ it will not be
+at a level that would satisfy international demand (Ferroni
+and Mody 2002; Kanbur 2003, 2004). We first of all review
+the problem and then consider the options for addressing it.
+We have elsewhere considered the cases where the national
+incentive to produce IEPGs is sufficient to meet global
+demand (Touza and Perrings 2011). In this article, we
+address the case where independent local action is not
+sufficient to secure efficient global supply.
+Consider the conservation of endangered species. Can
+we rely on the national action to produce the efficient
+amount of an IEPG such as the protection of iconic species? The key to understanding this lies in the difference
+between a pure public good and a private good. For a
+private good, everyone pays the same price, but is free to
+consume as much or as little as they want. Consumers
+adjust the quantity they consume given the market price.
+For a pure public good everyone consumes the same
+amount of the ‘‘good’’ but is willing to pay a different price
+for it. Consumers adjust the amount they are willing to pay
+for the public good given the quantity supplied (Batina and
+Ihori 2005). In general, private provision of public goods
+will be below the socially optimal level. Efficiency requires
+that marginal benefit equals marginal cost. In the case of
+conservation of endangered species (or any other public
+good), the relevant measure of marginal benefits is social
+Fig. 2 Efficient provision of
+conservation effort
+
+Costs and
+benefits of
+local
+conservation
+effort
+
+‘Incremental
+cost’ =
+benefits to
+global
+interests in
+excess of
+costs
+warranted by
+local interest
+of country i
+
+marginal benefit—the sum of all countries marginal benefits. We illustrate the problem in Fig. 2, in which local and
+global benefit curves for species conservation in a particular country, i, are presented. Global benefits are represented by the vertical sum of the benefit curves of country
+i, and all other countries.
+The level of conservation in country i that maximizes
+local net benefits is indicated by yi, while the level of
+conservation that maximizes global benefits is indicated by
+yi . yi is given by the intersection of local supply and local
+benefit curves, and yi by the intersection of local supply
+and the vertical sum of local benefits for all countries.
+Since the marginal cost of provision at yi is greater than
+country i would be willing to accept on its own, socially
+optimal provision of the public good depends on the
+existence of a mechanism to cover the ‘incremental’ cost of
+socially optimal provision to country i.
+Biodiversity conservation, like many other IEPGs, is an
+impure global public good. If there are many potential
+providers, each generates local benefits from its conservation effort, but also benefits from the conservation
+actions of others. Following, Perrings and Gadgil (2003),
+we characterize the problem for the individual country as
+follows. Vi denotes welfare of the ith country, assumed to
+depend on consumption of a vector of market goods, xi, and
+global biodiversity conservation, denoted C = C(y1,
+y2,…,ym), then the problem it faces is of the general form:
+
+
+
+Maxxi yi V i xi ; yi ; C y1 ; . . .; ym
+In other words, it derives a direct benefit from its own
+conservation efforts, yi, but also benefits from the global
+conservation effort to which it has contributed, C. If the
+cost of conservation effort in terms of the cost of market
+
+Global benefits
+
+Costs of local
+conservation effort
+
+Benefits to all other countries
+Benefits to country i
+
+yi
+
+yi *
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+Quantity of local
+conservation effort
+
+123
+
+802
+
+AMBIO (2011) 40:798–806
+
+goods is p(yi), and if the income available to country i is Ii,
+this will be subject to the constraint that
+ 
+I i ¼ xi þ p yi yi
+In the absence of cooperation, and noting that
+Vyi i ¼ oV i =oyi ; Vxi i ¼ oV i =oxi and Cyi ¼ oC=oyi , wellbeing
+of the ith country will be maximized where the local level
+of conservation satisfies:
+VYi i
+Vi
+¼ pyi  ic Cyi
+i
+V xi
+V xi
+If global wellbeing
+is the sum of the welfare of all
+P
+countries, V ¼ j¼1 V j , then global wellbeing will be
+maximized where
+XVj
+VYi i
+c
+i
+¼ p yi 
+i
+i Cy
+V xi
+V
+j¼1 xi
+The extra terms in the summation term on the right hand
+side capture the conservation benefits that the ith country
+confers on all other countries. These benefits will be
+neglected by the ith country unless there is a mechanism to
+convert them into a direct incentive.
+The failure of markets to signal the global benefit of
+such public goods accordingly results in under-investment in their local provision. The benefits of protection,
+management and establishment of forests provide a good
+example. Apart from the loss of the valuable environmental services (e.g., protection of genetic resources, air
+quality maintenance, climate regulation and regulation of
+human diseases), forest degradation frequently translates
+into a loss of timber and non-timber forest products
+important to local livelihoods (Landell-Mills & Porras
+2002).
+Currently, there are few measures of the underprovision of public goods. The United Nations Development
+Programme (UNDP) has opted instead for measures of
+‘‘adequate’’ provision that differ from one public good to
+another. Such measures can, for example, correspond to
+the complete elimination of global public bads. More
+generally, they are measures of what is considered possible, given the current state of technology (e.g., to
+control—rather than eradicate—the problem of HIV/
+AIDS) and what is ‘‘fair’’ (e.g., what would emerge if all
+concerned stakeholders had an effective voice in the
+decision-making process) (ODS-UNC 2002). The criterion of adequacy is not meant to indicate optimality—the
+balancing of marginal costs with the sum of people’s
+marginal willingness to pay for a particular public good
+(see Samuelson 1954; Cornes and Sandler 1996). Rather,
+it is meant to establish a relatively simple, yet reliable,
+yardstick for measuring the present provision of a certain
+good against a technical notion of adequacy.
+
+123
+
+In the case of the global public good ‘communicable
+disease control’, for example, it has been possible, given
+the biological characteristics of the infectious agent and
+available technologies, to completely eradicate certain
+diseases. In these cases, the criterion for adequate provision
+is defined as complete eradication, or zero incidences in the
+‘‘wild.’’ The determination of ‘‘adequate provision’’ is
+based solely on technical considerations, without reference
+to costs, benefits or existing preferences and willingness to
+pay. Therefore, there may be cases where adequate provision may not be economically feasible. It is important to
+assess the net benefits/costs of inaction against the net
+benefits/costs of corrective action to determine, at least
+approximately, whether meeting the technological
+requirements for adequate provision is economically
+desirable (UNDP 2002).
+
+POLICY OPTION: PAYMENTS FOR ECOSYSTEM
+SERVICES
+In principle, the solution to IEPG problems of this form lies
+in payments designed to compensate local providers for the
+additional costs they incur in meeting global demand.
+Indeed, that is the basis on which the Global Environment
+Facility (GEF) was founded. The GEF unites 182 member
+governments—in partnership with international institutions, nongovernmental organizations, and the private
+sector—to address global environmental issues. An independent financial organization, the GEF provides grants to
+developing countries and countries with economies in
+transition for projects related to biodiversity, climate
+change, international waters, land degradation, the ozone
+layer, and persistent organic pollutants. These projects
+benefit the global environment, linking local, national, and
+global environmental challenges, and promoting sustainable livelihoods. The concept of incremental cost, which
+notionally determines the payments made by the GEF, is
+related to the difference between the cost a country would
+be prepared to bear in the provision of an environmental
+public good (the cost that would be warranted in terms of
+the national benefits generated by the public good) and the
+cost of meeting global demand for the same public good
+(Pearce 2003, 2005). It is a national payment for an environmental service that is an IEPG.
+Systems of Payments for Ecosystem Services (PES)
+have become popular instruments for dealing with IEPGs,
+in part because they appear to satisfy the incremental cost
+principle (Ferraro and Simpson 2002; Goldstein et al. 2006;
+Wunder 2007; Ferraro and Kiss 2007; Pagiola 2008; Engel
+et al. 2008; Wunder et al. 2008). They are not, however,
+appropriate mechanisms in all cases. International PES
+schemes are appropriate where non-marketed ecosystem
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+AMBIO (2011) 40:798–806
+
+803
+
+services are privately supplied in one country, but offer
+benefits that are public and accrue elsewhere.
+To illustrate the potential pluses and minuses of PES, we
+consider a particular problem: the impact of local deforestation on the provision of a range of IEPGs including
+climate regulation (through carbon sequestration), protection of genetic diversity, and watershed protection in
+addition to timber and non-timber forest products. The
+Economics of Ecosystems and Biodiversity (TEEB) study
+is a major international initiative to draw attention to the
+global economic benefits of biodiversity, to highlight the
+growing costs of biodiversity loss and ecosystem degradation, and to draw together expertise from the fields of
+science, economics and policy to enable practical actions
+moving forward. The current assessment of TEEB on PES
+has used existing studies to estimate the mean value of both
+the macroclimatic regulation offered by terrestrial carbon
+sequestration, and the change in provisioning and cultural
+services offered by forest systems. Its findings are preliminary but telling. TEEB (TEEB 2009; Kumar 2010)
+suggests that the mean values of forest ecosystem services,
+in US$/ha/year, are dominated by regulatory functions:
+specifically regulation of climate ($1965), water flows
+($1360), and soil erosion ($694). The mean value of all
+provisioning services combined—timber and non-timber
+forest products, food, genetic information, pharmaceuticals—is $1313. This is less than the value of water flow
+regulation alone. There are substantial off-site benefits to
+forest conservation that are not currently captured by forest
+landowners and are difficult to incorporate on PES
+schemes.
+Governments around the world have frequently implemented forest protection policies in areas high in biodiversity, landscape beauty or critical for their watershed
+protection. However, as pressure mounts on governments
+to curtail spending and cut budget deficits, their ability to
+invest directly in the provision of public goods and services
+is compromised. Where public authorities have been
+unable to tackle the public good problem, they have searched for ways to involve non-governmental actors. Efforts
+to transfer responsibility for forest environmental services
+out of the public sector have relied on a combination of
+regulation and market-based approaches (Landell-Mills
+and Porras 2002). Experience has shown that well-designed
+market-based instruments can achieve environmental goals
+at less cost than conventional ‘‘command and control’’
+approaches, while creating positive incentives for continual
+innovation and improvement (Stavins 2003). Examples of
+such instruments in the forestry sector include stumpage
+value-based forest revenue systems, financial and material
+incentives, long-term forestry concessions, trade liberalization, forest certification and the promotion of markets
+for non-timber forest products.
+
+The costs and benefits associated with many human
+activities spill over jurisdictional boundaries, thereby
+generating externalities that are often reciprocal and
+quantitatively significant (Cornes 2008). Therefore, IEPGs
+supply depends on either international coordination or
+international cooperation. Among payment schemes to
+internalize the external benefits of maintaining intact forests, Reducing Emissions from Deforestation and Forest
+Degradation (REDD) is an effort to create a financial value
+for the carbon stored in forests, offering incentives for
+developing countries to reduce emissions from forested
+lands and invest in low-carbon paths to sustainable development. REDD is an example of international coordination
+in delivery of ecosystem services. Its integration into
+international market-based climate change policies poses a
+number of challenges both to institutional design and to
+implementation. At present, for example, there are few
+effective mechanisms for converting international payments to governments into incentives to on-the-ground
+forest communities (Myers 2008; Sikor et al. 2010).
+Indeed, creating an effective multilevel system of payments is seen as the core issue in building REDD considering that REDD goes beyond deforestation and forest
+degradation, and includes the role of conservation, sustainable management of forest and enhancement of forest
+carbon stocks (Anngelsen and Wertz-Kanounnikoff 2008).
+It is predicted that financial flows for greenhouse gas
+emission reductions from REDD could reach up to US$30
+billion a year. This significant North–South flow of funds
+could reward a meaningful reduction of carbon emissions
+and could also support new, pro-poor development, help
+conserve biodiversity, and secure vital ecosystem services.
+A second issue is the linkage between distinct ecosystem
+services. The REDD scheme targets one important ecosystem service: carbon sequestration. However, it has the
+potential to secure other services as well. These services
+potentially include both habitat provision for biodiversity
+conservation and watershed protection. Reaching international agreement on an instrument to reduce emissions
+from deforestation and forest degradation, while recognizing the co-benefits offered by conservation, and the
+sustainable management of forested watershed would both
+secure global carbon sequestration services, as well as help
+to maintain other valuable services provided by forests
+(TEEB 2009). There is growing recognition that REDD
+planning requires a broadened approach. A future REDD
+mechanism should incentivize emissions reduction from
+reduced deforestation, enhanced carbon sequestration and
+address a number of non-carbon services. Implementation
+of REDD also requires attention to the quality of forest
+governance, conservation priorities, local rights and tenure
+frameworks, and sub-national project potential (Phelps
+et al. 2010).
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+123
+
+804
+
+AMBIO (2011) 40:798–806
+
+IMPLICATIONS FOR INTERNATIONAL
+ENVIRONMENTAL POLICY
+Globalization is often associated with increased privateness—
+economic liberalization is associated with the growth of the
+number of goods and services allocated through markets,
+international market integration, and enhanced private crossborder economic activity such as trade, investment, transport,
+travel, migration and communication. However, globalization
+is also about increased publicness—about people’s lives
+becoming more interdependent. Events in one place of the
+globe often have worldwide repercussions. Moreover, a
+growing volume of international policy principles, treaties,
+norms, laws, and standards is defining common rules for an
+ever-wider range of activities (Kaul et al. 2003b).
+Public goods are recognized as having benefits that
+cannot easily be confined to a single ‘‘buyer’’ (or set of
+‘‘buyers’’). Yet once they are provided, many can enjoy
+them for free. A clean environment is an example. Without
+a mechanism for collective action, these goods will generally be underprovided. In fact, many crises dominating
+the international policy agenda today reflect the underprovision of global public goods. With globalization,
+externalities are increasingly borne by people in other
+countries. Indeed, issues that have traditionally been
+merely national are now global because of the greater
+interconnectedness of the planet.
+Kaul et al. (2003b) suggest a rethinking of three notions
+underpinning the theory of public goods. First, properties
+of non-rivalry in consumption and non-excludability of
+current benefits do not automatically determine whether a
+good is public or private. Some goods may be either public
+or private. Nevertheless, it is important to distinguish
+between a good’s having the potential of being public (that
+is, its having non-rival and non-excludable properties) and
+its being de facto public (non-exclusive and available for
+all to consume). Second, public goods do not necessarily
+have to be provided by the state. Many other actors can,
+and increasingly do, contribute to their provision. And
+third, a growing number of public goods are no longer
+national in scope, having assumed cross-border dimensions. Many have become global and require international
+cooperation to be adequately provided.
+For the most part, the theoretical and empirical literature
+in economics has focused on two polar models of public
+goods provision: the provision of pure public goods that
+benefit all agents, and the provision of local public goods
+that only benefit agents in one community (Bloch and
+Zenginobuz 2007). We are concerned with cases where the
+members of one community enjoy positive spillovers from
+the public goods provided by other communities. In the
+context of global climate regulation, the REDD scheme
+will compensate tropical nations that succeed in reducing
+
+123
+
+carbon emissions from deforestation and forest degradation—source of nearly one fifth of global carbon emissions.
+Since forests offer a number of benefits aside from carbon,
+however, the scheme could potentially benefits to communities that would otherwise be unable to afford them
+(Stickler et al. 2009). If well designed and implemented,
+PES schemes such as REDD have the potential to secure
+provision of IEPGs that offer benefits at multiple scales,
+such as the protection of water supplies, local and regional
+climate regulation, and habitat provision for the protection
+of biodiversity. The effectiveness of PES schemes depends
+heavily on the conditionality of payments (Arriagada and
+Perrings 2009), but the principles for their effective design
+and implementation are well understood.
+To summarize, the implications of this paper for international environmental policy are the following:
+1.
+
+2.
+
+Diagnosis of the public goods failure associated with
+particular ecosystem services is critical to the development of the appropriate international response.
+There are a number of cases where the incentive
+structure is such that independent actions by nation
+states will be ‘good enough’ to secure the public
+interest (Touza and Perrings 2011). Where the technology of supply is ‘best shot’ or where the local
+benefits are high enough to lead to a level of supply
+that is close to the global optimum, then the independent actions of nation states will be adequate. However, where local benefits lead to a level of local
+supply that leaves global demand unsatisfied, then
+international coordination or cooperation in the delivery of ecosystem services will be required. We note
+that this largely depends on the nature and strength of
+off-site effects. Local actions that generate significant
+off-site benefits or costs are most likely to require
+international coordination or cooperation. Off-site
+effects can reflect both natural (through hydrological
+or atmospheric flows) and social (through trade and
+travel) transmission. Since social transmission of
+effects is rapidly evolving, understanding social transmission pathways is important to the diagnosis of the
+public goods failure.
+There are two categories of IEPGs that are most likely
+to be undersupplied. The first involves an additive
+supply technology, a high opportunity cost of supply
+and transmission to a large number of other countries
+through the general circulation system. Examples
+include mitigation of climate change, and management
+of transboundary nutrient flows, currently addressed
+through the UN Framework Convention on Climate
+Change and the Convention on Long Range Transboundary Air Pollution. The second involves a weakest
+link supply technology, and transmission to a large
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+AMBIO (2011) 40:798–806
+
+3.
+
+4.
+
+805
+
+number of other countries through global trade,
+transport and travel. Examples include the management of infectious zoonotic diseases and the control of
+invasive pest species, currently addressed through the
+International Health Regulations, the Sanitary and
+Phytosanitary Agreement, and the Convention on
+Biological Diversity.
+If there is a public good failure that demands international
+coordination or cooperation, it is then important to
+determine the degree to which the collective response
+should be targeted. In principle, action should be targeted
+to reflect the weight attaching to the supply from any one
+country. So, at one extreme, international contributions to
+an IEPG with an additive supply technology that is
+unweighted (a simple sum), such as carbon sequestration
+by forest plantations, should not be targeted at all.
+Whereas international contributions to a weakest link
+international environmental public good, such as infectious disease control, should be targeted at the weakest
+link. In practice, most ecosystem services are jointly
+produced (come as a bundle), and involve an intermediate
+position. Particular countries are more important for the
+provision of some services than others (e.g., high
+biodiversity countries contribute more to the global gene
+pool than others) so most international contributions to
+IEPGs should be targeted in some measure.
+For IEPGs that are supplied in specific countries,
+support may take the form of direct investment in
+supply (the Global Environment Facility model) or of
+payments for the benefits of supply (the Payments for
+Ecosystem Services model). The fact that GEF is
+under-resourced, and is only weakly targeted, suggests
+that the second option may become the dominant
+mechanism for assuring local provision of IEPGs. We
+have elsewhere discussed the conditions that need to
+be satisfied for PES schemes to be effective (Arriagada
+and Perrings 2009). The most important of these is that
+payments for ecosystem services should be conditional
+on the supply of those services. Where PES schemes
+have both income transfer/poverty alleviation and
+public good supply objectives, conditionality may be
+lost altogether. It is important that the design of PES
+schemes fit the diagnosis of the public good problem,
+and the technology of public good supply.
+
+Acknowledgment The authors acknowledge support from the
+United Nations Environment Programme.
+
+REFERENCES
+Anand, P. 2004. Financing the provision of public goods. The World
+Economy 27: 215–237.
+
+Anngelsen, A., and S. Wertz-Kanounnikoff. 2008. What are the key
+design issues for REDD and the criteria for assessing options? In
+Moving ahead with REDD,, ed. A. Angelse. Bogor: SUBUR
+Printing.
+Arriagada, R., and C. Perrings. 2009. Making payments for ecosystem
+services work. Ecosystem services economics working papers.
+United Nations Environment Programme, Nairobi.
+Barrett, S. 2007. Why cooperate? The incentive to supply global
+public goods. Oxford: Oxford University Press.
+Batina, R., and T. Ihori. 2005. Public goods: Theories and evidence.
+Berlin: Springer-Verlag.
+Bloch, F., and U. Zenginobuz. 2007. The effect of spillovers on the
+provision of local public goods. Review of Economic Design 11:
+199–216.
+Cornes, R. 2008. Global public goods and commons: theoretical
+challenges for a changing world. International Tax and Public
+Finance 15: 353–359.
+Cornes, R., and T. Sandler. 1996. The theory of externalities, public
+goods, and club goods. New York: Cambridge University Press.
+Dombrowsky, I. 2007. Conflict, cooperation and institutions in
+international water management: An economic analysis. Cheltenham: Edward Elgar.
+Engel, S., S. Pagiola, and S. Wunder. 2008. Designing payments for
+environmental services in theory and practice: An overview of
+the issues. Ecological Economics 65: 663–674.
+Ferraro, P., and A. Kiss. 2007. Direct payments to conserve
+biodiversity. Science 298: 1718–1719.
+Ferraro, P., and R. Simpson. 2002. The cost-effectiveness of
+conservation payments. Land Economics 78: 339–353.
+Ferroni, M., and A. Mody. 2002. Global incentives for international
+public goods: Introduction and overview. In International goods
+public: Incentives, measurement, and financing,, ed. M. Ferroni,
+and A. Mody. Dordrecht: Kluwer Academic Publishers.
+Goldstein, J., G. Daily, J. Friday, P. Matson, and R. Naylor. 2006.
+Business strategies for conservation on private lands: Koa
+forestry as a case study. Proceedings of the National Academy of
+Sciences of the United States of America 103: 10140–10145.
+Hirshleifer, J. 1983. From weakest-link to best shot: The voluntary
+provision of public goods. Public Choice 41: 371–386.
+Holzinger, K. 2001. Aggregation technology of common goods and
+its strategic consequences: Global warming, biodiversity, and
+sitting conflicts. European Journal of Political Research 40:
+117–138.
+Kanbur, R. 2003. IFI’s and IPG’s: operational implications for the
+World Bank. In Challenges to the World Bank, IMF: Developing
+country perspectives,, ed. A. Buira. London: Anthem Press.
+Kanbur, R. 2004. Cross-border externalities, international public
+goods and their implications for aid agencies. In Global tensions:
+Challenges, opportunities in the World economy,, ed. L. Beneria,
+and S. Bisnath. New York: Routledge.
+Kaul, I., I. Grunberg, and M. Stern, ed. 1999. Defining global public
+goods. In Global public goods: International cooperation in the
+21st century. Oxford: Oxford University Press.
+Kaul, I., P. Conceição, K. Le Goulven, and R. Mendoza, ed. 2003a.
+How to improve the provision of global public goods. In
+Providing global public goods: Managing globalization. Oxford:
+Oxford University Press.
+Kaul, I., P. Conceição, K. Le Goulven, and R. Mendoza, ed. 2003b.
+Why do global public goods matter today? In Providing global
+public goods: Managing globalization. Oxford: Oxford University Press.
+Kumar, P. 2010. The economics of ecosystems and biodiversity.
+London: Earthscan.
+Landell-Mills, N., and I. Porras. 2002. Silver bullet or fool’s gold? A
+global review of markets for forest environmental services and
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+123
+
+806
+
+AMBIO (2011) 40:798–806
+
+their impact on the poor. London: International Institute for
+Environment and Development.
+Madsen, B., N. Carroll, and K. Moore. 2010. Offset and compensation
+programs worldwide. Washington: Ecosystem Marketplace.
+Millennium Ecosystem Assessment. 2005. Ecosystems and human
+well-being: General synthesis. Washington: Island Press.
+Morrissey, O., D. Te Velde, and A. Hewitt. 2002. Defining
+international public goods: conceptual issues. In International
+public goods: Incentives, measurement, financing, ed. M. Ferroni,
+and A. Mody. Dordrecht: Kluwer Academic Publishers.
+Myers, M. 2008. Policies to reduce emissions from deforestation and
+degradation (REDD) in developing countries. An examination of
+the issues facing the incorporation of REDD into market-based
+climate policies. Resources for the future. Discussion paper RFF
+DP 07-50, Washington, DC, USA.
+Ostrom, E. 1990. Governing the commons: The evolution of
+institutions for collective action. Cambridge: Cambridge University Press.
+Pagiola, S. 2008. Payments for environmental services in Costa Rica.
+Ecological Economics 65: 712–724.
+Pearce, D. 2003. The social cost of carbon and its policy implications.
+Oxford Review of Economic Policy 19: 362–384.
+Pearce, D. 2005. Paradoxes in biodiversity conservation. World
+Economics 6: 57–69.
+Perrings, C., and M. Gadgil. 2003. Conserving biodiversity: Reconciling local and global public benefits. In Providing global public
+goods: Managing globalization, ed. I. Kaul, P. Conceição, K. Le
+Goulven, and R. Mendoza. Oxford: Oxford University Press.
+Perrings, C., M. Williamson, E. Barbier, D. Delfino, S. Dalmazzone,
+J. Shogren, P. Simmons, and A. Watkinson. 2002. Biological
+invasion risks and the public good: an economic perspective.
+Conservation Ecology 6: 1.
+Phelps, J., M. Guerrero, D. Dalabajan, B. Young, and E. Webb. 2010.
+What makes a REDD country? Global Environmental Change
+20: 322–332.
+Samuelson, P. 1954. The pure theory of public expenditure. The
+Review of Economics and Statistics 36: 387–389.
+Sandler, T. 2004. Global collective action. Cambridge: Cambridge
+University Press.
+Sikor, T., J. Stahl, T. Enters, J.C. Ribot, N. Singh, W.D. Sunderlin,
+and L. Wollenberg. 2010. REDD-plus, forest people’s rights and
+nested climate governance. Global Environmental Change 20:
+423–425.
+Stavins, R. 2003. Experience with market-based environmental policy
+instruments. In Handbook of environmental economics, ed.
+M. Karl-Goran, and R.V. Jeffrey. Amsterdam: North Holland.
+Stickler, C., D. Nepstad, M. Coe, D. Mcgrath, H. Rodriguez, W.
+Walker, B. Soares-Filho, and E. Davidson. 2009. The potential
+ecological costs and co-benefits of REDD: A critical review and
+case study from the Amazon region. Global Change Biology 15:
+2803–2824.
+
+123
+
+TEEB. 2009. TEEB climate issues update. Nairobi: United Nations
+Environment Program.
+Touza, J., and C. Perrings. 2011. Strategic behavior and the scope for
+unilateral provision of transboundary ecosystem services that are
+international environmental public goods. Strategic Behavior
+and the Environment 1: 89–117.
+United Nations Development Programme. 2002. Profiling the provision status of global public goods. New York: UNDP Office of
+Development Studies.
+Wunder, S. 2007. The efficiency of payments for environmental
+services in tropical conservation. Conservation Biology 21:
+48–58.
+Wunder, S., S. Engel, and S. Pagiola. 2008. Taking stock: a
+comparative analysis of payments for environmental services
+programs in developed and developing countries. Ecological
+Economics 65: 834–852.
+
+AUTHOR BIOGRAPHIES
+Rodrigo Arriagada (&) is a Assistant Professor in the Department
+of Agricultural Economics at the Pontificia Universidad Catolica de
+Chile. Dr. Arriagada is also an associated research fellow for Environment for Development (EfD) initiative in Central America and
+ecoSERVICES Group at Arizona State University. His fields of
+specialization are environmental economics, program evaluation
+econometrics, applied microeconomics and development economics.
+Dr. Arriagada’s current research interests focus on environmental
+economics and policy, the use of experimental and quasi-experimental program evaluation methods on conservation interventions,
+deforestation and land use, issues at the intersection of economic
+development and environmental protection.
+Address: Department of Agricultural Economics, Pontificia Universidad Católica de Chile, Avenida Vicuña Mackenna 4860 Macul,
+Santiago, Chile.
+e-mail: rarriagadac@uc.cl
+Charles Perrings is a Professor of Environmental Economics at
+Arizona State University (ASU). Previous appointments include
+Professor of Environmental Economics and Environmental Management at the University of York; Professor of Economics at the University of California, Riverside; and Director of the Biodiversity
+Program of the Beijer Institute, Royal Swedish Academy of Sciences,
+Stockholm, where he is a Fellow. At ASU, he directs (with Ann
+Kinzig) the ecoSERVICES Group within the College of Liberal Arts
+and Sciences. The Group studies the causes and consequences of
+change in ecosystem services—the benefits that people derive from
+the biophysical environment. It analyses biodiversity change in terms
+of its impacts on the things that people care about.
+Address: ecoSERVICES Group, School of Life Sciences, Arizona
+State University, Box 874501, Tempe, AZ 85287-4501, USA.
+e-mail: Charles.perrings@asu.edu
+
+ Royal Swedish Academy of Sciences 2011
+www.kva.se/en
+
+

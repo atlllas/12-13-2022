@@ -1,0 +1,642 @@
+2. Population dynamics and fishing
+This chapter shows the basic features of fish stock dynamics and how the stock is
+affected by fishing. The sustainable yield curve, yield as a function of fishing effort, is
+derived. This curve is an important bridge between the work of biologists and
+economists, and it will be used extensively throughout these materials.
+
+2.1 Growth of fish stocks
+A fish species that lives and is able to reproduce itself within a given geographical
+area is called a stock or a population. In fisheries science and management literature,
+the term “stock” is most common, whereas in the ecology literature “population” is
+generally preferred. Some authors use stock as a synonym for an exploited population,
+but in this text the term stock will be used for any population, whether exploited or
+not. Ecologically speaking a population is “a group with unimpeded gene flow”. An
+example of the relationship between species and stocks is the North Atlantic species
+cod (Gadus morhua) which consists of several stocks, including the CanadianNewfoundlandic, the Icelandic and the Arcto-Norwegian cod. In principle, stocks are
+self-contained entities, even though there might be some migrational exchange
+between them. Each stock has its own particular characteristics that may be genetic, a
+result of differing environments, or usually a mixture of both. 1
+
+Fish stock change depends on recruitment, natural mortality, individual growth
+and harvesting. This may be summarised as follows:
+
+Stock change = Recruitment + Individual growth - Natural mortality - Harvest
+= Natural growth - Harvest
+Note that the stock change can be positive or negative if recruitment and individual
+growth together is greater or smaller, respectively, than natural mortality and harvest.
+Empirical research and theoretical reasoning have concluded that natural growth of
+fish stocks may be illustrated as bell-shaped growth curves as shown in figure 2.1.
+Growth curves could also be called yield curves since the natural growth of fish
+1
+
+Pitcher and Hart (1992) give a thorough review of fisheries biology and fisheries biological models as
+well as a review of fish stocks globally. Hamre (1986) and Pedersen (2002) give reviews of fish stocks
+in the North Sea and Norwegian waters.
+
+13
+
+stocks might be harvested. For most fish species, lower stock levels mean relative
+higher recruitment and individual growth, whereas higher stock levels imply relative
+lower recruitment, lower individual growth and/or higher natural mortality due to
+density-dependent biological processes. Thus, the sum of growth-augmenting and
+growth-impeding factors is a bell-shaped growth curve with the highest growth at an
+intermediate stock level. The maximum natural growth is at stock level X MSY in figure
+2.1. If the natural growth of the stock is harvested, the maximum harvest is achieved
+for stock level X MSY and this harvest is called the maximum sustainable yield (MSY).
+MSY could be, for example, 200 000 tonnes per year for a cod stock. In each case
+shown in figure 2.1 a stable equilibrium of the unharvested stock exists at level K, and
+this level is usually called the environmental carrying capacity of the stock.
+
+Figure 2.1. Growth curves with (a) compensation, (b) depensation, and (c) critical
+depensation.
+
+For growth curve (a) in figure 2.1 the relative natural rate of growth F(X)/X
+increases when the stock level decreases, and we call this effect pure compensation.
+At low stock levels, some stocks have relative growth rates that decrease with reduced
+stock level. The growth of such stocks is said to be depensatory, and two growth
+curves with depensation are shown in panels (b) and (c) in figure 2.1. Growth curve (c)
+has a critical stock level K 0 which implies extinction if the stock should be depleted
+below this level for any reason. Depensation may be observed for some prey stocks,
+for example, herring, but not exclusively prey stocks. This feature may be the effect of
+a predator, for instance, seals, that continue to consume its prey even when the prey
+stock declines. Thus, in such a case the prey stock will demonstrate depensatoric
+
+14
+
+growth. In case the predator is in strong need and has the ability to locate and
+consume the last school of prey, the prey stock is vulnerable to critical depensation
+and extinction if fished too hard.
+
+For a thorough discussion of bioeconomic fishery models we shall need some
+simple mathematical tools. The following symbols will be used, where t indicates
+point in time:
+
+X (t ) = Stock level (weight of the stock, for example in thousand tonnes)
+
+X (t ) = dX(t)/dt = Change in stock per unit of time
+F ( X ) = Natural growth function.
+
+Unless necessary for the understanding, the symbol for time, t, will be omitted in the
+text and equations.
+
+For the natural growth function dX/dt = F(X) the following characteristics are
+valid:
+
+(2.1)
+
+F'(X ) =
+
+dF ( X ) >
+< 0
+dX
+
+for
+
+X
+
+<
+>
+
+X MSY .
+
+A closer look at figure 2.1 reveals that the growth curves in panels (a) and (b) fulfil
+the requirements of growth function (2.1). However, this is not the case for very low
+stock levels in panel (c). Natural growth, expressed as in figure 2.1 and equation (2.1),
+is the limit to fishers’ harvest. To produce a harvest, fishers need man-made tools and
+fishing effort, in addition to nature’s tool, the fish stock. Without both, there will be
+no harvest.
+
+Note that the growth curve in Figure 2.1 panel (a) is based on the natural
+growth function F ( X ) = rX (1 − X / K ) which we shall return to several times. In this
+function K is the carrying capacity of the habitat of this fish stock. Thus K is the
+maximum stock level, to be observed only before harvesting takes place. Further, r is
+the maximum growth rate, F(X)/X, to be observed only when X is close to zero.
+
+15
+
+Box 2.1 The Zarephath widow’s pot
+The importance of the supply of natural resources for people’s survival and welfare
+have been described and discussed in both the secular and religious literature down
+the ages. The Bible, for example, mentions in several places water resources and their
+significance for people living in the area that today is called the Middle East. Issues
+related to the production of food from land and sea are also common themes in the
+Bible. The story of the Zarephath widow’s pot is a case of renewable resource use. In
+fact, it was not just one pot in this story, but two – a jar and a cruse.
+In 1Kings 17, the Bible tells how the prophet Elijah had been living from water of the
+stream Cherith, east of Jordan, and of bread and meat that the ravens brought him in
+the mornings and evenings. However, after a while the stream dried up because of
+lack of rain. Then God told Elijah to go to the town of Zarephath to stay with a poor
+and hungry widow. He came upon her at the gate of the city and she willingly shared
+her very last resources with him, using her final meal and oil to make a cake to be
+shared between Elijah, her son and herself.
+And Eli'jah said to her, “Fear not; go and do as you have said; but first make me a
+little cake of it and bring it to me, and afterward make for yourself and your son. For
+thus says the LORD the God of Israel, 'The jar of meal shall not be spent, and the
+cruse of oil shall not fail, until the day that the LORD sends rain upon the earth.'"
+And she went and did as Eli'jah said; and she, and he, and her household ate for
+many days. The jar of meal was not spent, neither did the cruse of oil fail, according
+to the word of the LORD which he spoke by Eli'jah.
+1 Kings17, 13-16.
+As the pots of the widow sustained her use of meal and oil, so the fish in the sea might
+sustain mankind’s harvest. As long as harvesters use the resource within its
+production possibilities, the fish stock will give a lasting yield. However, it might go
+wrong if too many take too much from the same pot. A necessary, but not sufficient
+condition to avoid over-fishing is ecological and economic knowledge – that is to say,
+knowledge about interactions between man and nature.
+Epilogue. Supply and sharing of resources are hardly as easy as in this story. Could it
+be that future “water wars” would be much harder, with more severe consequences for
+the people involved than some of the fish wars we have seen in recent decades? The
+Middle East area of Elijah and the widow in this story might be a candidate area for
+such wars. However, with co-operation and proper management conflicts may be
+avoided or reduced, for water as well as for fish resources.
+
+16
+
+2.2 Effort and production
+A fish harvesting firm or a fisher uses several inputs, or factors, to catch fish and to
+land it round, gutted or processed. Inputs used include fuel, bait, gear and labour. In
+this respect a harvesting firm is not much different from any other firm – a set of
+inputs is used to produce an output. However, the direct contribution from the natural
+resource, the fish stock, constitutes a significant difference compared with a
+manufacturing firm that can use as much as it wants of all the required inputs. A fisher
+can vary the amount of inputs, but not the size of the stock.
+
+In actual fishing we usually find that for a given set of inputs the amount of
+output for the fishing firm varies with the stock level and the availability of the fish.
+Fish migration for spawning and feeding makes most stocks in certain areas more
+available for the fishers at some times of the year than in others. Such seasonal
+variations in the distribution of fish stocks and year classes are the basis for many
+seasonal fisheries around the world. However, to start with, we shall simplify the
+analysis by disregarding seasonal variations and assume that the fish stock is
+homogeneously distributed across area and time. The focus is on the size of the stock
+and the importance of this for the catch.
+
+For analytical and practical purposes it is useful to let fishers encounter the
+stock with what is called fishing effort, or just effort. Examples of effort are hours of
+trawling, number of gillnets and number of long-line hooks. Effort is produced by
+optimal use of inputs and is expressed in the production function
+
+(2.2)
+
+E = Ψ ( v1 ,..., vn ) ,
+
+where E is effort and v i is factor i. In one way, this is a regular production function
+recognisable from the theory of the firm. However, the great difference is that E is not
+a final product to be sold, like the products of most firms, but an intermediate good
+produced to encounter the fish stock.
+
+17
+
+Catch, the product of fish harvesting firms, is a function of effort and stock
+and this can be expressed in the harvest function
+
+(2.3)
+
+H = f (E, X ) .
+
+Harvest function (2.3) is a short-run production function in the sense that it is valid for
+a given stock level at any point in time, without any feedback from effort to stock.
+Figure 2.2 gives an example of how catch varies with effort for two stock levels; H:
+high and L: low. Note that the catch is non-increasing in effort – that is, more effort
+implies higher catch, but not necessarily proportional to the increase in effort.
+
+Figure 2.2. Short-run variations in harvest as a function of effort.
+
+If effort is measured, for example, in trawl hours, catch could be measured in
+kg or tonnes. Effort and catch should both be related to the same unit of time, which
+could be a day or a week.
+
+Thus, there is a dichotomy in the analysis of fish production that is not found
+in the traditional theory of the firm. This way of analysing fisheries has the advantage
+that it treats the inputs controlled by the firm, such as fuel, bait and gear, differently
+from the major input, fish stocks. The latter is a necessary factor of production
+affected by the actions of numerous fishers (see the next section), but not controlled
+by any of them.
+
+18
+
+2.3 Yield and stock effects of fishing
+Fish stock levels are affected by fishing if the total effort is sufficiently high over
+some period of time. How much depends on the growth potential of the stock and the
+total harvest. Change in the stock is expressed by the growth equation
+
+(2.4)
+
+X = F ( X ) − H .
+
+From this equation follows
+
+(2.5)
+
+X
+
+>
+<
+
+0
+
+if
+
+H
+
+<
+>
+
+(X) .
+
+To ensure positive growth of the stock, the harvest must be lower than the natural
+growth. Biological equilibrium is by definition achieved when X = 0 , and in this case
+equations (2.3) and (2.4) give
+
+(2.6)
+
+f ( E , X ) = F ( X ).
+
+Since this is one equation with two variables, X and E, the stock is implicitly given as
+a function of effort E. This means that at equilibrium the stock level is a function of
+effort, and from equation (2.3) it now follows that the equilibrium harvest is also a
+function of effort. This equilibrium harvest is often called sustainable yield since it
+can be sustained by the stock for a given level of effort.
+
+We have seen that, knowing the growth function F(X) and the short-run
+harvest function (2.3), the sustainable yield may be derived from equation (2.6). This
+can also be done graphically as shown in figure 2.3. To simplify the analysis we now
+assume that the short-run harvest function is linear in effort and stock level:
+
+(2.7)
+
+H = qEX .
+
+Equation (2.7) is called the Schaefer harvest function (Schaefer, 1957). The parameter
+q is a constant called the availability parameter. This parameter expresses how
+effective the effort is in relation to the stock level. If effort is measured in, for
+
+19
+
+example, gill net days, q expresses the ratio between catch per gill net day, H/E, and
+stock level, X. Thus, the value of q is directly linked to the scaling of E. In some
+fisheries the combined harvest technology and fish behaviour is such that catch per
+unit of effort, H/E, is nearly independent of the stock size (see Bjørndal, 1987). In
+other fisheries catch per unit effort increases with the stock level, but not
+proportionally as in the Schaefer function (see Eide et al., 2003).
+
+Panel (a) of figure 2.3 shows short-run harvest as straight lines for five
+different effort levels. For the smallest effort E 1 the harvest curve crosses the growth
+curve for stock level X 1 and harvest H 1 . Thus, a small effort – over a sufficiently long
+time to let the stock reach equilibrium – gives a high stock level and a relatively small
+catch. A somewhat higher effort level E 2 gives a lower stock level X 2 but a higher
+sustainable catch, H 2 . However, an even higher effort like E 4 gives stock level X 4 that
+is significantly lower than X 2 , even though the sustainable catch H 4 is equal to H 2 .
+Similarly, E 5 gives a catch H 5 equal to E 1 , even though the stock level X 5 is much
+smaller than X 1 . In Figure 2.3 the highest possible harvest is reached for effort level
+E 3 and this harvest is called the maximum sustainable yield (MSY).
+
+Figure 2.3. The sustainable yield curve shows harvest as a function of effort and is
+derived from the natural growth curve and the harvest curve.
+The natural-growth stock-level curve in panel (a) has been transformed into a
+sustainable-harvest effort curve in panel (b). The H(E) curve is also called the
+sustainable yield curve and it connects the long-run harvest potential to fishing effort.
+This harvest-effort curve has the same form as the growth curve in this case since the
+
+20
+
+Schaefer short-run harvest function is linear in both effort and stock. It is important to
+note the difference between the short-run harvest function H = f (E,X) in (2.3),
+depicted as straight lines in panel (a) of figure 2.3, and the sustainable yield curve
+H(E), in panel (b). The former is valid for any combination of effort, E, and stock, X,
+at any time, whereas the latter is the long-run equilibrium harvest for given levels of
+effort. The sustainable yield curve is conditional on equilibrium harvest.
+
+The main purpose of figure 2.3 is to derive the equilibrium harvest-effort
+curve shown in panel (b). Let us now use this to discuss what happens over time if
+fishing takes place outside equilibrium. Suppose fishers use effort E 1 to harvest a
+virgin stock at the carrying capacity level K. To start with, the harvest will be
+significantly greater than H 1 since the stock level K is bigger than X 1 , and this implies
+that the stock level will decrease. When the stock decreases, the harvest will also
+decrease until it reaches such a level that, according to the short-run harvest curve
+designated qE 1 X in panel (a) of figure 2.3, harvest equals the natural growth of the
+stock. The decrease in harvest will continue until stock level X 1 has been reached. At
+this point in time, harvest equals natural growth, and another equilibrium has been
+established. On the other hand, if fishers use effort E 1 to fish at a stock level lower
+than X 1 the stock will grow since natural growth is greater than harvest. The length of
+the transition period between, for example, the virgin stock level K and level X 1
+depends on the biological production potential of the stock. Growth curves and
+sustainable yield curves, as shown in figure 2.3, may be used to compare different
+equilibria but cannot be used to tell how long a time the transition from one
+equilibrium to another will take.
+
+So far in this chapter we have analysed the effects of fishing on a stock with growth
+compensation (see figure 2.1). However, if the growth process exhibits depensation or
+critical depensation, the sustainable yield curve proves to become very different from
+the case of compensation. This is demonstrated in figures 2.4 and 2.5. The former is
+for the case of depensation and the latter is for the case of critical depensation of
+growth. In figure 2.4 panel (a), E D is the effort that makes the Schaefer harvest curve
+tangent to the growth curve at the zero stock level. Mathematically, E D can be found
+from equation
+
+21
+
+Figure 2.4. The natural growth curve and sustainable yield as a function of effort in
+the case of depensation.
+
+Figure 2.5. The natural growth curve and sustainable yield as a function of effort in
+the case of critical depensation.
+
+(2.8)
+
+qE D = lim F ' ( X ) .
+X →0
+
+The left-hand side (lhs) of this equation is the slope of the Schaefer harvest curve, and
+the right hand side (rhs) is the slope of the growth curve.
+
+To ensure a sustainable harvest there is an upper limit on effort which cannot
+be exceeded, and this effort level is designated E MAX in figures 2.4 and 2.5. If effort
+
+22
+
+levels above E MAX are maintained for a sufficiently long time the stock will be
+biologically over-fished and finally will become extinct. In case of extinction, panel
+(b) of figures 2.4 and 2.5 shows that the yield is zero for effort higher than E MAX .
+Figure 2.4 panel (b) shows that the harvest curve is double, with an upper and
+a lower branch for each value of effort between E D and E MAX . This is due to the
+existence of two intersection points between each of the linear harvest curves and the
+growth curve, as shown in panel (a). There is, however, a significant difference
+between the two branches of the yield curve. The upper part constitutes stable points
+of harvesting whereas the lower part constitutes unstable harvesting. An example will
+explain the stability problem. The harvest curve for effort E 1 intersects with the
+growth curve for two stock levels, the low one X 1L and the high one X 1H in panel (a)
+of figure 2.4. For stock levels lower than X 1L the harvest curve is above the growth
+curve and the natural growth is too small to compensate for the harvest. This implies
+that the stock will decrease from X 1L to zero if effort E 1 is maintained over a
+sufficiently long period of time, indicated in panel (a) by an arrow pointing to the left.
+Thus, X 1L is an unstable equilibrium for the stock harvested by effort E 1 . This would
+also be the case for all other left-hand side intersections between the harvest curve and
+the growth curve for effort levels between E D and E MAX . On the other hand, if the
+stock level is just above X 1L natural growth is larger than harvest for effort E 1 and the
+stock will increase. An arrow pointing to the right indicates this. Therefore, in this
+case the stock will in the long run increase towards X 1H , which is a stable equilibrium.
+The lower part of the yield curve in figure 2.4 panel (b) is dashed to mark that this
+part represents unstable harvest. Figure 2.5 shows that, in case of growth with critical
+depensation, the harvest curve is double for all levels of E between zero and E MAX .
+The lower part of the yield curve also represents unstable harvest in this case.
+
+Exercise 2.1
+Assume that the harvest function is H(E,X)=qEX, where q is the catchability
+coefficient and E is fishing effort. The catchability coefficient for a particular fishery
+is q=0.00067, and the stock level is X=3.0 million tonnes.
+
+a)
+
+What is the catch per unit of effort (CPUE) in this case?
+
+23
+
+b)
+
+What could the unit of measurement of effort be if the fish stock is for example
+cod or hake?
+
+Exercise 2.2
+X
+
+Assume that the function F ( X ) = rX 1 −  describes the annual natural growth of a
+K
+
+
+fish stock. X represents the stock biomass at the start of the year. K is the
+environmental carrying capacity in stock biomass terms and r is the intrinsic growth
+rate.
+a)
+
+Show that the maximum sustainable yield (MSY) can be expressed by the two
+parameters r and K, so that MSY =
+
+b)
+
+rK
+.
+4
+
+Draw a picture of F(X) for r=0.4 and K=8.0 million tonnes.
+
+Assume that the harvest function is H(E,X)=qEX, where q is the catchability
+coefficient and E is fishing effort measured in number of vessel year.
+
+c)
+
+Show how the sustainable yield curve (the long-run catch function) H(E) can be
+found. Tip: find it graphically like in figure 2.3, or by use of H(E,X)=F(X)
+where you eliminate X by using the harvest function.
+
+d)
+
+Add to your picture of F(X) the harvest function H(E,X)=qEX for q=0.00067
+and E equal to 100, 200, 400 and 500 vessel year. What is the sustainable yield
+for these levels of effort?
+
+24
+
+5. The Gordon-Schaefer model
+This chapter discusses the Gordon-Schaefer model for analysis of open-access and
+optimally managed fisheries. The main differences between this and the previous
+chapters are derived from the use here of a specific form of the natural growth
+function. This allows us to find exact expressions for equilibrium levels of the fish
+stock, effort, revenues, costs and resource rent.
+
+5.1 The logistic growth model
+Most fish stocks are such that natural growth is small for both high and low stock
+levels and largest for some intermediate level. The reasons for this are mainly densitydependent biological factors, such as individual growth and natural mortality. In the
+previous chapters we have used a bell-shaped graph for natural growth as a function
+of stock size. Now we are going to use the logistic growth function, which is a
+mathematical representation of biomass growth of an animal stock, and this depicts a
+symmetric bell-shaped natural growth curve.
+
+Stock change per unit of time is
+
+(5.1)
+
+dX
+= F(X ) − H,
+dt
+
+where F(X) is natural growth and H is catch. The Gordon-Schaefer model, named
+after the works of two Canadian researchers (economist H. Scott Gordon (1954) and
+biologist M. B. Schaefer (1957)), is based on the logistic type natural growth equation
+
+(5.2)
+
+F ( X ) = rX (1 − X / K )
+
+Equation (5.2) was designed and discussed first by P. F. Verhulst (1838), and later rediscovered by R. Pearl (1925). Parameter r is the maximum relative growth rate, also
+called the intrinsic growth rate, and K is the carrying capacity, both parameters
+assumed to be fixed. The reader should verify that the relative natural growth is a
+linear function of the stock level and approaches its maximum, equal to r, when the
+
+72
+
+stock level goes to zero, that is F(X)/X approaches r when X approaches zero.
+Parameter r is mainly related to the actual species we are studying while K depends
+on mainly the natural environment of the stock, such as size and biological
+productivity of the habitat. Equation (5.2) is quadratic in X and for low stock levels
+the first part with the positive sign is dominating, whereas for higher levels the second
+part, with the negative sign, is dominating. Natural growth is usually positive, but
+may even be negative if the stock level for any reason is higher than K. However,
+negative natural growth can for obvious reasons not represent biological equilibrium,
+with dX/dt = 0 in (5.1), neither with nor without harvesting.
+
+Natural growth has its maximum for a specific stock level that may be found
+by maximising F(X) with respect to X. This stock level produces the maximum
+sustainable yield (MSY), and the student should verify that this equals
+
+(5.3)
+
+X MSY = K / 2.
+
+Substituting X MSY for X in equation (5.2) gives
+(5.4)
+
+MSY = F ( X MSY ) = rK / 4.
+
+Thus the maximum sustainable yield equals a quarter of the product of the two
+parameters.
+
+The Gordon-Schaefer model includes natural growth, according to the law of
+equation (5.2), and harvest according to
+
+(5.5)
+
+H = qEX
+
+that we recall from chapter 2. This harvest function has the property of having catch
+per unit of effort proportional to the stock level, with the catchability parameter q as
+the proportional ratio. In Schaefer (1957) catch and effort data were used to estimate
+changes in fish stocks.
+
+73
+
+We are now going to find the connection between harvest and effort at
+equilibrium for this model. Equilibrium harvesting means dX/dt ≡ 0 and H ≡ F(X) in
+equation (5.1), and from (5.5) follows X = H/qE. Substituting this expression for X in
+(5.1) gives
+
+(5.6)
+
+H=
+
+rH
+qE
+
+
+H 
+1 −
+.
+qKE 
+
+
+Rearranging equation (5.6) somewhat gives
+
+(5.7)
+
+ qE 
+H = H ( E ) = qKE 1 −
+,
+r 
+
+
+when H ≡ F ( X ).
+
+Comparing (5.7) and (5.2), we notice also that the former, the equilibrium harvest
+function, is a quadratic function. It is quadratic in the product qE, whereas the natural
+growth function (5.2) is quadratic in X. You may notice that the product qE has to be
+less than r to have a positive harvest, according to equation (5.7). If qE is kept at or
+above r the stock becomes extinct and this of course gives a zero equilibrium harvest.
+We are now going to use the equilibrium harvest function for an economic analysis of
+open access and optimally managed fisheries.
+
+5.2 The open-access fishery
+Let us now see if we can find the open-access effort and stock equilibrium levels
+expressed as functions of biological and economic parameters. This way we may
+analyse the equilibrium levels are affected by changes in parameter values.
+
+When harvest is sold in a competitive market with several close substitutes,
+the quay price of fish, p, is hardly dependent on the quantity landed. Let us assume
+that p is constant. Price multiplied by quantity in (5.7) gives the total revenue
+
+74
+
+(5.8)
+
+qE 
+
+TR( E ) = pH = pqKE 1 −
+.
+r 
+
+
+The TR(E) curve and the H(E) curve are shown in Figure 5.1 panel (a) for p > 1. In
+this case the TR curve is above the H curve, but generally the graphical picture
+depends on the units of measurement for total revenue and harvest.
+
+Figure 5.1. The sustainable harvest and revenue curves, as well as total cost, are
+shown in Panel (a), and the marginal and average revenue and cost curves
+of the Gordon-Schaefer model are shown in Panel (b).
+Total harvest costs increase with effort, and the simplest form is when the increase is
+proportional. With a constant unit cost of effort, a, total cost equals
+
+(5.9)
+
+TC ( E ) = aE.
+
+75
+
+The total cost is shown as a straight line in Figure 5.1 panel (a). In this case MC(E) =
+AC(E) = a, and this is shown in panel (b). We may use equation (5.8) to find the
+average and marginal revenue of effort. The average revenue equals
+
+(5.10)
+
+qE 
+
+AR ( E ) = TR( E ) / E = pqK 1 −
+.
+r 
+
+
+The average revenue curve is a straight, downward sloping line as shown in Figure
+5.1 panel (b). Its maximum is for E close to zero. In this case the equilibrium stock
+level will be close to its carrying capacity, implying the highest AR(E). The average
+revenue approaches zero when effort E approaches r/q. If the fishing effort is kept
+sufficiently large, E > r/q, for a long time the stock becomes extinct. This is why
+AR(E) = 0 for such high effort levels.
+
+Let us now find the open-access effort level for the Gordon-Schaefer model.
+We have seen in Ch. 3, equation (3.6) that at bioeconomic equilibrium under openaccess MC(E) = AR(E). With total cost given in (5.9) the open-access equilibrium
+level of effort can be found from AR(E) = a combined with (5.10). This gives
+
+(5.11)
+
+E∞ =
+
+r
+a 
+1 −
+.
+q
+pqK 
+
+Thus the open-access equilibrium level of fishing effort depends on both biological
+and economic parameters. It is proportional with the intrinsic growth rate r, increases
+with fish price and carrying capacity, and decreases with effort cost. In other words,
+fisheries based on biologically highly productive resources with large r and K, may
+sustain a large fishing effort under open-access. In addition, this may be spurred on by
+high fish price and low effort cost. Having found the open-access effort level in (5.11)
+the corresponding equilibrium harvest may be found by substituting E ∞ for E in
+equation (5.7).
+
+After discussing the open-access fishing effort, let us now find the open-access
+equilibrium level of the fish stock. For this we will use the unit cost of harvesting and
+
+76
+
+

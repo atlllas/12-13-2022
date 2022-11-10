@@ -1,0 +1,1204 @@
+WHAT SAVED THE WHALES?
+AN ECONOMIC ANALYSIS OF
+20TH CENTURY WHALING
+1.
+2.
+
+Viktoria Schneider1 and David Pearce2
+Department of Economics, University of Otago, Dunedin, New Zealand
+CSERGE-UCL, Department of Economics, University College London, UK
+
+Introduction: explaining the whaling cycle
+Global whale catch statistics have been collected since the late 1860s. In the 20th Century, the data show a
+sustained increase in global catch until the start of the 1960s after which catches decline markedly and stocks
+appear to stabilise. Analysis of the data reveals a whaling cycle very much as would be expected for an openaccess marine resource that is initially abundant but which then gets successively overexploited, species by
+species. The resulting scarcity motivated international efforts to regulate the catch and those regulations
+determine the current whale stock at an albeit much reduced level compared to a century ago. But how far were
+international regulations the driving force in stabilising whale populations? In this paper we argue that economic
+forces leading to reduced catches were at work long before international regulations came into being. To a
+considerable extent, therefore, harvests would have stabilised anyway. As others have shown with respect to
+various international environmental agreements (e.g. Barrett, 1994), co-operative international regulation often
+formalises a non-co-operative outcome, i.e. the outcome that would have occurred in the absence of the
+regulation. As such, agreements may be self-enforcing. Such a conclusion should not detract from co-operative
+regulatory efforts, but it does suggest that those efforts are less effective than some political and legal analysts
+might argue.
+We identify two basic economic forces at work. First, as predicted in bio-economic theory (e.g. Clark, 1973,
+1990), declining stocks raise the unit costs of harvest, making whaling ultimately less attractive from a
+commercial standpoint. Offsetting this effect is technological change in the whaling industry that lowered costs
+for long periods, explaining why the demise of the whaling population takes a substantial period to materialise.
+Second, whaling products have substitutes and as these substitutes became more plentiful, so the commercial
+incentive to catch whales declined. In order to isolate the various forces at work, we produce a straightforward
+econometric analysis of whale catch time series and the economic factors determining catches.
+The historical record of whale catches
+We begin by constructing an historical series of whale catch. With the regular publication of International
+Whaling Statistics by the Committee for Whaling Statistics in Oslo, Norway as a requirement under Article IV of
+the International Convention for the Regulation of Whaling, whale catch data was recorded as far back as 1868,
+and in more detail since 1909-10. With total Antarctic whaling making up between 60% and 80% of whaling
+world-wide through the course of time1, catch data conform to the Antarctic season. The Southern Hemisphere
+season lasted from December until March, while the Northern Hemisphere season followed in the summer
+thereafter. Hence – unless catch is specified to be Antarctic only – Antarctic seasons indicated as e.g. 1909-10
+include the summer season for 1910 in the Arctic, Atlantic and Pacific. By extracting the data from the published
+volumes of the Committee for Whaling Statistics since 1931, it was possible to plot numbers of whales caught
+world-wide by species and by country since the onset of pelagic whaling2.
+
+1
+
+The International Whaling Statistics allow us to identify numbers of whales caught in the Antarctic – total and pelagic – by species, which
+in comparison to catch data world-wide enables a percentage calculation of the Antarctic stake.
+2
+Raw data can be provided on request (Vicky_Schneider@yahoo.com). Alternatively, selected sets of data can be viewed under
+http://luna.pos.to./whale/.
+
+Figure 1. Catches of the great whales from 1909-10 to 1983-84, worldwide by species.
+
+Whale catch from 1909-10 to 1983-84
+Worldwide by species
+
+Number of whales caught
+
+70,000
+Blue
+
+60,000
+
+Fin
+
+50,000
+
+Humpback
+
+40,000
+
+Minke
+Sei
+
+30,000
+
+Sperm
+
+20,000
+
+Others
+Total
+
+10,000
+1981-82
+
+1977-78
+
+1973-74
+
+1969-70
+
+1965-66
+
+1961-62
+
+1957-58
+
+1953-54
+
+1949-50
+
+1945-46
+
+1941-42
+
+1937-38
+
+1933-34
+
+1929-30
+
+1925-26
+
+1921-22
+
+1917-18
+
+1913-14
+
+1909-10
+
+0
+
+Season
+
+Although a wide range of whale species has been caught throughout the phase of modern whaling, the main
+target species consisted of the Blue, Fin, Humpback, Minke, Sei and Sperm whale. Floating factories and
+catchers were not specialised in the kind of species they caught, but instead were easily transferable between
+individuals or nations and flexible in the processing of baleen whale species. Whalers aimed for the biggest
+individuals available, thereby maintaining the industry by successively targeting new species. Being the biggest,
+and therefore initially the most profitable, the Blue whale was the first species to be depleted below its maximum
+sustainable yield, with a peak of 29,650 animals being killed in the 1930-31 season. After World War II, during
+which whaling temporarily ceased altogether, population levels declined steadily until the Blue whale was given
+full protection world-wide in 1966.
+The second biggest species, worth half a Blue in terms of oil production3, was the Fin whale, and its path of
+depletion displays a similar pattern to that of the Blue whale, albeit slightly shifted to the right. The Fin catch
+peaked before the second World War at around 30,000, but continued to be harvested at 20,000 -30,000 whales
+per annum until the mid 1960s.
+The Humpback whale, the Sei whale, the Sperm whale and the Minke whale follow similar patterns of peak and
+decline. The Humpback whale was roughly similar to the Fin whale in terms of oil value, but depleted at much
+lower absolute numbers due to less abundant population levels. Reaching its pre-war peak a year before the Fin
+at 9,863, it followed a similar pattern to the Fin harvest with a steady catch of 2,000 to 5,000 individuals in postwar years until the 1962-63 season marked the decline. Worth only a sixth of a Blue, the Sei whale was spared
+until the early 1960s, when catch reached its single peak at 25,453 individuals declining rapidly thereafter with a
+mere 634 being harvested in 1977-78. Although not part of the BWU, sperm whale oil as a means of lighting
+lamps and producing candles experienced a boom between 1820 and 1850, but vanished rapidly due to its
+replacement by kerosene. In the late 1950s, however, the US government launched its space rocket programme,
+buying sperm whale oil as a specialised lubricant, thereby raising its price fivefold and making the chase for this
+species highly valuable. With the Soviet Union also starting to concentrate upon sperm whales for their oil use in
+specialised machinery, this, the only toothed species out of the group of the great whales, reached a peak of
+29,255 animals taken in 1963-64 and was hunted at numbers above 20,000 until 1981-82. The smallest of the
+commercial species called the Minke whale - not included in the BWU either - started to be harvested only in
+1971 with a steady number of 6,000 to 9,000 individuals taken each year. No significant decline is visible
+towards the end of the data period, and it is believed that Minke whales occur in abundant levels in the ocean to
+this day.
+Overall, the total amount of whales harvested between 1909-10 and 1983-84 displays a culminating peak with
+two significant drops in 1931-32 and 1941-42 to 1944-45. The first drop occurred due to an overproduction of
+3
+The Blue Whale Unit (BWU)was introduced in 1931. In terms of oil production: 1 Blue whale = 2 Fin whales = 2.5 Humpbacks = 6 Sei
+whales
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 2
+
+oil, which swamped the market, inducing a price drop, and the establishment of first inter-company quota
+agreements at 16,000 BWUs. The second drop signified the period of World War II where whaling was ceased
+by nearly all harvesting nations, only to be resumed again until an absolute peak of 66,026 harvested whales in
+the 1961-62 season was reached. Thereafter, catch figures declined steadily until only 9,893 individuals could be
+caught in 1982 – the year the International Whaling Commission approved of the moratorium. Within the data
+period of 72 years, a grand total of 2,497,143 whales were persecuted, killed and processed – a figure that
+reveals the massive scale of global whaling activity.
+Figure 2.
+
+Catches of the great whales from 1909-10 to 1983-84, worldwide by country
+Whale catch from 1909-10 to 1983-84
+Worldwide by country
+
+Number of whales caught
+
+70.000
+
+British Com.
+
+60.000
+
+Norway
+
+50.000
+
+Europe
+Japan
+
+40.000
+
+South Africa
+
+30.000
+
+Americas
+
+20.000
+
+U.S.A.
+Russia
+
+10.000
+
+Total
+
+1979-80
+
+1974-75
+
+1969-70
+
+1964-65
+
+1959-60
+
+1954-55
+
+1949-50
+
+1944-45
+
+1939-40
+
+1934-35
+
+1929-30
+
+1924-25
+
+1919-20
+
+1914-15
+
+1909-11
+
+0
+
+Season
+
+In total, about 29 countries participated in whaling activities since the beginning of the 20th century, most of
+them only on a minor scale, while just a handful of nations made up the bulk of the harvest. It is interesting to
+note that each whaling country or region is characterised by a hump-shaped curve, where an initial period of
+rapidly increasing numbers taken culminates in a single peak or short-term high level before dropping again as
+rapidly as it rose, albeit distributed across time for the various countries. Norway and Britain shared a relatively
+similar whaling path due to their long-standing tradition of fishing and whaling. Up to the 1950s these two
+nations dominated the whaling industry, harvesting mainly Blue and Fin whales. With fast depreciating whaling
+equipment and successively lower numbers caught, Britain and Norway suspended pelagic whaling at the
+beginning of the 1960s, selling their catchers and floating factories to Japan and Russia. Japan entered pelagic
+whaling shortly before the war and harvested substantial numbers throughout the 1950s and 1960s, with its main
+prey species being the Fin and Sei whale. Japan consumed baleen whales not only for their oil as an input into
+margarine and other related food products but also for their traditionally eaten meat, especially during post-war
+famine conditions. Japan's peak harvest was 24,468 whales taken in 1964-65, just shortly after the worldwide
+peak in whaling in 1961-62, suggesting that Japan was one of the main agents in the culminating exploitation
+towards the end. Similarly, Russia concentrated mainly on sperm whales for their oil as specialised lubricants.
+Russia entered the fray just after the second World War, peaking a year later than Japan with 21,313 animals
+killed in 1965-66. Each with only three factories left in the Antarctic in the 1960s, Russia and Japan were the last
+nations to withdraw from big-scale whaling towards the end of the 1970s – and hence the ones lodging the most
+vehement obligations against the moratorium.
+Whale stocks
+Common sense dictates that one of the most crucial factors determining the development path of whaling over
+time will be the yearly change in whale stock levels. As stocks decline so harvesting costs should rise. Stock data
+on the various species in the different hunting areas over such a long stretch of time are practically impossible to
+come by - even the International Whaling Commission withdrew any former publications of stock assessments
+due to scientific uncertainties. Nonetheless, it is necessary to make some attempt at estimating stocks, however
+approximate, in order to establish that the stock effect on harvest costs exists. Bockstoce and Botkin (1983)
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 3
+
+produced historical stock estimates for the Arctic Bowhead whale population between 1848 and 1914. Using
+their methodology, we estimate overall yearly stock levels in the Antarctic since the onset of pelagic whaling.
+Making up 60-80% of the whaling harvest, the Antarctic whaling grounds represent a sufficient indicator for the
+collapse of whale stocks world-wide. Given the vast uncertainties - biologically as well as statistically - the
+estimates have to be treated with caution. Nevertheless, since we are essentially interested in changes in
+population levels, rather than absolute levels, the figures should give some reliable indication as to the behaviour
+of whale stocks in response to the pelagic exploitation in the Antarctic.
+Ever since the International Whaling Commission formed the ‘Special Committee of Three’ scientists from nonwhaling nations in 1960, the correct assessment of whale stocks has been a controversial issue amongst scholars
+of population dynamics. The management of whale populations distinguishes itself from that of normal fisheries
+in respect of various biological aspects, but mainly due to the fact that whales have a very steady - albeit much
+lower - rate of reproduction than most fish. Assuming that on average a whale is born every other year, the gross
+addition to the stock will rarely exceed 25% of the number of adults, since the sex ratio is estimated to be about
+even at birth (Gulland, 1974). A low reproduction rate implies a rather low natural mortality rate. The age of
+maturity depends on the species but is usually quite high (8 to 10 years for Sei whales). Given the uncertainties
+about the biology of whales, most of the early analysis by the Committee of Three relied heavily upon 'Catch Per
+Unit of Effort' (CPUE) data, used as an index of stock abundance. The earliest and probably simplest approach
+was developed by Leslie and Davis (1939) and DeLury (1947) – the so-called unmodified DeLury method –
+where a population estimate is obtained from the catch and effort data alone. This technique is used in standard
+analysis, providing a stock assessment based on four stringent assumptions. First, the rate of recruitment and
+natural mortality is negligible compared to the catch and can thus be ignored, i.e. sampling is done from a closed
+population. Second, ‘catchability’ remains constant during the sampling period, i.e. any individual whale is as
+likely to be caught as any other, and its catchability does not vary over time. Third, there is no competition
+between vessels, i.e. they do not interfere with one another or otherwise compete. Fourth, the catch represents a
+significant proportion of the population, i.e. the method depends upon the decrease in the CPUE bearing a direct
+relationship to the decline in population
+DeLury suggested that estimates of the abundance of a population can be made assuming that, for a given
+population size, there is a constant relationship between the number of animals caught and the effort expended in
+catching them. With a constant relationship between catch and effort, changes in CPUE should give a direct
+indication of changing population levels, i.e. the CPUE will decrease monotonically as the population decreases.
+With the crucial assumption of a closed population in mind, CPUE in successive years is plotted against the
+accumulated catch, and a least-squares linear regression line is fitted to the points and extrapolated to CPUE = 0.
+The intercept on the accumulated catch scale will then give an estimate of the initial population size. Formally,
+
+U t = kN 0 − kCt
+and
+
+N0 = a / b
+where Ut is the CPUE in season t, Ct is the catch in season t, N0 is the initial population size in the total
+Antarctic and k is the proportion of the population captured by one unit of effort in t=0 (a = kN0 and b =k).
+Since the development of the DeLury approach several authors have modified the model to incorporate estimates
+of recruitment and natural mortality. Chapman’s (1974) extension of the method assumes constant, and
+therefore density-independent recruitment equal to MNo , i.e. the mortality rate multiplied by the initial
+population size. Once a value for N0 has been obtained, one can calculate the catchability coefficient q = a/N0
+where a = qN0, b = q then a/b = N0. The q method can then be used to obtain an estimate of the mean population
+size Nt* during each season t.
+As noted earlier, there has been a change over the years in catcher efficiency due to technological change in the
+form of increased power, speed, navigational aids, increasing technological experience of the crew and increased
+capacity of factory ships. To correct for the increasing efficiency of catchers, a simple regression of CPUE
+against increasing horse power per catcher - which indicates increasing catcher efficiency - reveals insignificant
+coefficients within a 95% confidence interval and an extremely low adjusted R-squared value (Table 1), i.e.
+catcher efficiency seems to be relatively insignificant, and can safely be ignored when applying CPUE data to
+the assessment of whale stocks.
+
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 4
+
+Table 1. Stock assessment: efficiency change, regression results
+
+Catcher efficiency: regression of Ut (CPUE) on HPt (horse power per catcher in season t):
+Variable Coefficient
+Standard error
+hpt
+-.0048598
+.00432
+cons
+169.4342
+7.807543
+Adjusted R-squared = 0.0063
+
+t-value
+
+P>|t|
+-1.125 0.267
+21.701 0.000
+
+The results of the unmodified DeLury method are shown in Table 2. The results appear quite promising with
+highly significant coefficients for the intercept and accumulated catch at 95% significance level, yielding an
+estimated initial stock level of 3,203,385 animals in the Antarctic. Unfortunately, use of Chapman's modified
+approach did not yield significant results so there has to be added caution in accepting the estimates based on
+DeLury.
+Table 2. Regression results for the DeLury method
+Unmodified DeLury method: regression of Ut (CPUE) on ACt (accumulated catch):
+Variable Coefficient
+Standard error
+t-value
+act
+-.0000569
+.000011
+-5.169
+cons
+182.2726
+9.217778
+19.774
+Adjusted R-squared = 0.2899
+Estimated pristine population: N0 = a/b = 182.2726/0.0000569 = 3,203,385
+
+P>|t|
+0.000
+0.000
+
+Taking the DeLury model estimates, and applying the q method to obtain an estimate of the mean population
+size during the first few seasons after the start of pelagic whaling in 1919-20 in the Antarctic, figures for stock
+size vary between 2 and 3 million. Results obtained by Duxbury and Duxbury (1991) and various others of
+pristine populations of each separate species, i.e. Blue, Fin, Humpback, Minke, Sei and Sperm whale, add up to
+about 2,450,000 individuals - a number that gives confidence in the estimate.
+Caution has to be exercised when using DeLury’s method since there is one prominent factor that can violate the
+assumption of a closed population. The population is likely to have a significant density-dependent reproduction
+response so that as the population is harvested in the beginning the net recruitment rate increases, whilst it
+declines towards the end of severe exploitation until reaching a point of collapse4. Also, the population sampled
+might not represent the entire stock, or a fraction of the population sampled varies over time with the
+immigration of prey species and changes with the distribution of whaling ships. Ideally, a model should contain
+variables representing age and sex structure of whale stocks since for any long-lived species such structure may
+have significant effects on its short-term and long-term populations. Given our current knowledge, such
+information is highly speculative and one has to resort to a very simple model to mimic such conditions.
+
+4
+The assumption of a density-dependent effect can lead to a distorted estimate of the DeLury method when applied to longer time periods
+than 7 to 10 years. However, it is also true that the shorter the time period, the less likely is it to obtain a statistically significant regression
+line. Following Bockstoce and Botkin (1983) the DeLury method was estimated with various sets of time periods with the result that highest
+statistically significance was achieved when applying all 64 observations.
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 5
+
+Figure 3
+
+Stock assessment using the q method and density-dependent, time-lagged recruitment.
+Estimated population size of great whales
+total Antarctic
+
+4000000
+
+3500000
+
+3000000
+
+Number of whales
+
+2500000
+
+2000000
+
+1500000
+
+1000000
+
+Nqt
+N3t
+N5t
+
+500000
+
+N7t
+
+0
+71
+19 72
+73
+19 74
+75
+19 76
+77
+-7
+19 8
+79
+-8
+0
+
+8
+
+-7
+69
+
+19
+
+6
+
+-6
+67
+
+19
+
+4
+
+-6
+19
+
+-6
+
+65
+
+63
+
+19
+
+0
+
+2
+-6
+
+61
+
+19
+
+19
+
+8
+
+-6
+59
+
+6
+
+-5
+57
+
+19
+
+4
+
+-5
+55
+
+19
+
+2
+
+-5
+53
+
+19
+
+0
+
+-5
+51
+
+19
+
+8
+
+-5
+49
+
+19
+
+6
+
+-4
+47
+
+19
+
+4
+
+-4
+45
+
+19
+
+2
+
+-4
+43
+
+19
+
+0
+
+-4
+41
+
+19
+
+19
+
+8
+
+-4
+39
+
+6
+
+-3
+37
+
+19
+
+4
+
+-3
+35
+
+19
+
+2
+
+-3
+33
+
+19
+
+0
+
+-3
+31
+
+19
+
+8
+
+-3
+29
+
+19
+
+6
+
+-2
+27
+
+19
+
+4
+
+-2
+25
+
+19
+
+2
+
+-2
+23
+
+19
+
+-2
+19
+
+-2
+19
+
+19
+
+19
+
+21
+
+0
+
+0
+
+Season
+
+To allow for density-dependent and time-lagged recruitment, Bockstoce and Botkin’s model was followed,
+incorporating annual changes in population levels due to causes other than pelagic whaling. Thus,
+
+∆Nt = Nt-1 r (1 - (Nt-lag / No) )
+where
+r
+= rate of increase of recruitment
+lag
+= lag time in years.
+The population in each year t is then calculated by adding the annual change, ∆Nt, and subtracting the number of
+whales estimated to have been harvested in that year:
+Nt = ∆Nt + Nt-1 - C
+Figure 3 shows the stock assessment results: using a time lag of 2 - as on average a whale is borne every other
+year - and a range of net recruitment rates of 3% (N3t), 5% (N5t) and 7% (N7t)5, the effects of densitydependent and time-lagged recruitment are clearly significant as shown by the graph. Although qualitative
+outcomes are not affected whether the q method (Nqt) or the density-dependent, time-lagged method is used, i.e.
+stocks rise in the beginning as a reaction to modest harvesting, then decline at a steady and slow rate until
+exploitation induces a severe drop similar to the sudden collapse of ecological systems, quantitative outcomes
+are. The use of different recruitment rates seems to have a marginal impact on the path of density-dependent,
+time-lagged recruitment. Compared to the path using the q method, however, density-dependent recruitment first
+follows the q method path closely, as expected, but then declines more severely displaying the density effect of
+less abundant recruitment - shifted by two years due to the time lag.
+
+5
+
+Intrinsic growth rates of whale populations are assumed to be in the range of 2% to 7% with the intuitive explanation that if the sex ratio is
+even at birth (Gulland, 1974), and females reproduce every other year, only 1/4 would reproduce in any given year. But when there is a long
+pre-puberty period and a large fraction of the population is immature, the actual fraction of females ready to conceive is much smaller. Also,
+calving intervals are often longer than two years and females may die whilst pregnant, which gives an upper bound of a definitely not more
+than 10% and rarely as much as 5% net recruitment rate (Bockstoce and Botkin, 1983).
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 6
+
+Intuitively, the path calculated allowing for density-dependent, time-lagged recruitment seems more reasonable,
+and regression results will reveal their statistical significance.
+
+A brief history of regulation
+Armed with catch data and the somewhat tentative estimates of stocks, we now proceed to investigate the
+economic and institutional factors that might explain changes in the stock levels. First, we focus on regulatory
+efforts to control whaling.
+Since the onset of industrial exploitation in the Antarctic in 1925, whaling took place for many years without
+regulation under the ‘doctrine of the freedom of fishing on the high seas’, which included free access to fish and
+therefore whales (whales being regarded as fish). This doctrine, effectively giving the whale the status of an
+open-access resource, was confirmed in the Bering Fur Seal Case in 1893. In 1930 the International Council for
+the Exploration of the Sea (ICES) encouraged the League of Nations to adopt a Convention for the Regulation of
+Whaling promoting ‘scientific research as input to regulation’, which was ratified by eighteen states when it
+came into effect in 1935. The effective implementation of this initial agreement was obstructed by various
+factors, including non-participation by Japan and Germany. Nevertheless, the Convention did succeed in
+granting absolute protection to Gray and Right whales, and provided for the first time combined efforts for the
+collection of statistical information and introduced a quota system based on the Blue Whale Unit (BWU).
+With an overall catch limit set at 16,000 BWUs applied ‘to all the waters in the world’, contracting whale oil
+production seemed to indicate successful measures, but with the effect of disastrous effects on conservation
+grounds. Whalers concentrated upon the largest individuals, since they yielded the largest amount of oil, thereby
+successively driving down target species to commercial extinction. Although further measures were introduced
+at a second conference in 1937, London, such as the prohibition of catching females accompanied by calves and
+the closure of waters north of 40 °S (except for the North Pacific) to pelagic whaling, they only aggravated the
+fierce competition between whalers to get the maximum catch within the given restrictions.
+With the outbreak of World War II from 1939 to 1945, whaling ceased temporarily but was resumed again in
+1944 with Norway, Britain, the Soviet Union, Japan, South Africa and Holland taking the lead. The quota was
+kept at 16,000 BWUs, and according to Birnie (1989) it might have been the ‘more internationalist climate of
+world opinion’ after the war that helped to establish the first real legal basis on which future whale protection
+was based. On 2nd December 1946, the International Convention for the Regulation of Whaling (ICRW) was
+signed by fifteen nations, but ratified by only nine nations when the Convention came into force on 1st July,
+1948. This Convention displayed an amalgam of prior fisheries treaties, with the underlying assertion that
+whaling was still to be regarded as some sort of fishing, therefore retaining the doctrine of the freedom of the
+seas. Also, the document made clear that that the preservation and expansion of the whaling industry by means
+of conserving stocks was its chief objective, rather than conservation itself. With no specific restrictions or
+quotas being applied to nations, whaling units or whale species, a 90 days notification period of objection as
+well as the possibility for any contracting government to ratify, adhere or withdraw at any time, real conservation
+measures were effectively given second priority in favour of managing the profitability of oil production in the
+long run. Nevertheless, the establishment of the IWC, a formal schedule and a collective body responsible for
+whaling statistics were an important step towards the formal acknowledgement of the need to conduct scientific
+research and introduce careful management procedures.
+Over the next two decades it became obvious that the IWC had done little to stop the further decline of some
+species, whilst successively maintaining the industry on the more abundant ones. Also, the extent to which
+member nations adhered to these regulations was increasingly questioned by the public, and in 1962 – with a
+total number of 38,552 whales taken in the Antarctic - whale stocks showed the first signs of a dramatic collapse.
+In 1968 only 15,080 were caught. In 1963, the committee of three scientists (later four) set up in 1961 urged the
+IWC to take more dramatic measures in the management of the remaining whale stocks, such as a complete ban
+on Humpback and Blue whales. The IWC did respond by introducing some restrictions, but it was only in 1972,
+when the whale had become an increasingly politicised animal, that the United Nations Conference on the
+Human Environment in Stockholm called for a ten year moratorium on whaling. The IWC rejected this
+proposition with six of its contracting governments voting against, four in favour and four abstaining. At the
+same time, the U.S.A. passed its Marine Mammal Protection Act, which prohibited the taking or importing of
+marine mammals and products except by subsistence based cultures, such as the Indians and Aleuts. Potentially
+the most influential international environmental agreement, however, was the establishment of the Convention
+on International Trade in Endangered Species of Wild Fauna and Flora (CITES), signed in 1973, and put into
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 7
+
+force in 1975. With forty-six countries participating in the Convention, CITES gave full protection to Gray
+whales, two Right whale species, Humpback, Blue whales and some stocks of Fin and Sei whales. Under public
+pressure, the IWC at last abandoned the BWU quota system in the Antarctic (it was never used in regions other
+than the Antarctic), and in 1973 separate quotas were set for Fin, Sei, Minke and Sperm whales for the first time.
+At this point Britain and Holland, followed by Norway had pulled out of pelagic whaling, leaving only Japan and
+the Soviet Union as the main whaling nations.
+Global pressure from scientists, environmentalists and the public mounted, and a World Consultation held in
+Bergen, Norway by the Food and Agriculture Organisation in 1976 highlighted the extremely poor status of
+many stocks, emphasising the complexity of whale biology and population dynamics given the ecological
+interrelationships of stocks within the marine environment as a whole. With further pressure on the IWC from
+other international conservation treaties and conventions, such as the Conservation of Antarctic Marine Living
+Resources in 1979, the Conservation of Migratory Species of Wild Animals in the same year, the United Nations
+Convention on the Law of the Sea in 1982, the United Nations Convention in the World Charter for Nature in the
+same year and various other, the ICRW was no longer the sole relevant treaty for the protection of whales,
+although it remained the most important one. Finally, as conservationist Non- and Inter-Governmental
+Organisations encouraged non-whaling states to join the IWC to augment the numbers in favour of a cessation
+of commercial whaling, a moratorium on all commercial whaling was achieved at the 34th annual meeting of the
+IWC in 1982. With the avoidance of any suggestion that the cessation would be permanent, a three-quarters
+majority decided to set zero quotas starting from the 1985/1986 pelagic season – with the possibility of resuming
+whaling left open. The Soviet Union, Japan and Norway lodged obligations but had to bow to the intense
+political and public pressure that slowly culminated in the uncompromising demand of the global community to
+save the whale.
+How effective was regulation?
+To stem the tide of declining stocks, an initial quota of 16,000 BWUs was set in 1932 specifically applied to the
+activities of pelagic whaling in the Antarctic. This quota remained unchanged until 1954 and was lowered only
+marginally to not more than 15,000 BWUs until 1960. In that year, quotas were suspended for two successive
+years in an attempt to entice Norway and the Netherlands back into the IWC, who had withdrawn in protest in
+1957 due to quota reductions and disagreements about Antarctic catch allocations among the whaling nations. At
+the same time, an independent Committee of three scientists was established, and they called for drastic action in
+order to halt the decline of stocks. Quotas were lowered in successive years thereafter down to 2,300 BWUs, but
+given the IWC’s weak international legal status, overharvesting continued until 1972, when finally the BWU
+system was abolished in favour of species-specific quotas.
+Figure 4:
+
+BWU quotas and actual catch (worldwide / pelagic / total Antarctic) in comparison
+
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 8
+
+Quotas compared to actual catches
+in BWUs
+40.000
+
+35.000
+
+30.000
+
+Catch in BWUs
+
+25.000
+BWU wolrdwide
+BWU pelagic Antarctic
+
+20.000
+
+BWU total Antarctic
+BWU quota
+
+15.000
+
+10.000
+
+5.000
+
+1981-82
+
+1978-79
+
+1975-76
+
+1972-73
+
+1969-70
+
+1966-67
+
+1963-64
+
+1960-61
+
+1957-58
+
+1954-55
+
+1951-52
+
+1948-49
+
+1945-46
+
+1942-43
+
+1939-40
+
+1936-37
+
+1933-34
+
+1930-31
+
+1927-28
+
+1924-25
+
+1921-22
+
+1918-19
+
+1915-16
+
+1912-13
+
+1909-10
+
+0
+
+Season
+
+Figure 4 displays whale catch over the years converted into BWUs, thereby enabling a direct comparison to the
+quotas set. Surprisingly, though not adhered to before the war, quotas did seem to have an impact on after-war
+catch. Catch worldwide, pelagic and total Antarctic, follow the movements of set quotas very closely, exhibiting
+a plateau of a stable amount of BWUs harvested between 1948 and 1962, before displaying a sharp crash. With
+quotas set specifically for the pelagic whaling season, it is even more surprising to observe that pelagic catch in
+terms of BWU seems to match the catch prescribed by regulation precisely, giving the impression that regulation
+was effective. However, with collapsing stocks in 1962, it is more plausible that BWU quotas were set far too
+high from the start, mimicking feasible catch rather than imposing stringent regulations. Especially after 1962,
+actual catch was continuously below the quotas set, indicating that the IWC had merely codified the chosen
+whaling development path. Maybe the IWC did have some effect, in that it smoothed out catch over time, rather
+than allowing a drastic increase followed by a drastic decline - as was the case before the war. Most definitely,
+however, the IWC did nothing to stop the exploitation of successive target species motivated by the fixed level
+of BWU quotas. Also, within the BWU system only four species were considered - ignoring the exploitation of
+other species such as Minke, Bryde’s and Sperm whales. Enforcement by some states was suspected to be very
+poor and there was ‘piratical’ catching by non-members, as well as corrupted figures supplied by whaling
+nations. Knowing the political difficulties of reducing quotas, there is a further suspicion that the Scientific
+Committee tempered its own advice and was not truly taken seriously until 1975, when the New Management
+Procedure was introduced.
+Environmental activism
+The World Consultation on Marine Mammals held in Bergen, Norway, in 1976, highlighted the extremely poor
+status of many whale stocks, and marked the start of an era in which environmental awareness began to have a
+significant impact on whaling. The changing perception of whales manifested itself in the new moral approach of
+‘saving’ as opposed to ‘killing’ the whale. Strong anti-whaling positions became a rather convenient way of
+portraying a green image as virtually no material cost were involved for nations without
+
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 9
+
+Figure 5Transition of member nations of the IWC.
+Transition of member nations of the IWC
+45
+
+40
+
+35
+
+Number of member nations
+
+30
+
+25
+Member nations
+20
+
+15
+
+10
+
+5
+
+2000
+
+1998
+
+1996
+
+1994
+
+1992
+
+1990
+
+1988
+
+1986
+
+1984
+
+1982
+
+1980
+
+1978
+
+1976
+
+1974
+
+1972
+
+1970
+
+1968
+
+1966
+
+1964
+
+1962
+
+1960
+
+1958
+
+1956
+
+1954
+
+1952
+
+1950
+
+1948
+
+1946
+
+0
+
+Year
+
+whaling interests. The successful negotiation of a world-wide moratorium in 1982 was helped by one crucial
+institutional factor: the IWC was an ‘inclusive’ organisation, where according to Article X any nation may
+become member irrespective of its whaling interest. Until the end of the 1970s, the number of member nations
+remained relatively stable with around fifteen to sixteen members. Although non-whaling nations had always
+been in the majority, they were usually short of a three-quarters majority to amend the Schedule against the will
+of the few crucial whaling nations. Towards the end of the 1970s, however, membership numbers grew rapidly
+reaching a level of nearly forty participating governments in 1982 - see Figure 5.
+The IWC found itself suddenly in a situation where non-whaling nations reached an overwhelming majority,
+transforming it from a club of ex-whalers to one of preservationists. At the same time a sharply increasing
+number of NGOs and other organisations started to attend the annual meetings of the IWC, most notably in 1980
+when the number jumped from just under ten delegates to forty-five, rising even further up to sixty-two in 1985.
+With a new element of strong emotional concern entering the decision making process of the IWC, the by now
+isolated whaling nations had to bow to the immense pressure of the media and the public resulting in a worldwide moratorium in 1982. However, Figure 5 shows that the environmental movement occurred far too late to
+stop the collapse of stocks shortly after 1962. Nevertheless, growing environmental awareness seems to have
+played a crucial force in averting complete extinction.
+An econometric model
+Given the inverted ‘U’ shaped curve of whale catch over time suggested by whaling statistics, we now seek to
+explain the factors accounting for the whaling trajectory between the early 1950s and the 1970s. Game theorists
+have argued that self-enforcing international environmental agreements, which establish conservation measures
+for managing shared environmental resources, may not be able to improve substantially upon the status quo
+when the number of countries that share the resource is very large (Barrett, 1994). If so, we might expect
+international whaling regulation, as represented by the International Whaling Commission, to have been
+relatively impotent with respect to the sustainable management of whale stocks. We test this hypothesis by
+quantifying preferences (represented by income), substitutes (i.e. prices of whale oil and competing oils),
+dynamic stock effects, environmental activism and international regulation serving as potential explanatory
+variables.
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 10
+
+We adopt an Ordinary Least Squares (OLS) model which seeks to choose the sample regression equation that
+minimises the residuals. Given the occurrence of World War II, which in statistical terms can be seen as an
+outlier, and the fact that most of the available data sets cover the years of the 1950s, 60s and 70s, especially with
+respect to the price indices of whale, fish and vegetable oil, estimations are applied to the 28 years between the
+1945-46 season (marked by the establishment of the ICRW after the war) and the 1972-73 season (the time when
+the BWU system was abolished). This period captures the most crucial years of the whaling development path,
+with steeply rising whale catch from 1945 onwards, peaking in 1962 and dropping drastically thereafter only to
+reveal an extremely poor status of stocks in 1972.
+Table 3 lists the variables entering the regression.
+Table 3 Regression variables.
+Dependent variable:
+catch
+
+total number of whales caught, worldwide by country;
+
+Explanatory variables:
+stockq
+Antarctic whale stock calculated using the q method;
+stock5
+Antarctic whale stock calculated using density-dependent, time-lagged
+recruitment (time lag = 2, net recruitment rate = 5%);
+bwu
+dummy variable indicating the imposition of the Blue Whale Unit between 1947-48
+and 1971-72;
+logwhoil
+log of the Sauerbeck-Statist real price of whale oil (measured in 1867-77 prices), per
+ton;
+logfish
+log of the US General Wholesale real price of fish oil (measured in 1960-62 prices),
+per ton;
+logcoco
+log of the Sauerbeck/UK Import real price of coconut oil (measured in 1960-62
+prices), per ton;
+logpalmk
+logof palm kernel oil price;
+logpalm
+log of palm oil price;
+loggro
+log of ground oil price;
+logsoy
+log of soybean oil price;
+logvege
+log of vegetable oil price (weighted average of the above);
+activism
+number of member nations of the IWC;
+rgdpc
+real GDP per capita in constant US dollars using the Chain Index (1985 international
+prices)
+
+Having performed various regressions systematically checking for significance by using explanatory variables
+interchangeably, the best model was identified to be:
+catcht = α + βrgdpct + χrgdpct2 + δrgdpct3 + φstockqt + γbwut + ε
+Using stock5 instead of stockq yields consistently insignificant coefficients, bwu turns out to be insignificant in
+almost all instances but increases the goodness of fit of the model when included, and activism turns out to be
+consistently insignificant as well as decreasing the adjusted R-squared value when included. Also, as soon as
+logarithms of whale oil, fish oil, vegetable oil and its various subgroups of oil are added – either separately or
+jointly – they distort all other parameters, making them insignificant, as well as consistently exhibiting
+insignificant coefficients of their own.
+The results of the regression are shown in Table 4.
+Table 4
+
+Regression results.
+
+Source
+SS
+df
+MS
+-------------------------------------------------------------------Model 2.3946e+09 5
+478915221
+Residual
+315634410
+18
+17535245
+-------------------------------------------------------------------Total
+2.7102e+09
+23
+117835240
+
+Number of observations = 24
+F( 5, 18)
+= 27.31
+Prob > F
+= 0.0000
+R-squared
+= 0.8835
+Adj R-squared = 0.8512
+Root MSE
+= 4187.5
+
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 11
+
+----------------------------------------------------------------------------------------------------------------catch
+Coefficient
+Std. Err.
+t
+P>|t|
+[95% Confidence Interval]
+----------------------------------------------------------------------------------------------------------------rgdpc 472.92 126.58
+3.736 0.002
+206.9829 738.8621
+rgdpc2 - .0743
+0.0213
+-3.482 0.003
+-.1190589 -.0294584
+rgdpc3
+3.76e-06
+1.19e-06
+3.169 0.005
+1.27e-06
+6.25e-06
+stockq
+.010927
+0.00432
+2.527 0.021
+.0018441 .0200099
+bwu
+-2052.604
+8422.79
+-0.244 0.810
+-19748.23 15643.02
+cons
+-945739
+254908.5
+-3.710 0.002
+-1481282 -410196.1
+
+The elicited model exhibits a high adjusted R-squared value at 0.8512, with an F-value below the 5% critical
+value and all coefficients being highly significant apart from regulation. As suspected, collapsing whale stocks
+seem to play the crucial role in the development path of the whaling industry, whilst prices of whale oil and the
+various substitutes matter only insignificantly and thus have been dropped from the model. Regulation, also,
+seems to play a rather ineffective role and activism, as argued before, came far too late to have had any effect on
+the depletion of whale resources before their collapse in the late 60s.
+An interesting insight gained is the existence of a powerful relationship between real income and whale catch.
+Time is related to income in that GDP per capita rises as economies go through the stages of development, and
+since whaling clearly exhibits an inverted-U shape relationship over the course of time, a potent relationship
+between income and whale catch can be observed. At relatively low levels of income, the number of whales
+caught rises due to the renewable resource being utilised as a factor of production satisfying the need for oil as
+an input into food. However, having passed a certain ‘turning point’ higher levels of income are associated with
+rising public demand to conserve the resource due to its conservation value – whales are perceived as a factor of
+enrichment to the biodiversity of the environment, outweighing their use in production. Indeed, the whale
+watching industry has been a fast growing business, attracting some nine million enthusiasts in 87 countries in
+the year 2000 and generating a record-breaking US$ 1 billion in revenue
+Preceding the turning point, the linear effect dominates, implying a decline of the resource, whilst after the
+turning point the quadratic effect outweighs the linear one, stimulating conservation due to the dual nature of the
+marine resources. It is the composition of output and the methods of production that play a crucial role. As
+scarcity bites, technological advance and substitution are able to offset the effect of increased economic activity
+on the resource. The significance of income cubed implies a second turning point, albeit quantitatively much less
+influential before the world-wide moratorium in 1982 eventually set an end to the harvest.
+Conclusions
+The ancient tradition of whaling handed down to the generations of the 20th century, coupled with technological
+advances, created an industry that thrived on the unsustainable harvest of a marine species pushed to the brink of
+extinction. Attempts to stop the progressive over-exploitation were reflected in the establishment of the IWC.
+With member nations mainly concerned about short-term profits rather than sustainable catch, it is not so much
+the IWC itself that is to blame for failing to put a halt on excessive harvest, but rather the common problem of
+self-interest, lack of enforcement and free-riding in international environmental agreements. The collapse of
+Antarctic whale stocks in the early 1960s attracted global media attention, creating a new environmental
+awareness and turning the whale into a symbol of unified conservation effort. With the enforcement of a worldwide moratorium in the early 1980s, whales were granted exclusive protection in order to let stocks recover. But
+the issue addressed in this paper is the extent to which the moratorium did more than 'rubber stamp' a situation
+that had already emerged.
+Whaling statistics suggest an inverted ‘U’ shaped curve of catch over time, raising questions with respect to the
+role of economic conditions and policy formulation leading to the collapse of the industry. Our analysis
+concentrates on the construction and elicitation of stock levels, regulation, prices of whale oil and substitutes,
+environmental activism and income growth serving as potential explanatory variables. Simple regression
+estimations suggest that regulation was not important in stabilising populations. Rather, economic growth
+brought with it a declining demand for whale products, whilst and decreasing stock levels fed back into more and
+more expensive harvesting effort, making whaling generally uneconomic.
+
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 12
+
+The econometric results suggest the impotence of regulation in the form of international environmental
+agreements, but stress the importance of economic growth, implying that, to some extent, economies can
+‘outgrow’ severe environmental exploitation. Economic growth represents the phenomenon of continuously
+advancing technological progress, which diverts demand away from ‘inferior’ products and motivates growing
+environmental awareness, i.e. as basic needs are satisfied, economic growth produces a change in preferences in
+favour of environmental goods. Our results therefore lend some support for the 'Environmental Kuznets Curve'
+hypothesis that environmental degradation proceeds as an inverted 'U' shaped curve when measured against real
+per capita incomes, cross sectionally or over time. Nonetheless, it would be foolish to argue that economic
+growth alone will secure an eventually stable environment. While international agreements may have limited
+effectiveness, there is plenty of evidence to suggest that domestic policies are potent ways of 'tunnelling through'
+the Environmental Kuznets Curve (Panayotou, 1996).
+References
+Birnie, P.W. 1989. International legal issues in the management and protection of the whale: a review of four
+decades of experience, Natural Resource Journal, 29, 4, 903-933
+Barrett, S. (1994), Self-enforcing international environmental agreements, Oxford Economic Papers 46, 878-894
+Bockstoce, J.R. and Botkin, D.B. 1983. The historical status and reduction of the Western Arctic Bowhead whale
+(Baleana mysticetus) population by the pelagic whaling industry, 1848 - 1914, in M.F.Tillman and G.P.Donovan
+(eds), Reports of the International Whaling Commission: Special Issue 5 on Historical Whaling Records,
+Cambridge, 107-142
+Chapman, D.G. 1974. Estimation of population size and sustainable yield of sei whales, Reports of the
+International Whaling Commission, 24, 82-90
+Clark, C.W. 1973. Profit maximization and the extinction of animal species, Journal of Political Economy, 81, p.
+950-961
+Clark, C.W. 1990. Mathematical Bioeconomics, 2nd edition, New York: Wiley.
+DeLury, D.B. 1947. On the estimation of biological populations, Biometrika, 3, 467-80
+Duxbury, A.C and Duxbury, A.B. 1991. An Introduction to the World's Oceans, Dubuque, Brown Publishers.
+Gulland, J. 1988. The end of whaling? New Scientist, 29th October, 1
+Leslie, P.H and Davis, D.H.S. 1939. An attempt to determine the absolute number of rats on a given area,
+Journal of Animal Ecology, 8, 94-113
+Panayotou, T. (1997). Demystifying the environmental Kuznets curve: turning a black box into a policy tool,
+Environment and Development Economics, 2, 465-484
+The Committee for Whaling Statistics, (annual), International Whaling Statistics, appointed by the Norwegian
+Government, Oslo, 1931 – 1984, Volumes I - XCII
+
+THEME G: Theoretical and Empirical Bio-Economic Modelling
+WHAT SAVED THE WHALES? AN ECONOMIC ANALYSIS OF 20TH CENTURY WHALING
+
+PAGE 13
+
+

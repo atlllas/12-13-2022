@@ -1,0 +1,1071 @@
+699
+
+PERSPECTIVE / PERSPECTIVE
+
+Incentive-based approaches to sustainable
+fisheries
+R. Quentin Grafton, Ragnar Arnason, Trond Bjørndal, David Campbell,
+Harry F. Campbell, Colin W. Clark, Robin Connor, Diane P. Dupont,
+Rögnvaldur Hannesson, Ray Hilborn, James E. Kirkley, Tom Kompas,
+Daniel E. Lane, Gordon R. Munro, Sean Pascoe, Dale Squires,
+Stein Ivar Steinshamn, Bruce R. Turris, and Quinn Weninger
+
+Abstract: The failures of traditional target-species management have led many to propose an ecosystem approach to
+fisheries to promote sustainability. The ecosystem approach is necessary, especially to account for fishery–ecosystem
+interactions, but by itself is not sufficient to address two important factors contributing to unsustainable fisheries:
+inappropriate incentives bearing on fishers and the ineffective governance that frequently exists in commercial, developed fisheries managed primarily by total-harvest limits and input controls. We contend that much greater emphasis
+must be placed on fisher motivation when managing fisheries. Using evidence from more than a dozen natural experiments in commercial fisheries, we argue that incentive-based approaches that better specify community and individual
+harvest or territorial rights and price ecosystem services and that are coupled with public research, monitoring, and effective oversight promote sustainable fisheries. 710
+Résumé : Les échecs des aménagements traditionnels centrés sur les espèces-cibles ont incité plusieurs chercheurs à
+proposer des approches halieutiques basées sur les écosystèmes pour favoriser les pêches durables. L’approche écosystémique est nécessaire, en particulier, pour tenir compte des interactions pêche–écosystème; elle ne suffit pas,
+
+Received 7 April 2005. Accepted 15 September 2005. Published on the NRC Research Press Web site at http://cjfas.nrc.ca on
+15 February 2006.
+J18638
+R.Q. Grafton.1 Asia Pacific School of Economics and Government, JG Crawford Building (13),
+The Australian National University, Canberra ACT 0200, Australia.
+R. Arnason. Department of Economics, University of Iceland, IS-1-1 Reykjavik, Iceland.
+T. Bjørndal. Centre for Fisheries Economics / SNF and CEMARE, University of Portsmouth, 14 Grenville Place,
+Main Floor No. 19, London SW7 4RW, UK.
+D. Campbell. DCafe, P.O. Box 228, Kippax ACT 2615, Australia.
+H.F. Campbell. School of Economics, University of Queensland, Brisbane Queensland 4072, Australia.
+C.W. Clark. Department of Mathematics, University of British Columbia, Vancouver, BC V6T 1Z2, Canada.
+R. Connor. Ministry of Fisheries, P.O. Box 1020, Wellington, New Zealand.
+D.P. Dupont. Department of Economics, 500 Glenridge Avenue, Brock University, St. Catherines, ON L2S 3A1, Canada.
+R. Hannesson. Norwegian School of Economics and Business Administration, Helleveien 30, N-5045 Bergen, Norway.
+R. Hilborn. School of Aquatic and Fishery Sciences, Box 355020, University of Washington, Seattle, WA 98195, USA.
+J.E. Kirkley. School of Marine Science, College of William and Mary, Gloucester Point, VA 23062, USA.
+T. Kompas. Asia Pacific School of Economics and Government, JG Crawford Building (13), The Australian National University,
+Canberra ACT 0200, Australia, and Australian Bureau of Agricultural and Resource Economics, Edmund Barton Building,
+Barton ACT 2601, Australia.
+D.E. Lane. School of Management, 136 Jean-Jacques Lussier Street, University of Ottawa, Ottawa, ON K1N 6N5, Canada.
+G.R. Munro. Department of Economics and Fisheries Centre, 997-1873 East Mall, University of British Columbia, Vancouver,
+BC V6T 1Z1, Canada.
+S. Pascoe. CEMARE, University of Portsmouth, Boathouse No. 6, College Road, HM Naval Base, Portsmouth PO1 3LJ, UK.
+D. Squires. US National Marine Fisheries Service, P.O. Box 271, La Jolla, CA 92038-0271, USA.
+S.I. Steinshamn. Institute for Research in Economics and Business Administration, Helleveien 30, 5045 Bergen, Norway.
+B.R. Turris. Pacific Fisheries Management Inc, 333 3rd Street, New Westminster, BC V3L 2R8, Canada.
+Q. Weninger. Department of Economics, Iowa State University, 260 Heady Hall, Ames, IA 50011-1040, USA.
+1
+
+Corresponding author (e-mail: quentin.grafton@anu.edu.au).
+
+Can. J. Fish. Aquat. Sci. 63: 699–710 (2006)
+
+doi:10.1139/F05-247
+
+© 2006 NRC Canada
+
+700
+
+Can. J. Fish. Aquat. Sci. Vol. 63, 2006
+cependant, par elle-même pour régler deux facteurs importants qui contribuent à rendre les pêches non durables : les
+incitations insuffisantes pour les pêcheurs et la gestion inefficace souvent présente dans les pêches commerciales développées qui sont régies principalement par des limites à la récolte totale et par des contrôles d’entrée. Nous croyons
+qu’on doit mettre beaucoup plus l’accent sur la motivation des pêcheurs dans la gestion de la pêche. En utilisant des
+données provenant de plus d’une douzaine d’expériences naturelles de pêche commerciale, nous cherchons à démontrer
+que des approches fondées sur les incitations qui précisent mieux la communauté, les récoltes individuelles et les droits
+territoriaux et qui évaluent aussi financièrement les services de l’écosystème, couplées avec de la recherche gouvernementale, de la surveillance et de la gestion efficace, promeuvent les pêches commerciales durables.
+[Traduit par la Rédaction]
+
+Grafton et al.
+
+Introduction
+Marine ecosystems are in global decline (Pauly et al. 1998;
+Buckworth 2001; Schiermeier 2002). The main cause is unsustainable fishing practices (Hannesson 2002) that arise
+from the following six principal factors: (i) inappropriate incentives; (ii) high demand for limited resources; (iii) poverty; (iv) inadequate knowledge; (v) ineffective governance;
+and (vi) interactions among fishery sectors and other aspects
+of the environment (Food and Agriculture Organization of
+the United Nations (FAO) 2002a).
+In response to fisheries failures and a fall in the total catch
+in marine capture fisheries (Hilborn et al. 2003), many have
+proposed an ecosystem approach to fisheries (EAF) that
+gives greater weight to integrated management and emphasizes the importance of maintaining ecosystem health for
+future generations (Ecosystem Principles Advisory Panel
+1999; Busch et al. 2003; Browman et al. 2004). While EAF
+highlights the importance of fishery–ecosystem interactions
+and knowledge gaps, with a few exceptions (ICES 2005a), it
+overlooks the importance of fisher behavior and incentives
+for fisheries management.
+In this paper, we examine what can be done to mitigate
+the factors that contribute to unsustainability in commercial
+and industrial fisheries. Our focus is on inappropriate fisher
+incentives and ineffective governance, and we argue that a
+much greater emphasis should be placed on fisher motivation when managing marine resources (Larkin 1978). We
+propose incentive-based approaches to sustainable fisheries
+(IAFs) to complement EAF and existing management approaches that promote sustainability. We contend that fishers
+need economic rights and accompanying responsibilities, as
+well as price signals, to provide incentives for individual and
+collective action that promote more sustainable fishing practices.
+The ecosystem approach: necessary, but not sufficient
+The goals of ecosystem-based management are to promote
+healthy and resilient marine ecosystems and sustainable fisheries (FAO 2002b; Garcia et al. 2003). A key component of
+this approach is the conservation and protection of key habitats that are critical for ecosystem and population processes
+(Pikitch et al. 2004), primarily through the enforcement of
+marine reserves and no-take areas (Garcia et al. 2003).
+Reserves can lead to increased abundance, size, and biodiversity (Halpern 2003), as well as a more fecund population
+(Palumbi 2004) within no-take areas, and can potentially increase harvests in exploited areas via fish migration (Roberts
+et al. 2001; Gell and Roberts 2003). No-take areas are par-
+
+ticularly helpful in the face of uncertainties (Lauck et al.
+1998) and can also promote resilience to shocks and raise
+profitability, even when harvesting is optimal (Grafton et al.
+2005). Despite these benefits, reserves only address some of
+the problems in fisheries (Allison et al. 1998; Leal et al.
+2005) and do nothing to overcome key contributors to unsustainability, such as overcapacity. Reserves also do nothing to provide incentives for fishers to take into account the
+full impact of their harvesting practices on fisheries.
+Other aspects of EAF include the use of the precautionary
+approach and the management of target and non-target species within the broader context of overall marine ecosystems, paying particular attention to bycatch, discarding, and
+habitat destruction (Pikitch et al. 2004). We endorse these
+approaches and the goals of ecosystem-based management
+but contend that a shift in priorities from target species to
+ecosystems (Pikitch et al. 2004) by itself does not recognize
+the importance of fisher behavior and their motivations
+(Hilborn 2004). Unless fisher incentives and associated governance arrangements are compatible with long-term goals
+of sustainability (Hilborn et al. 2005), EAF, or any other alternative to traditional, commercial fisheries management,
+will fail to prevent overharvesting of stocks or change fishing
+practices that damage habitat.
+Failures of traditional, commercial fisheries management
+The traditional approach to commercial fisheries management restricts fishing inputs and imposes total catch limits in
+an attempt to control fishing mortality. Input controls increase the costs of fishing and frequently fail in their objective to limit fishing effort because harvesters are often able
+to substitute unregulated inputs for controlled ones, causing
+a gradual expansion of effort, referred to as effort creep (Wilen
+1979; Scott and Neher 1981). Competitive total allowable
+catches (TACs) in input-controlled fisheries also provide incentives for fishers to race against each other for a share of
+the catch before the total harvest limit is reached. Such racing behavior frequently results in fishers investing in unregulated inputs to increase their effective fishing capacity at the
+expense of others. In turn, these investments and the race to
+fish increase overall harvesting costs, lower the total net returns from fishing and jeopardize the sustainability of fisheries.
+The traditional approach to commercial fisheries management fails to address the technical change that makes fishing
+more effective over time (Squires 1992) and does not instil a
+long-term perspective in fishers. For example, in the North
+Sea cod (Gadus morhua) fishery, some harvesters oppose reductions in the total allowable catch, despite the fact that the
+© 2006 NRC Canada
+
+Grafton et al.
+
+spawning stock is below a level that demands a harvesting
+moratorium (European Environment Agency 2004). In Canada’s northern cod fishery, the regulator’s concerns that
+reduced harvests would generate bankruptcies and unemployment, coupled with uncertainties over the status of stocks
+(Fisheries and Oceans Canada 2004a) and overestimation of
+stocks and recruitment (Walters and Maguire 1996), resulted
+in the TACs being set too high and was a major contributor
+to stock collapse in the 1990s (Hutchings and Myers 1994).
+The negative consequences of input controls, whether they
+are applied to traditional target-species management or ecosystem approaches, are illustrated by the recent experience
+in Australia’s federally managed fisheries. In the past
+10 years, the Australian federal government has committed
+US$60 million per year to fisheries research and ecologically sustainable development, undertaken substantial buybacks of fishing effort, implemented detailed scientific fishery
+management plans that incorporate strong stakeholder involvement, and expanded its National Representative System
+of Marine Protected Areas (McLoughlin and Findlay 2005).
+Despite such strategies, fishers have successfully lobbied
+against recommended reductions in the TACs (McLoughlin
+and Findlay 2005). This lobbying, combined with effort creep
+in some input-controlled fisheries (Kompas et al. 2004), have
+contributed to a threefold increase in the number of Australian Federal fisheries classified as overfished in the past
+10 years (Caton and McLoughlin 2005).
+A similar story can be told in many other developed fisheries, even when the primary stated objective of management is to conserve fish stocks. Maguire (2003) observes
+that inappropriate incentives, inadequate and overly complex
+governance, and lack of knowledge are the main causes of
+the unsustainable harvesting of demersal fisheries in the North
+Atlantic. In these fisheries, despite the focus on the bioecological component of sustainability, management systems
+have frequently failed to achieve the desired outcomes. Ongoing effort creep has also led, in some jurisdictions, to an
+escalating complexity of rules as regulators try to close off
+the loopholes, leading to confusion and making enforcement
+difficult (Healey and Hennessey 1998). Resolving these
+challenges requires major changes that include a precautionary approach to management (FAO 1996), more transparent
+and participatory management, and a greater emphasis on incentives and rights for fishers (Maguire 2003).
+Incentive-based approaches
+The failures of traditional management suggest not only
+that total harvests must be set appropriately, but also that the
+greatest marine predator, fishers, be provided with the incentives to fish sustainably. A key to creating incentives for
+more sustainable behavior is to provide fishers with more
+secure harvesting or territorial rights to fish. Such rights enable fishers to enjoy a sustainable flow of benefits from fishing with an enforceable right to exclude others from these
+benefits but generally do not give ownership over the resource stock. Fishing rights may take several different forms
+(The World Bank 2004) and include individual harvesting
+rights (Scott 1999a), community- or group-based rights
+(Baland and Platteau 1996), and territorial user rights
+(Christy 1999; Sharp 1998).
+
+701
+
+Economic fishing rights are commonly viewed as a recent
+innovation, at least in terms of individual harvesting rights,
+but they have existed for centuries. For example, in Oceania,
+no-take areas, territorial user rights, and cooperative management ensured sustainable fisheries for centuries by allowing clans or families to control, for their benefit, reef and
+lagoon areas (Johannes 1978). The success of traditional marine tenure suggests that a key to generating appropriate
+incentives is for fishers to have the ability to exclude others
+from fishing, thereby reaping both the pain of overexploitation and the gains from conservation. Exclusive
+property rights, however, do not guarantee sustainability. In
+extreme cases, it may be economically rational to mine a
+fishery (Clark 1973), and if the holders of rights are large in
+number and with diffuse interests, incentives may still remain to cheat and take advantage of the conservation efforts
+of others. All fisheries are also subject to irreducible uncertainties (Ludwig et al. 1993) that make it difficult to set sustainable harvests and to understand the long-term impacts of
+fishing practices.
+Incentive-based approaches make management more robust by ensuring, in most cases, that those who have the
+greatest impact on fisheries have an increased interest in
+their long-run conservation and directly bear the cost of
+overexploitation. We review the contributions of incentivebased approaches to sustainable fisheries in the following
+subsections.
+Rights and responsibilities
+The key to IAFs is to provide harvesters with long-term
+and secure rights (Hannesson 2004) that are legally enforceable, along with corresponding duties by nonowners to not
+interfere with these rights (Cole and Grossman 2002). In
+practice, individual harvesting rights are often specified as a
+revokable privilege, although New Zealand is a notable exception (National Research Council 1999). However, these
+privileges are de facto economic property rights, provided
+that adequate monitoring and surveillance exists. Control
+and enforcement should also ensure that the holders of the
+harvesting rights meet their responsibilities under the FAO’s
+Code of Conduct (FAO 1995; Symes 2000), while fishers
+without such rights, or other privileges, are excluded from
+harvesting.
+Secure and durable harvesting or territorial rights, in most
+cases, provide fishers with two incentives: they protect the
+value of their assets and also encourage the greatest possible
+sustainable flow of benefits from fishing. These incentives
+are complementary and occur concurrently, but the former is
+likely to be manifested in forms of collective action, whereas
+the latter manifests itself in individual actions. Individual
+efforts by fishers to maximize their net returns indirectly
+contribute to sustainable fisheries by improving economic
+performance and reducing the problems of overcapacity,
+while collective actions involve direct attempts to ensure
+sustainability by improving management decision making,
+the quality of scientific advice, and the monitoring of fisher
+behavior.
+At the individual level, quantified fishing rights encourage
+fishers to harvest their fixed catch at lowest cost, to increase
+the value of landings through better handling and care of
+fish (Campbell et al. 2000a; Rice 2003; Dupont et al. 2005),
+© 2006 NRC Canada
+
+702
+
+or to change product form (from frozen to fresh), as occurred in the British Columbia (BC) halibut (Hippoglossus
+stenolepsis) fishery (Casey et al. 1995; Herrmann 1996).
+Such efforts, and the transferability that allows more profitable
+fishers to harvest a larger share of the total catch, improve efficiency (Grafton et al. 2000) and increase productivity (Fox et
+al. 2003a). Transfers of individual harvesting rights, in many
+cases, also help reduce overcapacity (Dupont et al. 2005),
+which is a major contributor to overexploitation of fisheries
+and poor economic returns for fishers.
+Individual rights and collective action
+A long-term interest in the fishery in the form of harvesting rights can encourage collective action to ensure management practices are consistent with maintaining the long-term
+value of these rights. By itself, greater participation in management decision making by fishers is not sufficient to promote sustainable fisheries, but we argue that sustainability is
+promoted by fisher participation in combination with more
+secure harvesting rights. Individual harvesting rights also
+provide a way to allocate joint management costs and thus
+help overcome the underprovision of services that benefit all
+fishers (Scott 1993).
+There is evidence that individual harvesting rights can
+promote collective action in shellfish, demersal, and pelagic
+fisheries (Shotton 2001). For example, in the New Zealand
+east coast rock lobster (Jasus edwardsii) fishery, the introduction of individual harvesting rights prompted commercial
+stakeholders to initiate a locally focused fishing strategy.
+The industry successfully requested the regulator to lower
+the commercial catch and to restrict harvesting to a shorter
+winter period to make widespread illegal fishing easier to
+detect (Breen and Kendrick 1997). These and other fisherinitiated management measures have resulted in a dramatic
+stock recovery and substantially higher quota values (Leal et
+al. 2005). Similarly, in 2001, the scientist contracted by the
+Canadian Sablefish Association (CSA), an organization of
+commercial fishers with individual harvesting rights, advised
+of rapid declines in sablefish abundance. Shortly thereafter
+the CSA recommended to the regulator that the total catch
+be immediately reduced as a precautionary measure. Subsequent stock recovery that followed a decline in the TAC by
+almost 50% has allowed CSA members to benefit from their
+conservation efforts. In the Tasmanian abalone fishery, individual quota holders with direct involvement in advising the
+regulator successfully lobbied for large reductions in the total catch in the late 1980s. This allowed the stock to rebuild,
+and the quota holders were the principal beneficiaries of
+subsequent increases in the total harvest (Tasmanian Abalone Council 2003). The successful rebuilding of the Icelandic herring (Clupea harengus) stocks, through cuts in the
+TAC, were also strongly supported by industry because fishers wanted to protect the asset value of their harvesting
+rights (Hannesson 1996).
+Individual harvesting rights can provide greater incentives
+for more bottom-up decision-making processes and opportunities for increased participation (Lane and Stephenson 2000).
+Indeed, if the creation of rights promotes economic
+sustainability, for which there is abundant evidence in the
+form of case studies (Davidse et al. 1997; Kaufmann et al.
+1999; Shotton 2001), it is not surprising that holders of such
+
+Can. J. Fish. Aquat. Sci. Vol. 63, 2006
+
+rights would be prepared to invest their time and effort to
+protect their flow of benefits from fishing. This may take the
+form of funding for more on-board and dockside surveillance, increased research to improve the quality of scientific
+advice, and greater participation in management decision
+making. For example, in the BC sablefish (Anoploma fimbria)
+fishery, managed by individual harvesting rights since 1990,
+fishers initiated and funded research on trap escape rings
+that dramatically reduced juvenile capture and mortality. After individual harvesting rights were introduced in BC’s halibut fishery, harvesters (through their industry association)
+set up and paid for dockside monitoring that tags every fish
+(Grafton et al. 2000). Similarly, in the BC groundfish trawl
+fishery, also managed by individual harvesting rights, fishers
+are strong supporters of science and have contributed millions of dollars to research (Rice 2003). Elsewhere, such as
+in New Zealand’s fisheries, which have been managed by
+individual harvesting rights since 1986, fishers make important financial contributions to management through their associations and are also active participants in some fisheries
+research (Lydon and Langley 2003).
+Group rights and collective action
+Collective action can be encouraged in a number of different ways such as allowing fishers to organize and express
+their concerns to managers (Pomeroy and Berkes 1997) and
+participate in fisheries research and management (Rice
+2001). Collective action can also be promoted through the
+allocation and support of harvesting rights for groups and to
+communities (Baland and Platteau 1996; Willmann 1999).
+For example, the Canadian government has created seven
+geographically based community management boards for the
+fixed-gear groundfish fishery in Nova Scotia. Each of these
+boards is charged with developing community harvesting
+plans and controlling the fishing activities of members (Peacock and Hansen 1999). This enables local knowledge to
+inform allocation decisions and prevents a one-size-fits-all
+approach to fisheries management.
+The potential benefits of collective action with group rights
+is shown by purse seine fishers who recently established a
+cooperative in Alaska’s Chignik salmon (Oncorhynchus
+nerka) fishery following a change in regulations passed by
+the Alaska Board of Fisheries. In a 2002 survey of all cooperative members, 67% claim that it has made them financially better off, 100% state that it has improved fish quality,
+and 88% consider it to have been either a very positive or a
+somewhat positive change in the management of the fishery
+(Knapp et al. 2002).
+Numerous examples show that both community and group
+rights can improve management outcomes with collective
+action (Ostrom et al. 1994; Baland and Platteau 1996; Dietz
+et al. 2003). These actions are facilitated by social capital
+within communities and by trust between management authorities and fishers (Pretty 2003; Grafton 2005), but social
+capital does not necessarily require the existence of individual or group harvesting rights (Dietz et al. 2003). For instance, trust between scientists and fishers in the BC
+rockfish (Sebastes spp.) fishery in the 1990s led to new hypotheses and novel ways for testing them (Stanley and Rice
+2003). It also contributed to a constructive advisory process
+that included an official working group with members from
+© 2006 NRC Canada
+
+Grafton et al.
+
+the industry and the regulator (science and fisheries management) that was established before the introduction of individual harvesting rights in the fishery (Rice 2003).
+Participatory management and the allocation problem
+Examples of effective participatory management in fisheries in which fishers bear the consequences of failures, as
+well as successes, should not be taken as proof that greater
+participation by fishers in management always generates
+better fisheries outcomes. We contend that participatory
+management, coupled with a failure to resolve the allocation
+problem (i.e., who gets what), may actually generate poorer
+sustainability outcomes and allow special interest groups to
+negatively influence management authorities as fishers compete for control of allocation mechanisms. For example, under the US 1977 Fishery Conservation and Management Act,
+power sharing among the federal government, fishers, and other
+stakeholders has occurred through Fishery Management Councils (FMCs). Turner and Weninger (2005) find that this particular system of voluntary participation in the regulatory process
+leads to over-representation by industry members with extreme
+preferences. Not surprisingly, this deconcentration of management authority has not been viewed as a success (Pomeroy
+and Berkes 1997). It has also been plagued by conflicts of
+interest (Allison 2002), and some FMCs appear to have sacrificed long-term conservation for short-run economic considerations (Parsons 1993).
+At least in the case of the United States, a consultative
+system and delegation of management authority to fishers
+and other resource stakeholders, in the absence of appropriate fisher incentives and resolution of the harvest allocation
+problem, has contributed to rent-seeking behavior and conflicts among different interest groups. This has made decision making less, rather than more, effective (Mikalsen and
+Jentoft 2001).
+Incomplete harvesting rights
+An important issue when establishing harvesting rights is to
+ensure that they do not create perverse incentives that distort
+behavior and produce undesirable outcomes. This demands
+that rights for commercial fishers be as comprehensive as
+possible to avoid transfer of effort to non-quota species and
+that all commercial fishers are included. In Iceland, for example, exemptions from individual catch quotas for vessels
+under 10 gross registered tonnes, until they were abolished
+in 1990, distorted the composition of the fishing fleet and
+encouraged investment in smaller vessels (Arnason 1995). A
+similar increase in investment and catch has also occurred
+with the Icelandic longline fleet because half of the demersal
+catch has been exempt from quota restrictions during the
+months November to February.
+Conflicts between commercial and recreational fishers can
+also be aggravated if the commercial fleet is subject to individual output controls but the recreational sector is not. For
+example, if individual rights only exist in the commercial
+fishery and if fish stocks are under pressure because of the
+expansion of the recreational catch, then the regulator may
+be tempted to reduce fishing pressure by simply reducing the
+commercial TAC. This undermines the commercial right,
+creates uncertainty for investment, and generates protest
+from the commercial sector. Such commercial–recreational
+
+703
+
+conflicts, however, are not unique to fisheries using individual rights, nor do they necessarily imply that recreational
+fishers should be included within an individual quota management system in which the widely dispersed interests
+would generally make the transaction costs associated with
+trading and enforcing such rights prohibitive. Limits might
+be better specified for the recreational sector in other ways
+by, for example, imposing a mix of recreational fishing
+licences and individual daily bag limits. Such controls, however, may need to be supplemented with other methods such
+as spatial allocations that keep bulk fishing methods away
+from favored recreational sites.
+Multiple target species
+The incentive-based approach is applicable to fisheries in
+which there are few, or many, target species. A major concern, however, is that harvesters may have little ability to
+separately target each species. Consequently, the catch mix
+of fishers may not match individual quota allocations, which
+in turn may contribute to discarding and misreporting (Squires
+et al. 1998). A limited ability to target specific species may
+also result in undesirable individual quota underages and
+overages and also severely constrain fishers’ profitability if
+total harvests of target species are restricted to prevent the
+overexploitation of vulnerable bycatch species (Squires and
+Kirkley 1996). Another issue with multiple target species is
+that if harvesting rights are only assigned to a subset of target species, then the transfer of fishing effort to target species without individual harvest controls may be encouraged
+(Dupont and Grafton 2001).
+Although multiple target species make fisheries much more
+difficult to manage, especially with the setting of TACs, the
+ability of fishers to target individual species is not as constrained by technology as is commonly believed. Given appropriate incentives, fishers are able to adapt their fishing
+practices to reduce bycatch and adjust their species mix,
+even if the technology remains essentially unchanged. For
+example, purse seine vessels in the eastern Pacific were able
+to reduce dolphin (Stenella spp., and Delphinus delphis)
+mortality from over 130 000 in 1986 to less than 4000 in
+1993 by changing fishing practices but using the same fundamental technology (Hedley 2001). In the BC groundfish
+trawl fishery, onboard observers record fishery mortality
+rates by species that count against quota owned or leased by
+fishers. This created an incentive for fishers to avoid catching less desirable species, and led to greater communication
+among skippers to avoid harvesting in areas where there was
+a high incidence of unwanted species. Fishers have also
+changed their behavior by using shorter tows, checking their
+nets more frequently, and employing test tows before fishing
+(Grafton et al. 2006).
+Discards and bycatches
+IAFs allow fisher incentives to be compatible with longterm conservation, but do not guarantee that all fishing practices promote sustainability. There have been cases in which
+fishers with individual harvesting rights have dumped lower
+valued fish to maximize the value of their trip landings (Parsons 1993; Arnason 1994; Squires et al. 1998), although
+such problems also exist in open-access and input-regulated
+fisheries (Leal et al. 2005), especially those regulated by trip
+© 2006 NRC Canada
+
+704
+
+and (or) vessel-size restrictions. However, discarding problems with individual harvesting rights can be mitigated and
+adaptively managed with appropriate incentives and instruments.
+In the BC groundfish trawl fishery, which has been managed with individual harvesting rights since 1997, fish dumping is recorded by observers on all vessels and is counted
+against individual quotas. This quota reconciliation provides
+harvesters with the incentive to be much more selective in
+their fishing practices. As a result, the ratio of at-sea releases
+to the landed fish weight has greatly declined (Grafton et al.
+2006). Recently, fishers have, on their own initiative, undertaken research that halved the fishing mortality of bocaccio
+rockfish (Sebastes paucispinis), a bycatch species that was
+designated as being at risk in 2002 by the Committee on the
+Status of Endangered Wildlife in Canada and for which harvesters do not have specific species quota (Fisheries and
+Oceans Canada 2004b; Fisheries and Oceans Canada 2005).
+This protects their livelihood because, should the boccacio
+be listed as requiring protection by the federal cabinet under
+Canada’s 2003 Species at Risk Act (SARA), groundfish trawl
+fishing could be prohibited if current practices compromise
+the rapid recovery of the species and if Incidental Harm Permits were not issued to allow boccacio bycatch (Rice 2003).
+Overcapacity and buybacks
+The potential payoffs from IAFs include better protection
+of fish stocks and the environment, increased returns to harvesters (Dupont and Grafton 2001; Fox et al. 2003a; Dupont
+et al. 2005), and reduced fishing capacity (Grafton et al.
+1996; Dupont et al. 2002). These benefits arise because secure and durable rights to fish, individually or communally,
+reduce racing behavior. In contrast, in input-controlled fisheries, the race to fish results in excess effort, substitution of
+unregulated inputs (Squires 1987), and lower overall net returns (Dupont 1990). For example, in the northern prawn
+(Penaeus spp.) fishery of Australia, the imposition of effort
+controls in the form of combined engine size and hull length
+restrictions encouraged fishers to increase the headrope length
+of their trawls to maintain their effective fishing capacity.
+Unfortunately, this substitution lowered technical efficiency
+and raised the cost of fishing while failing to prevent effort
+expansion (Kompas et al. 2004).
+Top-down input controls also promote an us-versus-them
+attitude with managers (Charles 1995) and frequently fail to
+limit fishing effort (Townsend 1990) because the underlying
+incentives to race to fish are unchanged. As a result, over the
+period of 1970 to 1990, worldwide harvesting capacity in
+commercial fisheries grew eight times faster than landings
+(Gréboval and Munro 1999), and overcapacity has been a
+significant contributor to the overexploitation of fisheries
+(FAO 1997). Continued effort expansion under input controls also obliges regulators to implement further operational
+constraints, such as shorter fishing seasons, in attempts to
+ensure that TACs are not exceeded. These constraints often
+aggravate the race to fish and contribute to further overcapacity (Clark 1982), as occurred in the BC halibut fishery
+before the implementation of individual harvesting rights, as
+well as in numerous other fisheries. The resulting capacity
+overhang makes fisheries less robust to management errors,
+
+Can. J. Fish. Aquat. Sci. Vol. 63, 2006
+
+especially in setting appropriate TACs, and also creates political pressures by fishers to increase the total harvest.
+When overcapacity reaches a critical level, regulators frequently resort to buybacks of vessels or associated fishing
+licences. Often, the direct costs of buybacks are borne by the
+public purse and not by the fishers themselves. Buybacks are
+only a short-term solution to the underlying incentive problem; if they are successful in temporarily increasing the returns to harvesters who continue to fish, higher profits would
+encourage further investments and effort creep (Weninger and
+McConnell 2000) and, if anticipated by fishers, may even
+detract from conservation efforts (Clark et al. 2005). As a result, the ability of buybacks to reduce long-term fishing effort and help stocks recover is limited (Holland et al. 1999)
+without a corresponding change in fisher incentives (Fox et
+al. 2003b). For example, buybacks initiated in the northeast
+groundfish fishery in the United States reduced the number
+of permits and the number of vessels employed but do not
+appear to have resulted in observable conservation benefits
+(Walden et al. 2003). In the BC salmon fishery, there have
+been five buybacks at a cumulative cost of several hundred
+million dollars over the period 1970–2000. Although these
+buybacks may have temporarily reduced the severity of the
+overcapacity problem caused by both effort creep and a decline in the size of some salmon runs, they have not provided a lasting solution to the chronic problem of overcapacity
+(Schwindt et al. 2003; Grafton and Nelson 2005).
+Transferability, costs, returns, and subsidies
+Transferable harvesting rights, and the prices that they can
+command, induce some fishers to exit and remove excess
+fishing capacity, thereby increasing returns to the fishers
+who remain. For transfers of rights to function efficiently,
+the market for harvesting rights must be competitive and
+prices must convey useful information about the profitability
+and status of fish stocks. A recent study of New Zealand’s
+markets for individual harvesting rights, the most comprehensive of any fisheries jurisdiction, found that prices there
+do reflect ecological variability and changes in fishing profitability (Newell et al. 2005).
+High values for harvesting rights, concentration of these
+rights, or simply the gratis allocation of harvesting rights
+over a public resource are viewed by some as inequitable
+(Walters and Martell 2004), especially if the initial allocation of rights excludes crew members and traditional participants in the fishery. To address some of these concerns, it is
+possible to limit the amount of harvesting rights owned by
+any one individual or company, or to even set aside a share
+of the rights as a code-of-conduct quota to promote the interest
+of the crew, as has occurred in the BC groundfish trawl fishery (Rice 2003). A share of the increased returns (and longterm value of rights) attributable to incentive-based approaches may also be captured to reduce the entry costs for
+prospective fishers and to collect revenues for the public
+purse (Grafton 1995).
+Individualized and exclusive rights not only identify resource
+users and limit their number, but also limit the specific magnitude of the interests of each individual fisher in terms of
+the TAC. This allows research and management costs attributable to fishing activity to be charged proportionally to the
+beneficiaries. Such cost recovery introduces a new and pow© 2006 NRC Canada
+
+Grafton et al.
+
+erful dynamic into the relationship between fishers and regulators that has potential to drive down management costs,
+improve voluntary compliance, and encourage collective action and greater fisher participation in management and research.
+Higher fisher returns with IAFs allow the possibility of
+fisher-funded monitoring and additional data collection.
+Incentive-based approaches also reduce the motivation for
+price supports or vessel and gear subsidies, which contribute
+to overfishing (Milazzo 1998; Munro and Sumaila 2002).
+For example, Iceland and New Zealand both have long-term
+individual harvesting rights in many of their fisheries and
+had government financial transfers in the late 1990s equal to
+about 4% of the total value of their respective landings (see
+table A.2 in Cox and Schmidt 2002). In contrast, the total
+government financial transfers to fisheries regulated with input controls are often much higher. In 1999, for instance, total government transfers were, on average, some 20% of the
+total value of landings in OECD (Organization for Economic
+Cooperation and Development) countries (see table A.4 in
+Cox and Schmidt 2002).
+Because traditional input regulation contributes to overcapacity and low fishing incomes, it stimulates government
+financial transfers. In contrast, IAFs may be viewed as generating a win–win situation: better sustainability outcomes at
+a lower overall cost of management (including transfers). Indeed, a recent comparison of Iceland, Norway, and Newfoundland showed that the costs of fisheries management,
+not including government financial transfers, were lowest in
+Iceland, the country that has gone the furthest to implement
+secure fishing rights in any of these three jurisdictions
+(Arnason et al. 2003).
+Adjustment costs, economic viability, and flexible
+decision making
+A key concern, especially to crew, is that IAFs reduce employment and create other adjustment costs (OECD 2000).
+The impact on employment, however, depends on the extent
+to which the fishery is overexploited in an economic sense.
+For example, in New Zealand, the total employment and
+number of vessels actually increased in the first 5 years after
+the introduction of individual harvesting rights (Davidse et
+al. 1997; Connor 2001) as a result of the domestication of
+deep-water fisheries and increased harvests from some relatively unexploited stocks. When harvesting rights reduce
+employment, as might be expected in fisheries characterized
+by poor returns and overcapacity, the adjustment costs should
+be weighed against the possibility of declining returns, ongoing difficulties with traditional input controls, and the
+probability that current employment levels under existing
+regulations are unsustainable.
+Political decision making, with respect to fisheries management, is influenced by economic circumstances. Where
+there are many fishers with poor incomes and few alternative
+employment opportunities, it is much more difficult to reduce current catches to sustainable levels than when fishing is
+economically viable. In other words, inappropriate incentives
+that generate low fisher incomes reduce management flexibility and, therefore, increase the likelihood of risk-prone decisions (Sissenwine and Rosenberg 1993). In contrast,
+incentive approaches promote economic performance. Thus,
+
+705
+
+when an unexpected negative shock arises, the economic impact is less critical and the management response is likely to
+be quicker and more effective. The incentive approach,
+therefore, helps to avoid the social and biological amplification of natural fisheries variability, a highly desirable characteristic of fisheries management (Rice 2002).
+
+Sustaining ecosystems
+Harvesting, community, and territorial rights do not guarantee that all fishery practices will be sustainable, but they
+can create incentives for fishers to protect their rights by discouraging practices that are overtly damaging, and promote
+actions that conserve target species. We address how different incentives can contribute to sustaining ecosystems in the
+following three subsections.
+Multiple stakeholders and collective action
+In New Zealand, commercial fishers have recognized that
+the environment of the Fiordland, listed as a UNESCO
+World Heritage Site, is vulnerable to harvesting. To address
+these concerns, an alliance of conservation groups, commercial and recreational fishers, and Maori interests, called the
+Fiordland Marine Guardians (FMG), developed a strategy to
+protect environmental quality while providing for sustainable harvesting. It creates eight fully protected marine reserves and several no-anchoring zones, excludes commercial
+fishing from all inland waters, creates a tailored recreational
+fishing regime, and establishes the FMG as a formal advisory body to the government (New Zealand Government
+2005). Without well-defined harvesting rights and the incentives they engender, this successful balancing of interests
+and responsibilities across stakeholders would have been impossible.
+Coordination and effective oversight
+Despite the potential of IAFs to contribute to sustainability, a public oversight and coordination role to integrate
+commercial resource use with environmental impacts and
+other resource interests is still required, because it is not
+possible to specify property rights over every aspect of the
+environment in advance and thus prevent all the negative
+spillovers that might arise from harvesting. Public oversight
+is also needed to manage straddling fish stocks and highly
+migratory species and for the setting of societal objectives
+and target and reference points in terms of fish stocks and
+marine ecosystems. Coordination and oversight may also be
+justified if the average cost of monitoring and enforcement
+is lower when there are a greater number of fisheries under
+surveillance, if the average cost to provide management services is lower with a larger number of services (e.g., science
+advice, monitoring, and research), or if there is a publicgood aspect (such as species diversity) to fisheries management (Grafton 2000).
+One of the more important factors in justifying public
+oversight, in terms of sustainability, is the deleterious impact
+on the marine environment from fishing that is incidental to
+the catches of target species (Scott 1999b). For example,
+longlining can cause incidental catch of sea turtles and sea
+birds, trawling for shrimp can contribute to turtle mortality,
+and purse seining for tuna can, in some cases, result in inci© 2006 NRC Canada
+
+706
+
+dental dolphin deaths (Dayton et al. 2002). If reduced numbers of sea birds, turtles, and dolphins do not affect the
+value of fishers’ harvesting rights over target species and
+reducing these incidental catches is costly, then there is no
+financial incentive for fishers to address these bycatch issues.
+Quantity and price incentives for ecological services
+Where threats to ecological services arise and are deemed
+sufficiently costly by society to warrant intervention, fishers
+can be given incentives to employ bycatch reduction devices,
+to make conservation investments, or to undertake practices
+that may reduce the adverse impacts of fishing. The potential of a quantity-based incentive approach compared with
+traditional input controls can be illustrated by regulations
+that are part of the 1998 Agreement on the International
+Dolphin Conservation Program in the Eastern Tropical Pacific (Hedley 2001). As part of this agreement, vessels flagged
+by signatory countries that exceed their annual dolphin mortality limits (DMLs) must stop fishing. On all vessels greater
+than 400 tons (1 ton = 1.016 tonnes), DMLs are enforced by
+onboard observers who record the numbers of dolphins
+killed from the harvesting of yellowfin tuna (Thunnus albacares). Although these rights are by no means complete
+property rights (Campbell et al. 2000b), some reassignment
+of unused or forfeited rights is permitted, and in the first
+year of their introduction, DMLs helped to reduce total dolphin mortality by more than 75% (Hedley 2001).
+Habitat damage can arise from some forms of harvesting,
+such as bottom trawling (Jennings and Kaiser 1998; Dayton
+et al. 2002; ICES 2005b). This could potentially be mitigated through incentives, e.g., through the use of transferable habitat impact units (HIUs) that would proxy marginal
+habitat damage associated with different gear and habitats
+(Holland and Schnier 2004). The total number of HIUs would
+be set to ensure a desired level of habitat protection and
+would be enforced with a vessel monitoring system that
+would track each vessel’s location and rate of movement.
+Fishers would be motivated to take into account the impact
+of fishing on habitats because HIUs would be scarce and
+tradable. Those who exceed their initial allocation of HIUs
+would be required to purchase more units, which would increase their fishing costs, whereas those who have HIUs left
+over after fishing could sell or lease them to others at a
+profit.
+A price-based approach to sustaining ecosystems could involve the imposition of environmental charges on vessels
+that impose a particular risk or harm to the marine environment and then the use of the funds from these charges to undertake conservation investments. For example, an industry
+association of gillnet fishers in California have proposed a
+turtle tax, related to turtle mortality from swordfish (Xiphias
+gladius) harvesting, to pay for the protection of critical
+leatherback (Dermochelys coriacea) nesting sites in Agua
+Blanca, Baja California (C. Janisse, Federation of Independent Seafood Harvesters (FISH), P.O. Box 352, Bridgewater
+Corners, VA 05035, USA, cjanisse@vermontel.net, unpublished data). Similar approaches could also be adopted in
+other fisheries, especially if public, private sector, or nongovernmental funds were used to provide financial incentives for fishers to undertake more sustainable fishing
+
+Can. J. Fish. Aquat. Sci. Vol. 63, 2006
+
+practices. These could, for example, include the ecocertification of sustainable fisheries (Peterman 2002) and
+harvesting practices to provide a price premium for ecologyfriendly fishing, vessel- or gear-specific harvesting charges
+to promote sustainable practices, and market-based instruments to price ecosystem services. A price-based approach
+that would help maximize the environmental payoff per
+dollar of conservation expenditures by regulators or nongovernmental organizations would be to allow fishers to bid
+or tender for biodiversity conservation payments to undertake specific management actions, but within a framework
+of well-defined ecological quality objectives (ICES 2005b,
+pp. 32–60). Such an approach has proved successful in
+changing practices by landholders and has promoted conservation in a cost-effective manner on farms in the State of
+Victoria, Australia (Stoneham et al. 2003).
+Both price- and quantity-based incentives complement
+ecosystem approaches because they reduce the negative effects of harvesting on endangered and protected species and
+help to conserve nonmarketed ecosystem services. The key
+insight from experience to date in commercial fisheries is
+that appropriate fisher incentives, coupled with public research, monitoring, and effective oversight, promote more
+sustainable fishing practices.
+
+Concluding remarks
+The alarming trends in the world’s fisheries demand a
+fundamental change in management and fishing practices.
+As managers grapple with these problems, many scientists
+are arguing for a new paradigm and, in particular, an ecosystem approach to fisheries to overcome the failures of singleor target-species management. While the ecosystem approach
+and existing strategies that promote sustainability are necessary, especially to account for fishery–ecosystem interactions,
+they are insufficient by themselves to address the key drivers
+of unsustainable outcomes, i.e., inappropriate incentives for
+fishers and the ineffective governance that exists in commercial fisheries regulated exclusively by input controls and
+TACs. Evidence from more than a dozen natural experiments
+of commercial, developed fisheries supports our conclusion:
+incentive-based approaches that better specify individual and
+group harvesting rights and (or) territorial rights, as well as
+price ecosystem services, promote both economic and ecological sustainability.
+
+Acknowledgments
+The authors are especially grateful to John Annala and
+Jake Rice for their insightful comments on an earlier version
+of this paper.
+
+References
+Allison, D.L. 2002. Problems with U.S. ocean governance and institutional structures: the impact on waters, fish, and fisheries in the U.S.
+exclusive economic zone. In Managing marine fisheries in the
+United States: Proceedings of the Pew Commission Workshop on
+Marine Fishery Management. Pew Oceans Commission, Arlington,
+Virginia, USA. http://www.pewtrusts.com/pdf/environment_ pew_
+oceans_managing_ fisheries.pdf.
+© 2006 NRC Canada
+
+Grafton et al.
+Allison, G.W., Lubchenco, J., and Carr, M.H. 1998. Marine reserves are necessary but not sufficient for marine conservation.
+Ecol. Appl. 8: S79–S92.
+Arnason, R. 1994. On catch discarding in fisheries. Mar. Resour.
+Econ. 9: 189–207.
+Arnason, R. 1995. The Icelandic fisheries: evolution and management of a fishing industry. Fishing News Books, Osney Mead,
+Oxford, UK.
+Arnason, R., Schrank, W.E., and Hannesson, R. 2003. A comparison of fisheries management costs in Iceland, Norway and Newfoundland. In The cost of fisheries management. Edited by W.E.
+Schrank, R. Arnason, and R. Hannesson. Ashgate, Aldershot.
+Baland, J-M., and Platteau, J-P. 1996. Halting degradation of natural resources: is there a role for rural communities? Food and
+Agriculture Organization of the United Nations and Clarendon
+Press, Oxford, UK.
+Breen, P.A., and Kendrick, T.H. 1997. A fisheries management
+success story: the Gisborne, New Zealand, fishery for red rock
+lobsters (Jasus edwardsii). Mar. Freshw. Res. 48: 1103–1110.
+Browman, H.I., Cury, P.M., Hilborn, R., Jennings, S., Lotze, H.K.,
+Mace, P.M., Murawski, S., Pauly, D., Sissenwine, M., Stergiou,
+K.I., and Zeller, D. 2004. Perspectives on ecosystem-based approaches to the management of marine resources. Mar. Ecol.
+Prog. Ser. 274: 269–303.
+Buckworth, R.C. 2001. World fisheries are in a crisis? We must respond! In Reinventing fisheries management. Edited by T.J.
+Pitcher, P.J.B. Hart, and D. Pauly. Kluwer Academic Publishers,
+Dordrecht, Netherlands. Fish Fisheries Ser. No. 23.
+Busch, W.-D.N., Brown, B.L., and Mayer, G.F. (Editors). 2003. Strategic guidance for implementing an ecosystem-based approach to
+fisheries management. US Department of Commerce, National
+Oceanic and Atmospheric Administration, National Marine Fisheries Service, Silver Spring, Maryland, USA.
+Campbell, D., Brown, D., and Battaglene, T. 2000. Individual
+transferable catch quotas: Australian experience in the southern
+bluefin tuna fishery. Mar. Pol. 24: 109–117.
+Campbell, H., Herrick, S.F., Jr., and Squires, D. 2000. The role of
+research in fisheries management: the conservation of dolphins
+in the Eastern Tropical Pacific and the exploitation of southern
+bluefin tuna in the Southern Ocean. Ocean Dev. Int. Law, 31:
+347–375.
+Casey, K.E., Dewees, C.M., Turris, B.R., and Wilen, J.E. 1995.
+The effects of individual vessel quotas in the British Columbia
+halibut fishery. Mar. Resour. Econ. 10: 211–230.
+Caton, A., and McLoughlin K. (Editors). 2005. Fishery status reports 2004: status of fish stocks managed by the Australian government. Bureau of Rural Sciences, Canberra, Australia.
+Charles, A.T. 1995. The Atlantic Canadian groundfishery: roots of
+collapse. Dalhousie Law J. 18: 65–83.
+Christy, F.T. 1999. Common property rights: an alternative to ITQs.
+In Use of property rights in fisheries management. Edited by R.
+Shotton. Food and Agriculture Organization of the United Nations, Rome, Italy. FAO Fisheries Technical Paper No. 404/1.
+Clark, C.W. 1973. The economics of overexploitation. Science (Washington, D.C.), 181(4): 630–634.
+Clark, C.W. 1982. Models of fishery regulation. In Essays in the
+economics of renewable resources. Edited by L.J. Mirman and
+D.F. Spulber. North Holland, Amsterdam, Netherlands.
+Clark, C.W., Munro, G.R., and Sumaila, U.R. 2005. Subsidies,
+buybacks, and sustainable fisheries. J. Environ. Econ. Manag.
+50: 47–58.
+Cole, D.H., and Grossman, P.Z. 2002. The meaning of property
+rights: law versus economics? Land Econ. 78(3): 317–330.
+
+707
+Connor, R. 2001. Initial allocation of individual transferable quota
+in New Zealand fisheries. In Case studies on the allocation of
+transferable quota rights in fisheries. Edited by R. Shotton. Food
+and Agriculture Organization of the United Nations, Rome, Italy. FAO Fisheries Technical Paper No. 411.
+Cox, A., and Schmidt, C.-C. 2002. Subsidies in the OECD fisheries sector: a review of recent analysis and future directions.
+OECD Fisheries Division, Paris, France.
+Davidse, W.P., Harmsma, H., van Wijk, M.O., McEwan, L.V.,
+Vestergaard, N., and Frost, H. 1997. Property rights in fishing:
+effects on the industry and effectiveness for fishery management
+policy. Agricultural Economics Research Institute, The Hague,
+Netherlands.
+Dayton, P.K., Thrush, S.F., and Coleman, F.C. 2002. Ecological effects of fishing in marine ecosystems of the United States. Pew
+Oceans Commission, Arlington, Virginia.
+Dietz, T., Ostrom, E., and Stern, P.C. 2003. The struggle to govern
+the commons. Science (Washington, D.C.), 302: 1907–1912.
+Dupont, D.P. 1990. Rent dissipation in restricted access fisheries. J.
+Environ. Econ. Manag. 19: 26–44.
+Dupont, D.P., and Grafton, R. Q. 2001. Multi-species individual
+transferable quotas: the Scotia–Fundy mobile gear groundfishery.
+Mar. Resour. Econ. 15: 205–220.
+Dupont, D.P., Grafton, R.Q., Kirkley, J., and Squires, D. 2002. Capacity utilization and excess capacity in multi-product privatized
+fisheries. Resour. Energy Econ. 24: 193–210.
+Dupont, D.P., Fox, K.J., Gordon, D.V., and Grafton, R.Q. 2005.
+Profit and price effects of multispecies individual transferable
+quotas. J. Agric. Econ. 56: 31–57.
+Ecosystem Principles Advisory Panel. 1999. Ecosystem-based fishery management: a report to Congress by the Ecosystem Principles Advisory Panel. US National Marine Fisheries Service,
+Silver Spring, Md. http://www.nmfs.noaa.gov/sfa/EPAPrpt.pdf.
+European Environment Agency. 2004. Indicator: the North Sea cod
+(Gadhus morhua) stock. http://themes.eea.eu.int/Sectors_and_
+activities/fishery/indicators/FISH01b,2004.05.
+Food and Agriculture Organization of the United Nations (FAO).
+1995. Code of conduct for responsible fisheries. FAO, Rome, Italy.
+Food and Agriculture Organization of the United Nations (FAO).
+1996. Precautionary approach to fisheries. Part 2. Scientific papers.
+FAO, Rome, Italy. FAO Fisheries Technical Paper No. 350/2.
+Food and Agriculture Organization of the United Nations (FAO).
+1997. The state of world fisheries and aquaculture 1996. FAO,
+Rome, Italy.
+Food and Agriculture Organization of the United Nations (FAO).
+2002a. Report and documentation of the International Workshop
+on Factors of Unsustainability and Overexploitation in Fisheries,
+Bangkok, Thailand, 4–8 February 2002. FAO, Rome, Italy.
+Food and Agriculture Organization of the United Nations (FAO).
+2002b. Report of the expert consultation on ecosystem-based
+fisheries management. FAO, Rome, Italy. FAO Fisheries Report
+No. 690.
+Fisheries and Oceans Canada. 2004a. A recent account of Canada’s
+Atlantic cod fishery. Fisheries and Oceans Canada, Ottawa, Canada. http://www.dfo-mpo.gc.ca/kids-enfants/map-carte/map_e.htm.
+Fisheries and Oceans Canada. 2004b. 2005/2006 Groundfish trawl
+integrated fisheries management plan. Fisheries and Oceans
+Canada, Pacific Region, 200–401 Burrard Street, Vancouver, BC
+V6C 3S4, Canada.
+Fisheries and Oceans Canada. 2005. The fishing industry and the
+Species as Risk Act. http://www.dfo-mpo.gc.ca/species-especes/
+actMeans/actMeans_commercialfishing_factsheet_e.asp.
+© 2006 NRC Canada
+
+708
+Fox, K.J., Grafton, R.Q., Kirkley, J.E., and Squires, D. 2003a.
+Property rights in a fishery: regulatory change and firm performance. J. Environ. Econ. Manag. 46: 156–177.
+Fox, K.J., Grafton, R.Q., Kompas, T., and Che, T.N. 2003b. Productivity and capacity reduction: the case of a fishery. IDEC
+working paper IDEC03–2. http://apseg.anu.edu.au/degrees/idec/
+working_papers/IDEC03–2.pdf.
+Garcia, S.M., Zerbi, A., Aliaume, C., Do Chi, T., and Lasserre, G.
+2003. The ecosystem approach to fisheries. FAO, Rome, Italy.
+FAO Fisheries Technical Paper 443.
+Gell, F.R., and Roberts, C.M. 2003. Benefits beyond boundaries:
+the fishery effects of marine reserves. TREE, 18: 448–455.
+Grafton, R.Q. 1995. Rent capture in a rights-based fishery. J. Environ. Econ. Manag. 28: 48–67.
+Grafton, R.Q. 2000. Governance of the commons: a role for the
+state? Land Econ. 76(4): 504–517.
+Grafton, R.Q. 2005. Social capital and fisheries governance. Ocean
+Coast. Manag. 48: 753–766.
+Grafton, R.Q., and Nelson, H.W. 2005. The effects of buy-back
+programs in the British Columbia salmon fishery. http://een.
+aun.edu/download_files/een0505.pdf.
+Grafton, R.Q., Squires, D., and Kirkley, J.E. 1996. Private property
+rights and crises in world fisheries: turning the tide? Contemp.
+Econ. Pol. 14: 90–99.
+Grafton, R.Q., Squires, D., and Fox, K.J. 2000. Private property
+and economic efficiency: a study of a common-pool resource. J.
+Law. Econ. 43: 679–713.
+Grafton, R.Q., Nelson, H.W., and Turris, B. 2006. How to resolve
+the class II common property problem? The case of British Columbia’s multi-species groundfish trawl fishery. In Advances in
+the economics of the fishery: festschrift in honour of Professor
+G.R. Munro. Edited by T. Bjørndal, D.D. Gordon, R. Arnason,
+and R. Sumaila, Blackwell, Oxford, UK.
+Grafton, R.Q., Kompas, T., and Lindenmayer, D. 2005. Marine reserves with ecological uncertainty. Bull. Math. Biol. 67: 957–971.
+Gréboval, D., and Munro G. 1999. Overcapitalization and excess capacity in world fisheries: underlying economics and methods of
+control. In Managing fishing capacity: selected papers on underlying concepts and issues. Edited by D. Gréboval. FAO, Rome, Italy. FAO Fisheries Technical Paper No. 386.
+Halpern, B.S. 2003. The impact of marine reserves: do reserves
+work and does reserve size matter? Ecol. Appl. 13: S117–S137.
+Hannesson, R. 1996. Fisheries mismanagement: the case of the
+North Atlantic cod. Fishing News Books, Oxford, UK.
+Hannesson, R. 2002. A note on unsustainable fisheries and trends in
+fish catches. In Report and documentation of the International
+Workshop on Factors of Unsustainability and Overexploitation in
+Fisheries, Bangkok, Thailand, 4–8 February 2002. FAO, Rome,
+Italy.
+Hannesson, R. 2004. The privatization of the oceans. The MIT
+Press, Cambridge, Mass.
+Healey, M.C., and Hennessey, T. 1998. The paradox of fairness:
+the impact of escalating complexity on fisheries management.
+Mar. Pol. 22(2): 109–118.
+Hedley, C. 2001. The 1998 agreement on the International Dolphin
+Conservation Program: recent developments in the tuna–dolphin
+controversy in the eastern Pacific Ocean. Ocean Dev. Int. Law,
+32: 71–92.
+Herrmann, M. 1996. Estimating the induced price increase for Canadian Pacific halibut with the introduction of the individual
+vessel quota program. Can. J. Agric. Econ. 44(2): 151–164.
+Hilborn, R. 2004. Ecosystem-based fisheries management: the carrot or the stick? Mar. Ecol. Prog. Ser. 274: 275–278.
+
+Can. J. Fish. Aquat. Sci. Vol. 63, 2006
+Hilborn, R., Branch, T.A., Ernst, B., Magnusson, A., Minte-Vera,
+C.V., Scheuerell, M.D., and Valero, J.L. 2003. State of the world’s
+fisheries. Annu. Rev. Environ. Resour. 28: 359–399.
+Hilborn, R., Orensanz, J.M., and Parma, A.M. 2005. Institutions,
+incentives and the future of fisheries. Philos. Trans. R. Soc. B,
+360: 47–57.
+Holland, D., and Schnier, K.E. 2004. Individual habitat quotas for
+fisheries. In Proceedings of the Twelfth Biennial Conference of
+the International Institute for Fisheries Economics and Trade
+(IIFET) in Tokyo, Japan, 21–30 July 2004. IIFET, Department
+of Agricultural and Resource Economics, Oregon State University, Corvallis, Oregon. ISBN 0-9763432-0-7.
+Holland, D., Gudmundson, E., and Gates, J. 1999. Do fishing vessel buyback programs work: a survey of the evidence. Mar. Pol.
+23: 47–69.
+Hutchings, J.A., and Myers, R.A. 1994. What can be learned for the
+collapse of a renewable resource? Atlantic cod, Gadhus morhua,
+of Newfoundland and Labrador. Can. J. Fish. Aquat. Sci. 51:
+2126–2146.
+International Council for the Exploration of the Sea (ICES). 2005a.
+Guidance on the application of the ecosystem approach to management of human activities in the European marine environment. Edited by J. Rice, V. Trujillo, S. Jennings, K. Hylland, O.
+Hagstrom. A. Astudillo, and J.N. Jensen. ICES, H.C. Andersens
+Boulevard 44–46, DK-1553 Copenhagen V, Denmark. ICES Cooperative Research Report No. 273.
+International Council for the Exploration of the Sea (ICES). 2005b.
+Ecosystem effects of fishing: impacts, metrics, and management
+strategies. Edited by J. Rice. ICES, H.C. Andersens Boulevard
+44–46, DK-1553 Copenhagen V, Denmark. ICES Cooperative
+Research Report No. 272.
+Jennings, S., and Kaiser, M.J. 1998. The effects of fishing on marine ecosystems. Adv. Mar. Biol. 34: 201–352.
+Johannes, R.E. 1978. Traditional marine conservation methods in
+Oceania and their demise. Annu. Rev. Ecol. Syst. 9: 349–364.
+Kaufmann, B., Geen, G., and Sen, S. 1999. Fish futures: individual
+transferable quotas in fisheries. Fisheries Economics, Research
+and Management Pty Ltd., Kiama, Australia.
+Knapp, G., Siver, D., Deroche, P., and Hill, A. 2002. Effects of the
+2002 Chignik Salmon Cooperative: a survey of Chignik salmon
+permit holders. http://www.iser.uaa.alaska.edu/Publications/
+ISERChignikSurveyReportpt1.pdf.
+Kompas, T., Che, T.N., and Grafton, R.Q. 2004. Technical efficiency effects of input controls: evidence from Australia’s banana prawn fishery. Appl. Econ. 36: 1631–1641.
+Lane, D.E., and Stephenson, R.L. 2000. Institutional arrangements
+for fisheries: alternative structures and impediments to change.
+Mar. Pol. 24: 385–393.
+Larkin, P.A. 1978. Fisheries management — an essay for ecologists. Annu. Rev. Ecol. Syst. 9: 57–73.
+Lauck, T., Clark, C.W., Mangel, M., and Munro, G.R. 1998. Implementing the precautionary principle in fisheries management
+through marine reserves. Ecol. Appl. 8: S72–S78.
+Leal, D.R., De Alessi, M., and Baker, P. 2005. The ecological role
+of IFQs in U.S. fisheries: a guide for federal policy makers.
+http://www.ifqsforfisheries.org/pdf/pr_ifq_ecology.pdf.
+Ludwig, D., Hilborn, R., and Walters, C. 1993. Uncertainty, resource exploitation, and conservation: lessons from history. Science (Washington, D.C.), 260: 7, 36.
+Lydon, G., and Langley, A.D. 2003. How local fishers’ knowledge
+improves the management of fisheries in New Zealand — a seafood industry perspective. In Putting fishers’ knowledge to
+work. Edited by N. Haggan, C. Brignall, and L. Wood. http://
+www.fisheries.ubc.ca/publications/reports/report11_1.php.
+© 2006 NRC Canada
+
+Grafton et al.
+Maguire, J.J. 2003. Large volume demersal fishery in the North Atlantic. In Report and documentation of the International Workshop on the Implementation of International Fisheries Instruments
+and Factors of Unsustainability and Overexploitation in Fisheries,
+Mauritius, 3–7 February 2003. Edited by J. Swan and D.
+Gréboval. FAO, Rome, Italy.
+McLoughlin, R., and Findlay, V. 2005. Implementation of effective
+fisheries management. In Outlook ‘05, Canberra, Australia, 2 March
+2005. http://www.abare.gov.au/outlook/program/day2.html.
+Mikalsen, K.H., and Jentoft, S. 2001. From user-groups to stakeholders? The public interest in fisheries management. Mar. Pol.
+25: 281–292.
+Milazzo, M. 1998. Subsidies in world fisheries: a re-examination.
+World Bank Technical Paper No. 406, Washington, D.C.
+Munro, G.R., and Sumaila, U.R. 2002. The impact of subsidies
+upon fisheries management and sustainability: the case of the
+North Atlantic. Fish Fish. 3: 233–250.
+National Research Council. 1999. Sharing the fish. National Academy Press, Washington, D.C.
+Newell, R.G., Sanchirico, J.N., and Kerr, S. 2005. Fishing quota
+markets. J. Environ. Econ. Manag. 49: 437–462.
+New Zealand Government. 2005. Fiordland (Te Moana o Atawhenua)
+Marine Management Act 2005. http://rangi.knowledge-basket.co.nz/
+gpacts/public/text/2005/an/036.html.
+Organization for Economic Cooperation and Development (OECD).
+2000. Transition to responsible fisheries: economic and policy
+implications. OECD, Paris, France.
+Ostrom, E., Gardner, R., and Walker, J. 1994. Rules, games, and
+common-pool resources. University of Michigan Press, Ann Arbor, Mich.
+Palumbi, S.R. 2004. Why mothers matter. Nature (London), 430:
+621–622.
+Parsons, L.S. 1993. Management of marine fisheries in Canada.
+National Research Council and Department of Fisheries and
+Oceans Canada, Ottawa, Canada.
+Pauly, D., Christensen, V., Dalsgaard, J., Froese R., Torres, F., Jr.
+1998. Fishing down marine food webs. Science (Washington,
+D.C.), 279: 860–863.
+Peacock, F.G., and Hansen, J. 1999. Community management in
+groundfish: a new approach to property rights. In Use of property rights in fisheries management. Edited by R. Shotton. FAO,
+Rome, Italy. FAO Fisheries Technical Paper No. 404/2.
+Peterman, R.M. 2002. Ecocertification: an incentive for dealing effectively with uncertainty, risk, and burden of proof in fisheries.
+Bull. Mar. Sci. 70(2): 669–681.
+Pikitch, E.K., Santora, C., Babcock, E.A., Bakun, A., Bonfil, R.,
+Conover, D.O., Dayton, P., Doukakis, P., Fluharty, D., Herman,
+B., Houde, E.D., Link, J., Livingston, P.A., Mangel, M.,
+McAllister, M.K., Pope, J., and Sainsbury, K.J. 2004. Ecosystembased fishery management. Science (Washington, D.C.), 305:
+346–347.
+Pomeroy, R.S., and Berkes, F. 1997. Two to tango: the role of government in fisheries co-management. Mar Pol. 21(5): 465–480.
+Pretty, J. 2003. Social capital and the collective management of resources. Science (Washington, D.C.), 302: 1912–1914.
+Rice, J. 2001. Fostering sustainable development and research by
+encouraging the right kind of institutions. In Reinventing fisheries
+management. Edited by T.J. Pitcher, P.J.B. Hart, and D. Pauly.
+Kluwer Academic Publishers Fish and Fisheries Series 23,
+Dordrecht, Netherlands.
+Rice, J. 2002. Observations on factors of unsustainability and overexploitation in fisheries. In Report and documentation of the
+International Workshop on Factors of Unsustainability and
+
+709
+Overexploitation in Fisheries, Bangkok, Thailand, 4–8 February
+2002. FAO, Rome, Italy.
+Rice, J. 2003. The British Columbia rockfish trawl fishery. In Report
+and documentation of the International Workshop on Factors of
+Unsustainability and Overexploitation in Fisheries, Mauritius, 3–7
+February 2003. Edited by J. Swan and D. Gréboval. FAO, Rome,
+Italy.
+Roberts, C.M., Bohnsack, J.A.M., Gell, F., Hawkins, J.P., and
+Goodridge, R. 2001. Effects of marine reserves on adjacent fisheries. Science (Washington, D.C.), 294: 1920–1923.
+Schiermeier, Q. 2002. How many more fish in the sea? Nature
+(London), 419: 662.
+Schwindt, R., Vining, A.R., and Weimer, D. 2003. A policy analysis of the BC salmon fishery. Can. Public. Pol. 29(1): 73–94.
+Scott, A. 1993. Obstacles to fishery self-government. Mar. Resour.
+Econ. 8(3): 187–199.
+Scott, A. 1999a. Moving through the narrows: from open access to
+ITQs and self government. In Use of property rights in fisheries
+management. Edited by R. Shotton. FAO, Rome, Italy. FAO
+Fisheries Technical Paper No. 404/1.
+Scott, A. 1999b. Introducing property in fisheries management. In
+Use of property rights in fisheries management. Edited by R.
+Shotton. FAO, Rome, Italy. FAO Fisheries Technical Paper
+No. 404/1.
+Scott, A., and Neher, P.A. 1981. The public regulation of commercial fisheries in Canada. Ministry of Supply and Services Canada, Ottawa, Canada.
+Sharp, N. 1998. Reimaging sea space: from Grotius to Mabo. In
+Customary marine tenure in Australia. Edited by N. Peterson
+and B. Rigsby. University of Sydney, Sydney, Australia. Oceania
+Monographs No. 48.
+Shotton, R. (Editor). 2001. Case studies on the allocation of transferable quota rights in fisheries. FAO, Rome, Italy. FAO Fisheries Technical Paper No. 411
+Sissenwine, M.P., and Rosenberg, A.A. 1993. Marine fisheries at a
+critical juncture. Fisheries, 18(10): 6–14.
+Squires, D. 1987. Public regulation and the structure of production
+in multiproduct industries: an application to the New England
+trawl industry. Rand J. Econ. 18: 232–247.
+Squires, D. 1992. Productivity measurement in common property
+resource industries: an application to the Pacific coast trawl fishery. Rand J. Econ. 23(2): 221–236.
+Squires, D., and Kirkley, J.E. 1996. Individual transferable quotas in
+a multiproduct common property industry. Can. J. Econ. 29(2):
+318–342.
+Squires, D., Campbell, H., Cunningham, S., Dewees, C., Grafton,
+R.Q., Herrick, S.F., Jr., Kirkley, J., Pascoe, S., Salvanes, K.,
+Shallard, B., Turris, B., and Vestergaard, N. 1998. Individual transferable quotas in multispecies fisheries. Mar. Pol. 22: 135–159.
+Stanley, R.D., and Rice, J.C. 2003. Participatory research in the
+B.C. groundfish fishery. In Putting Fishers’ knowledge to work.
+Edited by N. Haggan, C. Brignall, and L. Wood. http://www.
+fisheries.ubc.ca/publications/reports/report11_1.php.
+Stoneham, G., Chaudhri, V., Hoa, A., and Strappazzon, L. 2003.
+Auctions for conservation contracts: an empirical examination
+of Victoria’s Bush Tender trial. Aust. J. Agric. Resour. Econ.
+47(4): 477–500.
+Symes, D. 2000. Use rights and social obligations: questions of responsibility and governance. In Use of property rights in fisheries management. Edited by R. Shotton. FAO, Rome, Italy. FAO
+Fisheries Technical Paper No. 404/1.
+Tasmanian Abalone Council. 2003. Fishery facts. http://www.
+tasabalone.co.au/.
+© 2006 NRC Canada
+
+710
+Townsend, R.E. 1990. Entry restrictions in the fishery: a survey of
+the evidence. Land Econ. 66: 359–378.
+Turner, M.A., and Weninger, Q. 2005. Meetings with costly participation: an empirical analysis. Rev. Econ. Stud. 72: 247–268.
+Walden, J.B., Kirkley, J.E., and Kitts, A.W. 2003. A limited assessment of the northeast groundfish fishery buyout program. Land
+Econ. 79(3): 426–439.
+Walters, C.J., and Maguire, J.-J. 1996. Lessons for stock assessment from the northern cod collapse. Rev. Fish. Biol. Fish. 6:
+125–137.
+Walters, C.J., and Martell, S.J.D. 2004. Fisheries ecology and management. Princeton University Press, Princeton, N.J.
+
+Can. J. Fish. Aquat. Sci. Vol. 63, 2006
+Weninger, Q., and McConnell, K.E. 2000. Buyback programs in
+commercial fisheries: efficiency versus transfers. Can. J. Econ.
+33: 394–412.
+Wilen, J. 1979. Fisherman behaviour and the design of efficient
+fisheries regulation programmes, J. Fish. Res. Board Can. 36:
+855–858.
+Willmann, R. 1999. Group- and community-based fishing rights. In
+Use of property rights in fisheries management. Edited by R.
+Shotton. FAO, Rome, Italy. FAO Fisheries Technical Paper
+No. 404/1.
+The World Bank. 2004. Saving fish and fishers. Agriculture and Rural Development Department, The World Bank, Washington, D.C.
+
+© 2006 NRC Canada
+
+

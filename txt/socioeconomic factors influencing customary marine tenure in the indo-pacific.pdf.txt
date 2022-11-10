@@ -1,0 +1,1726 @@
+Copyright © 2005 by the author(s). Published here under license by the Resilience Alliance.
+Cinner, J. 2005. Socioeconomic factors influencing customary marine tenure in the Indo-Pacific. Ecology
+and Society 10(1): 36. [online] URL: http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+Research
+
+Socioeconomic factors influencing customary marine tenure in
+the Indo-Pacific
+Joshua Cinner1
+
+ABSTRACT. For generations communities in the Western Pacific have employed a range of resource
+management techniques (including periodic reef closures, gear restrictions, entry limitations, and the
+protection of spawning aggregations) to limit marine resource use. Localized control over marine resources,
+commonly known as customary marine tenure (CMT), is the legal and cultural foundation for many of
+these practices. Because of their perceived potential to meet both conservation and community goals, these
+traditional resource management techniques are being revitalized by communities, governments, and NGOs
+as an integral part of national and regional marine conservation plans in the Pacific. However, the viability
+of conservation strategies built on a foundation of marine tenure may be in question, as it remains unclear
+whether marine tenure systems will be able to withstand the profound social and economic changes sweeping
+the Pacific region. Numerous studies have suggested that changes in marine tenure are attributed to social
+and economic factors, however, specific relationships between socioeconomic conditions and marine tenure
+are still not well understood. This paper examines the social and economic characteristics of 21 coastal
+communities in Papua New Guinea and Indonesia, and explores the characteristics of the communities that
+employ exclusive marine tenure to answer the following questions: Which socioeconomic factors are related
+to the presence of CMT regimes? How might socioeconomic factors influence the ability of communities
+to employ or maintain CMT regimes? Distance to market, immigration, dependence on fishing, and conflicts
+were found to be related to the presence of highly exclusive marine tenure systems. Exploring these
+relationships will help conservation practitioners better understand how future social changes may influence
+the foundation of conservation and development projects.
+Key Words: customary marine tenure; common-property; socioeconomic; Papua New Guinea; Indonesia.
+
+INTRODUCTION
+Contrary to Western society's propensity toward
+managing marine resources as open-access
+situations, another paradigm of common ocean
+governance called Customary Marine Tenure
+(CMT) is prevalent in parts of the Pacific. Under
+CMT, access to inshore marine resources is
+generally controlled by social units including
+individuals, families, clans or other kinship-based
+institutions, and villages (Carrier 1987, Ward 1997).
+These marine tenure institutions can range from
+relatively simple communally-owned marine areas
+from which outsiders are excluded to the complex
+and overlapping system of individual and family
+rights to space, species, gear, and even specific
+
+techniques of using gear described by Carrier (1987)
+and Cinner et al. (in press a) in the Manus province
+of Papua New Guinea (PNG). Although CMT has
+been documented throughout the World (Hviding
+1996), it has reached the highest level of
+development in the Western Pacific (Ruddle and
+Akimichi 1984), including Japan (Ruddle 1985),
+Melanesia (Malinowski 1935, Hviding 1983, 1996,
+Wright 1985, Carrier 1987, Aswani 1999, 2002,
+Cooke et al. 2000, Foale and Macintyre 2000,
+Hickey and Johannes 2002), Polynesia (Hoffmann
+2002), Micronesia (Johannes 1981, Zann 1985),
+Indonesia (Polunin 1984, Mantjoro 1996, Ruttan
+1998, Harkes and Novaczek 2002), and Australia
+(Johannes and MacFarlane 1984). Legal recognition
+of marine tenure regimes can vary significantly
+
+1
+
+James Cook University
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+between countries. For example, in PNG customary
+ownership of marine resources is formally
+recognized in the constitution (Hyndman 1993).
+Alternatively, much of neighboring Indonesia is
+open-access. However, in some northern and
+eastern regions of Indonesia (i.e., parts of Muluku,
+North Sulawesi, and West Papua provinces), de
+facto marine tenure systems still govern local access
+to marine resources (see Polunin 1984, Mantjoro
+1996, Ruttan 1998, Harkes and Novaczek 2002).
+In response to the degradation of inshore marine
+resources in many Pacific countries, governments
+and conservation groups are examining whether and
+how CMT regimes can be integrated into the modern
+conservation context (Cooke et al. 2000, Hoffmann
+2002, Johannes 2002). CMT is particularly
+important in the context of resource management
+because it can serve as the legal and cultural
+foundation for other taboos such as gear
+prohibitions and spatial restrictions (Ruddle 1998,
+Aswani and Hamilton 2004). Where CMT is
+recognized, the highly decentralized authority over
+marine resources can also facilitate rapid adaptive
+response to changes in ecological or social
+conditions because decisions about limiting
+resource use can be made without the process of
+involving a centralized bureaucracy. Basing
+resource conservation initiatives around marine
+tenure regimes is particularly attractive to
+conservation organizations and donors because
+enforcement of specific fishing regulations within
+a tenure is generally the responsibility of the
+resource owner (Asafu-Adjaye 2000). By
+empowering community self-enforcement of
+fisheries regulations, CMT may provide a costeffective means to reduce the burden on government
+intervention, regulation, and enforcement (Johannes
+1981, Hviding 1996, Ruddle 1998). This is
+particularly important in the economic context of
+the Pacific where fisheries departments are typically
+understaffed and under-funded (Johannes 1981).
+Customary tenure regimes are the foundation of
+marine governance in much of the Pacific, but they
+must be better understood if they are to be
+effectively incorporated in resource management
+and development initiatives. In particular, very little
+is known about the social and economic frameworks
+that allow communities to employ or maintain CMT
+regimes. An array of theoretical and empirical
+research has shown that common property
+governance systems can be affected by
+socioeconomic factors such as religious or cultural
+
+homogeneity (Ostrom 1990), market influences
+(Hviding 1996, Henrich et al. 2001), transaction
+costs of decision-making (Ostrom 1990, Sumalde
+2004), dependence on resources (Lise 2000,
+Agrawal 2001, Zanetell and Knuth 2004), social
+capital (Pretty and Ward 2001, Pretty 2003, Pretty
+and Smith 2004), conflicts (Polunin 1984, Adams
+et al. 2003) settlement patterns (Aswani 2002,
+Aswani and Hamilton 2004), and resource
+variability (see Agrawal 2002 for a comprehensive
+review of the factors influencing the emergence and
+successful functioning of common property
+institutions). The studies specific to CMT suggest
+that many of these social and economic factors can
+influence the nature and function of marine tenure
+institutions (Pollnac 1984, Polunin 1984, Baines
+1989, Watson 1989, Hviding 1996, Cooke et al.
+2000, Foale and Macintyre 2000, Aswani 2002),
+although specific relationships between socioeconomic
+conditions and CMT are sometimes contradictory
+and are still not well understood. For example,
+Watson (1989) discusses how changing socioeconomic
+conditions can render resource management
+strategies ineffective and inappropriate. Alternatively,
+Hviding (1996) documents how marine tenure rules
+became more exclusive for both commercial and
+subsistence activities in the Morovo Lagoon in
+response to increased prices of particular shells.
+Here I ask the following questions: Which
+socioeconomic factors are related to the presence of
+CMT regimes? How might these socioeconomic
+factors influence the ability of communities to
+employ or maintain CMT regimes? To date, most
+research examining the social, economic, and
+cultural factors influencing CMT has utilized a
+relatively small number of cases or examined these
+issues over a very limited geographical area. Despite
+the important contributions that small n case studies
+have made toward understanding CMT regimes, a
+fundamental limitation of this approach is that it
+does not allow us to discern larger patterns in how
+CMT regimes may respond to social and economic
+factors over a wider geographical context. In this
+paper, I seek to complement the more detailed case
+studies on the subject by using a comparative
+approach to examine the potential socioeconomic
+factors influencing viable CMT institutions in 21
+coastal communities in Papua New Guinea and
+Indonesia.
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+METHODS
+
+the market, the type of settlement pattern,
+dependence on marine resources, immigration, the
+presence of conflicts over marine resources, and the
+exclusivity of marine tenure regimes.
+
+Data collection
+Between October 2001 and January 2003, research
+was conducted in 15 villages in Papua New Guinea
+(PNG) and six villages in North Sulawesi, Indonesia
+(Fig. 1). A number of criteria were used to select
+the study sites. Research was conducted as part of
+an interdisciplinary Wildlife Conservation Society
+project that assessed the effectiveness of coral reef
+conservation in the Indo-Pacific (Cinner et al. 2003;
+Cinner et al. in press b, McClanahan et al.
+unpublished data). Agrawal (2001, 2002) suggests
+that purposively selecting sites that have variation
+in theoretically significant variables is a defensible
+sampling methodology in a common-property
+research context. Study sites were purposively
+selected to encompass a wide range of social,
+economic, demographic, and resource governance
+conditions (e.g., varying degrees of remoteness,
+marine tenure, market influence, dependence on
+marine resources, etc.). However, as a result of the
+project's intent to integrate both socioeconomic and
+ecological data, site selection was constrained
+somewhat by the need to have comparable
+ecological parameters at each site (coral reef habitat,
+current regimes, exposure, etc.), access to SCUBA
+facilities (although live onboard dive boats were
+used to access two remote study sites in PNG and
+two in Indonesia), and project goals of examining
+several specific conservation sites of regional
+importance (e.g., Bunaken and Kilu). Based on the
+fact that the villages were not randomly selected, a
+cautious approach to interpreting the results would
+suggest that the conclusions drawn from this study
+are not necessarily applicable outside of the study
+sites.
+Research was conducted over an one to three week
+period per village using one to four trained local
+assistants to aid in data collection. I used theoretical
+and empirical research (e.g., Ostrom 1990, Carrier
+and Carrier 1991, Agrawal 2001, Aswani 2002;
+Pollnac and Johnson in press) and socioeconomic
+assessment methodologies designed for coastal
+communities (Pollnac 1998, Bunce et al. 2000,
+Pollnac and Crawford 2000) to select indicators that
+were expected to be related to marine resource
+governance in the Indo-Pacific and that were also
+feasible to collect during the limited research time
+at each site. These were: population, distance to
+markets, the percentage of fish bartered or sold in
+
+A combination of systematic household surveys (for
+example, surveying every second or third
+household), semi-structured interviews with key
+informants (community leaders and resource users),
+recording of oral histories, transect walks (walking
+through the community with a local to identify and
+verify issues), participant observations, descriptions
+of daily and seasonal time-use, women’s focus
+groups, and analyses of secondary sources such as
+population censuses and fisheries records were all
+used to gather information and triangulate results.
+A total of 954 household surveys were collected.
+Sampling within villages was based on a systematic
+sample design, where a sampling fraction of every
+ith house (e.g. 2nd, 3rd, 4th) was determined by
+dividing the total village population by the sample
+size (Henry 1990, de Vaus 1991). Variance from
+the systematic sample was assumed to be equal to
+the estimated variance based on a simple random
+sample (Scheaffer et al. 1996). The number of
+surveys per community ranged from 15-84 (Table
+1), depending largely on the population of the
+village, the number of available research assistants,
+and the available time per site (this was influenced
+by factors such as weather, the availability and
+frequency of transportation to certain sites, and
+budget requirements such as the cost of the boat
+used to access remote sites).
+The head of the household was interviewed. If the
+head of the household was not available, the
+household was revisited later. If the head of the
+household was still not available, another adult from
+the household was interviewed. The head of the
+household could have been either a male or female.
+In instances where it was appropriate, more than one
+member of the household was interviewed to obtain
+the most accurate information about specific
+subjects (for example, if a female headed the house
+but her eldest son was more knowledgeable about
+the household's fishing activities and practices, then
+he would be asked about the proportion of fish catch
+bartered or sold).
+Household surveys were used to gather the
+following indicators: dependence on fishing,
+immigration, population of the village, and the
+percentage of fish sold in the market. Dependence
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+Fig. 1. Map of study sites.
+
+on fishing was determined by having respondents
+list all the occupations the household engaged in for
+food or money. Respondents were then asked to rank
+these activities in order of importance. Those who
+regularly engaged in fishing estimated the
+percentage of their fish catch sold or bartered.
+Respondents were asked where they were from and
+were considered immigrants if they came from
+another village. Population was determined by: (1)
+counting the number of houses, (2) determining the
+average number of persons per household (adults
+and children) from the household surveys, and (3)
+multiplying this by the number of houses in the
+community. This was thought to be more accurate
+
+than relying on census information because the
+census record in one community reported almost
+twice as many houses as were actually counted.
+Key informants were selected using non-probability
+sampling techniques, including convenience
+sampling (for example, a respondent may be
+approached during resource use activities) or
+snowball sampling (where community members
+will suggest appropriate respondents) (Henry
+1990). Between two and fifteen key informants were
+interviewed per village. Key informants also
+provided information on how exclusive the marine
+tenure was. Based on the key informant interviews
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+Table 1. Summary of study sites.
+Village
+
+Exclude Settlement Conflicts over Population Distance
+%
+non-own- pattern
+marine resto market immigrants
+ers
+ources
+(km)
+
+% of fish
+bartered
+or sold
+
+% ranked
+# of
+fishing as
+household
+primary occ- surveys
+upation
+
+Ahus
+
+yes
+
+nucleated
+
+yes
+
+544
+
+21
+
+3.9
+
+68
+
+77
+
+51
+
+Andra
+
+yes
+
+nucleated
+
+yes
+
+479
+
+31
+
+13.6
+
+75
+
+55
+
+44
+
+Gabagaba
+
+yes
+
+nucleated
+
+yes
+
+1708
+
+58
+
+2.6
+
+66
+
+51
+
+38
+
+Kakarotan
+
+yes
+
+nucleated
+
+yes
+
+730
+
+100
+
+2.0
+
+24
+
+27
+
+48
+
+Madina
+
+yes
+
+dispersed
+
+no
+
+564
+
+70
+
+35.0
+
+13
+
+0
+
+32
+
+Muluk
+
+yes
+
+nucleated
+
+yes
+
+333
+
+69
+
+7.5
+
+44
+
+5
+
+41
+
+Para
+
+yes
+
+dispersed
+
+yes
+
+1513
+
+46
+
+27.0
+
+69
+
+56
+
+59
+
+Airbanua
+
+no
+
+dispersed
+
+no
+
+687
+
+45
+
+32.6
+
+52
+
+12
+
+43
+
+Blongko
+
+no
+
+nucleated
+
+no
+
+1332
+
+32
+
+51.9
+
+44
+
+8
+
+77
+
+Bunaken
+
+no
+
+dispersed
+
+yes
+
+3122
+
+16
+
+20.5
+
+72
+
+37
+
+73
+
+Enuk
+
+no
+
+nucleated
+
+no
+
+272
+
+14
+
+27.3
+
+64
+
+24
+
+33
+
+Fissoa
+
+no
+
+dispersed
+
+no
+
+287
+
+85
+
+14.0
+
+18
+
+0
+
+31
+
+Kapitu
+
+no
+
+dispersed
+
+no
+
+1791
+
+60
+
+57.1
+
+66
+
+18
+
+84
+
+Kilu
+
+no
+
+dispersed
+
+no
+
+584
+
+17
+
+25.0
+
+31
+
+0
+
+40
+
+Kranget
+
+no
+
+nucleated
+
+no
+
+2127
+
+1
+
+29.7
+
+67
+
+35
+
+37
+
+Mongol
+
+no
+
+nucleated
+
+no
+
+493
+
+0
+
+64.3
+
+35
+
+18
+
+28
+
+Nusa Lik
+
+no
+
+nucleated
+
+no
+
+273
+
+1
+
+46.2
+
+69
+
+54
+
+15
+
+Patanga
+
+no
+
+dispersed
+
+no
+
+421
+
+20
+
+26.8
+
+26
+
+0
+
+41
+
+Riwo
+
+no
+
+dispersed
+
+no
+
+1136
+
+7
+
+10.8
+
+56
+
+24
+
+37
+
+Tubuseria
+
+no
+
+nucleated
+
+no
+
+5000
+
+25
+
+12.8
+
+NA
+
+18
+
+61
+
+Wadau
+
+no
+
+nucleated
+
+no
+
+324
+
+66
+
+10.0
+
+38
+
+2
+
+41
+
+NA= not available
+
+and confirmed observations, villages were
+classified based on whether they: (1) practiced
+highly exclusive marine tenure regimes in which
+non-owners had to ask permission to access marine
+resources (classified as "strong" or "highly
+exclusive" marine tenure), or (2) had less exclusive
+or no marine tenure regimes in which non-owners
+
+regularly and openly accessed marine resources
+without asking permission (classified as "weak" or
+"less exclusive" marine tenure). Situations in which
+neighboring villages (non-owners) had been
+granted revocable use privileges and regularly
+accessed marine resources were also classified as
+less exclusive. Although this compartmentalization
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+of a wide range of marine tenure regimes into
+comparable categories have undoubtedly lead to
+overly simplistic interpretations of their true
+complexities (Hviding 1996, McCay and Jentoft
+1998), it is hoped that this will be outweighed by
+the ability to examine how marine tenure is related
+to different social and economic factors that can be
+captured best through a broader-scale comparative
+study.
+Key informants and secondary sources provided
+information on the presence of serious or significant
+conflicts over marine resources. I defined conflicts
+as intense verbal confrontations, use of violence, or
+court cases. Communities that reported conflicts
+over the previous 12 months or had court cases
+pending were considered to have conflicts. Key
+informants also provided information on the nearest
+market where marine products were regularly
+bought and sold. The distance from the village to
+markets were measured on topographic maps and
+nautical charts. Communities were grouped into two
+types of settlement patterns: dispersed or nucleated.
+Dispersed settlements were communities that were
+spread out and contained distinct sub-villages that
+were geographically separated. For example, the
+community of Riwo in Madang, PNG, had subvillages on two separate islands and was thus
+considered a dispersed settlement. Nucleated
+settlements were communities that were relatively
+contiguous.
+Analyses
+The socioeconomic characteristics of communities
+that excluded all non-owners from accessing
+resources within their tenure were compared to the
+characteristics of communities where non-owners
+were allowed to access marine resources. Four types
+of analyses were performed to discern whether the
+presence of highly exclusive marine tenure was
+related to socioeconomic factors: the Mann Whitney
+U test, Fisher's Exact test, effect size, and statistical
+power.
+
+communities with highly exclusive tenure were
+significantly different from communities with low
+excludability. For example, I used the Mann
+Whitney U test to compare the mean (rank of)
+percentage of immigrants in communities with
+highly exclusive marine tenure to the mean (rank
+of) percentage of immigrants in communities with
+weaker marine tenure. The frequency of
+dichotomous data (i.e., settlement patterns and the
+presence of conflicts) in communities with strong
+marine tenure was compared to communities with
+weak marine tenure using a Fisher’s Exact test. The
+Fisher’s Exact test is a non-parametric analysis used
+to discern whether two samples are independent
+based on the frequency of observed responses in a
+2 x 2 contingency table with small independent
+samples (Siegel and Castellan 1988). Liberal p
+values were accepted for determining statistical
+significance (p<0.1), because this is an exploratory
+analysis and, based on the moderate sample size of
+21 villages, I did not want to exclude any variables
+that might be important (i.e., I thought the
+consequences of committing a type I error were
+more grave than a type II error). To ensure nationallevel differences were not driving any of the
+patterns, significant differences between socioeconomic
+characteristics for Indonesian and New Guinean
+sites were tested for as well.
+Effect size is a standardized measure of the strength
+of the relationship between independent and
+dependent variables (Vaske et al. 2002). The
+Hedge's effect size was calculated as the difference
+between the mean socioeconomic conditions of the
+two groups (e.g., mean distance to market of the
+communities that employed exclusive marine
+tenure regimes minus the mean distance to market
+of the communities that did not) divided by the
+pooled standard deviation of both groups (Gliner et
+al. 2001). Statistical power is the probability of
+finding a statistically significant result when there
+is a real effect in the population being studied (i.e.,
+rejecting the null hypothesis when a research
+hypothesis is true) (Cohen 1988). The power of
+these relationships was calculated using Statistica
+6.0 statistical program.
+
+The SPSS 11.01 statistical program was used to
+determine statistical significance with the MannWhitney U and Fisher's Exact tests. The MannWhitney U test is a non-parametric alternative to
+the T-test, which is used to test whether two samples
+are independent (Siegel and Castellan 1988). The
+Mann-Whitney U test was used to examine whether
+ordinal or interval socioeconomic characteristics of
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+RESULTS
+Socioeconomic characteristics of communities
+The 21 communities varied considerably in the
+socioeconomic and governance indicators (Table
+1). Communities ranged from small hamlets with
+only 272 people to large villages of 5,000 people.
+The importance of fishing as a livelihood strategy
+varied considerably in the communities examined.
+The percentage of households that ranked fishing
+as the primary occupation varied from 0-77%, with
+a mean of 25%. There was also a considerable range
+in the market influence (measured as distance to
+market and the percentage of fish bartered or sold)
+on the communities. Communities ranged from
+0-100 km from markets. The mean distance to the
+nearest regular market for marine products for all
+sites was 37 km and the median distance was 32 km.
+The percentage of fish bartered or sold ranged from
+13-72% and had a mean of 50%. The percentage of
+immigrants ranged from 2-64%, with a mean and
+median of 25%. Twelve of the 21 sites were
+nucleated settlements and only seven sites reported
+conflicts over marine resources. Seven of the 21
+communities regularly excluded non-owners from
+accessing marine resources. High excludability
+occurred in the Sangihe-Talaud part of North
+Sulawesi, Indonesia ( Para and Kakarotan
+communities), but not the southern communities on
+or near the main island. In New Guinea, high
+excludability was reported throughout the country.
+Socioeconomic factors influencing marine
+tenure
+Only the population indicator differed significantly
+between the sites in New Guinea and Indonesia. The
+mean population for the New Guinean sites (970)
+was significantly lower than the mean population
+for the Indonesian sites (1530) (U = 17, p<0.05).
+This lack of difference between countries for other
+indicators suggests that national-level differences
+in marine tenure or socioeconomic conditions did
+not overly influence the analysis.
+Four out of seven variables differed significantly
+between villages with highly exclusive marine
+tenure and those with less exclusive tenure regimes
+(Table 2). The presence of conflicts over marine
+resources was correlated to the presence of highly
+
+exclusive marine tenure. The percentage of
+immigrants was lower in communities with
+exclusive marine tenure, the distance to market was
+higher in communities with exclusive marine
+tenure, and the percentage of households dependent
+on fishing was higher in communities with
+exclusive marine tenure (although this relationship
+was only significant at the p<0.1 level). The large
+effect size of these latter three relationships (d>0.93)
+suggests that substantial relationships exists (Vaske
+et al. 2002) (Table 2). No statistically significant
+differences were found in settlement pattern,
+population, or the percentage of fish sold in market
+between communities with strong and weak marine
+tenure. The effect size of the percentage of fish sold
+in markets (d=0.1) was very low, suggesting a
+minimal relationship (Vaske et al. 2002). However,
+the power of this relationship was also very low
+(0.05), so it would be difficult to detect differences.
+The effect size of population (d=0.37) was
+approaching a typical relationship found in the
+social sciences (d=0.5) (Vaske et al. 2002), and the
+power of this relationship was low (0.12) so the
+effect of population may have been real but not
+detectable with the sample size used. Note that effect
+sizes and power are not computed for dichotomous
+indicators (such as settlement pattern and conflicts).
+DISCUSSION
+This is one of the first studies to quantitatively
+explore relationships between socioeconomic
+factors and marine tenure over a large spatial scale
+with a moderate sample size. This paper found that
+communities with strong marine tenure were further
+from markets, had lower migration, but had higher
+dependence on fishing and conflicts over marine
+resources. This study is an important compliment
+to the more localized case studies and helps put such
+research into a broader context. For example,
+Aswani's comparison of marine tenure in the
+Roviana and Vonavona lagoons in the Solomon
+Islands provide a model for how socioeconomic and
+historical factors can result in three marine tenure
+patterns (Aswani 1999, 2002, Aswani and Hamilton
+2004). Aswani's interpretations of how historical
+processes, socioeconomic factors, and demographic
+changes affect marine tenure in two coastal villages
+in the Solomon Islands suggest market forces and
+other exogenous pressures will not necessarily
+transform CMT institutions into open-access
+regimes (Aswani 1999, 2002). This study found that
+the distance to the market was negatively related to
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+Table 2. Differences in socioeconomic characteristics of communities with and without exclusive marine
+tenure.
+Variable
+
+Z score
+
+P
+
+Standardized
+effect size (d)
+
+Power
+
+Distance to marketA
+
+-2.24
+
+0.03**
+
+0.97
+
+0.51
+
+ImmigrationA
+
+-2.16
+
+0.03**
+
+0.97
+
+0.51
+
+Fishing as primary occupationA
+
+-1.69
+
+0.09*
+
+0.93
+
+0.50
+
+NA
+
+0.001***
+
+NA
+
+NA
+
+-0.59
+
+0.44
+
+0.1
+
+0.05
+
+0
+
+1
+
+0.37
+
+0.12
+
+NA
+
+0.32
+
+NA
+
+NA
+
+ConflictsB
+Percentage of fish
+sold in marketA
+PopulationA
+Settlement patternB
+AComputed
+BComputed
+
+using Mann Whitney U test.
+using Fisher’s exact test.
+*** Indicates a statistically significant relationship at alpha?= 0.001
+** Indicates a statistically significant relationship at alpha?= 0.05
+* Indicates a statistically significant relationship at alpha?= 0.1
+NA= not applicable because the variables were dichotomous.
+
+the exclusivity of marine tenure regimes, but
+whether the fishery was market or subsistencebased (measured in the percentage of fish bartered
+or sold) was not significant. This suggests that the
+strength of marine tenure institutions may be
+undermined by connectivity to larger markets,
+perhaps by introducing new ways of providing
+credit and generating prestige (Agrawal 2002).
+Commercial or market value for marine products,
+however, may not necessarily diminish the strength
+of tenure institutions.
+To date, conclusions about how heterogeneity
+influences the development and maintenance of
+common property institutions remain inconclusive.
+Heterogeneity (which can include the often
+interrelated economic, cultural, religious, and
+resource use differences in a society) has been
+shown to have positive, negative, or minimal effects
+on common property management (Ruttan and
+Borgerhoff Mulder 1999, Glaesel 2000, Pollnac et
+al. 2001, Bardhan and Dayton-Johnson 2002;
+Pollnac and Johnson in press). This study found a
+lower proportion of immigrants in communities
+
+with highly exclusive marine tenure institutions,
+which is consistent with notions of high social
+capital being an important component of
+maintaining common-property management regimes
+(Pretty 2003). Cultural heterogeneity associated
+with immigration may act to increase the transaction
+costs of developing, maintaining, and enforcing
+marine tenure regulations (Aswani and Hamilton
+2004). Trust, reciprocal arrangements, and
+consistent norms are important components of
+social capital (Pretty and Smith 2004) that may be
+affected by a high proportion of immigrants.
+Likewise, immigrants may not perceive the rules,
+processes, and authorities governing marine tenure
+to be legitimate, and thus may not comply with
+established rules (Sutinen and Kuperan 1999).
+The relationship found between high dependence
+on marine resources and the exclusivity of marine
+tenure regimes is consistent with research on an
+array of common pool resources that suggests a
+positive relationship may exist between resource
+dependence and participation in common property
+arrangements (Lise 2000, Agrawal 2002, Zanetell
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+and Knuth 2004). Communities with high
+dependence on marine resources may employ
+exclusive marine tenure regimes to increase
+livelihood security. For example, the Andra and
+Ahus Island study sites in Manus, PNG, are small
+infertile islands surrounded by large (>5 km2) reef
+lagoons. Islanders have limited access to essential
+terrestrial resources (e.g., vegetables and firewood)
+and consequently their dependence on marine
+resources is very high (Cinner et al. in press a).
+These communities claim exclusive rights to marine
+resources on the reefs surrounding their islands and
+reefs along the coast of the main Manus Island
+(Carrier 1987, Carrier and Carrier 1989; Cinner et
+al. in press a), preventing mainland communities
+from accessing marine resources. These exclusive
+marine tenure regimes help to create an economic
+monopoly on marine resources among fishing
+communities (Malinowski 1935) and help to ensure
+that island communities have desirable goods to sell
+or trade in local markets (Carrier 1987; Cinner et al.
+in press a), thereby improving their livelihood
+security.
+There are several possible explanations for the
+relationship between the presence of conflicts and
+exclusive marine tenure regimes. Some researchers
+suggest that marine tenure regimes may have
+developed in response to conflicts and may serve to
+mitigate them (Pollnac 1984, Polunin 1984). On the
+other hand, the complexity of use rights associated
+with marine tenure institutions can cause them to be
+continually challenged (Foale and Macintyre 2000).
+In Indonesia, the lack of legal recognition of marine
+tenure also seemed to cause conflicts over marine
+resources. For example, while researching in Para
+Island, North Sulawesi, long-standing tenure rights
+were challenged by neighboring communities who
+claimed that exclusive tenure rights were not legal
+under Indonesia’s constitution and attempted to fish
+in Para's fishing grounds. The Para community
+responded by brandishing a firearm to chase off
+fishers from the other community. Interrelationships
+among indicators may also help to explain the
+relationship between conflicts and exclusive marine
+tenure regimes. For example, communities with
+exclusive marine tenure regimes (with high
+dependence on marine resources) used confiscation
+of fishing equipment, intimidation, and even
+violence to enforce their tenure. Communities with
+lower dependence on marine resources may find the
+additional livelihood security that might be gained
+from employing exclusive marine tenure is not
+worth engaging the conflicts associated with this
+
+type of territory defense.
+Several of the factors expected to be related to the
+presence of CMT did not demonstrate significant
+relationships, including population and settlement
+patterns. In a review of the factors influencing the
+sustainability of common property institutions,
+Agrawal (2002) notes that debates concerning the
+effect of population on common property
+institutions are highly polarized. Results from this
+study as to the effect of population on the presence
+of exclusive marine tenure regimes are
+inconclusive. The possibility exists that the sample
+size used here was too small to detect differences in
+these indicators, particularly considering the effect
+size for population was approaching a moderate
+effect. More interestingly though, is the possibility
+that the populations in the communities studied
+were too small to detect any effect. Gabagaba and
+Para were two of the five largest communities in my
+study (the 4th and 5th largest populations,
+respectively), but employed CMT (Table 1). These
+communities had populations of fewer than 2,000
+and the largest population of any community studied
+was 5,000 residents. Harkes and Novaczek (2002)
+found that traditional management in Indonesia
+(called Sasi) dies out in villages greater than 3,000
+people. However, Evans et al. (1997) noted that Sasi
+was present in a community larger than 14,000
+people. Therefore, based on previous research, the
+critical population size at which CMT may cease to
+function effectively may not have been reached in
+this study (or reached by only the two sites with
+populations >3,000). The population levels of many
+of the study sites were similar to many rural coastal
+areas in the provinces studied (e.g., National
+Statistics Office 2002a, b), however, urbanized
+areas with high populations were not examined. An
+interesting area of further inquiry would be to
+examine whether or how communities with tens of
+thousands of residents could support highly
+exclusive marine tenure regimes. Aswani (2002),
+and Aswani and Hamilton (2004) also speculated
+that nucleated and dispersed settlement patterns
+influenced whether and how communities in the
+Solomon Islands could develop and maintain
+marine tenure regimes. Although this study was not
+able to explore in-depth ethnographic accounts of
+settlement histories, no relationship was found
+between settlement patterns and the strength of
+marine tenure institutions. In the broader context,
+this suggests that whether communities are
+nucleated or dispersed may be less important than
+other socioeconomic factors in maintaining marine
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+tenure regimes.
+One of the initial concerns with this study was that
+national or regional factors might overshadow the
+village level factors examined. However, this did
+not appear to be the case: there were few significant
+differences in socioeconomic characteristics
+between the two countries and several adjacent or
+nearby communities reported different marine
+tenure regimes, supporting the notion that marine
+tenure can vary in response to village-level factors
+and is not only a product of regional sociocultural
+influences. For example, Madina and Fissoa were
+nearby communities of a common language group,
+but Madina had high excludability and Fissoa had
+low excludability. Another potential concern was
+that intersite variability in the resource might have
+been very high, which could conceivably influence
+the nature of the marine tenure institutions.
+Incorporating the ecological criteria in site selection
+provided a reasonable assurance that relatively little
+variance existed in the resources within each tenure
+(i.e., the tenure areas all contain comparable coral
+reefs in similar ecological zones). Furthermore, we
+can infer from other analyses of the resources within
+these sites (Cinner et al. unpublished data; Cinner
+et al. in press-b; Cinner and McClanahan
+unpublished data) that many of the commercially
+valuable species harvested within the tenure sites
+such as trochus, beche de mer, and reef fish have
+small home ranges (e.g., on the scale of hectares to
+kilometers) (Kramer and Chapman 1999) congruent
+to the scale of the tenure areas. Therefore, the
+possible variance in resource conditions is expected
+to have relatively little influence in the observed
+tenure institutions.
+Speculation
+This study was able to tease out several indicators
+that were of more importance than others and
+provide qualitative descriptions of how these factors
+may be related to the presence of CMT. The
+limitations inherent in the non-random design of this
+study mean these results apply only to these study
+sites and should not be generalized to the wider
+region. Keeping in mind the limitations of this
+study's methodology, it is important to speculate on
+whether and how these regimes will be able to adapt
+and respond to changes in socioeconomic
+conditions.
+Marine tenure systems are dynamic institutions that,
+
+through adaptation to changing scenarios, have
+proven relatively robust to population pressures and
+aspects of economic and political modernization
+(Hviding 1998). However, Asia-Pacific is a region
+undergoing profound social, economic, and
+demographic changes (UNEP 2002), and there may
+be social forces that marine tenure regimes are
+unable to adapt to. Results from this study suggest
+that socioeconomic changes that will increase
+immigration, open new markets, and decrease
+dependence on marine resources may influence the
+ability of communities to employ or maintain
+exclusive marine tenure regimes. Under these
+scenarios, conservation and development strategies
+that rely on high excludability in a community's
+tenure may become challenged at their foundation.
+Alternatively, results from this study also suggest
+CMT may be somewhat resilient to other
+socioeconomic factors such as population growth.
+Highly exclusive CMT can operate in communities
+with populations of 1,700, but strong CMT is related
+to low levels of immigration. This suggests that high
+endogenous population growth (i.e., not from
+immigration) in smaller communities may not affect
+the ability to employ viable marine tenure.
+The next research challenge is to address the
+applicability of these results to the wider region. A
+random selection of villages that could be
+considered representative of the region would be
+desirable for future studies. Another research
+priority is determining what specific aspects of these
+variables influence marine tenure. For example,
+high immigration may cause confusion over use
+rights, disrupt traditional information exchange
+mechanisms, and/or introduce new ideas that
+challenge traditional practices. A better understanding
+of how these factors influence marine tenure
+regimes will allow development and conservation
+organizations to target capacity building and other
+activities to potentially increase the resilience of
+Pacific conservation strategies against the forces of
+social change.
+Responses to this article can be read online at:
+http://www.ecologyandsociety.org/vol10/iss1/art36/responses/
+
+Acknowledgments:
+I thank the people and leaders of all 21 villages for
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+allowing me to work in their communities. Thanks
+to LIPI, the PNG National Research Council, PNG
+Department of Environment and Conservation, and
+the PNG National Fisheries Authority. The David
+and Lucille Packard Foundation supported this
+research through the Wildlife Conservation Society.
+Thanks to S. Sutton, R. Arthur, J. Carrier, and three
+anonymous reviewers for reviewing this manuscript
+and providing extremely helpful and constructive
+comments.
+
+LITERATURE CITED
+Adams, W., D. Brockington, J. Dyson, and B.
+Vira. 2003. Managing tragedies: understanding
+conflict over common pool resources. Science
+302:1915-1916.
+Agrawal, A. 2002. Common resources and
+institutional stability in E. Ostrom, T. Dietz, N.
+Dolsak, P. Stern, S. Stonich, and E. Weber, editors.
+The drama of the commons. National Academies
+Press, Washington, D.C., USA.
+Agrawal, A. 2001. Common property institutions
+and sustainable governance of resources. World
+Development 29:1649-1672.
+Asafu-Adjaye, J. 2000. Customary marine tenure
+systems and sustainable fisheries management in
+Papua New Guinea. International Journal of Socio
+Economics 27:917-926.
+
+Baines, G. 1989. Traditional resource management
+in the Melanesian South Pacific: a development
+dilemma. Pages 54-69 in F. Berkes, editor. Common
+property resources: ecology and community-based
+sustainable development. Belhaven Press, London,
+England.
+Bardhan, P., and J. Dayton-Johnson. 2002.
+Unequal irrigators in E. Ostrom, T. Dietz, N.
+Dolsak, P. Stern, S. Stonich, and E. Weber, editors.
+The drama of the commons. National Academies
+Press, Washington, D.C., USA.
+Bunce, L., P. Townsley, R. S. Pomeroy, and R. B.
+Pollnac. 2000. Socioeconomic manual for coral reef
+management. Australian Institute of Marine
+Science, Townsville, Australia.
+Carrier, J. 1987. Marine tenure and conservation
+in Papua New Guinea. Pages 143-167 in B. McCay,
+and J. Acheson, editors. The Question of the
+commons: the culture and ecology of common
+resources. The University of Arizona Press, Tucson,
+Arizona, USA.
+Carrier, J., and A. Carrier. 1991. Structure and
+process in a Melanesian society: Ponam's progress
+in the twentieth century. Harwood Academic
+Publishers, Paris, France.
+Carrier, J., and A. Carrier. 1989. Wage, trade, and
+exchange in Melanesia: a Manus society in the
+modern state. University of California Press,
+Berkeley, California, USA.
+
+Aswani, S., and R. Hamilton. 2004. Integrating
+indigenous ecological knowledge and customary
+sea tenure with marine science and social science
+for conservation of bumphead parrotfish (Bolbometopon
+muricatum) in the Roviana Lagoon, Solomon
+Islands. Environmental Conservation 31:69-83.
+
+Cinner, J., J. Ben, and M. Marnane. 2003. How
+socioeconomic monitoring can assist marine
+reserve management: Kimbe Bay, Papua New
+Guinea in C. Wilkinson, and A. Green, editors.
+Monitoring coral reef marine protected areas.
+Australian Institute for Marine Science, Townsville,
+Australia.
+
+Aswani, S. 2002. Assessing the effects of changing
+demographic and consumption patterns on sea
+tenure regimes in the Roviana Lagoon, Solomon
+Islands. AMBIO 31:272-284.
+
+Cinner, J., T. H. Clark, M. Marnane, T.
+McClanahan, and J. Ben. In press a. Trade, tenure,
+and tradition: influence of sociocultural factors on
+resource use in Melanesia. Conservation Biology.
+
+Aswani, S. 1999. Common property models of sea
+tenure: a case study from the Roviana and Vonavona
+Lagoons, New Georgia, Solomon Islands. Human
+Ecology 27:417-453.
+
+Cinner, J., M. Marnane, T. McClanahan, and T.
+H. Clark. In press b. Conservation and community
+benefits from traditional coral reef management at
+Ahus Island, Papua New Guinea. Conservation
+Biology.
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+Cohen. 1988. Statistical Power Analysis for
+Behavioral Sciences. Lawrence Erlbaum Associates,
+Hillsdale, New Jersey, USA.
+
+Hoffmann, T. C. 2002. The reimplementation of
+the Ra'ui: coral reef management in Rarotonga,
+Cook Islands. Coastal Management 30:401-418.
+
+Cooke, A. J., N. V. C. Polunin, and K. Moce. 2000.
+Comparative assessment of stakeholder management
+in traditional Fijian fishing-grounds. Environmental
+Conservation 27:291-299.
+
+Hviding, E. 1998. Contextual flexibility: present
+status and future of customary marine tenure in
+Solomon Islands. Ocean and Coastal Management
+40:253-269.
+
+de Vaus, D. A. 1991. Surveys in social research.
+UCL, London, England.
+
+Hviding, E. 1996. Guardians of the Marovo
+Lagoon: Practice, place, and politics in maritime
+Melanesia. University Press of Hawai'i, Honolulu,
+Hawaii, USA.
+
+Evans, S. M., M. E. Gill, A. S. W. Retraubun, J.
+Abrahamz, and J. Dangeubun. 1997. Traditional
+management practices and the conservation of the
+gastropod (Trochus nilitocus) and fish stocks in the
+Maluku Province (Eastern Indonesia). Fisheries
+Research 31:83-91.
+Foale, S., and M. Macintyre. 2000. Dynamic and
+flexible aspects of land and marine tenure at West
+Nggela: implications for marine resource
+management. Oceania 71:30-45.
+Glaesel, H. 2000. State and local resistance to the
+expansion of two environmentally harmful marine
+fishing techniques in Kenya. Society and Natural
+Resources 13:321-338.
+Gliner, J., G. Vaske, and G. Morgan. 2001. Null
+Hypothesis significance testing: effect size does
+matter. Human Dimensions of Wildlife 6:291-301.
+Harkes, I., and I. Novaczek. 2002. Presence,
+performance, and institutional resilience of sasi, a
+traditional management institution in Central
+Maluku, Indonesia. Ocean and Coastal Management
+45:237-260.
+Henrich, J., R. Boyd, S. Bowles, H. Gintis, C.
+Camerer, F. Ernst, and R. McElreath. 2001. In
+search of homo economicus: behavioral experiments
+in fifteen small-scale societies. American Economic
+Review 91:73-78.
+Henry, G. T. 1990. Practical sampling. Sage
+Publications, Newbury Park, California, USA.
+Hickey, F., and Johannes, R. E. 2002. Recent
+evolution of village-based marine resource
+management in Vanuatu. SPC Traditional
+Management Bulletin 14:8-21.
+
+Hviding, E. 1983. Keeping the sea: aspects of
+marine tenure in Marovo lagoon, Solomon Islands.
+Pages 9-44 in K. Ruddle, and R. E. Johannes,
+editors. Traditional marine resource management
+in the Pacific Basin: an anthology. UNESCO,
+Jakarta, Indonesia.
+Hyndman, D. 1993. Sea tenure and the
+management of living marine resources in Papua
+New Guinea. Pacific Studies 16:99-114.
+Johannes, R. E. 2002. The renaissance of
+community-based marine resource management in
+Oceania. Annual Review of Ecological Systems
+33:317-340.
+Johannes, R. E. 1981. Words of the lagoon: fishing
+and marine lore in the Palau district of Micronesia.
+University of California Press, Berkeley,
+California, USA.
+Johannes, R. E., and J. W. MacFarlane. 1984.
+Territorial sea rights in the Torres Strait Islands with
+emphasis on Murry Island in K. Ruddle, and T.
+Akimichi, editors. Maritime institutions in the
+Western Pacific. National Museum of Ethnology,
+Osaka, Japan.
+Kramer, D. L., and M. R. Chapman. 1999.
+Implications of fish home range size and relocation
+for marine reserve function. Environmental Biology
+of Fishes 55:65-79.
+Lise, W. 2000. Factors influencing people's
+participation in forest management in India.
+Ecological Economics 34:379-392.
+Malinowski, B. 1935. Coral gardens and their
+magic. George Allen and Unwin, London, England.
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+Mantjoro, E. 1996. Management of traditional
+common fishing grounds: the experience of the Para
+community, Indonesia. Coastal Management 24:229-250.
+
+Guinean evidence. Pages 267-284 in K. Ruddle, and
+T. Akimichi, editors. Maritime institutions in the
+Western Pacific. National Museum of Ethnology,
+Osaka, Japan.
+
+McCay, B., and S. Jentoft. 1998. Market or
+community failure: critical perspectives on
+common property research. Human Organization
+57:21-29.
+
+Pretty, J. 2003. Social capital and the collective
+management of resources. Science 302:1912-1914.
+
+National Statistics Office. 2002a. Census unit
+register: Madang province. National Statistics
+Office, Port Moresby.
+National Statistics Office. 2002b. Census unit
+register: Manus province. National Statistics Office,
+Port Moresby.
+Ostrom, E. 1990. Governing the commons: the
+evolution of institutions for collective action.
+Cambridge University Press, Cambridge, United
+Kingdom.
+
+Pretty, J., and D. Smith. 2004. Social capital in
+biodiversity conservation and management.
+Conservation Biology 18:631-638.
+Pretty, J., and H. Ward. 2001. Social capital and
+the environment. World Development 29:209-227.
+Ruddle, K. 1998. The context of policy design for
+existing community-based fisheries management in
+the Pacific Islands. Ocean and Coastal
+Management 40:105-126.
+
+Pollnac, R. B. 1998. Rapid assessment of
+management parameters for coral reefs. University
+of Rhode Island, Coastal Resources Center,
+Narragansett, Rhode Island, USA.
+
+Ruddle, K. 1985. The continuity of traditional
+management practices: the case of Japanese coastal
+fishing. Pages 159-179 in K. Ruddle, and R. E.
+Johannes, editors. The traditional knowledge and
+management of coastal systems in Asia and the
+Pacific. United Nations Environmental and Cultural
+Organization, Jakarta Pusat, Indonesia.
+
+Pollnac, R. B. 1984. Investigating territorial use
+rights among fishermen. Pages 267-284 in K.
+Ruddle, and T. Akimichi, editors. Maritime
+Institutions in the Western Pacific. National
+Museum of Ethnology, Osaka, Japan.
+
+Ruddle, K., and T. Akimichi. 1984. Introduction
+in K. Ruddle, and T. Akimichi, editors. Maritime
+institutions in the Western Pacific. National
+Museum of Ethnology, Osaka, Japan.
+
+Pollnac, R. B., and B. Crawford. 2000. Assessing
+behavioral aspects of coastal resource use. Coastal
+Resources Center, University of Rhode Island,
+Narragansett, Rhode Island, USA.
+
+Ruttan, L. M. 1998. Closing the commons:
+cooperation for gain or restraint? Human Ecology
+26:43-66.
+
+Pollnac, R. B., B. R. Crawford, and M. Gorospe.
+2001. Discovering factors that influence the success
+of community-based marine protected areas in the
+Visayas, Philippines. Ocean and Coastal
+Management 44:683-710.
+Pollnac, R. B., and J. C. Johnson. In press. Folk
+management and conservation of marine resources:
+towards a theoretical and methodological
+assessment in N. Kishigami, and J. Savelle, editors.
+Indigenous use and management of marine
+resources. National Museum of Ethnology, Osaka,
+Japan.
+Polunin, N. V. C. 1984. Do traditional marine
+"reserves" conserve? A view of Indonesian and New
+
+Ruttan, L. M., and M. Borgerhoff Mulder. 1999.
+Are East African pastoralists truly conservationists?
+Current Anthropology 40:621-652.
+Scheaffer, R. L., W. I. Mendenhall, and L. Ott.
+1996. Elementary survey sampling. Wadsworth,
+Belmont, California, USA.
+Siegel, S., and N. J. Castellan. 1988.
+Nonparametric statistics for the behavioral
+sciences. McGraw-Hill, New York, USA.
+Sumalde, Z. 2004. Transaction costs of
+community-based coastal resource management:
+the case of San Miguel Bay, Philippines. Coastal
+Management 32:51-60.
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+Ecology and Society 10(1): 36
+http://www.ecologyandsociety.org/vol10/iss1/art36/
+
+Sutinen, J. G., and K. Kuperan. 1999. A socioeconomic theory of regulatory compliance.
+International Journal of Socio Economics
+26:174-193.
+UNEP. 2002. Global environmental outlook 3: past,
+present, and future perspectives. Earthscan
+Publications Ltd., London, England.
+Vaske, G., J. Gliner, and G. Morgan. 2002.
+Communicating judgements about practical
+significance: effect size, confidence intervals, and
+odds ratios. Human Dimensions of Wildlife
+7:287-300.
+Ward, G. R. 1997. Changing forms of communal
+tenure. Page 13 in P. Larmour, editor. The
+governance of common property in the Pacific
+Region. National Centre for Development Studies,
+Australian Nation University, Canberra, Australia.
+Watson, D. 1989. The evolution of appropriate
+resource-management systems. Pages 54-69 in F.
+Berkes, editor. Common property resources:
+Ecology and community-based sustainable development.
+Belhaven Press, London, England.
+Wright, A. 1985. Marine resource use in Papua New
+Guinea: can traditional concepts and contemporary
+development be integrated? Pages 53-77 in K.
+Ruddle, and R. E. Johannes, editors. The traditional
+knowledge and management of coastal systems in
+Asia and the Pacific. United Nations Educational,
+Scientific, and Cultural Organization, Jakarta Pusat,
+Indonesia.
+Zanetell, B. A., and B. A. Knuth. 2004.
+Participation rhetoric or community-based management
+reality? Influences on willingness to participate in
+a Venezuelan freshwater fishery. World Development
+32:793-807.
+Zann, L. P. 1985. Traditional management and
+conservation of fisheries in Kiribati and Tuvalu
+atolls. Pages 53-77 in K. Ruddle, and R. E. Johannes,
+editors. The traditional knowledge and management
+of coastal systems in Asia and the Pacific. United
+Nations Environmental and Cultural Organization,
+Jakarta Pusat, Indonesia.
+
+This content downloaded from
+67.169.173.197 on Fri, 04 Nov 2022 06:54:45 UTC
+All use subject to https://about.jstor.org/terms
+
+

@@ -1,0 +1,1191 @@
+Current Biology 16, 1408–1413, July 25, 2006 ª2006 Elsevier Ltd All rights reserved
+
+DOI 10.1016/j.cub.2006.05.062
+
+Report
+A Comparison of Marine Protected Areas and
+Alternative Approaches to Coral-Reef Management
+Timothy R. McClanahan,1 Michael J. Marnane,1,*
+Joshua E. Cinner,2 and William E. Kiene3
+1
+Wildlife Conservation Society
+Marine Programs
+Bronx, New York 10460
+2
+Centre of Excellence for Coral Reef Studies
+James Cook University
+Townsville, QLD 4811
+Australia
+3
+Fagatele Bay National Marine Sanctuary
+P.O. Box 4318
+Pago Pago, 96799
+American Samoa
+
+Summary
+Marine protected areas (MPAs) have been widely
+adopted as the leading tool for coral-reef conservation, but resource users seldom accept them [1, 2],
+and many have failed to produce tangible conservation benefits [3]. Few studies have objectively and
+simultaneously examined the types of MPAs that are
+most effective in conserving reef resources and
+the socioeconomic factors responsible for effective
+conservation [4–6]. We simultaneously explored measures of reef and socioeconomic conservation success at four national parks, four comanaged reserves,
+and three traditionally managed areas in Indonesia
+and Papua New Guinea. Underwater visual censuses
+of key ecological indicators [7, 8] revealed that the
+average size and biomass of fishes were higher in
+all areas under traditional management and at one
+comanaged reserve when compared to nearby unmanaged areas. Socioeconomic assessments [6, 9, 10]
+revealed that this ‘‘effective conservation’’ was positively related to compliance, visibility of the reserve,
+and length of time the management had been in place
+but negatively related to market integration, wealth,
+and village population size. We suggest that in cases
+where the resources for enforcement are lacking, management regimes that are designed to meet community goals can achieve greater compliance and subsequent conservation success than regimes designed
+primarily for biodiversity conservation.
+Results and Discussion
+From an ecological perspective, effective coral-reef
+conservation can be viewed as increasing or maintaining key ecosystem parameters such as fish biomass
+or coral cover, maintaining ecosystem processes and
+function, or increasingly, promoting resilience to disturbances and fluctuations [11]. Due to the synchronic
+nature of our comparative study, we adopted an easily
+
+*Correspondence: mmarnane@wcs.org
+
+measurable and commonly used definition of effective
+conservation—namely, that effective management
+would cause utilized resources or key ecological indicators to be higher inside compared to outside managed
+areas [12, 13]. This measure can be potentially weaker
+than those derived from comparisons of resources before and after closure [14], but it has been used because
+it requires significantly less time and fewer research expenses. This measure was also found to produce comparable results in the intensively studied management
+systems of the Philippines [15]. We studied the effectiveness of three broad types of management: national
+parks, comanaged areas, and traditionally managed
+areas. National parks were large areas (6,600–111,625
+ha), managed and enforced by the national government
+with the explicit goals of sustainable use and improving
+the condition of reef resources. Comanaged reserves
+were small areas (11.8–60 ha), managed and enforced
+by the community in partnership with nongovernmental
+organizations (NGOs), tourism operators, and universities for a variety of social and ecological goals, such
+as improving resources and providing income through
+tourism revenue. The traditionally managed areas we
+examined were small (33.2–58 ha), periodic reef closures
+or gear-restricted areas that were instigated and maintained by the community for the explicit goals of providing food for celebratory feasts, reinforcing of intercommunity relations, or mitigating conflicts, and in one
+case, ‘‘taming’’ the fish to make them easier to spear [16].
+The effectiveness of management in conserving reef
+resources was examined with underwater visual censuses of key resources and ecological parameters at
+replicate study sites located inside and outside managed areas. Unmanaged control sites were carefully
+selected to be as similar to managed sites as possible
+in environmental and physical characteristics such as
+reef geomorphology, level of exposure to wave action,
+and current regimes, so that the only expected major difference between management and control sites was the
+presence or absence of a management system.
+Only two ecosystem variables, average size and biomass of targeted fish species, were commonly found
+to be different inside versus outside managed areas
+(Table 1). The most provocative finding was that three
+of the four sites that had a greater average size and biomass of fishes within the managed areas were the selfgoverning, traditional management regimes (Figure 1).
+Contrary to the widely accepted idea that permanent
+closures are the most effective ways to improve reef
+ecosystem health [17], none of the traditional management regimes involved permanent reef closures. Each
+involved periodic closures, whereby protected reefs
+were periodically opened to fishing, either briefly or for
+extended periods of time, and one of these systems
+actually allowed line fishing inside the protected area
+throughout the entire year. Interestingly, the traditional
+management systems were implemented to meet utilitarian community goals, such as providing food for
+
+Customary Practices Conserve Coral Reefs
+1409
+
+Table 1. Selection of Ecological Variables Measured and Significance Obtained from MANOVA in Comparisons between Managed and
+Unmanaged Sites
+National Park
+
+Comanagement
+
+Ecological
+variables
+
+Bunaken
+(Indo)
+
+Pulau
+Seribu
+(Indo)
+
+Target fish
+biomass
+Average size of
+target fish species
+Density of target
+fish species
+Fish species
+richness
+Percent live hard
+coral cover
+Coral diversity
+
+ns (0.23)
+
+ns (0.11)
+
+ns (0.15)
+
+ns (0.03)
+
+ns (0.06)
+
+ns (0.06)
+
+Number of study
+sites (managed,
+control)
+
+Karimunjawa (Indo)
+
+a
+
+ns (0.19)
+
+ns (0.10)
+
+ns (0.15)
+
+ns (0.05)
+
+ns (0.02)
+
+ns (0.03)
+
+ns (0.06)
+
+ns (0.10)
+
+ns (0.15)
+
+ns (0.06)
+
+ns (0.07)
+
+ns (0.05)
+
+6,5
+
+8,6
+
+9,6
+
+Bali
+Barat
+(Indo)
+ns
+(0.13)
+ns
+(0.06)
+ns
+(0.18)
+ns
+(0.04)
++ve*,a
+(0.20)
+ns
+(0.04)
+5,5
+
+Traditional Management
+
+Pemuteran
+(Indo)
+
+Kilu
+(PNG)
+
+Sinub
+(PNG)
+
+Blongko
+(Indo)
+
+Muluk
+(PNG)
+
+Kakarotan
+(Indo)
+
+Ahus
+(PNG)
+
+ns (0.15)
+
+ns
+(0.20)
+ns
+(0.07)
+ns
+(0.08)
+ns
+(0.06)
+ns
+(0.20)
+ns
+(0.15)
+6,6
+
+ns (0.19)
+
+ns (0.13)
+
++ve**
+(0.20)
++ve**
+(0.10)
+ns (0.26)
+
++ve*
+(0.09)
++ve**
+(0.04)
+ns (0.21)
+
++ve*
+(0.09)
++ve*
+(0.04)
+ns (0.19)
+
+ns (0.06)
+
+ns (0.05)
+
+ns (0.13)
+
+ns (0.08)
+
+ns (0.16)
+
+ns (0.13)
+
+ns (0.16)
+
+ns (0.43)
+
+ns (0.03)
+
+ns (0.05)
+
+ns (0.04)
+
+ns (0.27)
+
+6,6
+
+5,5
+
+5,5
+
+3,3
+
++ve**
+(0.11)
++ve**
+(0.05)
+ns
+(0.26)
+ns
+(0.05)
+ns
+(0.17)
+ns
+(0.02)
+3,3
+
+ns (0.08)
+ns (0.20)
+ns (0.09)
+ns (0.49)
+ns (0.05)
+5,5
+
+ns (0.07)
+
+Variables presented include those that were significantly different inside versus outside managed areas as well as variables commonly measured
+in monitoring programs. ns = nonsignificant; +ve = significantly higher within managed area; * = p < 0.05; ** = p < 0.01.
+Data that did not conform to MANOVA assumptions were analyzed with Mann-Whitney U tests. Precision of results is given in parentheses.
+
+a
+
+celebratory feasts, rather than to fulfil western ecological concepts of conservation [18]. Despite the periodic
+nature of these protected areas, the absence of external
+funding, and the explicit goals of resource utilization,
+traditional management systems still appeared to provide significant conservation benefits for reef fish
+stocks. The fourth site to display strong differences
+in fish biomass and size structure was a comanaged,
+protected area with a permanent reef closure (Table 1).
+This MPA was designed largely from a social perspective after intensive social surveys and community
+
+Figure 1. The ‘‘Effectiveness’’ of Coral-Reef Conservation as Measured by the Percent Difference 695% C.I. in the Total Biomass of
+Commonly Targeted Reef Fishes between Managed or Conserved
+Reefs and Matched Control Reefs Where No Conservation or Management Was Imposed
+Large positive percentages suggest a highly effective conservation
+result. Confidence intervals were calculated from means of replicate
+study sites located within each set of managed and control reefs.
+Site means were calculated from four to six transects within each
+site. The number of replicate sites sampled within management and
+matched control reefs are listed in the order presented in Table 1.
+
+consultation. Key informants noted that the reserve
+location was chosen specifically because it was visible
+to the community. The community received significant
+external assistance to establish and maintain the management regime in the form of funding, awareness and
+education programs, and community support programs. One national park site displayed significantly
+greater hard coral cover within the protected area compared to surrounding reefs; however, this difference was
+marginal (Table 1), and the site did not show a response
+to management in other ecosystem variables.
+The majority of the other ecosystem variables, such as
+coral and fish diversity, coral cover, and the overall
+abundance of targeted fishes, showed little difference
+in magnitude inside versus outside protected areas at
+any of the management sites. The explanation for the
+lack of significant difference in other ecological variables was likely to be (1) that management was largely
+ineffective in conserving coral reefs in all of the cases examined, (2) sampling was not powerful enough to detect
+differences in most ecological variables, (3) local fishing
+pressure was too light for management to have significant effects on reef resources, or (4) most parameters
+did not respond as strongly to management as expected. Although sampling precision was low in a few
+instances, variables were sampled intensively at each
+site, and relatively good precision was achieved for
+most variables (Table 1). Parameters that would be expected to respond the most strongly to effective management were those that were most directly affected
+by resource users, and hence, alleviated when protected by management. At almost all sites, reef fishes
+were the most commonly targeted resource. The parameters that were expected to most directly and precisely
+describe the changing condition of fished stocks, population-size structure [19] and, in relation, the biomass
+of fish stocks showed the greatest difference between
+managed and unmanaged areas under some of the
+management regimes. This would suggest that the
+
+Current Biology
+1410
+
+Table 2. List of Socioeconomic Variables Examined and Range of Values Obtained
+National Park
+
+Variable
+‘‘Effective’’ management
+Time closed (years)
+Percent of fishers aware
+of closure
+Compliance index
+(2100 = low, 100 = high)
+Reserve in sight of village
+Active enforcement
+Population
+Number of households fishing
+Household fortnightly
+expenditures (US $)
+Percent of fish sold to market
+Mean number of occupations
+per household
+Percent engaged in fishing
+Percent engaged in farming
+Percent engaged in salaried
+employment
+Percent engaged in tourism
+Percent engaged in informal
+economy
+Percent active in
+decision-making
+Mean number of community
+organizations per household
+Percent Immigration
+Mean years of formal
+education
+
+Comanagement
+
+Pulau
+Bunaken Seribu
+(Indo)
+(Indo)
+
+Karimun- Bali
+Barat
+jawa
+(Indo)
+(Indo)
+
+No
+3
+98
+
+No
+8
+34
+
+No
+15
+25
+
+No
+10
+75
+
+0
+
+257
+
+13
+
+No
+Yes
+3122
+426
+39
+
+No
+Yes
+12322
+1525
+178
+
+No
+Yes
+9473
+1647
+70
+
+Traditional Management
+
+Pemuteran Kilu
+(Indo)
+(PNG)
+
+Sinub
+(PNG)
+
+Blongko Muluk
+(Indo)
+(PNG)
+
+Kakarotan
+(Indo)
+
+Ahus
+(PNG)
+
+No
+
+No
+
+Yes
+60+
+79
+
+Yes
+60+
+98
+
+Yes
+60+
+73
+
+3
+50
+
+No
+4
+83
+
+4
+76
+
+Yes
+4
+97
+
+214
+
+13
+
+2100
+
+67
+
+74
+
+75
+
+100
+
+100
+
+No
+Yes
+8606
+222
+63
+
+Yes
+Yes
+7955
+301
+51
+
+No
+No
+584
+53
+48
+
+No
+No
+1136
+120
+45
+
+Yes
+Yes
+1332
+124
+44
+
+Yes
+No
+333
+43
+43
+
+Yes
+No
+730
+129
+21
+
+Yes
+No
+544
+101
+44
+
+72
+2.2
+
+85
+1.7
+
+83
+2.3
+
+91
+1.8
+
+81
+1.8
+
+32
+4.3
+
+56
+3
+
+44
+2.6
+
+55
+48
+16
+
+71
+0
+28
+
+71
+37
+13
+
+10
+82
+20
+
+16
+77
+18
+
+58
+100
+35
+
+97
+100
+35
+
+40
+89
+10
+
+18
+44
+
+14
+37
+
+2
+49
+
+8
+30
+
+12
+41
+
+28
+70
+
+0
+33
+
+12
+
+20
+
+25
+
+18
+
+27
+
+35
+
+76
+
+44
+3.3
+
+24
+3.9
+
+68
+2.7
+
+88
+100
+5
+
+90
+35
+10
+
+96
+22
+14
+
+0
+33
+
+0
+2
+
+0
+83
+
+54
+69
+
+17
+
+29
+
+23
+
+62
+
+1.5
+
+0.7
+
+1
+
+1
+
+1.1
+
+1.5
+
+0.8
+
+0.6
+
+1
+
+1.6
+
+1.6
+
+21
+6.7
+
+30
+6.7
+
+47
+5.3
+
+48
+6.4
+
+23
+6.4
+
+25
+7.2
+
+11
+7.4
+
+52
+5.7
+
+8
+5
+
+2
+7.3
+
+4
+7.7
+
+PNG = Papua New Guinea; Indo = Indonesia.
+
+fourth explanation is likely, and only those parameters
+that documented changes in the most heavily targeted
+resources were effective indicators of management success. The densities of targeted reef fishes were also expected to provide a reliable indication of the effect of
+management. However, target fish densities were highly
+variable among sites, and good precision was difficult to
+achieve. Other studies suggest that the density of reef
+fishes may respond to fishing pressure in an unpredictable manner as a result of phenomena such as prey release and reduced competition among smaller individuals when large individuals are removed by fishing
+[20]. By comparison, the size structure of targeted fish
+populations, and in relation, the biomass of fishery
+stocks, were less variable among sites than fish density
+alone and appeared to provide the most precise indication of management effects.
+Because few of the ecological indicators showed differences inside versus outside managed areas, we used
+the most responsive of our ecological indicators to define whether a study site had ‘‘effective conservation’’
+for the purposes of our socioeconomic analysis. We categorized sites as having effective conservation if they
+had a significantly greater biomass or average size of
+targeted fish inside versus outside managed areas.
+Coral cover responded to management at only one of
+the sites examined; this response was fairly weak, and
+the management site did not show differences in any
+other ecological variables. Therefore, coral cover was
+
+not deemed an appropriate indicator of effective management in this study’s analyses.
+The effectiveness of management regimes in conserving reef resources depends not only on whether the
+dynamics of the conservation strategy can complement
+the local ecology, but also on whether resource users
+adhere to the associated rules and regulations of the
+regimes. Despite lowering benefits for the entire user
+group, an individual’s rational self-interest can be to
+overutilize collectively owned resources, because the
+short-term benefit of such action is almost entirely
+acquired by the individual, whereas the burden is shared
+with the entire group of users [21]. However, this opportunistic behavior is not inevitable in common-property
+resource scenarios, and decisions to act in collective
+rather than individual interest can be influenced by
+social and economic factors [22, 23].
+We used a combination of household surveys, keyinformant interviews, and participant observation to examine the socioeconomic conditions in communities
+within and adjacent to the managed areas [6, 9, 10].
+The socioeconomic conditions in our study sites varied
+widely, from the peri-urban Pulau Seribu, with high populations and market connectivity (indicated by a high
+proportion of fish sold and engagement in salaried
+employment), to remote sites such as Kakarotan, with
+low populations and primarily subsistence fisheries
+(Table 2). We examined whether socioeconomic factors
+were related to the outcomes of reef-management
+
+Customary Practices Conserve Coral Reefs
+1411
+
+Table 3. List of Socioeconomic Variables Examined at Each Site
+and Their Relationship to the Ecological Outcomes of Protected
+Areas
+
+Variable
+
+Z
+
+p
+
+Effect
+Size (d)
+
+Effect
+
+Visibility of reserve
+(in sight of village)*
+Compliance indicator
+Percent households involved
+in salaried employment
+Percent fish sold to markets
+Population
+Fortnightly expenditure
+Time management has been
+in place (time closed)
+Number of households
+involved in fishing
+Mean number of occupations
+per household
+Percent immigration
+Percent fishers aware of closure
+Percent involved in fishing
+Involvement in community
+organizations
+Percent dependent on
+informal economy
+Percent involved in tourism
+Percent involved in farming
+Percent of community active
+in decision-making
+Mean years of education
+Presence of active
+enforcement patrols*
+
+*
+
+0.01
+
+na
+
++ve
+
+22.65
+22.47
+
+0.01
+0.02
+
+1.5
+21.4
+
++ve
+2ve
+
+21.90
+22.08
+22.08
+21.90
+
+0.06
+0.04
+0.04
+0.06
+
+21.24
+21.2
+20.78
+1.40
+
+2ve
+2ve
+2ve
++ve
+
+21.71
+
+0.10
+
+20.88
+
+ns
+
+21.51
+
+0.16
+
+0.81
+
+ns
+
+21.32
+21.23
+21.13
+20.57
+
+0.23
+0.22
+0.26
+0.65
+
+20.71
+0.94
+0.80
+0.28
+
+ns
+ns
+ns
+ns
+
+20.0
+
+1.00
+
+0.16
+
+ns
+
+21.06
+20.19
+20.19
+
+0.29
+0.93
+0.93
+
+0.11
+20.04
+0.11
+
+ns
+ns
+ns
+
+0.00
+
+1.00
+0.76
+
+20.11
+na
+
+ns
+ns
+
+*
+
+The socioeconomic characteristics of communities with ‘‘effective’’
+management were compared to communities with ‘‘ineffective’’
+management with the Mann-Whitney U test for ordinal indicators
+and the Fisher’s Exact test for dichotomous indicators. ns = nonsignificant (p > 0.1); +ve = significantly higher in communities with effective conservation (p < 0.1); 2ve = significantly higher in communities
+with ineffective conservation (p < 0.1); * = Fisher’s Exact test used;
+effect size = (Ma 2 Mb)/s; na = not applicable.
+
+strategies by testing whether communities with effective
+fishery conservation had differed from communities
+without effective conservation in 21 socioeconomic
+characteristics. We used the Mann-Whitney U test to
+determine whether significant differences existed, and
+we also used effect size (d) to examine the strength of
+relationships. This provided us with a gradient of relationships; communities with statistically significant differences and high effect sizes, communities with considerable effect sizes but no significant differences
+(indicating that relationships may exist but our power
+may have been too low to detect differences), and communities with low effect sizes and nonsignificant differences (Table 3).
+We found that sites that were effective at conserving
+resources had significantly higher observed compliance
+(measured as the amount of discarded fishing gear recorded inside the closure compared to the control sites),
+were visible to the community, and had been closed longer than ineffective areas (Table 3). These communities
+also had significantly less market influences (i.e., proportion of fish sold or bartered and involvement in formal
+economic activities such as teaching, government employment, and other salaried positions), lower population sizes, and less wealth (i.e., fortnightly expenditures).
+
+We were willing to accept significance values of p < 0.1
+as statistically significant for two indicators (percentage
+of fish sold to markets and time of closure of managed
+areas) because of the exploratory nature of the study
+and the high effect sizes of these indicators. High-cost
+activities that are typically the focus of conservation
+programs, such as fostering awareness of the management rules and maintaining active enforcement patrols,
+were not found to be significantly related to effective
+management, although awareness had a considerable
+effect size.
+Several other factors that demonstrated substantial
+effect sizes (d > 0.8 or < 20.8 [24]) but were not statistically significant (p R 0.1) included total number and
+percentage of households engaged in fishing, occupational multiplicity, and the proportion of immigrants in
+communities. These high effect sizes indicate that substantial relationships may exist between these factors
+and the outcomes of marine conservation initiatives,
+but with our relatively limited sample size, we could
+not detect statistically significant differences. Factors
+such as active involvement in decision making, involvement in community groups, the mean years of formal
+education, and the proportion of the community involved in alternative occupations such as tourism and
+farming did not demonstrate substantial effect sizes or
+statistically significant differences, suggesting that their
+relationship to the outcomes of reef management was
+weak.
+All effective sites were able to exclude ‘‘outsiders’’ at
+a relatively low cost because of placement of the managed areas were near the village. In addition, the effective traditional sites had strong customary marine tenure
+institutions, which prohibited nonowners from accessing reef resources [6, 9, 16]. Interestingly, observed
+compliance was highest in the three self-governing traditionally managed areas, which did not have regular enforcement patrols, suggesting that the effectiveness of
+these sites in conserving reef resources was because
+of intrinsic motivations to act collectively and comply
+with regulations [25, 26]. Our in-depth case studies of
+these traditionally managed sites [9, 16] found that
+social influences promoting collective action and the
+perceived justness and legitimacy of regulations [27]
+may have been particularly high in traditional management institutions because they reflected local understandings of human-environment interactions, were an
+integral part of local cultures and traditions, and provided the communities with tangible benefits. For example, communities periodically fished these areas and
+perceived direct benefits of the management system;
+thus, these systems met more individual and community
+goals than systems of permanent closure. In addition,
+most members of the community were regularly reminded of the closures through participation in the
+traditions and feasts [28]. High compliance in the
+effective comanagement site in Indonesia may have
+stemmed from the significant input of external resources to this community; similar factors were found
+to be responsible for effective management at sites in
+the Philippines [4].
+In all traditionally managed sites, village leaders had
+some control over when and how much harvesting
+occurred within the protected area. Leaders also had
+
+Current Biology
+1412
+
+the autonomy not only to develop rules that were congruent to local ecological and social conditions but
+also to adapt management to observed changes in
+ecosystem dynamics, socioeconomic influences, and
+evasion of governance rules [29–31]. For example, in
+Muluk, clan leaders instituted a temporary closure
+when they observed a decrease in fish abundance [31].
+The size of the closure, length of time, and sanctions
+for violations could vary to meet the changing needs of
+the village and ecosystem.
+The ability of periodic closures to improve fish stocks
+is likely to depend upon the intensity of the harvesting
+when the areas are opened to fishing as well as the life
+histories of the targeted species. In the case of one of
+these sites, Ahus, periodic harvesting was found to be
+relatively benign in its effects on the overall standing
+stocks of reef fishes, with harvests being carried out
+on only one day every 6–12 months and removing only
+around 5% of the available biomass on each occasion
+[16]. However, if similar management methods were to
+be employed elsewhere, especially in areas of intense
+fishing pressure, the extent and type of harvesting to
+occur in managed areas would have to be carefully
+monitored and regulated, because differences in fishing
+effort, gears used, and frequency of harvests could
+influence the outcomes and management benefits. Although meta-analysis studies of MPAs suggest that recovery of some target species can occur within the first
+few years of area closure [12], some species may require
+recovery periods of longer than two decades, particularly when fishing is intense around boundaries [14, 15,
+32]. Consequently, although the use of small, limitedharvest areas under certain conditions may bring direct
+benefits to reef ecosystems and fishing communities by
+allowing a buildup in fish biomass, there is still likely to
+be a need for larger, permanently closed areas for species that require long periods without disturbance [33]
+or large areas within which the fish can safely move
+and not be regularly caught.
+In conclusion, this study suggests that the consideration of local socioeconomic factors and development
+of locally appropriate adaptive regulations are essential
+if we are to improve the ability of coral-reef management
+regimes to conserve resources. Coral-reef conservation
+based on large MPAs with weak enforcement may be
+ill-suited to the social, economic, and cultural context
+of many communities within the center of coral diversity,
+and insistence on these conservation methods may
+lead to polarization between national-government regulators and local communities [1, 2]. In situations where
+the resources for proper enforcement are lacking, alternative management regimes that are better able to
+meet a range of community goals may achieve greater
+acceptance, compliance, and subsequent conservation
+success than systems designed primarily for national
+interests of tourism and biodiversity conservation. Although large, permanent MPAs may provide the best
+protection for species that are highly susceptible to
+overfishing, a combination of MPAs and alternative
+systems of management, such as traditional systems,
+may provide the best overall solution for meeting
+conservation and community goals and reversing the
+degradation of reef ecosystems within the center of
+coral diversity.
+
+Acknowledgments
+We thank the communities and local, provincial, and national governments of Indonesia and Papua New Guinea for granting us permission to carry out this work and for providing technical assistance.
+In addition, the following individuals were vital to the fieldwork:
+T. Clark, R. Yamuna, J. Ben, I. Liviko, S. Moko, S. Pardede, V. Roring,
+J. Wibowo, R. Ardiwijaya, A. Mukminin, and Y. Herdiana. We also
+thank G. Russ and K. Redford for helpful discussions and comments
+on the manuscript. This work was funded by the David and Lucile
+Packard Foundation.
+Received: February 20, 2006
+Revised: May 15, 2006
+Accepted: May 16, 2006
+Published: July 24, 2006
+References
+1. Christie, P. (2004). MPAs as biological successes and social failures in Southeast Asia. In Aquatic Protected Areas as Fisheries
+Management Tools: Design, Use, and Evaluation of These Fully
+Protected Areas, J.B. Shipley, ed. (Bethesda, M.D.: American
+Fisheries Society), pp. 155–164.
+2. McClanahan, T.R., Davies, J., and Maina, J. (2005). Factors influencing resource users and managers’ perceptions towards
+marine protected area management in Kenya. Environ. Conserv.
+32, 42–49.
+3. McClanahan, T.R. (1999). Is there a future for coral reef parks in
+poor tropical countries? Coral Reefs 18, 321–325.
+4. Pollnac, R.B., Crawford, B.R., and Gorospe, M.L.G. (2001). Discovering factors that influence the success of community-based
+marine protected areas in the Visayas, Philippines. Ocean
+Coastal Management 44, 683–710.
+5. Pomeroy, R.S., Pollnac, R.B., Katon, B.M., and Predo, C. (1997).
+Evaluating factors contributing to the success of communitybased coastal resource management: The Central Visayas
+Regional Project-1, Philippines. Ocean Coast. Manage. 36, 97–
+120.
+6. Cinner, J. (2005). Socioeconomic factors influencing customary
+marine tenure in the Indo-Pacific. Ecol. Soc. 10, 36.
+7. McClanahan, T., and Shafir, S. (1990). Causes and consequences of sea urchin abundance and diversity in Kenyan coral
+reef lagoons. Oecologia 83, 362–370.
+8. McClanahan, T.R. (1994). Kenyan coral reef lagoon fish: Effects
+of fishing, substrate complexity, and sea urchins. Coral Reefs
+13, 231–241.
+9. Cinner, J.E., Marnane, M.J., McClanahan, T.R., Clark, T.H., and
+Ben, J. (2005). Trade, tenure, and tradition: Influence of sociocultural factors on resource use in Melanesia. Conserv. Biol.
+19, 1469–1477.
+10. Cinner, J.E., and McClanahan, T.R. (2006). Socioeconomic factors that lead to overfishing in small-scale coral reef fisheries
+of Papua New Guinea. Environ. Conserv. 33, 73–80.
+11. Hughes, T.P., Baird, A.H., Bellwood, D.R., Card, M., Connolly,
+S.R., Folke, C., Grosberg, R., Hoegh-Guldberg, O., Jackson,
+J.B.C., Kleypas, J., et al. (2003). Climate change, human impacts, and the resilience of coral reefs. Science 301, 929–933.
+12. Halpern, B. (2003). The impact of marine reserves: Do reserves
+work and does reserve size matter? Ecol. Appl. 13, 117–137.
+13. Cote, I.M., Mosqueira, I., and Reynolds, J.D. (2001). Effects of
+marine reserve characteristics on the protection of fish populations: A meta-analysis. J. Fish Biol. 59, 178–189.
+14. McClanahan, T.R., and Graham, N.A.J. (2005). Recovery trajectories of coral reef fish assemblages within Kenyan marine protected areas. Mar. Ecol. Prog. Ser. 294, 241–248.
+15. Russ, G.R., Stockwell, B., and Alcala, A.C. (2005). Inferring versus measuring rates of recovery in no-take marine reserves.
+Mar. Ecol. Prog. Ser. 292, 1–12.
+16. Cinner, J.E., Marnane, M.J., and McClanahan, T.R. (2005). Conservation and community benefits from traditional coral reef
+management at Ahus Island, Papua New Guinea. Conserv.
+Biol. 19, 1714–1723.
+
+Customary Practices Conserve Coral Reefs
+1413
+
+17. Agardy, T., Bridgewater, P., Crosby, M.P., Day, J., Dayton, P.K.,
+Kenchington, R., Laffoley, D., McConney, P., Murray, P.A.,
+Parks, J.E., et al. (2003). Dangerous targets? Unresolved issues
+and ideological clashes around marine protected areas. Aquatic
+Conservation: Marine and Freshwater Ecosystems 13, 353–367.
+18. Ruttan, L.M. (1998). Closing the commons: Cooperation for gain
+or restraint? Hum. Ecol. 21, 43–66.
+19. Dulvy, N.K., Polunin, N.V.C., Mill, A.C., and Graham, N.A.J.
+(2004). Size structural change in lightly exploited coral reef fish
+communities: Evidence for weak indirect effects. Can. J. Fish.
+Aquat. Sci. 61, 466–475.
+20. Graham, N.A.J., Evans, R.D., and Russ, G.R. (2003). The effects
+of marine reserve protection on the trophic relationships of reef
+fishes on the Great Barrier Reef. Environ. Conserv. 30, 200–208.
+21. Hardin, G. (1968). The tragedy of the commons. Science 162,
+1243–1248.
+22. Ostrom, E., Burger, C.B., Field, C.B., Norgaard, R.B., and Policansky, D. (1999). Sustainability—revisiting the commons: Local
+lessons, global challenges. Science 284, 278–282.
+23. Pretty, J. (2003). Social capital and the collective management of
+resources. Science 302, 1912–1914.
+24. Vaske, G., Gliner, J., and Morgan, G. (2002). Communicating
+judgements about practical significance: Effect size, confidence
+intervals, and odds ratios. Human Dimensions of Wildlife 7, 287–
+300.
+25. Colding, J., and Folke, C. (2001). Social taboos ‘‘invisible’’ systems of local resource management and biological conservation. Ecol. Appl. 11, 584–600.
+26. Sutinen, J.G., and Kuperan, K. (1999). A socio-economic theory
+of regulatory compliance. Int. J. Soc. Econ. 26, 174–193.
+27. Berkes, F., Colding, J., and Folke, C. (2000). Rediscovery of
+traditional ecological knowledge as adaptive management.
+Ecol. Appl. 10, 1251–1262.
+28. Aswani, S. (1999). Common property models of sea tenure: A
+case study from the Roviana and Vonavona Lagoons, New Georgia, Solomon Islands. Hum. Ecol. 27, 417–453.
+29. Aswani, S. (2002). Assessing the effects of changing demographic and consumption patterns on sea tenure regimes in
+the Roviana lagoon, Solomon Islands. Ambio 31, 272–284.
+30. Berkes, F.E. (1989). Common Property Resources: Ecology
+and Community-Based Sustainable Development (London: Belhaven Press).
+31. Cinner, J., Marnane, M.J., McClanahan, T.R., and Almany, G.R.
+(2005). Periodic closures as adaptive coral reef management in
+the Indo-Pacific. Ecology and Society 11, 31.
+32. Russ, G.R. (2004). Marine reserves: Long-term protection is required for full recovery of predatory fish populations. Oecologia
+138, 622–627.
+33. McClanahan, T.R., Verheij, E., and Maina, J. (2006). Comparing
+management effectiveness of a marine park and a multipleuse collaborative management area in East Africa. Aquatic Conservation: Marine and Freshwater Ecosystems 16, 147–165.
+
+

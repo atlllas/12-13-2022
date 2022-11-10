@@ -1,0 +1,705 @@
+The Economics of the Environment and Natural Resources
+R. Quentin Grafton, Wiktor Adamowicz, et al.
+Copyright © 2004 by R. Quentin Grafton, Wiktor Adamowicz, et al.
+
+CHAPTER FIVE
+
+FORESTRY ECONOMICS
+The time for felling the great oaks was one of the chief problems
+of the timber grower. There was a “psychological” moment for cutting, when the tree would yield a greater profit than at any other
+time. Oaks, it will be remembered, grow very slowly. The period of
+maturity is reached between the ages of eighty and a hundred and
+twenty years … [u]p to that time it was not profitable to cut oaks
+for ship timber because of the additional value of a large-sized tree.
+Beyond that period of maturity, the risk of decay was great … [the]
+results of a century of patience might be wasted in attempting
+to grow great stern-posts or beams. (Robert Albion, Forests and
+Sea Power (1965), describing the key problem facing the
+British Navy in encouraging land owners to grow timber for
+the fleet)
+
+5.1
+
+INTRODUCTION
+
+Forests have been a fundamental part of the natural landscape through human
+history. They have provided fuel, foodstuffs, building materials, and have even
+been considered a strategic resource, providing the timbers to build the great
+ships through which some countries asserted their power for over three centuries.
+Throughout early European history, forests were considered at best a nuisance
+and barrier to development, and at worst, symbolized barbarism, far different
+from modern western attitudes that now see them as valuable repositories of cultural values and social significance.
+Today, interest in forests covers the wide spectrum of goods and uses they provide, ranging from commercial timber production to environmental services, to
+their social and cultural significance for forest-dwelling indigenous groups as well
+as society as a whole. Forestry economics has also broadened its focus from the
+study of the production of timber or forest products to more complex problems
+involving the important environmental amenities forests can provide as well as
+the critical role they play in sustaining ecosystems and rural communities.
+
+130
+
+RESOURCE ECONOMICS
+
+The timber that is harvested, as is the case of other renewable resources,
+replenishes itself over time. The key problem in forestry is to determine the best
+time to harvest that timber and indeed, to what extent management of the forest
+should emphasize timber production. Several distinctive characteristics of
+forestry distinguish it from other renewable resources, such as fisheries, and these
+differences continue to shape both the research direction and questions in the area
+of forest economics.
+The principal difference is the long time span associated with forest growth.
+Some forests may not produce commercial timber until the trees are eighty years
+or older; some old growth forests contain trees over five hundred years old. Time
+also plays a role in the second difference. Trees are both a capital input as well as
+output because tree growth is a function of the age of the trees and hence of the
+standing biomass, much as is the case in fisheries. Decision-makers face the choice
+each year as to whether to hold the trees for another year (treat them as a capital
+stock) or harvest the entire biomass (output). Complicating the decision is the fact
+that a forest is capable of producing other goods and services that may also be
+dependent upon the age of the trees.
+Finally, there is the pervasiveness of multiple outputs from forests and the
+positive and negative externalities associated with different uses of the forest.
+Many of these externalities involve environmental services and amenities that have
+no market values or price, further complicating the decision-maker’s problem.
+A subject that has received growing attention in forestry has been the institutional arrangements under which forests are used. Such issues range from the
+divergence between practice and theory in public forest management, to land use
+policies and deforestation. Indeed, much of the research involving forests hinges
+on not only the economic circumstances surrounding a particular forest, the host
+of biophysical factors associated with it, but also the social and economic context
+under which the forest is utilized. In this chapter, we will review the biological
+and economic aspects of forestry that contribute to these distinctive characteristics, the economic models used in forestry, and provide an overview of the current
+issues involving forestry and how institutions can influence their use.
+
+5.2
+
+THE WORLD’S FORESTS
+
+The Food and Agriculture Organization (FAO) of the UN defines forests as areas
+where the tree canopy covers 10 percent of the area. Forests cover 30 percent of the
+world’s landmass, with nearly one-third of that found in Europe, including Russia
+(table 5.1). The distribution of forests across the different continents differs significantly: forests cover less than one-fifth of Asia, while over half of South America
+is forested. Measured in per capita terms, Asia is the poorest in forest resources,
+while Oceania is the richest (reflecting Australia and New Zealand’s large forest
+areas relative to their populations).
+
+FORESTRY ECONOMICS
+
+Table 5.1
+
+131
+
+The world’s forest cover, 2000
+Forest cover
+
+Country/area
+Africa
+Asia
+Oceania
+Europe
+North and Central
+America
+South America
+Total world
+
+Total
+land area
+(000 ha)
+
+Total
+forest area
+(000 ha)
+
+% of
+land area
+
+Area per capita
+(ha/person)
+
+2,978,394
+3,084,746
+849,096
+2,259,957
+
+649,866
+547,793
+197,623
+1,039,251
+
+21.8
+17.8
+23.3
+46.0
+
+0.85
+0.15
+6.58
+1.43
+
+2,136,966
+1,754,741
+
+549,304
+885,618
+
+25.7
+50.5
+
+1.15
+2.60
+
+13,063,900
+
+3,869,455
+
+29.6
+
+0.65
+
+Source: FAO 2001a
+
+Table 5.2
+
+World’s forests, by ecozone
+
+Ecozone
+% of all forest cover
+
+Tropical
+
+Sub-tropical
+
+Temperate
+
+Boreal
+
+49
+
+9
+
+13
+
+25
+
+Source: FAO 2001b
+
+Just under half of the world’s forests are found within the tropical regions
+(table 5.2). These forests are dominated by hardwood species and are characterized
+by mild temperatures and growing conditions that permit growth year round. The
+tropical rain forests found predominantly in South America, Africa, and Asia sustain
+the highest levels of biodiversity found in the world. Temperate forests include
+softwood and hardwood species and characterize the forests found in the US and
+Central and Northern Europe that have historically provided most of the wood used
+to produce lumber, pulp, and paper. The boreal forest, the second largest type, occupies a broad swathe of land extending across Alaska, Canada, and northern Russia.
+Despite the wide distribution of forests, just five countries account for over half
+of the world’s forests (table 5.3). Forests account for over half of the area of the
+Russian Federation and Brazil, while these two countries, along with Canada, are
+the most abundant in terms of forest resources measured on a per capita basis.
+
+Natural and plantation forests
+Humans have planted trees throughout human history, and sometimes in great
+quantities, for a variety of ends. Today there are plantations that have been
+established for environmental objectives, to control erosion and halt desertification;
+
+132
+
+RESOURCE ECONOMICS
+
+Table 5.3 The five largest forested countries, 2000
+
+Country
+
+Total
+land area
+(000 ha)
+
+Total
+forest area
+(000 ha)
+
+Forest
+as % of
+land area
+
+Forest area
+per capita
+(ha)
+
+Russian
+Federation
+Brazil
+Canada
+United States
+China
+
+1,688,851
+845,651
+922,097
+915,895
+932,743
+
+851,392
+543,905
+244,571
+225,993
+163,480
+
+50.4
+64.3
+26.5
+24.7
+17.5
+
+5.8
+3.2
+7.9
+0.8
+0.1
+
+Total 5 countries
+
+5,305,237
+
+2,029,341
+
+38.3
+
+n.a.
+
+Source: FAO 2001a
+
+Table 5.4 Representative rotation length and growth rates for different forest types
+around the world
+
+Forest type
+
+Country or
+region
+
+Typical
+rotation
+(years)
+
+Tropical plantation hardwoods
+Acacia mangium
+Eucalyptus
+Teak
+
+Indonesia
+Brazil
+Tropics
+
+10
+5–20
+40–60
+
+20
+30–70
+14
+
+New Zealand,
+Chile
+US South
+
+25–30
+25
+
+20–24
+10
+
+Temperate plantation softwoods
+Pinus radiata
+Pinus elliotti, other pine species
+Natural forests
+Tropical hardwood
+Temperate softwood
+Boreal softwood
+
+South America
+British
+Columbia
+Finland, Siberia
+
+Mean annual
+increment
+(m3/ha/yr)
+
+3
+
+60–200
+
+1.5–5.3
+1–2.5
+
+Source: Various in Tomberlin and Buongiorno 2001
+
+social objectives, the provision of fuelwood and building materials for rural
+communities; and economic objectives, the production of fiber for industrial
+purposes. In 2000, plantations covered 186.7 million ha or just under 5 percent of the
+world’s forest area. In some countries, such as India and China, they account for
+over 25 percent of the area classified as forest. In New Zealand, commercial plantations now provide virtually all the timber for the country’s forest products industry.
+Commercial plantations are commonly established with fast growing species
+such as eucalyptus, acacia, and certain pine species. Under suitable growing
+
+FORESTRY ECONOMICS
+
+133
+
+conditions some species can be harvested in as little as seven years. On shorter
+rotations they can provide fiber suitable for pulp and papermaking and fiberboard,
+while longer-term rotations are required if they are to provide fiber for lumber
+and other solid wood products. Table 5.4 shows some representative rotation and
+growth rates for some commonly grown plantation species and compares them
+to the growth rates for natural forests found in different regions of the world. The
+growth rates can differ by an order of magnitude or more between natural forests
+and plantations. In part, this reflects the more favorable growing conditions associated with plantations in tropical and temperate areas, but also the application of
+additional inputs such as fertilizer and the use of selected cultivars.
+
+5.3
+
+BIOLOGICAL AND ECONOMIC ASPECTS OF FORESTS
+
+One of the main issues involved in modeling forestry problems is that of choosing
+the appropriate scale. The forest may be as small as a five-hectare private woodlot or span two continents (as is the case for the boreal forest covering the northern part of Europe and North America). It may contain a diverse mix of tree
+species, or in the case of a plantation, homogeneous timber stands distinguished
+only by age.
+The most common unit of analysis used in investigating forestry issues is the
+timber stand. In general, a timber stand consists of trees within a contiguous area
+that share similar characteristics such as age, species composition, or site quality.
+A forest can then be made up of a number of stands that are commonly managed
+as individual units.
+The fact that trees are fixed in location has several important implications. First,
+it is possible to gather relatively precise information about certain aspects of the
+resource, such as existing timber volumes and expected future timber volumes.
+Second, the economic and environmental benefits associated with timber stands
+can vary directly with their location. Third, it is possible to specify property rights
+(see chapter 2) that can be assigned to the trees alone or extend to the land on
+which they stand that has important implications for how forests are managed.
+In general, a stand becomes more valuable with age as the standing volume
+increases. In addition, it is also often assumed that the per unit volume value of
+trees also increases with age, reflecting the higher prices associated with older and
+larger trees. At the same time, the environmental amenities associated change as
+a timber stand matures. There are a number of different variables, including but
+not limited to: forage for both domestic grazing stock and wildlife; wildlife habitat; water flow; and recreation opportunities. The flow of these benefits from a
+timber stand changes over time as trees mature. Some of these may vary inversely
+with the age of the trees; for example, forage opportunities and water flows will
+decrease as trees grow and their canopies close while recreational values may
+increase. The abundance of different plant and animal species will change as the
+habitat changes; some species such as spotted owls or woodland caribou prefer
+
+134
+
+RESOURCE ECONOMICS
+
+mature timber, while others such as deer are better adapted to the more open
+conditions commonly associated with younger forests. The ability of trees to
+sequester carbon is also dependent upon the size and age of the trees.
+A forest can contain a diverse mix of stands, where local factors such as the
+average temperature; precipitation patterns; and soil fertility; and local variations
+in topography favor particular tree species over others. The location of the forest
+or stand also influences the economic value of the trees; the costs involved in
+transporting the timber to processing facilities and eventually to markets, and the
+harvesting costs associated with the terrain (again influenced by local factors)
+determine the ultimate value of the standing timber.
+Within a forest, these costs may be such that standing timber has no commercial
+value (since the price of the forest products that can be derived from the wood, net
+of all processing costs, just equals these transportation and harvesting costs). This
+limit marks the extensive margin, beyond which trees have no commercial value.
+These timber stands may consist of the forest that lies in remote areas, far from any
+transportation system or processing facilities, or timber stands found in rugged
+terrain. Other land uses, such as agriculture, may also compete with forestland.
+Where the economic returns to forestland equal those of competing land uses, this
+delineates the intensive margin. The intensive margin is also used to sometimes
+describe the level of economic utilization within a timber stand; certain species or
+smaller trees may be uneconomic and therefore be left behind, depending upon
+harvesting policies.
+
+Choosing when to harvest
+The typical relationship between the age of a timber stand (or tree) and volume is
+shown in figure 5.1. The growth rate increases over time to a maximum, then
+declines and eventually becomes zero when trees cease growing as they reach
+maturity (and may actually become negative when trees are lost to rot and decay).
+The average annual increase in tree or timber stand volume is known as the Mean
+Annual Increment, or MAI, while the annual increase in timber volume (the change
+in volume from year to year) is known as the Current Annual Increment or CAI. A
+common management approach has been to choose the harvest age at which the
+MAI of the trees in the timber stand is maximized (which is sometimes called the
+Culmination of the MAI or CMAI). In a forest where the number of even-aged
+stands equals the rotation age, harvesting a stand each year and replanting that
+stand will yield the maximum harvest by volume that can be sustained over time
+(since each stand advances in age and the trees that are Tm1 mature will become
+available for harvest in the succeeding year). The problem is formulated as then
+choosing the time to harvest, T, that maximizes harvest volumes over time.
+Maximize W 
+
+V(T)
+T
+
+(1)
+
+FORESTRY ECONOMICS
+
+135
+
+Timber stand volume
+
+Maximum timber
+volume
+Maximum mean
+annual increment
+
+Maximum current
+annual increment
+
+Tc
+
+Tm
+
+Tv
+
+Timber stand age (years)
+
+Figure 5.1 Relationship between timber stand volume and age
+
+Taking the derivative with respect to the time to cut down the trees (T) we obtain
+dW/dT  V’(T)/T  V(T)/T2  0
+⇒
+
+V(T)
+ V(T)
+T
+
+(2)
+
+Figure 5.2 shows the MAI (which corresponds to the average product curve or
+V(T)/T) and the CAI (the marginal product curve or V’(T) ) based on the growth
+function depicted in figure 5.1. The CMAI is reached where the CAI crosses the
+MAI curve at Tm. This is equivalent to choosing the stock and harvesting effort
+that will maximize the sustained yield in fisheries (MSY). Under this approach
+each year 1/Tm of the forest would be harvested (assuming all stands are identical). This is otherwise known as the fully managed forest and in the past has been
+the basis for calculations used in determining sustainable harvest levels on public
+lands in North America and Europe.
+
+Economic models
+Much as in the case in fisheries, a maximization of total production has been the
+focus of public resource managers. This approach based on biological criteria has
+been criticized because it does not take economic criteria into account, and we
+now turn to economic models of timber management that have been focused on
+identifying the optimal age to harvest trees. The problem is phrased as choosing
+the optimal rotation age for a forest stand, given a set of exogenous variables
+
+RESOURCE ECONOMICS
+
+Incremental timber volume
+
+136
+
+Current annual
+increment
+
+Mean annual
+increment
+
+Tc
+
+Tm
+
+Tv
+
+Timber stand age (years)
+
+Figure 5.2 Mean annual increment, current annual increment, and the CMAI
+
+describing the growth of trees, the outputs they produce, and the discount rate, ,
+to maximize the value from harvesting the trees.
+
+The single stand, one rotation problem
+In the most basic formulation of the problem, it is assumed that the stand has been
+established and that there are no costs involved in tending the stand, and that a
+new stand will not be established after harvest. Expressing the value of the tree at
+time t as the constant price net of harvesting, P, times the volume V(t), the net
+present value of a harvest at time T is then:
+  ( (P)(V(T) )eT
+
+(3)
+
+The one period optimal rotation problem can then be written as choosing the optimal harvest age, Ts, that maximizes the net present value:
+d
+ ((P)(V(T)))eT()  (P)V(T)eT  0
+dT
+
+(4)
+
+The first order condition can be rewritten as:
+PV(T)  PV(T ) or
+
+V(T)
+
+V(T)
+
+(5)
+
+The left-hand side of (5) is the instantaneous increase in value of standing timber
+from waiting (the net revenue accruing from the increase in growth) to harvest
+
+FORESTRY ECONOMICS
+
+137
+
+the trees while the right-hand side is the return if all the trees were harvested
+and the money put in a bank to receive a rate of interest equal to the discount rate.
+When the net price (P) is constant, this is equivalent to choosing the rotation length
+where the growth rate (expressed in percentage terms) is equal to the discount rate.
+The example in box 5.1 shows how the economically optimum time to harvest is
+chosen when actual data on growth rates and timber values are used to weigh the
+benefits of postponing the harvest one more year against the forgone income.
+
+BOX 5.1
+
+CHOOSING WHEN TO HARVEST
+
+The growth function in figure 5.1 was drawn from actual data for Douglas fir trees
+growing in the Pacific northwest in the US (Clawson, 1977). The fitted curve is V  40t 
+3.1t 2 0.016t 3 where volume is expressed in cubic feet per acre. The table below shows
+the standing volume, mean annual increment, and current annual increment at 10 year
+intervals and selected years. The reported values in the two right-hand columns are
+based on an estimated stumpage rate of $10 per cubic metre starting at age 30 and rising
+by $2 every 10 years until age 80 and then remaining constant at $20 per cubic metre. The
+values are then converted into cubic feet per acre. They show the mean annual increment
+reaches its maximum between ages 90 and 100; however, discounting the value shortens
+the optimal harvest age in the case of a 3 percent discount rate to age 70, and in the case
+of a 9 percent discount rate to age 30 – the moment it becomes profitable to harvest. This
+illustrates the power of discounting, where the longer timespan associated with timber
+production typically reduces future values significantly, a problem explored later in the
+discussion on public land management.
+
+Age
+
+Volume
+(ft3/acre)
+
+Current
+annual
+increment
+(ft3/acre)
+
+Mean
+annual
+increment
+(ft3/acre)
+
+Current annual
+increment as %
+of volume
+
+Value
+Value
+discounted discounted
+at 3% ($)
+at 9% ($)
+
+1
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+125
+149
+150
+
+43
+694
+1,912
+3,558
+5,536
+7,750
+10,104
+12,502
+14,848
+17,046
+19,000
+22,188
+21,856
+21,750
+
+43
+95
+143
+181
+210
+229
+239
+239
+230
+210
+182
+68
+98
+106
+
+43
+69
+96
+119
+138
+155
+168
+179
+186
+189
+190
+178
+147
+145
+
+99.8
+13.6
+7.5
+5.1
+3.8
+3.0
+2.4
+1.9
+1.5
+1.2
+1.0
+0.3
+0.4
+0.5
+
+0
+0
+0
+415
+577
+701
+777
+805
+791
+675
+560
+312
+151
+146
+
+0
+0
+0
+76
+60
+41
+26
+15
+9
+4
+2
+0
+0
+0
+
+

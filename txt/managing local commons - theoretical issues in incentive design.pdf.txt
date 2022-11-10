@@ -1,0 +1,1345 @@
+Journal of Economic Perspectives — Volume 7, Number 4 — Fall 1993 — Pages 113–134
+
+Managing Local Commons:
+Theoretical Issues in Incentive Design
+Paul Seabright
+
+G
+
+rowing interest in environmental economics has led to a great deal of
+work in recent years on the economics of local common property
+resources, but it would be a mistake to think that the topic is in any
+danger of being over-grazed. Local commons encompass a wide range of
+resources whose shared feature is the need for some form of collective management, and pose interesting problems in such disparate sub-fields as agricultural
+economics and the theory of the firm.
+The definition of local common property resources must do two things:
+first, define common property resources, and secondly, distinguish local from
+other kinds of common property resources. Common property resources, as
+the name suggests, are resources in which there exist property rights, but
+property rights that are exercised (at least partly) collectively by members of a
+group. There must also be rivalry in consumption of the resource within the
+group; that is, an increase in the amount consumed by one individual reduces
+the amount remaining for others to consume. What makes the right of control
+collective, rather than individual, is simply the absence of a complete set of
+contractual relations governing which member of the group is entitled or
+required to do what. Like lawyers in a lifeboat, they find themselves obliged by
+circumstances to cooperate. However, membership of the group is limited by
+legally recognized and practically enforceable rights, and does not have to be
+• Paul Seabright is Director of Studies in Economics, Churchill College, Cambridge,
+United Kingdom.
+
+114
+
+Journal of Economic Perspectives
+
+concerned with the possibility of "open access," namely the risk that additional
+exploiters might have free entry to the resource.1
+The typical examples of local commons, as opposed to other types of
+commons, are often assets owned by reasonably small communities, such as
+villages. These are distinguished from global commons in two main ways. Most
+importantly, the main members of the local community are few enough to be
+known to each other; some of their actions are observable; and consequently
+they have the ability and sometimes the incentive to build reputations for
+behaving in certain ways. By contrast, some global commons problems, like
+global warming, involve billions of us. However, sometimes global commons
+problems concern a limited set of known players, namely governments; what
+distinguishes these cases from classic local commons is a second feature, namely
+the absence of even the potential for intervention by a state that is more
+powerful than any of the individuals. In the case of governments making
+decisions about global warming, this simply means that no world government
+exists to tackle the issue. For the purposes of this paper I shall define local
+commons problems as small-numbers problems, but I shall generally also make
+the empirical assumption that state intervention is one option among others for
+resolution of these problems.
+So local commons certainly include the familiar dramatis personae of environmental microeconomics, like grazing lands and inshore fisheries (although
+since deep-sea fisheries are open to access by others, they fall into a separate
+category). They include collectively managed irrigation systems such as canals
+and tanks; subterranean aquifers and oil reserves; forests and many wildlife
+habitats.2 But they also include many phenomena that should be analyzed in
+similar terms, and which typically appear in very different areas of the
+1
+In an "open access" problem, as distinguished from the subject of this paper, any agreements
+governing relations between existing exploiters are vulnerable to free entry by new exploiters from
+outside. Thus, the problems of common property resources are typically both more complex (since
+they concern interactions among specific individuals) and potentially more soluble than problems
+of open access. In the literature, common property resources are sometimes defined more broadly,
+as resources characterized by difficulty of exclusion as well as by rivalry in consumption (for
+instance, Berkes, 1989, p. 91). On this view, open access problems are just one kind of common
+property resource issue, namely one where it is impossible to exclude anybody. Feeny et al. (1990)
+use the term communal property to refer to what are here called common property resources, namely
+those where some people can be excluded but not others. It is not particularly important which set
+of definitions is used, so long as each is used consistently, and so long as the issues raised by what
+are here called common property resources are not confused with those of open access. I have also
+here avoided use of the term "common pool resources," which may suggest that only the overall
+stock of the resource matters, whereas I am interested in the more general case where potentially
+many aspects of the management of a resource can be important.
+2
+Endangered species have typically been treated in the literature as open access problems. But as
+Swanson (1993) emphasises, the fact that they are de facto open access should really be treated as
+endogenous. Governments have the ability to safeguard endangered species by regulating access if
+they wish to, and their unwillingness to do so is often the symptom of insufficient economic rent
+generated by the survival of the species in question. Policies to preserve such species are often
+better addressed to raising the rent appropriable by the parties with the power to control access,
+than by such currently fashionable means as trade conventions.
+
+Paul Seabright 115
+
+economics literature: partnerships and joint-stock companies, for example.
+Other situations that can be analyzed within this framework include households, research joint ventures, collective amenities in apartment buildings,
+pension funds, university departments.
+
+Establishing Common Interests
+The bulk of the literature on common property resources has taken the
+main analytical problem they raise to be one of resolving conflicts over the
+contribution of different members towards a common management policy. As a
+result, conflicts of interest over what is the optimal management of the resource
+have been largely ignored. At first, this distinction may sound merely semantic.
+After all, the difference in value to some member between the optimal management policy given the preferences of that member and a compromise management policy might be counted as part of the "contribution cost" paid by the
+member towards the compromise solution. However, the distinction is important for two reasons.
+First, social choice theory points out that the very existence of an optimal
+collective management policy cannot be taken for granted, and that mechanisms to decide upon such a policy may be vulnerable to strategic manipulation. Secondly, the information required for commons management will be
+much reduced if it can be assumed that the management policy for the
+resource (for example, what its aggregate rate of depletion should be) can be
+determined separately from the way that policy should be implemented (for
+example, how the consumption made possible by the agreed-upon depletion
+rate should be shared out among members). Call these two aspects of the
+management problem the production plan and the implementation plan.
+The separation of these tasks will be a reasonable assumption only when
+everyone can agree on what would be the optimal production plan, without
+knowing anything about the distribution plan. This may sound unlikely. But
+remember that a firm's shareholders will unanimously support attempts by that
+firm to maximize value (according to the Fisher separation theorem as described in Milne, 1974; DeAngelo, 1981), as long as the economy has complete
+risk-sharing opportunities. Consequently it is possible to determine the firm's
+optimum production plan (given a price system) without knowing anything
+about shareholders' preferences or constraints. It follows that, for there to be
+conflicts of interest between member-beneficiaries of a common property resource over the production plan, production decisions must make a significant
+difference to at least some members' risk-sharing opportunities, and must do so
+in different ways for different members.
+An example should help to clarify the issue here. Consider a group of
+farmers who have conflicting interests regarding the use of common grazing
+land during periods of drought, according to whether or not they have access
+
+116
+
+Journal of Economic Perspectives
+
+to irrigation. A strictly value-maximizing policy would restrict access to common grazing more during droughts than at other times because of the danger
+of erosion; but it is precisely during droughts that those engaged in rain-fed
+agriculture may find themselves most dependent upon livestock and therefore
+most in need of common grazing. Therefore, in the absence of other means to
+diversify away this risk they would prefer a policy that permitted them to react
+to a drought by increasing their demands on the common grazing land. Their
+conflict of interest with the farmers who have access to irrigation will in
+consequence concern not just how the limited grazing opportunities should be
+shared between them (the implementation plan), but will also extend to a basic
+conflict of interest over the production plan—that is, over how much grazing in
+total there should be when droughts occur.
+Solving such conflicts of interest may be very difficult, and the absence of
+appropriate means of compensation for the missing risk-sharing mechanisms
+may lead to a breakdown of the management of the common property resource. In what follows, however, we shall be concerned mainly with the
+problems of implementing a known optimal production plan. These problems,
+as the empirical evidence shows, are quite serious enough.
+
+Devising Incentives to Advance Common Interests
+The central implementation problem for common property resources is
+that, in the absence of binding agreements to the contrary, consumption of the
+common resource by one agent will impose negative externalities on others.
+Since individuals do not take these externalities into account, aggregate consumption of the resource is typically inefficiently high. Deforestation, overgrazing and excessive mineral depletion are the standard instances. In a classic
+article, Garrett Hardin (1968) referred to this outcome as a "tragedy of the
+commons." Alternatively, the externalities may mainly affect investment, in that
+resources expended in the enhancement of the common property resource's
+value will typically confer external benefits on other members, and underinvestment will result. Inadequate maintenance of irrigation systems and roads,
+and neglect of drainage, fencing and upkeep of public land are common
+examples.
+The investment externality characterizes virtually all common property
+resources, including such non-standard examples as firms and research joint
+ventures: the tendency towards under-investment by shareholders in monitoring a firm's management is a classic example (Grossman and Hart, 1980). In
+fact, the distinction between consumption and investment externalities is practically useful but not analytically important: the optimal production plan for
+common property resources will typically involve most if not all members both
+consuming less of the resource than their private incentives would lead them to
+
+Managing Local Commons: Theoretical Issues
+
+117
+
+do, and investing more of their other resources in the maintenance and
+enhancement of the common property resource's value.
+How might members be induced to implement such a plan? The next
+section will focus on informal mechanisms that may induce members of a
+common property resource to undertake collectively beneficial but individually
+costly actions. The following section will focus on more formal mechanisms: the
+privatization of property rights, the decentralization of incentives within common ownership and control, and the delegation of management responsibility
+to an agent so that participants are limited to a monitoring role. The value of
+these more formal mechanisms will depend significantly upon the success or
+lack of success of the informal mechanisms of collective management that they
+replace.
+
+Informal Incentives for Cooperative Behavior
+Mechanisms of collective management tend to look very different under
+the lenses of different social sciences. In particular, anthropologists and sociologists focus on the way in which individual behavior is governed by rules and
+codes of conduct, the genesis of which is often explained by how well such rules
+serve the interests of the group. Economists, by contrast, focus less upon rules
+than upon incentives. Recent work in game theory has devoted much effort to
+explaining cooperative behavior in terms of a more sophisticated understanding on the part of individuals about where their (individual) long-term interests
+really lie. In particular, individuals face problems of collective action not once
+but repeatedly. The knowledge that pursuit of their short-term interests can
+harm their long-term aims by affecting the reaction of others in future interactions may be a powerful inducement to behavior that displays apparent solidarity with the interests of the group. This does not mean that economics has
+undermined the validity of arguments that appeal to altruism or to social
+norms; these different explanations are complementary, although their relative
+importance will need careful empirical investigation.3
+Economists who argue that cooperative behavior can grow out of selfinterest usually draw heavily on the theory of repeated games (see the survey
+by Sabourian, 1990). Figure 1 displays a version of the familiar prisoners'
+3
+
+It is also likely that feelings of altruism and social solidarity, though extremely important, may be
+more volatile and difficult to promote consciously than perceptions of self-interest. For instance,
+familiarity and repeated interaction may provoke antipathy instead of sympathy between members
+of a community. This does not justify ignoring altruism as a social phenomenon, but it may reduce
+its amenability to systematic analysis. Graham Greene remarks of Scobie in The Heart of the Matter
+that "they had been corrupted by money, and he had been corrupted by sentiment. Sentiment was
+the more dangerous, because you couldn't name its price. A man open to bribes was to be relied
+upon below a certain figure, but sentiment might uncoil in the heart at a name, a photograph, even
+a smell remembered." For a contrary view, see Casson (1992), which develops a theory of
+leadership as the promotion of cooperative action by the manipulation of people's preferences.
+
+118
+
+Journal of Economic Perspectives
+
+Figure 1
+
+A Prisoners' Dilemma
+
+dilemma. If the two players know that they are playing the game only once,
+then Player 1 reasons as follows: "Player 2 might either cooperate or defect. If 2
+cooperates, than I am better off defecting, and receiving 5 rather than 4. If 2
+defects, then I am still better off defecting, since I receive 0 rather than 10."
+When both players reason this way, they both defect, and end up receiving 0.
+The problem is whether, if the game is repeated a number of times, the two
+players can find a way to cooperate.
+The idea that repetition can sustain cooperation is based on the thought
+that individuals tempted to defect may be dissuaded from doing so from fear of
+losing the benefits of cooperation in the future. For this dissuasion to be
+effective, three conditions must hold. First, the future must matter enough to
+outweigh the immediate benefits to any individual of failing to cooperate; that
+is, other players must have at their disposal retaliatory strategies that "hurt"
+the deviator sufficiently in future periods, even when future payoffs are discounted.4 So, for instance, excluding those who breach their fishing quotas
+from the fishing grounds in the future must be a sufficiently damaging prospect
+to outweight any immediate gains from over-fishing. In the prisoners' dilemma
+example in Figure 1, the benefits to and costs of cooperation are symmetric, but
+asymmetry of itself need not threaten cooperation so long as there exists, for
+each player, a retaliation strategy capable of outweighing the gains to that player
+of failing to cooperate.
+4
+
+More generally, imagine that if both players cooperate, they both receive X. If both defect, both
+receive 0. If one defects and one cooperates, the player who cooperates receives Z, while the
+player who defects receives Y. The only restrictions are that Y > X > 0, that 2X > Y Z and that
+Z > 0. There is a discount factor g. Then we know that provided Y X < gX/(1 g) there exists a
+retaliation strategy which consists of playing Defect for a finite number of periods in the event that
+the other player has played Defect after an agreement to cooperate, and which ensures that the
+other player is no better off from the defection. Let T be the lowest integer such that Y X gX +
+g2X + . . . + gTX. Then T is the smallest number of periods for which each player must threaten to
+retaliate in order for the threat credibly to sustain cooperation. If, on the other hand, it happens
+that Y X gX/(1 g), then there exists no finite T, and consequently no retaliatory strategy
+that can sustain cooperation.
+
+Paul Seabright
+
+119
+
+Secondly, these retaliatory strategies must be credible, which means that,
+once an individual has defected, it must be in the others' interest to put the
+retaliation into effect. For example, excluding those who have breached their
+fishing quotas must not require an unreasonable level of effort on the part of
+others in policing the fishing grounds. Abandoning an agreement to restrict
+extraction rates of a mineral asset (as a punishment for free-riding by some
+parties to that agreement) must not reduce its stock so substantially as to
+damage the interests of the retaliators by more than the original free-riding
+did. So when will retaliation be credible? It may be credible naturally (retaliation may be what they would anyway do in the circumstances, as when it
+involves playing a Nash equilibrium of the prisoners' dilemma game). Alternatively, it may be true because of a credible agreement between the affected
+parties to put the retaliation into effect. In the latter circumstance, retaliation is
+itself a form of collective action, which must therefore be credible if the original
+collective action is to be credible. It is in this respect that one can think of the
+setting up of police forces, inspectorates and similar institutions as a central
+form of common property resource management. The formal mechanisms to
+be discussed in the next section are therefore special cases of the more general
+repeated game response to one-shot inefficiencies.
+Thirdly, the benefits of cooperation in the future must themselves be
+sufficiently probable to act as an incentive to cooperation in the present. Sheer
+repetition of the game is not enough to ensure this. For example, if the game is
+to be played a fixed number of times, then both players will know before the
+last repetition of the game that defection in that last round cannot be punished
+and that therefore cooperation is unlikely in that round. But knowing that,
+they will each defect in the penultimate round. And knowing that, the argument by backward induction holds that they will defect even in the original
+round.
+For future cooperation to be a sufficiently probable incentive, one of a
+number of conditions must hold. The game may be infinitely repeated, or there
+may be sufficient uncertainty about how many times it will be repeated. An
+alternative solution is "reputation;" even a very small probability that the
+player is of a type that intrinsically prefers to cooperate acts as an incentive to
+all types of players to behave cooperatively, so long as the game is sufficiently
+far from its final period for the loss of a reputation for cooperation to be costly.5
+Another is bounded rationality, where a small probability that the player is of a
+type to cooperate "irrationally" has much the same effect (Radner, 1980).
+Finally, the one-shot game may have multiple Nash equilibria over which all
+players have a strict preference ordering (Benoit and Krishna, 1985; Friedman,
+1985; Fraysse and Moreaux, 1985). In all cases, the possibility of cooperation
+depends upon players' not discounting future payoffs too heavily (or
+5
+
+See Kreps et al. (1982); the argument is sufficiently well known not to bear repeating in detail
+here. Dasgupta (1988) provides an application of the reputation model to the problem of building
+up trust.
+
+120
+
+Journal of Economic Perspectives
+
+equivalently, on their interacting at sufficiently frequent intervals); if they don't
+place much value on the future, the gains from short-term self-interested
+behavior may be too great for any future inducements to outweigh.6 They must
+also be able to observe one another's behavior with sufficient reliability to
+observe whether agreements are being kept.
+To this point, the considerations discussed in this section are all essentially
+forward-looking: people will cooperate if they expect to gain in the future from
+doing so. Much of the empirical literature on the management of common
+property resources, however, stresses that historical considerations also play an
+extremely important part in accounting for successful collective action. In
+particular, traditions and institutions of collective action can increase the
+likelihood of successful collective action in the future, and we often observe that
+cooperative institutions work more successfully when they are embedded in a
+context in which collective action has worked in the past. Alternatively put,
+cooperation can be habit-forming (Seabright, 1993).
+What can the theory of repeated games say about this phenomenon? One
+possibility that immediately springs to mind is that all cooperative equilibrium
+strategies in repeated games must be to some extent history-dependent, if only
+in the simplest of ways: the possibility of retaliation depends on actions that are
+sensitive to what other players have done in previous periods.7 So, a breakdown of cooperation in one period would be expected to lead to a failure of
+cooperation in a future period, by way of retaliation. Unfortunately, this
+suggestion is not very useful as a way of explaining a tendency for cooperation
+to be habit-forming. What it tells us is that the use of threats that are history6
+
+In the limit, when the complete information game is repeated infinitely often and there is no
+discounting of the future, the Folk Theorem states that any individually rational payoffs (that is,
+payments that make continued participation preferable to withdrawing from the game) can be
+supported as an equilibrium, by a suitable choice of strategies to punish players who deviate from
+the equilibrium behavior. The Folk Theorem is couched in terms of Nash equilibrium strategies
+(and may therefore rely on threat strategies that are not credible out of equilibrium). But an
+extension by Aumann and Shapley (1976) and Rubinstein (1976) shows that any individually
+rational payoffs can also be supported as a sub-game perfect equilibrium. The idea is to construct
+strategies that punish players who fail to play their part in punishing those who deviate from
+equilibrium behavior; the infinite horizon ensures that any player can always be punished for long
+enough to prevent any deviation from being worthwhile. Unfortunately this result is not necessarily
+robust in the presence of even very slight discounting of the future, although Fudenberg and
+Maskin (1986) show that it will be so under certain conditions (namely that the dimension of the
+space of individually rational payoffs is as great as the number of players). Abreu et al. (1990) prove
+important and intuitive results for the case of repeated games with discounting and imperfect
+monitoring, including the proposition that the equilibrium average value set is monotonic in the
+discount factor (which means, roughly, that an increased degree of concern for the future always
+results in increased benefits from cooperation).
+7
+Dutta and Sundaram (1993) point out that tragedies of the commons can be avoided even in
+Markovian games where strategies are restricted to being functions of the current state and cannot
+draw on memory. This is because the stock of the resource can act as a state variable that in some
+sense embodies a (restricted) memory of past actions. In some equilibria there can even be
+under-exploitation; however, efficient levels of exploitation cannot be sustained by Markovian
+strategies.
+
+Managing Local Commons: Theoretical Issues
+
+121
+
+dependent can enable parties to achieve efficient outcomes; but if the outcomes
+are achieved, the threats do not need to be exercised, so we may never see any
+history-dependence in observed behavior. What we need to know is why
+cooperation sometimes works and sometimes doesn't, and whether the fact that
+there has been cooperation in the past should by itself make any difference to
+the prospects of cooperation in the future.
+Another possibility is that, in the absence of effective means of communication between players, past history may act as a mechanism which enables them
+to coordinate in selecting between the multiplicity of potential equilibria to
+which we know repeated interactions give rise.8 However, it is hard to believe
+that this is practically important for local commons. First of all, in the kinds of
+cooperative institutions that are typically established to manage local commons,
+there is no difficulty about communication. On the contrary, members may
+spend a long time communicating with each other (or squabbling, to put the
+matter less clinically), but may still fail to resolve their difficulties in implementing successful collective action. Secondly, if individuals are seeking to coordinate their actions, it is hard to understand why they should ever choose to
+coordinate on any but efficient outcomes. If we observe failures of cooperation
+in the past followed by failures of cooperation in the future, it seems perverse to
+imagine that the reason for this is that players have chosen to coordinate on an
+equilibrium with little cooperation (when they might have chosen to coordinate
+on one with more).
+So if none of these arguments really explains the observation that cooperation does seem to be habit-forming, what sort of analysis does demonstrate the
+point? To begin, since cooperation often fails even when the opportunities for
+communication are good, we can infer that cooperation is hard to sustain. This
+suggests that most common property resource problems involve either high
+discount rates (relative to the frequency with which opportunities occur for
+repeated cooperation), or one-off benefits from defection that are high relative
+to the per period costs to the defector of retaliation. This accords with common
+sense. Suppose an institution is established to protect common grazing land in
+a village. It may take some time to discover that the rules of grazing are being
+flouted or that the officers have embezzled the funds set aside to put up fences.
+Even though the previously cooperative members may now withdraw their
+cooperation in retaliation, the dishonest officers or the uncooperative grazers
+may have benefitted by enough in the meantime for this retaliation to leave
+them no worse off than they would have been by cooperating.
+
+8
+
+For example, Crawford and Haller (1990) develop a model in which agents in repeated coordination games use past behavior to assist their coordination among multiple equilibria in the future. In
+their framework, where there are multiple equilibria of each stage game, the choice of past
+equilibria is used to coordinate on future equilibria. If applied to the prisoners' dilemma, players
+would need to use past strategies (which might not have been equilibrium strategies of the one-shot
+game considered in isolation) to coordinate on future equilibria.
+
+122
+
+Journal of Economic Perspectives
+
+In circumstances like these—namely, where the sustainability of cooperation is a marginal matter—the presence or absence of trust will affect the extent
+to which cooperation succeeds. By "trust" here I mean the expectation by
+members of a group that other members will cooperate. The very fact that the
+immediate benefits from defecting are large implies that it makes a significant
+difference to individuals whether they cooperate anticipating similar behavior
+on the part of others, or choose instead to defect without waiting for others to
+do so first. A good analogy is a cease-fire during a civil war: if each side expects
+the cease-fire to hold, it has less of an incentive to make a pre-emptive strike,
+and consequently the cease-fire is more likely to hold.
+This presence or absence of trust may itself depend on past traditions and
+institutions; in short, institutions can channel trust. In Seabright (1993), I
+develop a model of "habit-forming" cooperation in which the frequency of past
+cooperation determines the probability of future cooperation. The basic idea of
+the model is that people's expectations about how cooperative others will be
+may fluctuate randomly. If people's moods are correlated, but not perfectly
+correlated, then any one person's expectation about the cooperativeness of
+others will amount to an expectation about how likely others are to be
+sufficiently optimistic about the prospects for cooperation to be willing to
+cooperate themselves. Cooperation is then induced by "optimism about the
+level of optimism," which is something that pre-existing institutions can channel and enhance. The same paper reports an econometric study of milk
+producers' cooperative societies in India, which are organizations requiring
+small farmers to sell milk at less than open market prices in return for the
+provision of a number of collective benefits such as access to finance and
+infrastructure. The study suggests that, controlling for directly economic variables, the presence of a prior history of cooperative institutions in the communities concerned was a positive predictor of cooperative society success.
+What exactly does it mean to say that institutions can "channel" trust? One
+possibility is simply that certain institutions, by giving people the opportunity to
+undertake collective action, allow them to establish a reputation for cooperation
+that will serve them well in the future. So, for instance, in the study just
+reported, villages whose members had previously organized collective religious
+festivals (as opposed to those where festivals were organized by sub-groups such
+as caste), were more likely to make a success of milk-producers' cooperatives.
+Likewise, many voluntary organizations working in poor countries concern
+themselves with promoting plays, festivals and sporting activities among disadvantaged groups, not only because of these activities' intrinsic value but because
+they know of their value in "building trust."
+A second possibility is more subtle, and appeals to the idea that institutions
+may allow the establishment of "collective reputation." For instance, Kreps
+(1990) discusses the way in which the reputation of individuals undertaking
+market transactions will be heavily influenced by the reputation of the firms to
+which they belong; indeed, one of the primary purposes of firms is to transmit
+
+Paul Seabright 123
+
+reputation across cohorts of employees. Tirole (1993) proposes that the persistence of corruption in a society may partly be explained by the fact that
+younger generations "inherit" the reputation of their elders; those born to
+corrupt elders will in consequence have less incentive to be honest themselves.
+An unresolved theoretical question is why some institutions are more effective
+than others at transmitting reputation across cohorts of members; but given
+that they are effective, such institutions may then represent a mechanism
+whereby cooperation can be habit-forming.
+Both these suggestions imply that trust is to be understood as a kind of
+capital good, embodied either in individuals or in the organizations to which
+they belong, and which acts as a state variable whose value influences the
+probability of future cooperation independently of the direct payoffs associated
+with such cooperation. In addition, informal institutions that enhance cooperative management of common property resources may also act in other more or
+less formal ways to change the direct payoffs. They may act as monitoring
+mechanisms, for example: by helping members to observe the behavior of
+others, they may make it easier to implement retaliation strategies. For instance, Indian cooperative societies with relatively educated officers were reported in Seabright (1993) to be more successful; closer investigation revealed
+this to be not because the more educated were intrinsically more trustworthy,
+but because they were more likely to have implemented mechanisms of quality
+control that diminished members' incentives to "cheat" by watering down their
+milk. An alternative, more subtle possibility is that in circumstances where it is
+unclear what kind of behavior is consistent with optimal resource management,
+institutions may help members to coordinate on relatively simple (and therefore more easily monitored) standards of acceptable behavior (Kreps, 1990,
+suggests this to be the main function of a corporate culture). A number of
+empirical studies have reported the successful evolution within relatively short
+periods of time of collective management institutions whose primary function is
+monitoring and the clarification of rules (Feeny et al., 1990, p. 10–11).9
+Whatever the mechanisms invoked, many recent contributions to the
+literature have stressed that relatively informal collective management of common property resources can in the right circumstances avoid the severe resource degradation predicted by "the tragedy of the commons." Nevertheless,
+both empirical and theoretical arguments suggest that cooperative behavior
+9
+
+Some writers on problems of collective action in developing countries have suggested that these
+may often be modelled better as a coordination game (sometimes called an assurance game) than a
+prisoners' dilemma (Runge, 1986; Stevenson, 1991, especially pp. 73–76). In a coordination game,
+unlike the prisoners' dilemma, it is in the players' interests to cooperate even when they play only
+once, provided they can be assured that others (or enough others, where multi-person games are in
+question) will do the same. It is obviously an empirical matter whether particular situations are
+indeed better modelled as one type of game rather than another. However, one way of viewing the
+literature on repeated games is as analyzing the circumstances under which the threat of retaliation
+transforms a prisoners' dilemma in the one-shot game into a supergame whose overall payoff
+structure is in fact an assurance game.
+
+124
+
+Journal of Economic Perspectives
+
+may be only partial, and the incentives of short-term self-interest only partially
+held in check. Under what circumstances, then, can more formal implementation mechanisms make good the deficiency? And, given that formal incentives
+are typically stronger than informal ones, are there any reasons why informal
+incentives might nevertheless sometimes be preferred?
+
+Formal Incentives for Cooperative Behavior
+The distinction between formal and informal implementation mechanisms
+is itself only an informal one. Nevertheless, a useful pragmatic line can be
+drawn between cases where uncooperative behavior by individuals is met
+merely by a withdrawal of cooperation by others, and those where cooperation
+is enforced by rewards and punishments that are defined in law or in customary practice, and are enforceable by appeal to courts or other institutions of
+arbitration. This section considers the theoretical rationale for three kinds of
+formal inducement to cooperative behavior in the management of common
+property resources: the privatization of property rights; the decentralization of
+incentives within common ownership and control; and the delegation of management responsibility to an agent so that participants are limited to a monitoring role.
+Privatization of Property Rights: Can Trade Destroy Trust?
+The case for privatizing property rights in what have hitherto been common property resources rests on the view that having an individual or firm own
+the resource will lead to the resource being allocated in a more efficient way.
+Any private property right requires specifying enforceable and appropriate
+contractual relations. Sometimes the means of doing this (and especially the
+technology embodied in a modern legal system) have only recently become
+available in developing countries, so privatization is seen as a response to
+changing conditions rather than an adverse judgment on the appropriateness
+of collective management for previous conditions.
+The desirability of privatization for any particular common property resource is, of course, an empirical matter. Stevenson (1991), for example,
+demonstrates econometrically the higher productivity of pasturing under private than under common property in Switzerland, while nevertheless accepting
+that transactions costs may make privatization infeasible in some circumstances.
+But in addition to the costs of specifying and enforcing rights, there are a
+number of things that can go wrong in attempting to introduce private
+property rights in what was once a common property resource; identifying
+these factors will help to describe in which situations privatization is more or
+less likely to succeed. All of the problems with privatization have their roots in
+the fact that private contractual rights can provide effective incentives for only
+
+Managing Local Commons: Theoretical Issues
+
+125
+
+some of the many individual actions that may be required for implementing an
+efficient production plan. Other necessary actions may remain unenforceable,
+either because they are unobservable by some of the affected parties or by the
+enforcing authorities, or because they are too complex to be specified in
+contractual form (actual contracts, in other words, are likely to be incomplete).
+As a result, the attempt to enforce private contractual rights may lead to a
+breakdown of whatever cooperative mechanisms may have evolved among
+those who shared implicit, non-contractual rights in the common property
+resource beforehand.
+For example, the privatization of areas of forest for timber production may
+fail to internalize all the externalities involved (so there will still be excess
+production and inadequate replanting). It may also fail to respect some of the
+implicit entitlements of those who previously used the forest for food, fuelwood
+or medicine, in ways that are both inequitable and inefficient. They are
+inequitable because implicit entitlements are still entitlements; and they are
+inefficient because they fail to build on the fact that those who benefit from a
+resource may also be induced to contribute to its maintenance, and some of
+them may have a comparative advantage in doing so (those who live in the
+forest may be in a position more easily to monitor its rate of degradation, for
+instance).
+Must private property make it more difficult to respect implicit entitlement? It might be thought that the breakdown of pre-existing cooperative
+mechanisms shows merely a failing in the particular system of private property
+rights introduced, and has no implications one way or the other for the merits
+or otherwise of private property in itself. But in fact there are two important
+reasons, intrinsic to the nature of (most) private property systems, that suggest
+how privatization may threaten implicit entitlements. First, privatization typically changes the relative bargaining power of those who depend upon the
+resource, giving more power to those who acquire the property rights and less
+to those who do not, in a way that may be sufficiently asymmetric to undermine
+the mutual dependence that was the incentive to cooperate originally. For
+example, privatizing grazing land may not completely prevent encroachment,
+but may reduce the incentives of those without private rights to prevent erosion
+on the land belonging to those who do. Privatizing forest land, by making forest
+dwellers unable to rely on traditional sources of food or fuelwood, may
+encourage more destructive practices (say of slash-and-burn) and discourage
+care of newly-planted saplings. In addition, it is difficult to frame formal
+contractual rights so as to safeguard traditional entitlements (a clause requiring
+landowners to grant "reasonable" access to "responsible" grazers or forest
+dwellers would be very hard to enforce).
+In fact, it is quite possible that by diminishing incentives for informal
+cooperation, privatization may make both parties worse off—including the
+owner of the newly created property right! This possibility is suggested by the
+game in Figure 2. In this game, Player 1 has a property right, which means that
+
+126
+
+Journal of Economic Perspectives
+
+Figure 2
+
+The Dilemma After Privatization
+
+if both players defect, Player 1 ends up better off than Player 2. Consequently
+the threat of retaliation by Player 2 can no longer hurt Player 1 sufficiently to
+induce him to cooperate. But notice that in spite of this, cooperation is still
+better for both players than defecting.10 So there is a sense in which members
+of a common property resource can in some circumstances be made better off
+by being denied rights that appear superficially to be to their advantage.
+There is an air of paradox about this conclusion, since it might seem that
+Player 1 could simply offer to relinquish his property right. But voluntary
+relinquishment may not be credible, since (if cooperation breaks down) there
+10
+More generally, following the framework from note 4, imagine that it remains true that if both
+players cooperate, both receive X, and if one cooperates while the other defects, the defector
+receives Y while the cooperator receives Z. However, if both players defect, it is now true that the
+player with the property right receives A, while the player without the property right receives A.
+Assume that 0 < A < X, Z. This shift may be enough to prevent Player 2 from credibly threatening
+a retaliation sufficiently costly to Player 1 to enforce the cooperative outcome. To see this, note that
+even if there exists a T such that
+
+Y
+
+X
+
+gX + g2X + . . . + gTX
+
+(1)
+
+which is the condition for there to exist a cooperative equilibrium of the infinite repetition of the
+game in Figure 1, there may exist no T* such that
+Y
+
+X
+
+g(X
+
+A) + g2(X
+
+A) + . . . + gT*(X
+
+A)
+
+(2)
+
+which is the analogous condition for Figure 2. Indeed, given the value of T, for T* to exist requires
+(by manipulation of (1) and (2)):
+(1
+
+gT*)/(1
+
+gT)
+
+X/(X
+
+A)
+
+(3)
+
+and for any G there evidently exist values of A sufficiently close to X such that (3) is not satisfied.
+Notice that the shift in bargaining power has made both players worse off (not just player 1), since
+now their discounted equilibrium payoffs are gA(1 g) and gA(g 1) respectively, which by
+assumption are less than those of the cooperative equilibrium.
+
+Paul Seabright 127
+
+may be nothing to prevent him from re-asserting it. Thus a promise by
+landowners not to prevent entry to their land by forest dwellers may not be
+credible given the fact that private property entitles them to bring actions for
+trespass; the only way for them to make this promise credible may be for there
+not to be privatization at all. And intermediate kinds of property (such as
+logging rights) may not give a credible mechanism of enforcement to the forest
+dwellers (as inhabitants of the Amazon basin have discovered).
+This leads naturally to the second and more subtle reason why private
+property may make it difficult to respect implicit entitlements. This is that some
+of the mechanisms that sustain informal cooperation—like a reputation for
+cooperating or the threat of retaliation—require reasonably long time horizons,
+the reliability of which may be undermined by the tradeability of private
+property rights. For example, those who farm communally owned land may be
+prepared to invest in the soil's fertility by using organic fertilizer, may plant
+trees to prevent erosion and so on. But once ownership is privatized, even an
+assurance that present owners would continue to respect the implicit entitlements of farmers to the fruits of their investment may be inadequate if present
+owners are able at any time to sell their land to new owners without such a
+reputation.
+Exactly this kind of argument has been advanced in the context of firms by
+Shleifer and Summers (1988), who point to the possible adverse consequences
+of highly liquid markets in the ownership of firms. Hostile takeovers, they
+suggest, may result in "breaches of trust" when incoming management teams
+cut wages or fire workers who had previously invested in firm-specific human
+capital for which existing management had promised adequate remuneration
+(but without being able to make such an understanding contractually binding).
+Even in the absence of an actual takeover, the knowledge that share markets
+are sufficiently liquid to make a takeover possible is, they suggest, a serious
+disincentive to efficient levels of investment in firm-specific human capital.11
+Intuitively appealing as this argument is, it is somewhat trickier than it
+sounds. The reputation model suggests that owners will be deterred from
+inadequately rewarding the specific human capital investments of workers by
+fear of the loss of their reputation. However, that reputation is itself a sunk
+cost; if owners sell the firm, the best price they can receive for it from new
+owners is the value of the firm under owners who lack a reputation for
+honoring implicit contracts; the price will discount the cost to them of the
+retaliation they may expect to face. Consequently, the incentive to sell the firm
+to new owners who will breach implicit contracts is no greater than the
+
+11
+
+This has striking affinities with the argument in Hirshman (1970). According to him, members of
+an organization may resort to the options of "exit" or "voice" if the organization is not being run as
+they would wish; but the exercise of voice typically generates positive externalities for members of
+the organization, and excessive ease of exit may therefore result in inadequate use of voice. Similar
+arguments underlie some people's opposition to easy divorce laws.
+
+128
+
+Journal of Economic Perspectives
+
+temptation to breach implicit contracts directly.12 Or, to put it another way,
+selling the firm to disreputable owners is itself a disreputable act. So the
+tradeability of property rights as such has no direct effect on the incentive properties of
+long-term relationships.
+
+This does not mean that there is nothing in the argument that tradeability
+of property rights can weaken incentives for relationship-specific investment.
+But such weakening, if it occurs, is not due to the intrinsic undermining of the
+credibility of reputation or the threat of retaliation by the tradeability of
+property rights alone. Something more must be added to the story. Suppose,
+for example, the new owners differ from the old in that breaching the implicit
+contract offers them a higher payoff. For instance, new owners may be less
+concerned about the anger and resentment of the existing workers or tenants
+on the common resource. Then they may be less deterred by the threat of
+retaliation and may consequently be willing to offer a price for the asset that
+does not discount for the expected retaliation by as much as the cost of such
+retaliation to the original owners.
+What welfare consequences follow therefore from the tradeability of property rights? It may happen that the welfare of the owner of an asset is higher if
+the owner is prevented from selling than if the owner's rights are tradeable.
+This will be true in the case where the owner is unique in some way (perhaps
+through having enjoyed a long-standing relationship with workers or tenants),
+making it likely that any alternative owner will have more immediately to gain
+from breaching the implicit contracts. Given the possibility of a sale, this risk
+will dissuade cooperation with the present owner. Conversely, owners that can
+commit themselves not to sell, or to do so only subject to safeguarding the
+interest of workers and tenants, may thereby help themselves as well.
+In many common property resources, there is no absolute prohibition on
+trading the right to membership, but typically the admission of new members
+requires the consent of (at least some of) the existing members, a stipulation
+that may be enough to mitigate the problem described above. Systems of
+private property, by contrast, often face difficulties, since it is impossible to
+specify formal incentives to safeguard the interests of existing members (indeed, that is typically the reason why there were implicit rather than explicit
+contracts in the first place).
+12
+Using the notation in footnote 4, assume that Player 1 (who moves first) represents a worker or
+tenant who must decide whether to make a relationship-specific investment, while player 2 decides
+whether or not to reward this. Cooperation will be an equilibrium if Y X < gX/(1 g). What
+difference does it make if the owner now has the opportunity to sell out instead of deciding
+whether or not to reward the investment? Clearly the owner will sell if the price P received is
+greater than or equal to the value of continuing to own the asset, i.e. if P X/(1 g). How much
+would a new owner be prepared to bid if she were intending to breach the implicit contract? The
+first period payoff would be Y, then there would be a period of retaliation for the minimum
+necessary T periods, and only then would the benefits of cooperation resume. So the value V to the
+new owner is Y = gT + 1X/(1 g). Into this expression we can substitute the equation defining T in
+footnote 4, to yield that V < X/(1 g) and consequently that V is always less than P. This shows
+that any owner who would honor implicit contracts cannot receive a price greater than or equal to
+the continuation value of the firm from an owner who would not.
+
+Managing Local Commons: Theoretical Issues
+
+129
+
+Two caveats are in order. First, it has so far been assumed that the new
+owner differs from the old owner only in receiving higher payoffs from
+choosing not to cooperate. If, however, the new owner is also more efficient at
+managing the firm in equilibrium, the costs of denying tradeable property
+rights would be correspondingly higher. There is a trade-off: private property
+may damage implicit contracts, but it is also likely to match owners more
+efficiently to their assets. Secondly, the welfare of the old owner is not the only
+important consideration, since that owner did not internalize the welfare of
+workers/tenants in decisions. So introducing tradeable property rights, even if
+it is in the interest of owners, may damage the interests of workers and tenants
+by enough to outweigh this benefit.
+To summarize, it should be clear that private property rights not only may
+fail to solve the problems of externalities that bedevil common property resources. When contractual relations remain in important respects incomplete,
+private property may also weaken the mechanisms of cooperation that previously existed, either by shifting the bargaining power of the parties so that they
+no longer share enough interdependence to make cooperation credible, or by
+weakening the credibility of long-term contracts. However, we have also seen
+that the circumstances under which the latter problem occurs are somewhat
+special. Long-term implicit contracts are not weakened by the mere fact of
+tradeability of property rights in assets; it is tradeability plus a sufficient
+likelihood of the presence of potential new owners with different out-ofequilibrium payoffs that is the key factor. Establishing that such circumstances
+exist empirically may require quite careful examination of the evidence.
+
+Decentralization of Incentives under Common Management
+It often happens that the members of a local common property resource
+meet and decide on systems of rewards and penalties to implement a production plan. The most frequent means of doing so are production quotas,
+reinforced by systems of monitoring, with fines or the threat of exclusion from
+the common property resource altogether for those who breach the agreement.
+Such quotas have been evident in agreements over grazing land (see
+McCloskey, 1976, for the medieval English commons, and the contributions
+surveyed in Feeny et al., 1990); in control of fisheries (Berkes, 1986); and in the
+production agreements of the OPEC oil cartel. As the discussion to this point
+would imply, cooperation will be feasible in these situations only when the
+penalties for breaching quotas are sufficiently large relative to the gains from
+doing so.
+One circumstance that favors the chances for cooperation is when members
+of the common property resource also share access to additional resources.
+Suppose the common property resource is grazing land or an irrigation system,
+but it is owned by a village; individuals who breach the agreed quotas can be
+punished by being denied access not merely to the common property resource
+but to some of the other benefits of village membership. When these additional
+
+130
+
+Journal of Economic Perspectives
+
+benefits are sufficiently important, village leaders have the power to levy fines
+or impose other punishments that substantially enhance the credibility of the
+cooperative outcome.
+Why are quantitative instruments, like quotas for enforcing production
+plans, so much more common than price-based instruments like taxes? One
+answer is that for many common property resources that involve renewable
+resources such as forests or fisheries, the damage done by misjudging the
+optimum utilization rate may be very much higher than that due to misjudging
+members' willingness to pay. For example, an unexpected surge in demand
+one year would under quotas lead to unexpectedly high prices; this may be
+preferable to the outcome under a tax system, namely unexpectedly high
+production which could leave the fishery seriously depleted and requiring
+several years of nursing back to optimum levels. In general, when the optimum
+use of a resource lies quite close to the level below which the resource's capacity
+for self-renewal is seriously damaged, and when some uncertainty is involved in
+how any control mechanism will work, a quota will pose lower risks than a price
+mechanism (Weitzman, 1974).
+A second reason for the prevalence of quotas is the comparative ease with
+which they allow decentralization of the monitoring process. It is often easier
+for other members of the common property resource to observe whether a
+quota has been violated than to know whether a particular member is evading
+the terms of some (possibly non-linear) optimum schedule of Pigouvian taxes.
+The former can usually be monitored by observing production, which happens
+within the common resource, whereas the latter may require monitoring of
+market transactions, which can happen anywhere. This consideration may also
+account for the observed prevalence of systems of strict equality among members in production rights even when efficiency considerations might suggest
+otherwise: Feeny et al. (1990) report agreements to fish in rotation to ensure
+equal access to the best sites in Turkey; random assignment of harvest produce
+to households in meadow commons in Japan; and revenue pooling regardless
+of the productivity of individual members in a fishing cooperative in New
+Jersey. In all of these cases a visible commitment to equality of treatment,
+besides facilitating monitoring, may also have helped to build up mutual trust.
+When a group simply pools its output, it assures that the benefits of any
+excessive production are shared among its members, rather than privately
+appropriated.
+
+Delegation of Management Responsibility to an Agent
+All forms of collective management involve some asymmetry in the degree
+of involvement of different parties. At one end of the spectrum is the practice of
+delegating managerial responsibility to an agent charged with managing the
+asset on behalf of others; at the other, full participatory decision-making. In the
+middle of the range, a smaller group of agents are chosen by the larger group,
+
+Paul Seabright 131
+
+which simply means that the collective management problem of the original
+owners of the common property resource is reproduced in miniature among
+the agents.
+The delegation of responsibility to an agent does not, of course, leave the
+original members with nothing to do (otherwise they might as well just sell the
+asset); but it does limit their activities to a monitoring rather than a fully
+participatory role. So when is it desirable for members of a common property
+resource to specialize—some in management, some in monitoring—rather
+than all attempting a combination of the two? And what might be the source of
+gains from specialization? Another way to pose these questions is to inquire
+under what circumstances economies (or possibly diseconomies) of scope between the management and monitoring tasks are offset by diseconomies (or
+possibly economies) of scale in the management and monitoring tasks
+themselves.
+Some jobs can be easily monitored using almost none of the skill or the
+effort that are required for the task's performance: someone who has never
+held a spade can tell fairly easily how fast someone else is digging. Others need
+much more: refereeing a scientific paper may require as much skill, as well as
+(notoriously) sometimes almost as much effort as writing it. Delegation of
+management responsibility is much more likely where the management of the
+resource resembles the first kind of task rather than the second, since those
+who delegate thereby save themselves a substantial amount of work.
+But is is important not to confuse the ease with which management can be
+monitored and the ease with which management can itself monitor any resources it employs. For instance, suppose a community needs to dig an
+irrigation channel. It makes sense to delegate this job to a manager, since the
+main activity (digging) can be monitored by the manager, and it is easy for the
+rest of the community to see how fast the channel is progressing. By contrast,
+suppose the community wants to landscape some parkland. Again the main
+activity is digging, and it is just as easy for the manager to monitor this. But it
+now matters very much how and where this digging takes place, and it is
+harder for the rest of the community to monitor the management of the project
+without interesting themselves substantially in its details. Collective management is in such circumstances a more likely outcome.
+Even in the latter case the evident economies of scope between the
+management and monitoring tasks are to an extent offset by economies of scale;
+it is senseless to duplicate the management of all the little tasks involved in a
+landscaping project. Likewise the job of policing a collective agreement to
+restrict grazing on common land may be worth delegating to employed guards
+during the night hours, even if it is unnecessary during the daytime because
+other members can combine the policing task with their own grazing.
+The benefits of delegation will also depend on the extent to which the
+conflicts of interest between the agent and the principals who are the members
+of the common property resource can be minimized through appropriate
+
+132
+
+Journal of Economic Perspectives
+
+remuneration procedures. As the literature on principal-agent problems within
+firms has emphasized (Jensen and Meckling, 1976), aligning the interests of
+agents with those of principals is usually restricted by the risk aversion of
+agents, which makes it very costly for them to bear the full marginal responsibility for their actions. Consequently, the incentives for managing a firm usually
+consist of a combination of direct financial incentives (like profit-related pay
+and stockholdings), monitoring by principals, and contingent transfers of control rights to other parties in the event of certain management difficulties, like
+bankruptcy (Aghion and Bolton, 1992). Recent work in this field has emphasized that for such incentives to be effective, those who have the ability to
+monitor management must have the power to intervene if management acts
+contrary to principals' interests, and also the interest in intervening on behalf of
+the principals (Dewatripont and Tirole, 1992).
+This lesson is nowhere more important than in those circumstances where
+management of a common property resource has been taken over by the state.
+The state differs from other agents to whom management of a common
+property resource might theoretically be delegated in that the chain of delegation is typically longer; citizens delegate to their political representatives who
+delegate to government ministers who delegate to senior civil servants who
+delegate to junior civil servants and so on. This long chain of delegation may be
+unavoidable for non-local commons, but for local commons, shorter chains of
+delegation are probably feasible. If agents of the state are to be involved in the
+management of a common resource, they need an incentive to act in the
+interests of those to whom the resource notionally belongs. Where state management has worked, it has usually been through local involvement and
+empowerment of those who depend on the resource for their livelihood (see
+Chopra, Kadekodi and Murty, 1989, for the example of forest resources in the
+Himalayan foothills). It is not necessarily that their monitoring abilities are
+superior to those of the state's agents—the latter may be able to call on more
+sophisticated monitoring technologies—but their interests in the optimal management of the resource may be much greater.
+The principal-agent literature has tended to emphasize the problems faced
+by dispersed principals in monitoring the activities of their agents: in this case,
+the problem of citizens in monitoring their government. A more realistic
+approach would recognize that in many principal-agent problems it is those
+who are notionally the agents who write their own contracts, subject to a
+greater or lesser degree to the power of veto by their principals. Agents can
+thereby become entrenched, implementing policies in their own private interests, owing to the costs to dispersed principals of organizing to dislodge them.
+Nowhere is this more true than when principals are voters and their agents are
+the many kinds of employees of the modern state. Much of the reaction against
+state management of local common property resources (whether these are
+traditional environmental common property resources or others such as
+industrial enterprises) can be seen as a rewriting by citizens of the terms of their
+
+Managing Local Commons: Theoretical Issues
+
+133
+
+contracts with managing agents, a rewriting that often occurs drastically because the transactions costs between citizens mean that it is forced to take place
+infrequently.
+
+Conclusion
+It can be easy for economists from industrialized countries to disparage
+developing country management of common property resources, because
+property rights aren't clear, monitoring arrangements seem very informal, and
+government agencies are unresponsive to citizens. But of all the professions,
+economists should perhaps be most sensitive to the fallacy that if the government isn't managing something according to a formal plan, then great inefficiency must be occurring. Likewise, they should be wary of assuming that
+moving from one situation of imprecise incentives to another with more formal
+but still somewhat imprecise incentives will always improve efficiency. Local
+communities have often evolved sophisticated informal methods of managing
+common property resources. As developing countries move towards greater
+clarity and enforceability of laws, towards greater reliance on markets, and
+perhaps towards more democratic government, it is important that these
+mechanisms not be ignored, disparaged or lost.
+• I should like to thank Jacques Crémer, Jean Tirole, Bhaskar Vira and the editors of
+this journal for very helpful comments and advice.
+
+References
+Aghion, P., and P. Bolton, "An Incomplete
+Contract Approach to Financial Contracting,"
+Review of Economic Studies, July 1992, 59,
+473–94.
+Abreu, D., D. Pearce, and E. Stacchetti,
+"Toward a Theory of Discounted Repeated
+Games with Imperfect Monitoring," Econometrica, September 1990, 58:5, 1041–63.
+Aumann, R., and L. Shapley, "Long-Term
+Competition and Game-Theoretic Analysis,"
+mimeo, 1976.
+Benoit, J-P., and V. Krishna, "Finitely Repeated Games," Econometrica, July 1985, 53:4,
+905–22.
+Berkes, F., "Local-level Management and
+
+the Commons Problem: A Comparative Study
+of Turkish Coastal Fisheries," Marine Policy,
+1986, 10, 215–29.
+Berkes, F., Common Property Resources. London: Belhaven Press, 1989.
+Casson, M., The Economics of Business Culture. Oxford: Clarendon Press, 1992.
+Chopra, K., G. Kadekodi, and M. Murty,
+"People's Participation and Common Property Resources," Economic and Political Weekly,
+November 23–30, 1989, 24, A-189–95.
+Crawford, V., and H. Haller, "Learning
+How to Cooperate: Optimal Play in Repeated
+Coordination Games," Econometrica, May 1990,
+571–96.
+
+134
+
+Journal of Economic Perspectives
+
+Dasgupta, P., "Trust as a Commodity." In
+Gambetta, D., ed., Trust. Cambridge, U.K.:
+Cambridge University Press, 1988, 42–72.
+DeAngelo, H., "Competition and Unanimity," American Economic Review, March 1981,
+71:1, 18–27.
+Dewatripont, M., and J. Tirole, "A Theory
+of Debt and Equity: Diversity of Securities and
+Manager-Shareholder Congruence," IDEI,
+University of Toulouse, mimeo, 1992.
+Dutta, P., and R. Sundaram, "The Tragedy
+of the Commons?," Economic Theory, 1993, 3,
+413–26.
+Feeny, D., F. Berkes, B. McCay, and J.
+Acheson, "The Tragedy of the Commons:
+Twenty-Two Years Later," Human Ecology,
+March 1990, 18, 1–19.
+Fraysse, J., and M. Moreaux, "Collusive
+Equilibria in Oligopolies with Finite Lives,"
+European Economic Review, February 1985,
+27:1, 45–55.
+Friedman, J., "Cooperative Equilibria in Finite Horizon NonCooperative Supergames,"
+Journal of Economic Theory, April 1985, 35:2,
+390–8.
+Fudenberg, D., and E. Maskin, "The Folk
+Theorem in Repeated Games with Discounting or with Incomplete Information," Econometrica, May 1986, 54:3, 533–54.
+Grossman, S., and O. Hart, "Takeover Bids,
+the Free-rider Problem and the Theory of the
+Corporation," Bell Journal of Economics, Spring
+1980, 11:1, 42–64.
+Hardin, G., "The Tragedy of the Commons," Science, December 13, 1968, 162:3859,
+1243–48.
+Hirshman, A., Exit, Voice & Loyalty. Cambridge: Harvard University Press, 1970.
+Jensen, M., and W. H. Meckling, "Theory
+of the Firm: Managerial Behavior, Agency
+Costs and Ownership Structure," Journal of
+Financial Economists, October 1976, 3:4,
+305–60.
+Kreps, D., "Corporate Culture and Economic Theory." In Alt, J., and K. Shepsle,
+eds., Perspectives on Positive Political Economy.
+Cambridge, U.K.: Cambridge University Press,
+1990, 90–143.
+Kreps, D., P. Milgrom, J. Roberts, and R.
+
+Wilson, "Rational Co-operation in the Finitely
+Repeated Prisoners' Dilemma," Journal of Economic Theory, August 1982, 27:2, 245–52.
+McCloskey, Donald, "English Open Fields
+as Behavior Towards Risk," Research in Economic History, Fall 1976, 1, 124–70.
+Milne, F., "Corporate Investment and Finance Theory in Competitive Equilibrium,"
+Economic Record, December 1974, 50:132,
+511–33.
+Radner, Roy, "Collusive Behavior in Noncooperative Epsilon-Equilibria of Oligopolies
+with Long but Finite Lives," Journal of Economic Theory, April 1980, 22:2, 136–54.
+Rubinstein, A., "Equilibrium in SuperGame," discussion paper, Centre for Mathematical Economics and Game Theory, Hebrew University of Jerusalem, 1976.
+Runge, C., "Common Property and Collective Action in Economic Development," World
+Development, May 1986, 14:5, 623–35.
+Sabourian, H., "Repeated Games: A
+Survey," In Hahn, F., ed., The Economics of
+Missing Markets, Information and Games. Oxford, Clarendon Press, 1990, 62–105.
+Seabright, P., "Is Cooperation HabitForming?" In Dasgupta, P., and K.-G. Maler,
+eds., The Environment and Emerging Development
+Issues. Oxford, Clarendon Press, forthcoming.
+Shleifer, A., and L. Summers, "Breaches of
+Trust in Hostile Takeovers." In Auerbach, A.,
+ed., Corporate Takeovers: Cause and Consequences. Chicago, University of Chicago Press,
+1988, 33–56.
+Stevenson, G., Common Property Economics—
+A General Theory and Land Use Applications.
+Cambridge, U.K.: Cambridge University Press,
+1991.
+Swanson, T., "Regulating Endangered
+Species," Economic Policy, April 1993, 16,
+183–205.
+Tirole, J., "A Theory of Collective Reputations, With Applications to the Persistence of
+Corruption and to Firm Quality," IDEI, University of Toulouse, mimeo, 1993.
+Weitzman, M., "Prices vs. Quantities," Review of Economic Studies, October 1974, 41:4,
+447–91.
+
+This article has been cited by:
+1. Francisco M. Barba, Dany Jaimovich. 2022. Ethnic diversity and forest commons. World Development
+158, 105986. [Crossref]
+2. Izzy Gainsburg, Shiva Pauer, Nawal Abboub, Eamon T. Aloyo, Jean-Christophe Mourrat, Alejandrina
+Cristia. 2022. How Effective Altruism Can Help Psychologists Maximize Their Impact. Perspectives
+on Psychological Science 60, 174569162210795. [Crossref]
+3. Laurent Lehmann, Simon T. Powers, Carel P. van Schaik. 2022. Four levers of reciprocity across
+human societies: concepts, analysis and predictions. Evolutionary Human Sciences 4. . [Crossref]
+4. Agustín Sánchez-Arcilla, Vicente Gracia, César Mösso, Iván Cáceres, Daniel González-Marco, Jesús
+Gómez. 2021. Coastal Adaptation and Uncertainties: The Need of Ethics for a Shared Coastal Future.
+Frontiers in Marine Science 8. . [Crossref]
+5. Li Chen. 2021. Investigating the Impact of Competition and Incentive Design on Performance of
+Crowdfunding Projects: A Case of Independent Movies. Journal of Theoretical and Applied Electronic
+Commerce Research 16:4, 791-810. [Crossref]
+6. Zhu Dongliang. 2021. Farmers Are Growing Further and Further from the Land: Land Transfer and
+the Practice of Three Rights Separation in China. Social Sciences in China 42:2, 24-43. [Crossref]
+7. Jean Hugues Nlom. 2021. A Bio-Economic Analysis of Conflicts between Illegal Hunting and
+Wildlife Management in Cameroon: The Case of Campo-Ma’an National Park. Journal for Nature
+Conservation 23, 126003. [Crossref]
+8. Andrea Salustri. 2021. Social and solidarity economy and social and solidarity commons: Towards
+the (re)discovery of an ethic of the common good?. Annals of Public and Cooperative Economics 92:1,
+13-32. [Crossref]
+9. Shafiqul Islam, Khondker Mohammad Zobair, Cordia Chu, James C. R. Smart, Md Samsul Alam.
+2021. Do Political Economy Factors Influence Funding Allocations for Disaster Risk Reduction?.
+Journal of Risk and Financial Management 14:2, 85. [Crossref]
+10. Martin Elvis, Alanna Krolikowski, Tony Milligan. 2021. Concentrated lunar resources: imminent
+implications for governance and justice. Philosophical Transactions of the Royal Society A: Mathematical,
+Physical and Engineering Sciences 379:2188, 20190563. [Crossref]
+11. Indranil De, Shyam Singh, Shilpi Smita Panda. Understanding Social Norms 21-36. [Crossref]
+12. Fijnanda van Klingeren. 2020. Playing nice in the sandbox: On the role of heterogeneity, trust and
+cooperation in common-pool resources. PLOS ONE 15:8, e0237870. [Crossref]
+13. Tobias Baumann, Thore Graepel, John Shawe-Taylor. Adaptive Mechanism Design: Learning to
+Promote Cooperation 1-7. [Crossref]
+14. Nobuyoshi Yasunaga. 2020. Classification of collective actions for rural community vitalization in
+Chugoku Mountainous region, Japan: applying multiple correspondence analysis. Asia-Pacific Journal
+of Regional Science 4:2, 553-592. [Crossref]
+15. Remi Bazillier, Victoire Girard. 2020. The gold digger and the machine. Evidence on the distributive
+effect of the artisanal and industrial gold rushes in Burkina Faso. Journal of Development Economics
+143, 102411. [Crossref]
+16. Mateus Cesar, Ivette Luna, Ellie Perkins. 2020. De tragédia a solução: a atualidade teórica e empírica
+dos recursos comuns no Brasil. Nova Economia 30:1, 7-35. [Crossref]
+17. Bimbika Sijapati Basnett, Rodd Myers, Marlène Elias. SDG 10: Reduced Inequalities – An
+Environmental Justice Perspective on Implications for Forests and People 315-348. [Crossref]
+
+18. Ariel Singerman, Pilar Useche. 2019. The Role of Strategic Uncertainty in Area‐wide Pest
+Management Decisions of Florida Citrus Growers. American Journal of Agricultural Economics 101:4,
+991-1011. [Crossref]
+19. Ariel Singerman, Pilar Useche. 2019. “The Role of Strategic Uncertainty in Area‐Wide Pest
+Management Decisions of Florida Citrus Growers” – Authors' Response to Comment. American
+Journal of Agricultural Economics 101:4, 1017-1020. [Crossref]
+20. Syed Muhammad Khair, Shahbaz Mushtaq, Kate Reardon-Smith, Jenny Ostini. 2019. Diverse drivers
+of unsustainable groundwater extraction behaviour operate in an unregulated water scarce region.
+Journal of Environmental Management 236, 340-350. [Crossref]
+21. Satyapriya Rout. 2018. Sustaining Southeast Asia’s Forests: Community, Institution and Forest
+Governance in Thailand. Millennial Asia 9:2, 140-161. [Crossref]
+22. Peter T. Leeson, Colin Harris. 2018. Wealth-destroying private property rights. World Development
+107, 1-9. [Crossref]
+23. Heather Marquette, Caryn Peiffer. 2018. Grappling with the “real politics” of systemic corruption:
+Theoretical debates versus “real-world” functions. Governance 31:3, 499-514. [Crossref]
+24. Maarten J. Punt, Justus Wesseler. 2018. The Formation of GM-free and GM Coasean Clubs: Will
+They Form and If So How Much Can They Achieve?. Journal of Agricultural Economics 69:2, 413-438.
+[Crossref]
+25. Pranietha Mudliar, Tomas Koontz. 2018. The muting and unmuting of caste across inter-linked
+action arenas: inequality and collective action in a community-based watershed group. International
+Journal of the Commons 12:1, 225-248. [Crossref]
+26. Gwendoline Promsopha. 2018. RISK-COPING, LAND TENURE AND LAND MARKETS: AN
+OVERVIEW OF THE LITERATURE. Journal of Economic Surveys 32:1, 176-193. [Crossref]
+27. Bishnu Pariyar, Jon C. Lovett, Carolyn Snell. 2018. Inequality of access in irrigation systems of the
+mid-hills of Nepal. Area Development and Policy 3:1, 60-78. [Crossref]
+28. Richard A. Aborisade, Nurudeen B. Aliyyu. Corruption and Africa 227-254. [Crossref]
+29. Anders Skonhoft, Anne Borge Johannesen, Jon Olaf Olaussen. 2017. On the tragedy of the commons:
+When predation and livestock loss may improve the economic lot of herders. Ambio 46:6, 644-654.
+[Crossref]
+30. Timothy J. Emery, Caleb Gardner, Klaas Hartmann, Ian Cartwright. 2016. The role of government
+and industry in resolving assignment problems in fisheries with individual transferable quotas. Marine
+Policy 73, 46-52. [Crossref]
+31. Chang Yee Kwan. 2016. Increasing returns, individuality and use of the common pool. Australian
+Journal of Agricultural and Resource Economics 60:1, 97-111. [Crossref]
+32. Madhusmita Dash, Bhagirath Behera. 2015. Local institutions, collective action and forest
+conservation: The case of Similipal Tiger Reserve in India. Journal of Forest Economics 21:4, 167-184.
+[Crossref]
+33. Erik O. Kimbrough, Jared Rubin. 2015. Sustaining Group Reputation. Journal of Law, Economics,
+and Organization 31:3, 599-628. [Crossref]
+34. Timothy J. Emery, John Tisdell, Bridget S. Green, Klaas Hartmann, Caleb Gardner, Rafael León.
+2015. An experimental analysis of assignment problems and economic rent dissipation in quota
+managed fisheries. Ocean & Coastal Management 106, 10-28. [Crossref]
+35. Virgil Henry Storr, Stefanie Haeffele-Balch, Laura E. Grube. How Entrepreneurs Promote PostDisaster Community Rebound 33-50. [Crossref]
+36. Nadine Finkbeiner, Michèle Morner. The Role of Conditional Cooperation in Organizing Change
+49-63. [Crossref]
+
+37. Archi Rastogi, Sneha Thapliyal, Gordon M. Hickey. 2014. Community Action and Tiger
+Conservation: Assessing the Role of Social Capital. Society & Natural Resources 27:12, 1271-1287.
+[Crossref]
+38. Fekadu Beyene. 2014. Institutional arrangements in mutually beneficial grazing systems: an example
+from herding communities in Ethiopia. Journal of Land Use Science 9:4, 438-452. [Crossref]
+39. Hao-Chen Huang, Tzong-Huei Lin, Mei-Chi Lai, Tzu-Ling Lin. 2014. Environmental
+consciousness and green customer behavior: An examination of motivation crowding effect.
+International Journal of Hospitality Management 40, 139-149. [Crossref]
+40. Shaila Sharmeen. 2014. The Politics of Irrigation. Journal of South Asian Development 9:1, 49-70.
+[Crossref]
+41. Suzi Kerr, Vicki Duscha. 2014. Going to the Source: Using an Upstream Point of Regulation for
+Energy in a National Chinese Emissions Trading System. Energy & Environment 25:3-4, 593-611.
+[Crossref]
+42. Debnarayan Sarkar, Jhumur Sengupta. 2014. Structural versus nonstructural form of social capital:
+impact of ethnicity along caste and religious dimensions in Indian context. Asian Ethnicity 15:1,
+78-110. [Crossref]
+43. Caroline Barratt, Edward H. Allison. 2014. Vulnerable people, vulnerable resources? Exploring the
+relationship between people's vulnerability and the sustainability of community-managed natural
+resources. Development Studies Research 1:1, 16-27. [Crossref]
+44. Suzi Kerr, Vicki Duscha. 2014. Going to the Source: Using an Upstream Point of Regulation for
+Energy in a National Chinese Emissions Trading System. SSRN Electronic Journal . [Crossref]
+45. Timothy N. Cason, Lata Gangadharan. 2013. Empowering neighbors versus imposing regulations:
+An experimental analysis of pollution reduction schemes. Journal of Environmental Economics and
+Management 65:3, 469-484. [Crossref]
+46. Helen Suich. 2013. The effectiveness of economic incentives for sustaining community based natural
+resource management. Land Use Policy 31, 441-449. [Crossref]
+47. Fekadu Beyene. 2013. Multiple tournaments and sustained defection: Why do negotiations fail to
+secure resource access between pastoral and agropastoral groups in Ethiopia?. The Journal of SocioEconomics 42, 79-87. [Crossref]
+48. Pilar Useche. 2013. Collective Action in Common Pool Resource Management, Including
+Heterogeneity of Opportunities and Exit Options. Natural Resources 04:08, 483-489. [Crossref]
+49. H.M. Tuihedur Rahman, Gordon M. Hickey, Swapan Kumar Sarker. 2012. A framework for
+evaluating collective action and informal institutional dynamics under a resource management policy
+of decentralization. Ecological Economics 83, 32-41. [Crossref]
+50. SUZI KERR, ADAM MILLARD-BALL. 2012. COOPERATION TO REDUCE DEVELOPING
+COUNTRY EMISSIONS. Climate Change Economics 03:04, 1250023. [Crossref]
+51. Hebin Lin, Kazuhiro Ueta. 2012. Lake watershed management: Services, monitoring, funding and
+governance. Lakes & Reservoirs: Science, Policy and Management for Sustainable Use 17:3, 207-223.
+[Crossref]
+52. Manuel Pacheco Coelho, José António Filipe, Manuel Alberto M. Ferreira. 2012. Ethics and Natural
+Resources Management. International Journal of Organizational and Collective Intelligence 3:3, 56-71.
+[Crossref]
+53. Peter Maille, Alan R. Collins. 2012. An index approach to performance-based payments for water
+quality. Journal of Environmental Management 99, 27-35. [Crossref]
+54. Jhumur Sengupta, Debnarayan Sarkar. 2012. Caste and religious diversity on formation of social
+capital. Equality, Diversity and Inclusion: An International Journal 31:2, 158-175. [Crossref]
+
+55. Jérôme Ballet, Jean-Luc Dubois, François-Régis Mahieu. 2012. La soutenabilité sociale du
+développement durable : de l'omission à l'émergence. Mondes en développement n°156:4, 89-110.
+[Crossref]
+56. Suzi Kerr, Adam Millard-Ball. 2012. Cooperation to Reduce Developing Country Emissions. SSRN
+Electronic Journal . [Crossref]
+57. JASON SCULLION, CRAIG W. THOMAS, KRISTINA A. VOGT, OCTAVIO PÉREZMAQUEO, MILES G. LOGSDON. 2011. Evaluating the environmental impact of payments for
+ecosystem services in Coatepec (Mexico) using remote sensing and on-site interviews. Environmental
+Conservation 38:4, 426-434. [Crossref]
+58. Stelios Katsanevakis, Vanessa Stelzenmüller, Andy South, Thomas Kirk Sørensen, Peter J.S.
+Jones, Sandy Kerr, Fabio Badalamenti, Christos Anagnostou, Patricia Breen, Guillem Chust,
+Giovanni D’Anna, Mike Duijn, Tatiana Filatova, Fabio Fiorentino, Helena Hulsman, Kate Johnson,
+Aristomenis P. Karageorgis, Ingrid Kröncke, Simone Mirto, Carlo Pipitone, Susan Portelli, Wanfei
+Qiu, Henning Reiss, Dimitris Sakellariou, Maria Salomidi, Luc van Hoof, Vassiliki Vassilopoulou,
+Tomás Vega Fernández, Sandra Vöge, Anke Weber, Argyro Zenetos, Remment ter Hofstede. 2011.
+Ecosystem-based marine spatial management: Review of concepts, policies, tools, and critical issues.
+Ocean & Coastal Management 54:11, 807-820. [Crossref]
+59. Tracy Yandle, Nadya Hajj, Rafal Raciborski. 2011. The Goldilocks Solution: Exploring the
+Relationship between Trust and Participation in Resource Management within the New Zealand
+Commercial Rock Lobster Fishery. Policy Studies Journal 39:4, 631-658. [Crossref]
+60. YUKO NAKANO, KEIJIRO OTSUKA. 2011. Determinants of household contributions to collective
+irrigation management: The case of the Doho Rice Scheme in Uganda. Environment and Development
+Economics 16:5, 527-551. [Crossref]
+61. Krister Andersson, Arun Agrawal. 2011. Inequalities, institutions, and forest commons. Global
+Environmental Change 21:3, 866-875. [Crossref]
+62. Rahmi İlkılıç. 2011. Networks of common property resources. Economic Theory 47:1, 105-134.
+[Crossref]
+63. Partha Dasgupta. 2011. Une question de confiance : capital social et développement économique.
+Revue d'économie du développement Vol. 18:4, 47-96. [Crossref]
+64. Elinor Ostrom. 2010. Analyzing collective action. Agricultural Economics 41, 155-166. [Crossref]
+65. Fekadu Beyene. 2010. Interclan Cooperation in a Risky Pastoral Ecology: Some lessons from Eastern
+Ethiopia. Human Ecology 38:4, 555-565. [Crossref]
+66. Alessandro Gretter, Ilaria Goio, Geremia Gios. Beyond Commons: New Perspectives and Roles for
+Common Properties 175-189. [Crossref]
+67. Daniel H. Cole, Elinor Ostrom. 2010. The Variety of Property Systems and Rights in Natural
+Resources. SSRN Electronic Journal . [Crossref]
+68. Mauricio G. Villena, Franco Zecchetto. 2010. Subject-Specific Performance Information can Worsen
+the Tragedy of the Commons: Experimental Evidence. SSRN Electronic Journal . [Crossref]
+69. Lionel Richefort, Patrick Point. 2010. Governing a Common-Pool Resource in a Directed Network.
+SSRN Electronic Journal . [Crossref]
+70. Amy R. Poteete. 2009. Defining Political Community and Rights to Natural Resources in Botswana.
+Development and Change 40:2, 281-305. [Crossref]
+71. Diane Flaherty. 2009. Agency, History and the Impossibility Theorem: Lessons from Yugoslav SelfManagement. Science & Society 73:1, 118-130. [Crossref]
+72. Jérôme Ballet. 2008. Propriété, biens publics mondiaux, bien(s) commun(s) : Une lecture des concepts
+économiques. Développement durable et territoires :Dossier 10. . [Crossref]
+
+73. Stephan Lorenzen, Rachel P Lorenzen. 2008. Institutionalizing the Informal: Irrigation and
+government intervention in Bali. Development 51:1, 77-82. [Crossref]
+74. Jérôme Ballet, Nicolas Sirven, Mélanie Requiers-Desjardins. 2007. Social Capital and Natural
+Resource Management. The Journal of Environment & Development 16:4, 355-374. [Crossref]
+75. Nori Tarui. 2007. Inequality and outside options in common-property resource use. Journal of
+Development Economics 83:1, 214-239. [Crossref]
+76. Nicolas Kosoy, Miguel Martinez-Tuna, Roldan Muradian, Joan Martinez-Alier. 2007. Payments for
+environmental services in watersheds: Insights from a comparative study of three cases in Central
+America. Ecological Economics 61:2-3, 446-455. [Crossref]
+77. Jérôme Ballet. 2007. La gestion en commun des ressources naturelles : une perspective critique.
+Développement durable et territoires . [Crossref]
+78. Stephen C. Smith. Organizational Comparative Advantages of NGOs in Eradicating Extreme Poverty
+and Hunger: Strategy for Escape from Poverty Traps 121-147. [Crossref]
+79. Damien Sean Eldridge. 2007. Multiple Interactions and the Management of Local Commons. SSRN
+Electronic Journal . [Crossref]
+80. Jeena T. Srinivasan. 2006. The differential impact of user heterogeneity in resource management: A
+case study from India. Ecological Economics 59:4, 511-518. [Crossref]
+81. Jose Apesteguia, Frank P. Maier-Rigaud. 2006. The Role of Rivalry. Journal of Conflict Resolution
+50:5, 646-663. [Crossref]
+82. S. Kerr, K. Johnson, J. Side, M. Baine, C. Davos, J. Henley. 2006. Resolving conflicts in selecting a
+programme of fisheries science investigation. Fisheries Research 79:3, 313-324. [Crossref]
+83. Bhim Adhikari, Jon C. Lovett. 2006. Institutions and collective action: Does heterogeneity matter
+in community-based resource management?. The Journal of Development Studies 42:3, 426-445.
+[Crossref]
+84. Pranab Bardhan, Isha Ray. 2006. Methodological Approaches to the Question of the Commons.
+Economic Development and Cultural Change 54:3, 655-676. [Crossref]
+85. Isha Ray. 2006. Outcomes and Processes in Economics and Anthropology. Economic Development and
+Cultural Change 54:3, 677-694. [Crossref]
+86. David Mosse. 2006. Collective Action, Common Property, and Social Capital in South India: An
+Anthropological Commentary. Economic Development and Cultural Change 54:3, 695-724. [Crossref]
+87. Timo Goeschl, Danilo Camargo Igliori. 2006. Property Rights for Biodiversity Conservation and
+Development: Extractive Reserves in the Brazilian Amazon. Development and Change 37:2, 427-451.
+[Crossref]
+88. Masako Fujiie, Yujiro Hayami, Masao Kikuchi. 2005. The conditions of collective action for local
+commons management: the case of irrigation in the Philippines. Agricultural Economics 33:2, 179-189.
+[Crossref]
+89. Nicolas Faysse. 2005. Coping with the Tragedy of the Commons: Game Structure and Design of
+Rules. Journal of Economic Surveys 19:2, 239-261. [Crossref]
+90. Pranab Bardhan. 2005. Law and Economics in the Tropics: Some Reflections. International Review
+of Law and Economics 25:1, 65-74. [Crossref]
+91. D. J. Knowler. 2004. The economics of soil productivity: local, national and global perspectives. Land
+Degradation & Development 15:6, 543-561. [Crossref]
+92. Suzi Kerr, Susana Cardenas, Joanna Hendy. 2004. Migration and the Environment in the Galapagos:
+An Analysis of Economic and Policy Incentives Driving Migration, Potential Impacts from Migration
+Control, and Potential Policies to Reduce Migration Pressure. SSRN Electronic Journal . [Crossref]
+
+93. Timo Goeschl, Danilo Camargo Igliori. 2004. Property Rights Conservation and Development: An
+Analysis of Extractive Reserves in the Brazilian Amazon. SSRN Electronic Journal . [Crossref]
+94. Eirik Romstad. 2003. Team approaches in reducing nonpoint source pollution. Ecological Economics
+47:1, 71-78. [Crossref]
+95. Jeff Dayton-Johnson. 2003. Small-holders and Water Resources: A Review Essay on the Economics
+of Locally-managed Irrigation. Oxford Development Studies 31:3, 315-339. [Crossref]
+96. Elinor Ostrom. 2003. How Types of Goods and Property Rights Jointly Affect Collective Action.
+Journal of Theoretical Politics 15:3, 239-270. [Crossref]
+97. P. B. Anand. 2003. From conflict to co-operation: some design issues for local collective action
+institutions in cities. Journal of International Development 15:2, 231-243. [Crossref]
+98. David W. Carter. 2003. Protected areas in marine resource management: another look at the economics
+and research issues. Ocean & Coastal Management 46:5, 439-456. [Crossref]
+99. Sigmund Wagner-Tsukamoto. 2003. A Holistic Behavioural Economic Approach to Environmental
+Problems?. Journal of Interdisciplinary Economics 14:1, 61-71. [Crossref]
+100. Sunita P. Reddy. 2002. Communal Forests, Political Spaces: Territorial Competition between
+Common Property Institutions and the State in Guatemala. Space and Polity 6:3, 271-287. [Crossref]
+101. Daniel H. Cole. Pollution and Property 14, . [Crossref]
+102. Jongwook Kim, Joseph T. Mahoney. 2002. Resource-based and property rights perspectives on
+value creation: the case of oil field unitization. Managerial and Decision Economics 23:4-5, 225-245.
+[Crossref]
+103. Isha Ray, Jeffrey Williams. 2002. Locational asymmetry and the potential for cooperation on a canal.
+Journal of Development Economics 67:1, 129-155. [Crossref]
+104. Paul Seabright. Local Common Property Rights 1249-1252. [Crossref]
+105. Alain De Janvry, Elisabeth Sadoulet, Rinku Murgai. Chapter 31 Rural development and rural policy
+1593-1658. [Crossref]
+106. Lubna Hasan. 2002. Revisiting Commons - Are Common Property Regimes Irrational?. SSRN
+Electronic Journal . [Crossref]
+107. Nancy McCarthy, Elisabeth Sadoulet, Alain de Janvry. 2001. Common Pool Resource Appropriation
+under Costly Cooperation. Journal of Environmental Economics and Management 42:3, 297-309.
+[Crossref]
+108. James M. Buchanan, Yong J. Yoon. 2001. Majoritarian Management of the Commons. Economic
+Inquiry 39:3, 396-405. [Crossref]
+109. Lubna Hasan. 2001. Analysing Institutional Set-up of Forest Management in Pakistan. SSRN
+Electronic Journal . [Crossref]
+110. Kevin Crean. 2000. Contrasting Approaches to the Management of Common Property Resources:
+An institutional analysis of fisheries development strategies in Shetland and the Solomon Islands.
+Australian Geographer 31:3, 367-382. [Crossref]
+111. Jeff Dayton-Johnson. 2000. Determinants of collective action on the local commons: a model with
+evidence from Mexico. Journal of Development Economics 62:1, 181-208. [Crossref]
+112. Climis A. Davos. 1999. Sustainable cooperation as the challenge for a new coastal management
+paradigm. Journal of Coastal Conservation 5:2, 171-180. [Crossref]
+113. A. Asher. 1998. Effective and Ethical Institutional Investment. British Actuarial Journal 4:5, 969-1027.
+[Crossref]
+114. Jan Horst Keppler. 1998. Externalities, Fixed Costs and Information. Kyklos 51:4, 547-563. [Crossref]
+
+115. GOPAL K. KADEKODI. 1998. Common Pool Resources: An Institutional Movement from Open
+Access to Common Property Resources. Energy Sources 20:4-5, 317-332. [Crossref]
+116. W.E. Grant, Paul B. Thompson. 1997. Integrated ecological models: simulation of socio-cultural
+constraints on ecological dynamics. Ecological Modelling 100:1-3, 43-59. [Crossref]
+117. Mokammel Hossain, Ana Doris Capistrano, Mahfuzuddin Ahmed. Poverty Alleviation,
+Empowerment, and Sustainable Resource Use . [Crossref]
+118. Nadia Cuffaro. 1997. Population growth and agriculture in poor countries: A review of theoretical
+issues and empirical evidence. World Development 25:7, 1151-1163. [Crossref]
+119. JAMES BARNEY MARSH. 1997. NORTH PACIFIC FISHERIES ENVIRONMENT:
+INTERNATIONAL ISSUES. Contemporary Economic Policy 15:2, 44-51. [Crossref]
+120. Paul Seabright. Transferability of Collective Property Rights: Does Trade Destroy Trust? 94-115.
+[Crossref]
+121. Omotunde E. G. Johnson. 1997. Cooperation, Emergence of the Economic Agency Role of
+Government, and Governance. IMF Working Papers 97:150, 1. [Crossref]
+122. Michael J. Keane. 1996. Sustaining quality in tourism destinations: an economic model with an
+application. Applied Economics 28:12, 1545-1553. [Crossref]
+123. Partha Dasgupta. 1996. The economics of the environment. Environment and Development Economics
+1:4, 387-428. [Crossref]
+124. Robin Mearns. 1996. Community, collective action and common grazing: The case of post‐socialist
+Mongolia. Journal of Development Studies 32:3, 297-339. [Crossref]
+125. Partha Dasgupta, Karl-Göran Mäler. Chapter 39 Poverty, institutions, and the environmental
+resource-base 2371-2463. [Crossref]
+126. Joshua Lyle Wiener, Tabitha A. Doescher. 1994. Cooperation and Expectations of Cooperation.
+Journal of Public Policy & Marketing 13:2, 259-270. [Crossref]
+127. Jean‐Philippe Platteau. 1994. Behind the market stage where real societies exist ‐ part II: The role
+of moral norms. Journal of Development Studies 30:4, 753-817. [Crossref]
+
+

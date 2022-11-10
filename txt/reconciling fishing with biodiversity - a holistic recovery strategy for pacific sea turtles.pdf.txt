@@ -1,0 +1,1701 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/266333814
+
+3/29/06 DRAFT Reconciling Fishing with Biodiversity: A Holistic Recovery
+Strategy for Paciﬁc Sea Turtles
+Article
+CITATIONS
+
+READS
+
+2
+
+45
+
+6 authors, including:
+Dale Squires
+Southwest Fisheries Science Center
+193 PUBLICATIONS 6,722 CITATIONS
+SEE PROFILE
+
+All content following this page was uploaded by Dale Squires on 01 July 2015.
+
+The user has requested enhancement of the downloaded file.
+
+3/29/06
+
+DRAFT
+Reconciling Fishing with Biodiversity:
+A Holistic Recovery Strategy for Pacific Sea Turtles
+by
+
+Peter H. Dutton
+NOAA Fisheries
+La Jolla, California, USA
+Dale Squires
+NOAA Fisheries
+La Jolla, California, USA
+
+1. Introduction
+No single conservation approach by itself has worked to recover endangered Pacific sea
+turtles. Populations still continue to decline. A variety of factors have contributed to this
+continued decline. If policy addresses only some of these multifaceted factors, and fails
+to take a holistic approach by tackling all sources of mortality, population recovery is
+likely to be delayed at best or even reversed.
+Lack of information has made it difficult to evaluate management options in a rigorous
+scientific manner, and this has led to controversy over the best approach to take in order
+to recover depleted populations of sea turtles. Given this uncertainty, there is a need to
+integrate a broad suite of approaches into a holistic strategy that in the short run will
+prevent extinction of populations that are clearly in crisis, and in the long run, lead to
+recovery.
+Three broad components need to be brought together into this holistic recovery strategy.
+First, the recovery strategy must address the entire life cycle, migration range and
+habitat, and users and sources of anthropogenic mortality in the Pacific Commons.
+Second, multilateral and cooperative conservation efforts among nations and other
+parties are required. Third, a comprehensive conservation framework is necessary that
+is a mixture of biological, economic, political, and legal conservation measures.
+This chapter addresses the requirements of an integrated, multilateral recovery strategy
+that addresses multiple sources of sea turtle mortality at different life stages in the face
+of continued fishing by large-scale, small-scale, and artisanal fleets, and explores a
+variety of policy tools that can be used. We consider the myriad sources of mortality at
+different life-cycle stages and evaluate the approaches that can address these different
+sources. We discuss the roles played by harvesters and consumers of sea food, and the
+provision of economic incentives where practicable to bring about recovery rather than
+through direct fiat or laws. Positive economic incentives help contribute toward a selfenforcing, cooperative recovery strategy.
+This chapter is organized as follows. The next section, Section 2, discusses the different
+issues involved, including sources of mortality, migration and jurisdiction, distribution of
+costs and benefits and incentives for conservation, fisheries-related conservation, and
+opportunities for a more holistic approach to recovery, and then examines the Kemp’s
+ridley as a case study in bilateral conservation. Section 3 examines in greater detail the
+different sources of mortality for Pacific leatherbacks, olive ridleys, loggerheads, and
+East Pacific green turtles. Section 4 examines economic incentives important for the
+holistic approach to the recovery of Pacific sea turtles. Section 5 discusses at-sea
+conservation measures, including performance and technology standards, as one
+component of the holistic recovery strategy. Section 6 discusses mitigation measures
+that can be coupled with performance and technology standards as an additional
+conservation component of the holistic approach to population recovery. Section 7
+evaluates taxes or fees levied on producers and consumers as an economic measure
+for conservation. Section 8 discusses the role of a Pacific conservation fund for sea
+turtles. Section 9 returns to production standards to examine this important conservation
+measure in greater detail. Section 10 discusses marketable turtle mortality limits as a
+transferable property right or wildlife use right. Section 11 examines trade restrictions as
+a policy “stick” to help enforce conservation measures. Section 12 looks at eco-labeling
+
+1
+
+and environmental product certification as a policy “carrot” to create positive economic
+incentives for conservation. Section 13 raises the issue of direct and indirect
+conservation measures, including direct payments to local communities for conservation
+concessions. Section 14 discusses side payments that have both distributive and
+strategic functions as a means of transferring some of the benefits gained from
+population recovery to those who bear the costs associated with population recovery,
+where benefits are often diffuse across populations in higher-income countries and costs
+are often localized in populations of lower-income countries. The last section, Section
+15, offers concluding remarks.
+2. Issues
+Sources of mortality
+There is a triad of primary sources of anthropogenic sea turtle mortality, those centered
+on nesting grounds, large-scale commercial fishing fleets operating wholly or in part on
+the high seas, and small-scale and artisanal fishing operating in coastal waters.
+Sea turtles and their eggs are prized worldwide for human consumption. Furthermore,
+their oils are used for lubricants and ingredients in cosmetics, and their shells for jewelry
+and eyeglass frames. Nonetheless, mass slaughter of turtles and plunder of their nests
+have been and remain a prime cause of population declines (National Research Council,
+1990). Encroachment of human populations into coastal habitats further contributes to
+population declines by degrading nesting beaches. Harvesting of sea turtles for
+subsistence or commercial purposes and incidental mortality in commercial fishing and
+other such activities further diminish sea turtle populations. There continues to be
+considerable uncertainty over the status of key stocks and the extent to which bycatch in
+various fisheries has, and continues to contribute to declines in Pacific sea turtles (FAO
+2004; Abreu-Grobois, this issue).
+In general, impacts on nesting beaches tend to threaten all the species in similar ways.
+Egg harvesting and nesting habitat destruction have been important sources of mortality
+for all species of Pacific sea turtles (NMFS & USFWS 1998a-d, see Abreu-Grobois this
+issue). Fisheries, however, tend to affect different species of sea turtles to varying
+degrees as a result of different life histories, and furthermore, different fisheries will
+affect each species in different ways. Hawksbills appear to be rarely caught in either
+pelagic fisheries (Wetherall et al 1993, McCracken 2000) or coastal fisheries (Robins
+1995, Poiner & Harris 1996, Alfaro et al., 2003). The main hazard for hawksbills in the
+marine environment has been commercial harvesting for “bekko” or tortoiseshell (Meylan
+& Donnelly 1999). Olive ridleys have also been subjected to direct commercial harvest
+for leather in the Pacific coastal waters of Mexico. This species, however, is also
+present in pelagic waters, and therefore caught in both pelagic net and longline fisheries
+and coastal net, line and trawl fisheries. Green turtles tend to inhabit coastal waters and
+embayments, so that they are more commonly caught in fisheries that operate in these
+habitats, and are not typically taken in pelagic longline fisheries. Loggerheads and
+leatherbacks are the species that pelagic net and longline fisheries most commonly
+interact with on the high seas, although both these species also occur in coastal waters.
+Later in this chapter we delve into more detail into specific threats for the species that
+are primarily affected by incidental take in pelagic and coastal fisheries. A more
+extensive review of threats is provided in chapter X by Abreu-Grobois.
+
+2
+
+Migration and jurisdiction
+Sea turtles are migratory, weaving their way in and out of Exclusive Economic Zones of
+different nations and through the high seas. Breeding habitat can lie in one nation and
+their developing and foraging habitat in another nation’s waters or in the high seas
+where this is little or no governance.1 2 This creates trans-boundary resource and
+jurisdictional problems, since there is no central authority to organize and enforce
+conservation. Property rights are absent or insufficiently well developed in Exclusive
+Economic Zones and the high seas for this Pacific common resource.3 As a result of the
+trans-boundary and migratory nature of sea turtles, conservation strategies are required
+to tackle the trans-boundary issue and avert this Pacific “Tragedy of the Commons.”
+Conservation and recovery limited to unilateral measures by individual nations are likely
+to fall short of the required conservation level, which instead requires cooperative and
+multilateral conservation, involving the efforts of multiple nations acting in tandem.
+Because there is no central authority to organize and enforce conservation, selfenforcing and voluntary arrangements are required.
+Distribution of costs and benefits: incentives for conservation
+The benefits of sea turtle conservation and recovery are diffuse across entire
+populations, but because costs are concentrated on particular groups, there is a
+misalignment of incentives for conservation and recovery. The benefits are largely
+enjoyed by populations in high-income, developed countries (or high-income groups in
+developing countries), but the costs are largely borne by lower-income local
+communities, many of which are marginal to their societies. A potential “free rider”
+problem arises in such instances, in that there are incentives to “free ride” on the
+conservation and recovery efforts for this Pacific common resource, including money
+paid by others. (A free rider is a party or person who receives the benefit of a good or
+service but avoids paying for it. This includes nonparticipation in international
+environmental agreements but nonetheless enjoyment of the benefits.) That is, there are
+few incentives to pay one’s fair share. These “free rider” problems can be overcome by
+collective action, increasing participation in cooperative, multilateral conservation, and by
+actual compensation from the gainers to the losers or those bearing the costs in the form
+of side payments for the conservation measures.
+Fisheries-related conservation
+1
+
+This creates a transboundary resource externality, where the outcome that any one country can
+realize depends not only on its own actions, but also on what others do. Thus, there is
+interdependence among nations.
+2
+
+Habitat, as defined by the Memorandum of Understand for the Conservation and Management
+of Sea Turtles and their Habitats of the Indian Ocean and South-East Asia, “…means all those
+aquatic and terrestrial environments which marine turtles use at any stage of their life cycle.”
+3
+
+A common resource, often called open-access resources by the property rights school of
+thought, are rival (depletable) but not excludable (one individual or group exploiting the resource
+cannot exclude another from exploitation).
+
+3
+
+In some instances, fisheries management has attempted to conserve Pacific sea turtles.
+One solution has been to simply shut down commercial, large-scale fisheries, many of
+which fish wholly or partly on the high seas. But with trans-boundary turtles migrating
+across exclusive economic zones and through the high seas, fish formerly caught in the
+fishery are likely to be caught by other nations and imported back into the nation with the
+closed fishery – creating what is called production and trade leakages -- and little or no
+net conservation gain is likely for sea turtles. Vessels might also reflag or shift their
+operations to other fisheries that remain open, also a form of production leakage, and
+export their fish or shrimp to the now open market – a trade leakage. Shutting down all
+or most longline and gillnet fisheries in the Pacific plugs these production and trade
+leakages, but this may not come to pass or could require considerable time – time which
+vulnerable sea turtle populations simply do not have.4 5 In this instance, fishing and sea
+turtle mortality will continue, which then begs the question of the best conservation and
+recovery approach to take in a world of continued fishing.
+In this scenario of continued fishing, the bycatch and mortality of sea turtles in
+commercial, large-scale fisheries would be reduced as much as possible by adopting
+appropriate fishing practices and gear technology standards. Nonetheless, even reduced
+mortality from commercial, large-scale fishing may be insufficient to induce the recovery
+of sea turtle populations, since there are other important sources of mortality. The
+reduction of sea turtle populations to critically low numbers aggravates and compounds
+the problem of reducing sea turtle mortality from fishing alone. Instead, a broader-based
+and integrated recovery approach is required that tackles all of the sources of sea turtle
+mortality and at critical stages in the life cycle and which recognizes the entire suite of
+existing biological, ecological, political, legal, economic, and social factors that need to
+be faced. The several decades required to reach sexual maturity compounds the
+difficulty faced.
+One important fisheries source of sea turtle mortality remains, the artisanal and smallscale commercial longline and gillnet fisheries of the Pacific. Many of these fisheries
+operate off of nesting grounds, foraging areas, or in the migration paths of sea turtles.
+The extent of sea turtle mortality from these fisheries remains unknown, but the critical
+role of these fisheries and complexity of this issue are becoming increasingly evident.
+Reduced mortality of sea turtles in these fisheries will have to be directly addressed for
+the holistic approach to become comprehensive and populations to recover. Reducing
+mortality in these fisheries is likely to prove more complex than in large-scale fisheries or
+4
+
+For example, the Inter-American Tropical Tuna Commission (IATTC) vessel data base indicates
+1,156 IATTC-authorized longline vessels in the Eastern Pacific Ocean from 12 nations as follows:
+23 from USA, 140 from Taiwan, 1 from Peru, 53 from Panama, 9 from Mexico, 177 from Korea,
+516 from Japan, 14 from France, 125 from Spain, 20 from Ecuador, 1 from Costa Rica, and 77
+from China. In addition, there are longline vessels fishing in the Eastern Pacific Ocean from
+nations that are not members of the IATTC.
+5
+
+The Pacific high seas drift gillnet fishery was shut down by the United Nations in the 1980s.
+However, only a handful of nations were involved and it is questionable whether the extensive
+longline fleets of the entire Pacific can all be effectively shut down. A more likely scenario is
+termination of some fleets and continued, and perhaps even expanded, longlining by the
+remaining fleets, which leads to production and trade leakages and continued sea turtle mortality.
+Moreover, there still remains the source of sea turtle mortality from shrimp trawling.
+
+4
+
+nesting site protection for a number of reasons, including participants, which are often
+among the most disenfranchised in their societies, are geographically dispersed, large in
+numbers. These countries are lower-income and developing, and financial resources are
+simply unavailable or limited to address this important source of sea turtle mortality.
+Opportunities for a more holistic approach to recovery
+In contrast to conservation challenges of many marine mammals, such as dolphins or
+whales, sea turtles offer a unique opportunity to increase population levels through a
+broad-based recovery strategy that includes directly addressing mortality on nesting
+grounds. Thus rather than a defensive strategy simply focusing on reducing at-sea
+mortality from commercial fishery interactions, a recovery strategy can become
+proactive. It can widen its approach to include measures that directly increase the
+population and address all sources of mortality throughout all stages of the life cycle in a
+holistic recovery strategy.
+A unique life history makes sea turtle populations vulnerable to several sources of
+mortality at critical stages in their life, which is aggravated by the several decades
+required to reach sexual maturity for many species. Yet, this unique life history also
+creates opportunities for conservation that simply do not exist for other marine species,
+such as whales and dolphins.
+Saving the Kemp’s Ridley: a bilateral case study
+One example of a more comprehensive approach occurred in the Atlantic with the
+Kemp’s ridley, once the most endangered sea turtle on the planet, that now appears to
+be on the road to recovery. The Kemp’s ridley is unique, in that almost all the critical life
+history stages occur within the territories of two countries, Mexico and USA, and so the
+transboundary issues could be addressed under a bi-lateral framework. Nevertheless,
+there are important lessons from this case, since recovery only began to occur once a
+broad suite of measures were put in place.
+There has been a bilateral, joint program between the governments of Mexico and the
+United States for the Kemp’s ridley. Mexico initiated conservation efforts in 1966 at
+Rancho Nuevo, Tamaulipas, the species’ only nesting area; however, the population
+continued to decline for the next two decades6 The bilateral program was established in
+6
+
+Based on an amateur film by Andrés Herrera in 1947, Hildebrand (1963) and Carr (1963) guessed that
+40,000 turtles nested at Rancho Nuevo (Márquez, 1999). No data were available until 1965, at which point
+the biggest arribada numbered less than 5,000 turtles. In 1973, the largest arribada contained only 200
+individuals. Despite beach protection, this number continued to drop for the next 20 years, by which time
+total nestings for the season were only numbered in the hundredsSurveys conducted between 1978 and
+1988 indicated an average of about 800 nests per year, declining at about 14 nests per year, to an all time
+low in the late 1980s (Marquez et al., 1999). The total number of nesting females may have been as low as
+350 on beaches where tens of thousands of Kemp'
+s ridley used to nest
+This initial failure to respond to protection indicates that recruitment was jeopardized by prolonged near-total
+harvest of eggs and shrimp trawling in the Gulf of Mexico, the primary juvenile and sub-adult habitat and the
+only habitat of adults (Pritchard). In 1990, the mortality from shrimp trawling was estimated to lie between
+500 and 5,000. Collectively, other trawl fisheries, passive gear fisheries, and entanglement fisheries were
+estimated in 1990 to yield between 50-500 deaths a year. Deaths due to dredging and collisions with boats
+were estimated in 1990 to lead to a further 5-50 deaths every year. Additional sources of anthropogenic
+
+5
+
+1978, and by the late-1980s the decline stabilized, and since then this species appears
+to be on the road to recovery. It now appears that this early intervention pioneered by
+scientists at the Instituto Nacional de Investigaciones Biologicos Pesqueras was
+important in preventing the imminent extinction of the Kemp’s ridely; however, the recent
+signs of recovery are generally acknowledged to be the result of the expanded bilateral
+effort that provided additional resources and a forum to craft and implement a broader
+recovery strategy. This bilateral program has involved both formal and informal
+collaboration between government agencies, including the Instituto Nacional de la
+Pesca (INP), U.S. Fish & Wildlife Service (USFWS), the U.S. National Marine Fisheries
+Service (NMFS), and the U.S. National Park Service, and private institutions, which
+include the Gladys Porter Zoo and HEART (Help Endangered Animals Ridley Turtle).
+Bilateral conservation programs have focused on the nesting process and have included
+beach and nest protection, establishment of additional nesting areas to extend the range
+and reduce risks, headstarting programs, and implementation of measures to reduce
+fishing mortality7. Much of this collaborative work has been done under a formal bilateral
+Cooperative Agreement between the NMFS and INP, known as MEXUS-Golfo.
+The Kemp’s ridley program is a success story that has served as a model for sea turtle
+conservation, providing the framework for a similar approach currently underway with the
+Pacific leatherback under the MEXUS-Pacifico Cooperative Agreement between NMFS
+and INP. However, unlike the Kemp’s ridley, the leatherback is pelagic and highly
+migratory, and its nesting and foraging habitat encompass the entire ocean basin.8
+Clearly, the bilateral approach that appears to have been successful for Kemp’s ridley is
+inadequate to address recovery in the case of the severely depleted nesting population
+in Pacific Mexico.
+While mortality of eggs and adult female leatherbacks has been reduced as a result of
+bi-lateral (US-Mexico) conservation efforts since 1995, the population continues to
+decline. Although progress has been made on protection of nesting populations, current
+efforts in the Pacific are limited by insufficient financial resources and competing
+economic interests from land development. In Mexico, a dedicated group of people from
+private and governmental institutions have undertaken an effort to protect nesting
+leatherbacks and their eggs. However this work is logistically challenging, and there is
+insufficient money to implement a completely effective program, so at best 45-50% of
+the nests are afforded protection each year. In addition, critical nesting habitat is being
+encroached by land development; for instance in Costa Rica, one of the most important
+nesting areas comprises 3 beaches in Guanacaste. A national Park was established
+mortality were estimated in 1990 to come from oil-rig removal, intentional harvests, entrainment by electric
+power plants, ingestion of plastics and debris, and from accumulation of toxic substances, especially from
+ingested petroleum residues. Mortality also occurs from human and non-human predation of eggs in nests,
+predation of hatchlings and juveniles by crabs, birds, fish, and mammals. The nesting population reached a
+low in the mid-1980s and in the last few years has begun to modestly and steadily increase (Marquez et al
+2001)
+7
+
+Turtle Excluder Devices were implemented in Gulf of Mexico to eliminate sea turtle mortality in shrimp
+trawls.
+8
+
+Recent studies using satellite telemetry and molecular genetics have shown that leatherbacks migrate from
+their nesting beaches in Papua, Indonesia to foraging areas found across the North Pacific as far as waters
+off US West coast. In the eastern Pacific adult females migrate from nesting beaches in Mexico and Costa
+Rica to the southeast Pacific to forage off the coast of Peru and Chile.
+
+6
+
+(Las Baulas) recently to protect most of this nesting area, however, the land (high dune
+area inland) adjoining the nesting beaches is not protected, and the habitat has been
+encroached by development of luxury homes. The Costa Rican government is
+interested in embarking on an ambitious program to purchase land, however does not
+have the funds available to implement this immediately. With the eastern Pacific
+leatherback at such critically low numbers, it is unlikely that the present level of beach
+protection will be sufficient to reverse the population decline.
+3. Different Sources of Pacific Sea Turtle Mortality
+Sea turtles are subject to mortality at every stage in their life cycle from both natural and
+anthropogenic sources. The relative impact of these sources of mortality may be
+different for each species, and in many cases is unknown. Mortality sources include
+directed take of adult turtles and harvest of their eggs on nesting beaches; directed take
+of juveniles and adults on their foraging areas; indirect take as a result of fishing activity,
+land development, human encroachment and pollution; “natural take” from predation,
+disease, and environmental pertubation (storms, floods, etc); and finally largely unknown
+effects from long-term global climactic and environmental change that may include longterm natural cycles (Southern Oscillation; global warming).
+Sea turtles have existed for 30-100 million years, and have evolved to withstand high
+mortality of eggs and hatchlings. They are long-lived and have high reproductive output,
+producing tremendous quantities of eggs over their lifetimes. In general therefore, sea
+turtles populations can, in theory, withstand a high level of take of eggs, as long as
+survival of later stages remains high (e.g. later juvenile through adult). However, the
+wholesale harvest of eggs that occurred when this practice became commercialized this
+century has rendered populations vulnerable to the other impacts in the marine
+environment, and most likely set the stage for the rapid catastrophic declines that we are
+now seeing in some populations.
+3.1 Pacific Leatherbacks
+This catastrophic population decline has been well documented in the Malaysian
+leatherback population that nested in Terenganu, once one of the largest rookeries in
+the Pacific, that now is all but extinct (Chan & Liew 1996). For almost 50 years every
+egg laid at this beach was harvested, and in the late 1970’s there was a sudden decline
+in numbers of nesters from several thousands, to just two or three nesting annually since
+the 1990’s. There were attempts to reverse this decline by protection measures (harvest
+quotas, beach hatcheries), but these appear to have been too little, too late. In addition,
+habitat degradation on the nesting beaches now appears to have contributed to the
+inability of these measures to be effective at increasing hatchling production. The extent
+that impacts at sea contributed to the Malaysian population collapse is unknown, but
+clearly the demographic erosion caused by the total harvest of eggs over at least one
+leatherback generation (9-20+ years), would have meant that any take of adults had a
+relatively larger impact, than had there been a large pool of younger generations to
+sustain this population.
+This may be a pattern that is repeating itself to some extent for leatherbacks in the
+eastern Pacific, although this is not as well documented. The nesting populations in
+Mexico and Costa Rica have recently collapsed, most likely as a result of convergence
+
+7
+
+of several factors; mortality caused by the high seas driftnet fisheries of the 1980’s,
+coastal artisanal gillnet fisheries in South America into the 1990’s, and a long history of
+intensive egg harvest beginning in the 1970’s, killing of females on nesting beaches, and
+possibly environmental factors that we have yet to understand. It is possible that by the
+time high-seas driftnetting was banned in the 1980’s, the damage had been done to the
+breeding population, as harvest of eggs continued unabated until relatively recently
+(1990’s-see Dutton et al. 2002). Take of eggs has been significantly reduced now in
+Costa Rica and Mexico, but with the breeding population reduced to such critically low
+numbers, the take of any leatherbacks from this breeding stock will have a relatively
+large negative impact on recovery than for populations with a healthy pool of younger
+generations on their way to maturity. There is great controversy and uncertainty over
+the extent of impacts of longlining on leatherbacks. Although historically gillnetting and
+drift netting may have been more destructive to turtles than longlining9, (turtles have a
+high probability of drowning in nets, and may have a better chance of survival if
+entangled or caught on longlines), the cumulative effect of low levels of mortality most
+likely now plays a relatively greater role in preventing the recovery of these species,
+(despite reduced mortality on the nesting beaches), since there are now so few turtles.
+In addition to the indirect take of leatherbacks in high seas fisheries, illegal take of
+leatherbacks continues in the subsistence fisheries in Peru (Alfaro et al., In Press).
+Perhaps the largest leatherback population that remains in the Pacific comprises
+rookeries that occur in Papua and Papua New Guinea in the western Pacific. While
+there is uncertainty over historic status of this population, data from recent surveys do
+not indicate that the Papua population has collapsed in the way that the Malaysian and
+eastern Pacific populations have (Hitipeuw, 2003). Also, there is not a history of whole
+scale commercial harvest of eggs. There is however, directed take of reproductive
+adults on foraging grounds around Indonesia (Suarez and Starbird 1996, Hitipeuw, pers
+comm.), feral pig predation, beach erosion and human subsistence harvest of eggs in
+Papua and PNG. In addition, evidence suggests that leatherbacks from these western
+Pacific stocks migrate to foraging and developmental areas across the North Pacific and
+off the west coast of North America (Dutton et al.), and it is these turtles that are caught
+incidentally in high seas longline fisheries and coastal driftnet fisheries. It appears that
+these last remaining western Pacific populations have so far been better able to
+withstand the impacts at sea than the Malaysian, and eastern Pacific populations,
+perhaps because the absence of intense historic egg harvest in Papua has allowed
+somewhat of a demographic buffer. Given the broad suite of mortality factors affecting
+this population, long-term decline of these populations may be inevitable; however, the
+fact that there still relatively large numbers of turtles nesting means there is better
+opportunity for population recovery through enactment of a broad suite of conservation
+measures, and in particular for aggressive beach conservation measures to be effective
+(as opposed to the case of Terenganu, where it was too late).
+3.2 Olive Ridleys
+The eastern Pacific Olive ridley “arribada” populations have increased dramatically in the
+last decade, since closure of the nearshore fishery for olive ridleys in 1990 (Marquez et
+9
+
+See NOAA-NMFS Endangered Species Act Section 7 Consultation 2002 Biological Opinion for
+more detailed synopsis of fishery and non-fishery related take and mortality of sea turtles.
+Includes estimates of take and kills for Pacific longline fisheries.
+
+8
+
+al…). Prior to that closure, large-scale commercial harvest of eggs and directed
+commercial take of juveniles and adults for leather were the primary sources of mortality
+that led to a decline in the nesting populations. The large-scale commercial harvest of
+turtles occurred exclusively in Mexican EEZ, and appears to have dwarfed other sources
+of mortality. Furthermore, this fishery appears to have targeted sub-adults, effectively
+removing animals from the population before they had had a chance to breed. The
+dramatic and rapid recovery of this population following cessation of this mortality
+probably occurred because there were sufficient hatchlings and juveniles recruiting into
+the population to allow recovery once this pressure point on a crucial life stage was
+removed. Presently illegal harvest of eggs and incidental take in pelagic longline
+fisheries, and coastal gillnet fisheries, artisenal fisheries throughout central and South
+America, and trawl fisheries are primary sources of mortality. There is a legal harvest of
+eggs in Costa Rica at Playa Ostional carried out by the local community that has been
+acclaimed as a rare example of rational use. The harvest is carefully controlled by
+stakeholders, and takes advantage of millions of eggs that are laid during the fisrt
+“arribada” or mass nesting of olive ridleys each year. These eggs would all be destroyed
+by seasonally poor beach conditions and by the second arribada, where tens of
+thousands of turtles dig up and destroy the nests from the first arribada before they have
+had a chance to hatch. Revenues from the sale of eggs in part go towards conservation
+effort to ensure success of the second arribada, the rationale being that the first arribada
+would have been destroyed.
+3.3 Loggerheads
+In the North Pacific, loggerheads nest almost exclusively in Japan, and these stocks
+have declined greatly. Sources of mortality include human encroachment and egg
+harvest on nesting beaches; incidental take in coastal fisheries (which take larger
+juveniles and adults; incidental capture in high seas fisheries all across the North Pacific
+(longline, drift/gillnet), and massive mortality due to incidental and directed take in
+artisanal and small-scale commercial fisheries operating in areas where juvenile feeding
+aggregations occur off Baja California, Mexico10. In the Southern hemisphere, the
+primary nesting beaches occur on the Southern Great Barrier Reef, Australia, and this
+stock has declined greatly over the last 30 years (Chaloupka and Limpus 2001).
+Sources of mortality include drowning in Australian otter trawl fisheries, feral fox
+predation of eggs in the 1960’s and 1970’s, and incidental capture in longline fisheries
+operating in the South Pacific including in the southeast Pacific (Alfaro et al., in press;
+also see Chaloupka 2003).
+3.4 East Pacific green turtles
+Eastern Pacific populations that nest in Mexico have declined considerably, despite
+ongoing beach conservation that began in the 1970’s. Historic sources of mortality
+included harvest of eggs and directed take of breeding adults near nesting beaches,
+which have been largely reduced following legislation and conservation, although some
+level of illegal take occurs. The primary source of mortality has recently been identified
+as massive illegal take of juveniles and adults at foraging grounds around Baja California
+(Nichols et al, 2000), and it is likely that this mortality has negated conservation efforts
+on the nesting beaches and continues to prevent recovery. Since green turtles are
+10
+
+See NOAA-NMFS 2002 BiOp for details of loggerhead take and kills in Pacific.
+
+9
+
+largely coastal foragers, they are also caught incidentally in trawl and coastal artisanal
+fisheries throughout Mexico, Central and South America (see NOAA-NMFS 2002).
+4. Economic Incentives
+Adverse economic incentives threaten sea turtle populations (Conservation and
+Management Plan, MOU).
+Market-based approaches to environmental protection are premised on the idea that it is
+possible to confront private firms, individuals, and even other levels of government with
+the same kinds of incentives they face in markets for labor, capital, and raw materials –
+that is prices that force them to address all costs and benefits associated with
+consumption and production, even if not presently captured by market values. The
+rationale for market-based approaches is thus to try to put the powerful advantages of
+markets to work in service to the environment.
+An agreement on sea turtle conservation should produce for its parties a favorable
+benefit-cost ratio or else it may either never enter into law or collapse (Barrett 1998).
+Reducing sea turtle mortality in general, or even achieving a prescribed overall level of
+mortality, that is cost-effective raises the benefit-cost ratio. Performance and/or
+countries. Mitigation measures will necessarily require investments in the developing
+countries where almost all of the nesting beaches are located and where an important
+source of mortality from harvests of eggs and adults is found. As discussed above, this
+developing country technology standards will have to be negotiated for both developed
+and developing participation does not necessarily mean that the developing countries
+need to pay for all of these conservation measures. Broadening participation is not to
+redistribute costs so much as to lower the total costs and raise the total benefits of
+conservation, since the marginal mortality reduction may be higher and marginal cost of
+implementation may be lower in these countries. The Montreal Protocol capped
+emissions of ozone-depleting substances in developing countries, and these countries
+did not have to pay to stay within these limits; instead, the incremental costs of their
+compliance were paid by the developed countries. Broadening participation to
+developing countries also raises the benefits and thereby the benefit-cost ratio. The
+problems of non-compliance and free-riding would at the same time be eased, since the
+incentives to deviate in these ways would be reduced.
+
+5. At-Sea Measures: Performance and Technology Standards for Responsible Fishing
+Performance standards directly address the issue of sea turtle mortality through limiting
+the incidental take and mortality of sea turtles in different fisheries, including pelagic
+longlining or drift gillnetting and shrimp trawling, or direct takes through small-scale noncommercial and commercial activities. Dolphin Mortality Limits used in the International
+Dolphin Conservation Program or caps on emissions of greenhouse gases in the Kyoto
+Protocol are prominent international examples.
+Technology standards refer to mandatory design and equipment requirements and
+includes operating standards. An important example of technology standards aimed at
+
+10
+
+reducing the incidental take of sea turtles include turtle excluder devices (TEDs) with
+shrimp trawling.
+Unlike TEDs, there are no long-time, well-established technological fixes as yet that
+allow fishing without sea turtle mortality for the longline and gill net fisheries. However,
+recent research using circle hooks, various baiting techniques, and the substitution of
+mackerel for squid as bait show great promise in this regard (Watson et al. 2003). Up to
+now, the approaches used to mitigate sea turtle mortality in longline fisheries have
+depended primarily on time-area closures and procedures to remove hooks and line
+(using specially designed line-cutters and de-hookers) and resuscitate turtles in order to
+enhance post-release survival11.
+The Memorandum of Understanding on the Conservation and Management of Marine
+Turtles and their Habitats of the Indian Ocean and South-East Asia’s Conservation and
+Management Plan includes a provision to “Mitigate Threats and Bycatch,” by reducing
+…the incidental capture and mortality of marine turtles in the course of fishing activities
+to ensure that any incidental take is sustainable through regulation of fisheries and
+through development and implementation of measures such as turtle excluder devices
+and seasonal or spatial closure of waters.”
+In order for a technology standard aimed at lowering sea turtle takes and mortality to be
+effective there must be a transparent monitoring system, not only to verify compliance
+with the technology standards, but also to quantify the sea turtle bycatch and
+scientifically evaluate the effectiveness of the measures in reducing bycatch mortality.
+Presently, most fisheries in the Pacific do not have observer programs in place to collect
+information on sea turtle bycatch, and this lack of information in itself forms an
+impediment to sea turtle recovery. There is also often a fear on the part of fishers,
+industry and governments that reporting this information will encourage efforts to shut
+down fisheries, and this too, is an impediment to establishing transparent and effective
+monitoring. Provision of incentives to participate in standardized and verifiable
+monitoring programs would greatly enhance efforts to develop and implement effective
+measures to reduce at-sea mortality of sea turtles.
+Performance standards tend to require cooperation among nations, rather than simply
+coordination of activities (Barrett 2003, in press). The use of Dolphin Mortality Limits is
+implemented through a formal international environmental agreement, the International
+Dolphin Conservation Program. Similarly, turtle mortality limits would require real
+cooperation among nations to determine the overall turtle mortality limits and allocation
+among nations, develop a compliance system through an observer or other program,
+and other such factors.
+Technology standards, in contrast, tend to require coordination rather than the more
+demanding cooperation among nations (Barrett 2003, in press). Thus it is often the case
+that technology standards are easier to implement than performance standards. For
+example, with TEDs, a technology standard, nations do not have to actually cooperate.
+Instead nations simply adopt TEDs and coordinate their technical designs, and
+compliance is far easier to verify. International environmental agreements based on
+performance standards may thus tend to be comparatively narrow but deep and in
+11
+
+See NOAA-NMFS Observer Manual for Hawaii-based Longline Fishery; NOAA Tech Report on
+NED Experiments.
+
+11
+
+contrast, international agreements built on technology standards tend to be
+comparatively more broad but shallower and easier to involve the cooperation of
+comparatively more nations.
+6. Mitigation
+Performance standards or technology standards can be coupled with mitigation
+measures to contribute to a holistic approach to recovery of sea turtle populations that
+together limit net emissions or mortality.12 13 For example, the Kyoto Protocol provides
+allowances for “sinks” – credits for the absorption of carbon dioxide by forests, cropland
+management, and re-vegetation (Barrett 2003). These “sinks” mitigate the emission of
+greenhouse gasses through the sequestration of CO2 (sucking CO2 out of the
+atmosphere through growing trees, storage in the soils and oceans.). The Clean
+Development Mechanism for the Kyoto Protocol, which allows an Annex I country to
+mitigate its emissions by undertaking abatement within a non-Annex I country (Barrett
+2003).14 Within the domestic United States, the Endangered Species Act allows for
+mitigation to counter environmental degradation. For example, timber companies in the
+southern U.S. are allowed to purchase timber lands with sufficiently high densities of
+nesting sites for a listed woodpecker (red-cockaded woodpecker) to satisfy the
+Endangered Species Act requirements, i.e. to serve as a mitigation measure, which
+allows harvests of timber from other lands with lower densities of woodpecker nesting
+sites (Heal 2000).15 In the USA, the new policy of Wetlands Mitigation Banking (WMB)
+focuses on curtailing wetlands loss and regaining acres (Fernandez 1998). The WMB
+policy encourages protection and rehabilitation of wetlands as a precondition for
+developing other areas. In order to obtain permission to develop a different wetlands
+area, a developer is required to have credits from investment in the completed
+12
+
+Mitigation projects are sometimes called “shadow projects” in the sustainable development
+literature (Hanley, Shogren, and White 1997,Hanley and Spash 1993). These are projects or
+policies designed to augment then stock of natural capital (in this case sea turtles) to counter
+reductions in the stock of natural capital from a specified collection (portfolio) of projects or
+policies. The idea is to impose either a “weak” or “strong” sustainability constraint as a rule for
+sustainable development. In its weak form, the discounted sum of environmental costs must be
+no greater than the discounted sum of offsetting benefits over the time period in question. In the
+strong form, not only is the total natural capital stock non-declining, but the environmental costs
+are no greater than environmental benefits in each time period, a more restrictive condition. In
+addition, it recognizes some elements of “critical” natural capital such as biodiversity. The
+definition of weak sustainability corresponds to “favorable conservation status,” of the
+Memorandum of Understanding on the Conservation and Management of Marine Turtles and
+their Habitats of the Indian Ocean and South-East Asia.
+13
+
+Recent theoretical literature on the potential fo transferable development rights or biodiversity
+mitigation include Cervigni (1993), Chomitz (2003), Gra l et al. (2002), and Panayotou (1974).
+
+14
+
+For example, Barrett (2003, p. 380) observes that a US company might convert a power station
+in China from coal to natural gas, claiming credit for the associated savings in greenhouse gas
+emissions. Annex I countries face an emission ceiling and Annex II countries do not face an
+emission ceiling. (Annex I countries are the industrial countries listed in the original climate
+convention that preceded the Kyoto Protocol, the Framework Convention on Climate Change,
+which was signed by over 150 countries at the Rio Earth Summit in June 1992.)
+15
+
+See also Bean (1993), Olson, Murphy, Thornton (1993), Robert (1999), and Welch (1995).
+
+12
+
+rehabilitation of a WMB site. The developer is allowed to use these credits in exchange
+for permission to develop other wetlands. Restoration activity is required prior to further
+development.16 17 For example, a coastal wetlands (lagoon) in San Diego County was
+restored by the Port of Long Beach to mitigate a loss in wetlands that occurred when the
+port was expanded.
+Sea turtles provide a unique opportunity for mitigation programs because sea turtles
+return to nesting sites to lay eggs, thereby providing a focal point for mitigation.
+Conservation measures to protect the turtles, sites, eggs, and hatchlings can serve to
+actively increase the sea turtle population beyond that which would otherwise occur in
+the absence of such conservation policies (Dutton, Sarti, Márquez, and Squires, 2002;
+Troeng and Rankin, 2004; Balazs and Chaloupka, 2004; Dutton et al., In prep). In short,
+depending on the program design, mitigation measures, as part of a population recovery
+program addressing all sources of sea turtle mortality, can actually create a net
+increase in turtles, even after explicitly accounting for uncertainty.18
+Mitigation projects can be directly established between developing and developed
+countries.19 Both the Montreal and Kyoto Protocols established a mechanism that could
+support mitigation - emission reductions in ozone-depleting or greenhouse gasses -- in
+developing countries, through the Multilateral Fund for the Montreal Protocol and the
+Clean Development Mechanism for the Kyoto Protocol (which allows an Annex I country
+to mitigate its greenhouse gas emissions by undertaking abatement within a non-Annex I
+country) (Barrett 2003, Victor 2001, Victor, Raustiala, and Skolnikoff 1998) and the
+
+16
+
+Credits are denominated in Habitat Units (HUs) and are a measure of habitat value (Fernandez
+and Karp 1998). The number of HUs is the product of the number of species or functions per acre
+of a wetlands times the number of acres. WMB is intended to create large, high-quality habitats
+which incorporate entire ecosystems and bugger areas. Multiple investors in the WMB can pool
+their financial resources, planning and scientific expertise. The value of restored wetlands can be
+viewed as an option value. If wetlands are restored in the current time period, a developer
+preserves the option of cashing in for future development.
+17
+
+The heterogeneity of wetlands poses problems is determining mitigation values (Polasky 2002).
+Wetlands provide many different ecosystem functions. Polasky (2002, p. 1379) observes,
+“Comparing wetlands is difficult because wetlands can differ on a number of different dimensions,
+with one wetland providing more of some services and less of others. Because there are typically
+no markets for these services, and so no market prices, there is no direct way to aggregate
+across services to calculate the value of a wetland or to establish whether different wetlands are
+in any real sense equivalent.”
+18
+
+One issue with mitigation measures is the “moral hazard” problem that vessels taking sea
+turtles as incidental catches will have less reason to avoid interactions.
+
+19
+
+Care must be taken that country investing in mitigation projects in other countries is not
+investing in measures that would have been taken anyway. Not only do recipient countries have
+incentives to offer projects they would have undertaken anyway, but investing countries have
+incentives also to select these projects. (This adverse selection problem is a manifestation of the
+free-rider problem in international environmental agreements. Barrett 1998, p. 30) In addition,
+some investments in mitigation are lumpy and costs, and when combined with the relatively
+delayed age at sexual maturity for sea turtles, mean that mitigation projects require very long
+lifetimes.
+
+13
+
+Global Environment Facility, which was established to provide help for developing
+countries with climate change, threats to biodiversity and water pollution.20 21
+Schemes for mitigation focused on habitat that fill the gap can be supported by
+development, fisheries, regulatory, or environment agencies, fisheries associations of
+large-scale commercial fleets for swordfish or shrimp, foundation, environmental groups,
+international tuna commissions, and/or far-sighted governments (cf. Bishop 2003). Such
+programs can aim to improve consistency and transparency in how the impacts of
+activities imparting sea turtle mortality are assessed and in the standard of mitigation
+expected.
+Such schemes can stimulate the emergence of environmental entrepreneurs (“mitigation
+bankers”) who coordinate and implement mitigation measures (Bishop 2003). Some are
+environmental groups are emerging to fulfill this valuable function. Proponents of such
+intermediaries and mitigation bankers assert that these groups can often provide higher
+quality mitigation at lower cost, due to economies of scale and specialization. Similarly,
+regulatory agencies, fishing fleets, and governments may find it easier to oversee fewer
+contracts and interactions in general than numerous, separate mitigation projects in
+isolated nesting grounds. Mitigation measures and conservation banking may help
+generate significant funds from generators of sea turtle mortality, their governments, or
+consumers of biodiversity in general and sea turtles in particular.
+As noted elsewhere, international agreements on how to define sea turtle mortality
+targets and associated financial mechanisms may take longer to formulate and
+implement than collapsed sea turtle populations on the verge of extinction can wait for.
+However, voluntary but collective action can quickly mobilize to fill the void, starting in
+countries and those environmental or fishing organizations and regulatory, fisheries, or
+environment agencies which accept the principle of compensatory mitigation leading not
+to simply maintenance of status quo populations, but which recover populations.
+Voluntary agreements for mitigation measures, whether national or international in
+scope, would need to address a number of key requirements, such as those listed, for
+example, by Bishop (2003).22
+20
+
+The Kyoto Protocol’s Clean Development Mechanism encourages investment in economies
+where control of greenhouse gas emissions is least costly and where investments in new
+technologies today can “lock in” cleaner development paths that will persist into the future. It
+exists because emissions from developing countries are growing rapidly, so that significant effort
+to control world emissions should include controls in the developing countries. (Victor 2001, pp.
+40-41).
+21
+
+The Global Environmental Facility is an example of countries paying other countries to supply
+public goods, such as biodiversity preservation. The Global Environmental Facility was
+established in 1991 by the World Bank, the United Nations Development Programme and the
+United Nations Environment Programme. The Global Environmental Facility was relaunched at
+the 1992 Earth Summit in Rio.
+22
+
+Bishop (2003, p. 4) suggests the following key requirements any voluntary agreement would
+have to address: (1) Establish targets for biodiversity mitigation (e.g. “no net loss” of area or
+functionality); (2) Define consistent and transparent indicators for measuring debits and credits
+(ideally in terms of Total Economic Value but at a minimum in terms of ecological functionality);
+(3) Assign responsibility for assessing development impacts (determining liability) and for
+approving mitigation (possible role for existing certification agencies); (4) Ensure sustainability of
+
+14
+
+Polovina and Dutton (2003) have identified several specific mitigation projects for
+leatherback and loggerhead turtles in the Pacific that are expected to yield a net
+increase in turtles. These mitigation measures for leatherbacks include hiring villagers to
+protect nests from predation by feral pigs in West Papua (Irian Jaya) War-non Beach,
+working with villagers to reduce and/or eliminate the harpooning of adult females in
+coastal foraging grounds in West Papua (Irian Jaya), and to eliminate harvesting of
+eggs, dog predation on eggs, and moving eggs laid in areas likely to be lost to beach
+erosion in Papua New Guinea nesting beaches. These mitigation measures for
+loggerhead turtles include mortality reduction workshops with fishers and placing
+observers on local boats to insure that all the live loggerheads caught in halibut gillnets
+are returned to the ocean in Baja, Mexico and moving eggs from locations prone to
+washing out or that experience extreme temperature at two nesting beaches in Japan
+(Polovina and Dutton 2003).
+These mitigation measures are in addition to work that is already ongoing, so that
+funding them would result in an expansion of conservation that is already underway.
+Although beach protection is ongoing, this work is under-funded, and the full potential of
+many conservation initiatives remain unrealized. For instance, opportunities exist for
+expanding effort for the critically endangered populations in the eastern Pacific. There is
+a major initiative underway to purchase critical nesting habitat adjoining the recently
+created Baulas national Park in Costa Rica, however, progress has been slowed by lack
+of funds. In Mexico, the tremendous progress that has been made over the last few
+years (Dutton et al 1999) has at best achieved protection of only 50% of the total nests
+laid by leatherbacks. Other species and populations, such as the eastern Pacific green
+turtle populations and hawksbills remain critically endangered, and there are many
+opportunities to greatly expand beach conservation work so that ideally at-sea mortality
+measures will be enhanced and more effective at recovering populations, (and at least,
+so that declining populations continue to remain viable).
+A mechanism with sea turtles that is analogous to the Montreal and Kyoto Protocol
+mitigation measures would be a whereby industry, conservation, or government parties
+finance or establish turtle mitigation conservation projects that at a minimum prevent
+decline in populations or even lead to a net increase in population, after allowing for
+uncertainty in both cases.
+7. Conservation Funds
+Analogous to the Multilateral Fund, the Global Conservation Fund sponsored by the
+Moore Foundation, Clean Development Administration, or the Global Environmental
+Facility would be the establishment of an endowed conservation trust fund. Such a fund
+could be financed by contributions from large-scale commercial fishing fleets, their
+mitigation after credits have been sold (e.g. though endowment funds for on-going management,
+mandatory renewal of credits sub ject to inspection, easements and other legal restrictions on
+land use); (5) Identify potential buyers of mitigation services (e.g. development assistance
+agencies, willing governments, progressive companies); and, once their commitment is secured;
+(6) Mobilize suppliers of mitigation services (e.g. conservation NGOs, national environmental
+agencies, public and private protected areas). These requirements would necessarily have to be
+adapted for sea turtle mitigation requirements.
+
+15
+
+governments, environmental groups, foundations, and other parties interested in
+biodiversity in general and sea turtles in particular. Such a fund can finance mitigation
+measures or adoption of technology standards in developing countries.
+A Pacific fund for sea turtle conservation reflects effective demand for the indirect or
+non-consumptive use (ecotourism), non-use (existence), and option (potential future)
+values of such biodiversity, together with efficient mechanisms to convey demand from
+consumers – mainly in high-income countries, but also from high-income consumers in
+developing countries – to “producers” of sea turtle biodiversity – mainly located in
+geographically isolated local coastal communities in developing tropical countries.23
+8. Taxes or Fees Levied on Producers and Consumers
+Taxes, fees, or charges can be levied on swordfish or shrimp landings, on the basis of
+sea turtle mortality, or on consumption of swordfish or shrimp. These (Pigouvian) taxes
+or fees can be levied either unilaterally on domestic producers or consumers or
+multilaterally through the auspices of an international agreement.
+Taxes or fees levied on the swordfish or shrimp landings of producers and/or on
+consumers of these catches, when these seafood products are caught in conjunction
+with interactions with sea turtles, can potentially yield several dividends.24 The first
+dividend is reduced sea turtle mortality. The second dividend is to raise revenue to
+finance sea turtle conservation and recovery, which potentially provide, which potentially
+provide a means for producers, processors, and consumers of swordfish and shrimp.
+There is an equity argument in favor of fees in that the users of the globe’s resources –
+the producers who initially exploit the resources and environment and the consumers
+who consume the final products – should bear the costs and compensate the public for
+their use.
+8.1. Taxes or Fees, External Costs, and Market Failure
+Producers and consumers of seafood do not pay the cost of sea turtle mortality when
+there are sea turtle interactions with fishing gear. This creates adverse economic
+incentives. Instead, producers and consumers pay only the direct costs associated with
+harvests.25 26 These “external costs” of sea turtle mortality are not included in the price of
+23
+
+This discussion is drawn from Bishop (2003).
+
+24
+
+This discussion is based, in part, upon Goulder (1998), Kolstad (1999), Cropper and Oates
+(1992), Baumol and Oates (1988) and Tietenberg. In addition, shrimp and swordfish markets are
+predominately competitive and most producers, processors, and restaurants and fish stores are
+limited in size and scale of production. Thus, the (implicit) assumption of price-taking behavior
+may be reasonable.
+25
+
+These external costs include foregone benefits from the continued existence of sea turtles and
+the preservation of sea turtles for future generations, and any foregone benefits (indirect use
+values) derived from non-consumptive uses as eco-tourism.
+
+26
+
+The detrimental externality is not fully domestic, but instead is transboundary, requiring a
+multilateral and cooperative solution. Thus both consumers and fishers harvesting the population
+elsewhere are free riders to unilateral or bilateral conservation measures, and the social benefits
+
+16
+
+swordfish or shrimp; instead, only the direct production costs are incorporated into these
+prices. Because the economic value of unpriced swordfish and shrimp resources and
+external costs of sea turtle mortality are excluded from seafood prices, the incomplete
+market prices for seafood contribute to consumer demand for seafood that exceeds the
+socially optimal amount that would occur if all costs were incorporated. A market price
+lower than the social optimum in turn contributes to fishing pressures and turtle takes
+that exceed the social optimum. Seafood consumers also do not pay their share of the
+full social costs of swordfish or shrimp consumption when there is sea turtle mortality.
+Other consumer benefits from sea turtles – such as sea turtle existence – are not
+captured by markets and there is “market failure” due to incomplete markets.
+8.2. Taxes or Fees Levied on Swordfish or Shrimp Landings or Consumption
+A tax or fee unilaterally levied on domestic producers and/or consumers of swordfish or
+shrimp would help to incorporate the otherwise unaccounted for “external” cost of sea
+turtle mortality into the market price of seafood. The proportion of the tax that is borne by
+producers and consumers is a priori indeterminate,27 but the higher cost of production
+will help lower sea turtle takes28 and the higher seafood price will reduce consumption of
+seafood to some degree as seafood markets fully price the entire cost of swordfish or
+shrimp production.
+A tax or fee unilaterally levied on domestic swordfish or shrimp producers with an aim to
+reduce sea turtle mortality does not fully accomplish its ostensible goal, since sea turtles
+are migratory and swordfish and shrimp are caught throughout the Pacific Basin. The
+domestic tax, to the extent it raises domestic producers’ harvesting costs of swordfish or
+shrimp, lowers the scale of domestic catches and hence lowers domestic sources for
+consumption which can be replaced by lower-priced imports. As a result of these
+production and trade “leakages,” the problem of sea turtle mortality is not fully
+addressed.29
+provided by this global common property resource exceed the private. This free rider problem
+among both individuals and nations leads to substantial under-investment in conservation and
+management measures, and an increase in the investment needed to augment the population of
+turtles will have to be undertaken under the auspices of cooperative multilateral agreements.
+27
+
+They depend on the elasticities of supply and demand.
+
+28
+
+A higher cost of production through the Pigouvian tax which raises the private marginal cost of
+harvest to the social cost of harvest (by the amount of the external cost) introduces both a
+substitution effect, whereby incidental takes of sea turtles are minimized to the extent practicable
+for any level of swordfish catch, and an expansion effect, where the higher cost of production
+lowers the amount of fishing effort and thus the quantity of interactions. Over a longer time period,
+there is a dynamic effect through induced innovation. When producers and consumers of
+swordfish or shrimp must now pay the full cost of production and consumption, the higher
+swordfish price and costing of sea turtles could induce technical change that lowers the take rate
+of sea turtles. This point has been raised in the context of pollution by Wenders (1975) and Magat
+(1978). Completely shutting down a fishery in effect raises the sea turtle cost to infinity and can
+lead to technical change that lowers takes of sea turtles.
+29
+
+The full economic consequences of taxing consumers or producers is unknown in this instance
+of joint production of a desirable output (swordfish or shrimp catch) and an undesirable output
+(sea turtle mortality) with and without full cooperation and participation in an international
+environmental agreement. In a somewhat analogous situation, Hoel (1994) and Bolombek,
+
+17
+
+A tax or fee levied on production of swordfish or shrimp within a multilateral agreement
+can plug production and trade leakages as well as help to incorporate the full external
+costs of swordfish and shrimp production from sea turtle mortality into the seafood price.
+The multilateral context will only plug the production and trade leakages to the extent
+that all producers are part of a collective agreement and are effectively taxed; otherwise,
+leakages will persist, albeit dampened, and swordfish or shrimp catches will not be fully
+priced – market failure will persist.
+A tax or fee can be either lump sum, such as part of an annual license fee, or if on
+production, can be levied on swordfish or shrimp landings at either the ex-vessel level or
+at some point in the processing chain. The details and ramifications remain to be worked
+out. Nonetheless, one advantage of a tax or fee related to production of swordfish and
+shrimp is that larger producers pay more tax, reflecting their generally greater probability
+of turtle interactions.30 Swordfish or shrimp are jointly harvested with sea turtles. To the
+extent that sea turtle mortality is roughly proportional to swordfish or shrimp landings,
+there is more direct control over sea turtle than initially appears. An analogous situation
+occurred with the transferable permit system that accomplished the U.S. phase-out of
+leaded gasoline. Stavins (1998, p. 487) observes, “The currency of that system was not
+lead oxide emission from motor vehicles, but the lead content of gasoline.”
+The size of the tax or fee that fully costs the otherwise unaccounted for cost of turtle
+mortality is difficult to estimate. As a consequence, any tax may over- or under-charge
+for the unaccounted for cost of sea turtle mortality. Ideally, taxes or fees that aim to
+exactly capture these unpriced costs would also have to be continuously recalculated as
+the costs of production and market conditions change, and most importantly, to ensure
+that the sea turtle mortality standard is attained.
+The problem with a tax on swordfish or shrimp is that the sea turtle mortality standard is
+not directly addressed, but only indirectly through a tax or fee on its joint (undesirable)
+product, swordfish or shrimp, a common “bad.” Hence, reliance on a tax or fee on
+swordfish or shrimp landings or consumption to reduce sea turtle mortality to its “optimal”
+level (rather than simply nudging it in the desired direction) could required a large tax
+and could substantially increase the cost of seafood production. Moreover, because sea
+turtle mortality is only indirectly addressed, swordfish or shrimp producers of this joint
+common bad do not directly face the most accurate economic incentives to adjust
+operations and absorb a socially sub-optimal cost in terms of swordfish or shrimp
+production foregone (weak disposability). In addition, the presence of inflation lowers the
+real rate of taxation (adjusted for inflation) over time, unless the process to determine the
+fee includes some on-going means of temporal adjustment.
+8.3. Tax or Fee Levied on Sea Turtle Interactions or Mortality
+Hagen, and Hoel (1995) show that when all countries participate in an agreement to reduce CO2
+emissions, taxes on the consumption and production of fossil fuels have identical economic
+consequences, provided the tax revenues are identical in the two cases, but that this is no longer
+true when there is only limited participation in the international environmental agreement.
+30
+
+Much depends not only on time spent fishing, but fishing gear and practices, which can differ
+by vessels and between larger and smaller producers.
+
+18
+
+A tax or fee can also be levied on the number of sea turtle interactions or on sea turtle
+mortality. Ideally, the tax or fee sums up to the expected mortality from the accumulation
+of sea turtle mortality of adults and sub-adults. This approach is very similar to the
+approach of transferable sea turtle mortality limits, since this system creates the same
+set of incentives. That is, the vessels that can reduce their sea turtle interactions
+inexpensively will invest in doing so because each interaction or turtle killed reduced is
+that much less paid in taxes or fees. Vessels that find it very expensive to reduce their
+sea turtle interactions will continue to interact and pay the taxes. A similar tax was levied
+on the production of chlorofluorocarbons (CFCs) during the time mandatory phase-out
+was taking place under the Montreal Protocol, creating a hybrid system under which a
+phased decline in CFC production was augmented by a pollution tax (Portney 2003).
+A limitation of a tax on sea turtle interactions to directly control sea turtle mortality is the
+uncertainty about the effect on sea turtle mortality, although it is certain that the higher
+the tax, the lower amount of sea turtle mortality.31 It is also well known that setting the
+optimum tax – in order to achieve an exact level of control – is notoriously difficult and
+that recomputing the tax as the underlying conditions change is equally difficult. An
+advantage with a tax, however, is that sources of sea turtle mortality know that they will
+never have to pay more for sea turtle mortality than the tax. In addition, imposition of a
+sea turtle interaction or mortality tax requires an observer system to monitor the
+interactions and achieve compliance. In contrast, a tax on swordfish or shrimp landings
+does not require at-sea observers, but it also has an even more indirect effect on
+reducing sea turtle mortality.
+Spatial differentiation is an important issue arising with taxes or charges. Sea turtles nest
+in different hemispheres and different countries and their migrations also vary spatially.
+In addition, sea turtle mortality varies spatially, even within a hemisphere, with some “hot
+spots” of high frequency mortality and others with lower frequency of interactions and
+mortality. Lump sum fees would have to be explicitly tailored but fees on landings might
+roughly correspond to spatial variations in sea turtle mortality. A direct tax on sea turtle
+mortality obviates the issue of spatial differences, but requires monitoring through an
+international observer program, such as with dolphins through the International Dolphin
+Conservation Program.
+8.4. Second Dividend of a Tax or Fee: Revenue to Finance Conservation and Recovery
+
+31
+
+Weitzman (1974) is the classic paper in this area. With perfect information, tradable permits
+sold at auction have the same effect as a tax. Under uncertainty, the relative efficiency of
+transferable permits and fixed tax rates depends on the relative slopes of the relevant marginal
+benefits and marginal cost functions. If uncertainty about marginal conservation costs is sizeable,
+and if marginal conservation costs are relatively flat and marginal benefits of conservation fall
+relatively quickly, then a quantity control, such as a transferable turtle mortality limit, is more
+efficient than a price control, such as a tax. When there is also uncertainty about marginal
+benefits, and marginal benefits are correlated with marginal costs, then there is an additional
+argument in favor of the relative efficiency of quantity controls (Stavins).
+
+19
+
+The second dividend of a tax or fee, particularly on landings of shrimp or swordfish, is to
+raise revenue to finance conservation and recovery measures for sea turtles.32 33 34 The
+primary benefit of a tax or fee on swordfish or shrimp production or consumption might
+be to raise revenue for conservation and only incidentally to directly lower sea turtle
+mortality through creation of Pigouvian incentives at the margin. Pacific sea turtles,
+because they are a Pacific common resource, are subject to excessive mortality from
+takes and insufficient “investment” in conservation and recovery, such as beach
+protection or adoption of technology standards that require new investment and which
+raise production costs and lower productivity. The revenues raised help to finance this
+new investment.
+Stavins (1998) observes that while taxes in the U.S. have been imposed on certain
+products that are limited to pollution, like gasoline and chemicals, this has typically been
+done as a way of raising revenue, such as with gas taxes to fund highway construction
+or chemical taxes to fund cleanup of Superfund toxic waste sites, rather than as
+incentive devices intended to reduce externalities (such as sea turtle mortality from
+fishing).
+8.5. In-Kind Taxes and Fees
+In-kind taxes or fees occur when producers or consumers directly finance and sponsor
+conservation and recovery measures. For example, direct sponsorship of a nesting site
+by a fisher or fishing groups or by a restaurant, processor, or retail chain represents an
+implicit tax that is paid in kind rather than an explicit tax where funds are collected.
+8.6. Fees versus Subsidies35
+32
+
+In a revenue-neutral framework, the tax revenues are rebated to the payers. This revenue
+recycling is not considered here. Revenues from taxes, fees, or charges are designated for sea
+turtle conservation rather than as a source of overall tax revenue.
+
+33
+
+Comparable charges are used in Europe and Japan to address water, and to a lesser extent,
+air pollution (Tietenberg, 2000). France and the Netherlands use charges designed to raise
+revenues to fund activities that improve water quality. Water discharges in Germany give
+incentives to firms to meet minimum standards of waste water treatment for a number of defined
+pollutants. Discharges meeting or exceeding standards have to pay only half the normal rate. The
+Italian effluent charge system encourages pollutees to achieve provisional effluent standards as
+quickly as possible. The charge is nine times higher for non-complying firms and is scheduled to
+expire once full compliance is achieved. The French air pollution charge encourages early
+adoption of pollution control equipment with revenues returned to those paying the charge as a
+subsidy for installing the equipment. Charges in Sweden increase the rate at which consumers
+purchase cars equipped with a catalytic converter. Cars without one are taxed and new cars with
+one are subsidized.
+34
+
+In theory, taxes intended to raise revenue in competitive markets distort resource allocation
+and create economic inefficiency through what is called a dead weight loss. However, when there
+is a pre-existing market failure and inefficiency due to an external cost (like sea turtle mortality
+from fishing), a tax or fee both raises revenue for conservation and recovery and addresses the
+market failure, thereby inducing efficiency.
+35
+
+This discussion draws from Kolstad 1999, pp. 124-128.
+
+20
+
+A direct subsidy or tax break to swordfish or shrimp producers can also lower interaction
+rates with, and mortality of, sea turtles by subsidizing adoption of a technology standard.
+Such a subsidy can be effective in adopting new technology or altering fishing practices.
+A subsidy can even be paid to producers to produce no swordfish or shrimp, i.e. to shut
+down through vessel buybacks or to switch to say longline tuna through deeper sets.
+However, a subsidy from the public sector to producers for an external cost of sea turtle
+mortality raises the issue of whether the “polluter” or the damaged party pays.36
+Another potential problem with subsidies for adoption of a technology standard is that
+they can unintentionally counter reductions in sea turtle mortality or perhaps even
+increase mortality. A subsidy lowers costs and allows producers which generate higher
+rates of sea turtle mortality to continue fishing that otherwise may have gone out of
+business.37 A subsidy also promotes or sustains fishing effort, which in turn counters
+reductions in sea turtle mortality. A subsidized performance standard does not face this
+problem found with a technology standard, but nonetheless represents an expenditure of
+real resources by the public and also confounds price signals in the market by masking
+the direct costs of fishing and the unpriced external costs of sea turtle mortality.
+The research required to develop a new technology standard is sometimes considered
+to be a public good (a good or service which can be consumed by all without depleting
+or diminishing the good or service). In these circumstances, research to develop a new
+technology, such as a technology standard that lowers turtle mortality (TEDs or circle
+hooks with mackerel-type bait), can legitimately be financed by the public sector since
+the benefits accrue to all. Without subsidies for research or finance by the public sector,
+there are often insufficient incentives for individuals to conduct this research, since the
+investors do not capture the full benefits of their investment. Public finance or subsidy of
+research for a new technology standard that reduces sea turtle mortality is also a way to
+funnel the intangible benefits the public enjoys from the existence of sea turtles, which
+otherwise do not have a means of expression.
+8.7. Tax or Fee Combined with Import Tariff
+A tax, fee, or charge on domestic producers and/or consumers can be combined with a
+tariff on imports of swordfish or shrimp – an “eco-tariff.”
+8.8. General Considerations with Taxes, Fees, and Charges
+Taxes or fees have to be determined by an administrative process. When the function of
+the charge is to raise revenues for conservation and recovery, charge rates may be
+determined by the costs of achieving that process. When the costs of achieving the
+purpose rise, the level of the charge must rise to secure the desired outcome.
+
+36
+
+Although the Coase Theorem states that either alternative leads to a social optimum in the
+absence of prohibitive transactions costs, in practice whether the creater of the externality or the
+party absorbing the externality bears the cost is important for the viability of the activity.
+37
+
+Technically, producers with higher costs of sea turtle mortality generate higher opportunity cost
+of benefits forgone measured by willingness to pay or willingness to accept.
+
+21
+
+Taxes or fees levied raised to finance conservation and recovery can be levied and
+collected by individual governments, international commissions and through international
+agreements, or by producers, processors, or final markets. Revenues can also be
+voluntarily raised by industry, environmental, or consumer groups.
+Taxes or fees work particularly well when transactions costs associated with bargaining
+and transfer of transferable turtle mortality limits are high. When transactions costs are
+high, due perhaps to widely dispersed vessels or many small vessels or infrequent need
+for trades, only large trades can absorb the high transactions costs without jeopardizing
+the gains from trade. “For this reason charges seem a more appropriate instrument
+when sources are individually small, but numerous (such as residences or automobiles).
+Charges also work well as a device for increasing the rate of adoption of new
+technologies and for raising revenue to subsidize environmentally benign projects.”
+(Tietenberg, 2000, p. 391)
+9. Performance Standards
+Performance standards directly address the issue of sea turtle mortality through limiting
+the incidental take and mortality of sea turtles in pelagic longlining or drift gillnetting and
+shrimp trawling or direct takes through small-scale non-commercial and commercial
+activities. Performance standards have serious compliance requirements through
+monitoring, verification, and enforcement, both to punish identified cases of noncompliance and to deter non-participation. A free rider problem (enjoying the benefits
+without bearing the costs through nonparticipation) can arise without effective
+compliance.
+The Inter-American Convention for the Conservation and Protection of Sea Turtles
+prohibits the intentional capture or killing of sea turtles (with exceptions of subsistence
+takes under specific conditions), a performance standard (Gibbons-Fly).38 The
+Memorandum of Understanding on the Conservation and Management of Marine Turtles
+and their Habitats of the Indian Ocean and South-East Asia’s Conservation and
+Management Plan includes a provision to “Mitigate Threats and Bycatch,” by reducing
+“…the incidental capture and mortality of marine turtles in the course of fishing activities
+to ensure that any incidental take is sustainable through regulation of fisheries and
+through development and implementation of measures such as turtle excluder devices
+(TEDs) and seasonal or spatial closure of waters.” The Conservation and Management
+Plan of this Memorandum of Understand similarly lists a program to “Reduce to the
+greatest extent practicable the incidental capture and mortality of marine turtles in the
+course of fishing activities.”39 The ultimate effectiveness of these performance standards
+ultimately depends upon the degree of compliance.
+38
+
+The Convention provides a general prohibition on the takes of sea turtles and their eggs in the
+territories the Parties and in waters under their respective jurisdictions, but allows subsistence
+take to satisfy the needs of traditional communities under certain circumstances (Gibbons-Fly).
+The Convention requires that the take be reported to the other Parties. The Convention also
+provides that countries with subsistence takes agree to take into account the relevant
+recommendations of the Consultative Committee and to ensure that such take does not
+undermine the overall objectives of the Convention.
+
+39
+
+The elements are: (a) Develop and use gear, devices and techniques to minimize incidental
+capture of marine turtles in fisheries, such as devices that effectively allow the escape of marine
+
+22
+
+Performance standards can be strengthened to form use or property rights.
+Strengthening the characteristics of property rights, most notably exclusive use, but also
+transferability, duration, and divisibility, leads to a stronger property or use right. Dolphin
+Mortality Limits are a form of use right, since they allow exclusive use for a single year
+and are not transferable. Marketable emission permits, such as those in the Kyoto
+Protocol, are a property right since they contain the stronger characteristics of exclusive
+use, transferability, divisibility into smaller or larger units, and long duration.
+10. Marketable Turtle Mortality Limits As A Transferable Property Right and Wildlife Use
+Rights
+10.1. Marketable Turtle Mortality Limits
+When there are performance standards for takes or mortality of sea turtles, introducing
+transferability with a use right for an extended duration creates a market-based
+approach to environmental protection. One approach is a “cap-and-trade” system,
+whereby each vessel is given an initial turtle mortality limit. It can elect to meet this limit
+any way it sees fit, through a technology standard, redirecting its fishing operations to
+other times and places, or any other means. Each vessel can elect to reduce its sea
+turtle interactions using the least expensive approach available to it. An additional option
+is available under the cap-and-trade system: a vessel actually increases its interactions
+with sea turtles more than it is required so long as it buys at least equivalent turtle
+mortality limits from one or more other vessels or, depending on the conservation and
+regulatory system, perhaps through financing mitigation mesaures (discussed below). All
+that matters is that the total amount of sea turtle mortality reductions that take place from
+all sources are equal to the total turtle mortality limit established at whatever level is
+required for recovery of each affected species’ population. Those vessels that will elect
+to make significant sea turtle mortality reductions under this cap-and-trade system are
+those that can do so easily or inexpensively, while those that elect to buy transferable
+sea turtle mortality limits will be those that find it expensive or difficult to reduce. In
+addition, all vessels, or sources of sea turtle mortality in general, have a continuing
+incentive to reduce their sea turtle mortality, since the more a vessel’s sea turtle
+mortality falls short of its limitation, the more sea turtle mortality limits it will have to sell
+to other vessels. The overall sea turtle mortality limit and the individual holdings can also
+be progressively tightened or loosened over time, depending on the requirements for
+population recovery. The transferable sea turtle mortality limit and trading area would
+correspond to the nesting sites and migratory routes of each species.
+A cap-and-trade approach is used in the United States to control emissions of sulfur
+dioxide with the 1990 amendments to the Clean Air Act.40 More than 100 coal-fired
+turtles, and spatial and seasonal closures; (b) Develop procedures and training programmes to
+promote implementation of these measures, such as vessel monitoring systems and inspections
+at sea, in port and at landing sites, and national on-board observer programmes; (c) Exchange
+information and, upon request, provide technical assistance to other signatory States to promote
+these activities; (d) Liaise and coordinate with fisheries industries and fisheries management
+organizations to develop and implement incidental capture mitigation mechanisms in national
+waters and on the high seas.
+40
+
+Tradable emission permits are called “allowances.” This program was designed to cut acid rain
+by reducing sulfur dioxide (SO2). Allowances can be bought or sold without restriction to cover
+
+23
+
+power plants were given initial emissions reductions, and these plants could meet their
+emissions reductions targets themselves, through any means they selected, including
+purchase of excess emissions reductions by other plants that found it easy to reduce
+their sulfur dioxide. Cap-and-trade approaches have also been proposed to reduce
+water and smog pollution. The European Union will use a cap-and-trade system to
+control carbon dioxide to comply with the Kyoto Protocol.
+Transferable turtle mortality limits could conceivably be used in the year issued or
+“banked” or stored for use in any subsequent year. With banking, allowance could be
+made for expected growth in sea turtle numbers. In addition, transferable turtle mortality
+limits could be allocated gratis or auctioned off (which would give an effect similar to a
+tax); the key issue is the distribution of the rents. (Auctions do have the advantage of
+facilitating the price discovery process and the development of a market.) Transferable
+sea turtle mortality limits may work best when there are wide divergences in producers’
+costs and costs of transactions, monitoring, and enforcement are not excessive.
+Transferable sea turtle mortality limits might also provide economic incentives for
+induced process innovations, such as bundling of limits with swordfish or shrimp
+supplies or the invention of new or modified technology standards, such as TEDs or
+circle hooks, in exchange for generated limits. The flexibility of a transferable limit also
+accommodates dynamic market changes, allowing shifts in industry structure and
+production methods while assuring that total mortality does not increase. In short, the
+overall turtle mortality limit is set at a level that brings about population recovery and
+private firms achieve this goal in the most efficient means of their choosing.
+Monitoring and enforcement of an international transferable turtle mortality limit system
+could well prove a formidable and costly task; one of the international tuna commissions
+would probably serve as the most likely institution for implementation . Regional or
+national programs might prove more feasible. Similar issues confront the international
+system for transferable emissions of greenhouse gasses, particularly CO2, with the
+Kyoto Protocol and for sulfur dioxide (SO2) with the Helsinki Protocol.
+10.2. Wildlife Use Rights
+International environmental agreements based on an allocation of internationally
+transferable rights to wildlife use would be analogous to the Kyoto Protocol. Wealthier
+nations, or their citizens and civic groups, could purchase rights to wildlife from poorer
+nations for the purpose of conservation or preservation (Giordano 2002). Poorer nations
+would then have the option of benefiting from the sale of non-consumptive wildlife use
+rights rather than finding themselves limited to a derivation of wildlife value through
+extractive means only. Such an approach serves the same goal as side payments in
+which developed countries directly or indirectly provide compensation or economic
+incentives to developing nations for biodiversity conservation.
+
+emissions anywhere in the continental U.S. (Schmalensee et al. 1998). Emissions everywhere in
+the U.S. do not have the same marginal damage, but continent-wide trading helps insure that the
+allowance market is not too thin, i.e. that there are sufficient number of trades to insure a wellfunctioning market and price discovery.
+
+24
+
+The notion of benefiting those in developing nations who may bear much of the burden
+of conservation from resource use foregone is an important one. Wildlife use values may
+be stripped away while the costs of wildlife conservation remain (Giordano 2002).
+Economic incentives for conservation and compensation to communities and
+subsistence users of sea turtles and their eggs is thus an important element not to be
+overlooked.
+11. Trade Restrictions
+Trade restrictions achieve two things: they can be used to punish countries that do not
+cooperate and to correct for a loss in competitiveness of the countries that do cooperate
+(Barrett 2003). A trade restriction, to be effective, needs to be sufficiently severe (so that,
+when imposed, behavior will be changed) and credible (meaning that, given that a
+country chooses not to participate, or not to comply, the cooperating countries are better
+off for imposing the restrictions) (Barrett 2003).
+Trade restrictions restructure incentives by providing positive economic incentives to
+countries that participate in, and comply with, an international environmental agreement
+or technology standard, such as with the use of turtle excluder devices or circle hooks
+and mackerel-type bait. Trade restrictions also provide negative incentives by punishing
+those countries that fail to participate in, and comply with, agreements or standards.
+Trade restrictions also plug production and trade leakages. Trade restrictions impose a
+cost on member nations of an international sea turtle agreement by foregoing the gains
+from trade, which reduces the credibility of trade restrictions.41 Trade restrictions also
+face legality issues with the World Trade Organization.
+“Eco-tariffs” on imports are a price form of a trade restriction on quantities of imports
+allowed into a country. Eco-labeling, in contrast to trade restrictions and “eco-tariffs” can
+provide a positive incentive, and when used in conjunction with a trade restriction, import
+tariff, or side payments, can provide additional and positive incentives for compliance
+and participation.
+A licensing system for imports of “turtle safe” shrimp and swordfish provides one means
+of implementing a trade restriction. A licensing system and other steps would reduce
+black market trade in shrimp and swordfish that is not “turtle safe.”
+Production and trade leakages can arise with protection for sea turtles when
+participation in an agreement is not full. Sea turtles migrate for long distances, weaving
+in and out of Exclusive Economic Zones of coastal countries and the high seas. Efforts
+at protection in one or more nations can shift harvests of swordfish or shrimp, and hence
+incidental takes of sea turtles, to harvesters of other nationalities, a production leakage.
+Attempted protection of turtles and the subsequent production leakage might well not
+change sea turtle mortality rates, since swordfish or shrimp harvests from non-protecting
+nations can replace the diminished harvests of protecting nations through the active
+global import markets, a trade leakage.
+41
+
+This is a key reason they are often ineffective. However, if the trade restriction deters relocation
+of production or emissions (production leakage), then the countries imposing the sanctions gain
+by imposing them. This then reinforces the credibility of sanctions.
+
+25
+
+Trade restrictions are implemented not with direct economic costs and diplomatic costs
+(Hogan 2003). Thus, trade restrictions, while they can form an effective and important
+policy took, can most prudently be viewed as a policy instrument that is applied only with
+the greatest deliberation, if at all.
+12. Eco-Labeling and Environmental Product Certification
+Eco-labeling or environmental product certification offer a way to provide economic
+incentives to adopt technology or even production standards – a “carrot.” At a minimum,
+they certify turtle friendly standards defined as adoption of technology standards such as
+mortality reduction measures (e.g. line cutters, de-hookers, etc.), or more strongly,
+participation in verifiable observer program (100% coverage). Such certification also
+guides consumers to make ecologically responsible decisions on seafood and thereby
+help convey consumer preferences to markets and from there to the fishing and
+processing sector.
+13. Direct and Indirect Conservation
+Performance and technology standards can be combined with direct conservation
+payments or actions, such as payments for wildlife use rights, to communities for nesting
+site protection and egg collection and protection, land purchases, leases, and
+easements, financial incentives, such as performance payments, and multi-year
+conservation agreements in the form of contracts to local communities encompassing
+nesting site and critical habitat in general. Performance and technology standards can
+also be coupled with indirect conservation payments, such as provisions of alternative
+sources of production (e.g. eco-tourism), income, or social benefits (schools, clinics)
+(Ferraro and Kiss 2002).
+Such direct or indirect conservation payments can occur as side payments from
+developed to developing nations in the context of an international environmental
+agreement or through voluntary but collective mitigation programs. Direct conservation
+payments can be made from producer and consumer groups, regulatory, environment,
+fisheries, or development agencies, or environmental groups, in developed nations to
+recipients in developing nations.
+Direct conservation payments are predicated upon a willing buyer-willing seller model
+(Ferraro and Kiss 2002), Heal 2000). Sellers deliver conservation outcomes in exchange
+for a negotiated payment in cash or kind. Payments are conditional on conservation
+outcomes.
+Potential obstacles to implementing a direct payment approach in developing nations
+include uncertain or inequitable land tenure, limited experience with and enforcement of
+legal contracts, and instability of governments and other relevant institutions (Ferraro
+and Kiss, Dalzell 2004, pers. Com.) “Direct payments may also displace biodiversity loss
+to other areas, may be misappropriated or misused, and may create social conflict.”
+(Ferraro and Kiss, 2002, p. 1718) Ferraro and Kiss discuss four other issues that need to
+be examined in relation to direct and indirect conservation approaches: (1) institutional
+complexity; (2) costs; (3) development benefits; and (4), sustainability.
+
+26
+
+14. Side Payments
+Side payments have both distributive and strategic functions (Barrett in press). Side
+payments, such as through technology transfers, payment of incremental costs to adopt
+technology standards by developing country fleets, and access to otherwise restricted
+markets for shrimp and swordfish, may help increase participation and help make the
+agreement fair.42 43 Side payments, by which gainers of a policy can compensate those
+who bear the burdens, help insure that nations that would otherwise lose by participating
+instead gain.44 Side payments also acknowledge the “common but differentiated”
+responsibilities to biodiversity conservation of developing and developed countries, as
+explicitly recognized by the London Amendment to the Montreal Protocol in 1994.
+This factor of fairness may be especially important if trade restrictions are included in the
+agreement by legitimizing these restrictions. The Inter-American Convention for the
+Protection and Conservation of Sea Turtles addresses this issue, as for example, Article
+XII, “International Cooperation,” where rendering assistance to developing States is
+explicitly mentioned.
+Several key factors pertaining to sea turtle conservation complicate side payments by
+which gainers compensate those who bear the burdens. First, beneficiaries of
+conservation, who gain through sea turtle existence, are in both the present and future
+42
+
+Costs and benefits of an agreement do not always fall equally on nations and willingness to pay
+varies by income levels for many environmental goods and services. By adopting technology
+standards or performance standards, gains to cooperation are created and all parties deserve to
+receive a share of this gain.
+43
+
+Barrett (2003, p. 15) for example, states, “…the Oslo Protocol ignores the need for side
+payments. As noted previously, if the winners of acid rain controls do not compensate the losers,
+the losers will have little incentive to participate or to reduce their emissions by more than they
+would have absent Oslo.”
+44
+
+Side payments redistribute the additional gain from cooperation and help guarantee that all
+parties are at least as well off as before cooperation. Barrett (2003, p. 351) observes, “…side
+payments on their own have little effect on international cooperation. Side payments make the
+recipients more inclined to participate, but lower the payoffs of the donor countries, and so make
+them less inclined to participate. They do not on their own fundamentally alter the cooperation
+problem. In particular, they do not make punishments for free-riding any more credible.” Barrett
+(2003, p. 351) later observes about the role of side payments through the Multilateral Fund of the
+Montreal Protocol, “On their own, trade restrictions might have deterred non-participation by the
+developing countries, but such an outcome would not have been fair. Side payments not only
+helped to increase participation. They also legitimized the threat to impose trade restrictions. It is
+really the combination of carrots and sticks that succeeded in protecting the earth’s ozone layer.”
+In addition, side payments to otherwise non-cooperating countries, while increasing the coalition
+of cooperating countries, may create an incentive for them initially to stay out of cooperation (Hoel
+and Schneider 1997). In the Kyoto Protocol, the surplus of emission entitlements created by
+allowing economies in transition to choose an alternative base year to 1990 (that may not be
+exhausted by economic growth in these countries) allows the economies in transition surplus
+emissions to trade with Annex I countries and in effect to receive a side payment to foster
+participation (Barrett 1998, p. 30).
+
+27
+
+generations (where the latter do not have a voice). Second, benefits are largely nonmarket, that is, they are unpriced and a market for these benefits does not exist, so that
+benefits are uncounted. Third, benefits are diffuse throughout the population of present
+(and future) generations and are spread across many countries. The voice by which
+benefits of preservation are expressed, through willingness to pay or accept, is louder in
+richer countries and in the present generation. Fourth, losers tend to be concentrated
+among localized and specific groups, such as isolated local communities, who bear the
+lion’s share of conservation costs. Fifth, producers and consumers of seafood do not pay
+the full cost of production and consumption, which is not captured by any market (an
+external cost and market failure). Sixth, the absence of property rights for sea turtles and
+over the oceans in general, and especially on the high seas, can complicate the issue of
+compensation. Producers have made investments to harvest an unpriced migratory
+resource (swordfish). Lastly, ostensible benefits from unilateral or limited multilateral
+conservation of sea turtles can be illusory and dissipate because sea turtles and
+swordfish are highly migratory, so that conserved turtles in one area are simply taken in
+another area. In sum, the heart of the compensation issue is to collect from diffuse
+beneficiaries who receive unpriced benefits and transfer some of these gains to localized
+and specific losers.
+Side payments or compensation to private landowners of nesting site beaches raise
+another set of issues. Papers in Shogren and Tschirhart (2001) discuss this issue in
+considerable detail.
+In sum, side payments can be an important component to any international agreement
+for both distributive and strategic purposes. Side payments contribute to the
+effectiveness of an international agreement through compensating those who bear the
+burden of environmental regulations; ensure that developing countries do not lose by
+participating in an agreement; help provide technology transfers; legitimize the threat of
+trade restrictions; pay the incremental costs of adopting technology standards; and
+foster fairness. Side payments can occur bilaterally from one group or nation to another
+or multilaterally through international commissions or conservation trust funds for sea
+turtles or biodiversity in general.
+15. Concluding Remarks
+Reconciling sea turtle recovery in the Pacific with continued fishing remains one of the
+critical challenges that needs to be addressed. A comprehensive approach that extends
+beyond merely reducing fishery bycatch mortality of sea turtles is required if the
+populations are to recover. Recovery strategies need to address all three sources of
+anthropogenic mortality (large-scale commercial fisheries, small-scale and artisanal
+coastal fisheries, and nesting site sources); benefits that are largely diffuse and nonmarket across high-income countries or high-income groups in developing nations, but
+costs which are usually localized and concentrated among some of the most poor and
+vulnerable of the developing countries; the trans-boundary nature of the resource and
+related issues of incomplete or missing jurisprudence, markets and other institutions,
+and conservation measures; and the need for a holistic approach for population recovery
+which allows continued fishing.
+A broad suite of approaches are needed for recovery. One element includes effective
+beach conservation to protect nesting females, their eggs, and critical breeding habitat in
+order to maximize hatchling production. A second part enhances at-sea survival of
+
+28
+
+juveniles and adults at critical foraging areas and as they move into different
+developmental habitats by dealing with large-scale, commercial fishing fleets or
+commercial shrimp trawling. A third component, and perhaps the most intractable,
+reduces subsistence and small-scale and artisanal coastal fishers’ takes of turtles. The
+current level of conservation effort is inadequate to reverse the decline of several
+critically endangered species of sea turtles in the Pacific. If fishing is to continue, these
+efforts must be greatly enhanced by integrating fishery management into a holistic sea
+turtle recovery strategy.
+If fishing is to continue and sea turtle populations are to recover, some important building
+blocks of a holistic recovery strategy include mitigation measures, such as nesting site
+and other habitat protection, community involvement in conservation, and adoption of
+technology standards to reduce bycatch of sea turtles by swordfish and shrimp fishing
+fleets. Additional ingredients include side payments to increase participation and
+compliance, to equitably distribute the burdens, and to finance mitigation and adoption of
+technology standards in developing nations. Additionally, taxes and fees, including inkind, deserve consideration as a way of raising revenues to fund mitigation measures
+and side payments, as opposed to the traditional “Pigouvian” role of taxes and fees of
+solely trying to correct the unpriced cost of sea turtle mortality. Performance standards,
+such as turtle mortality limits, or even some form of use or property right are also
+potential components of a broad-based strategy. Direct conservation payments,
+especially to local communities for nesting site and habitat preservation and coastal
+small-scale and artisanal fishers for adoption of technology standards and perhaps not
+fishing during nesting seasons, may well make a surprisingly effective but currently
+underappreciated contribution to sea turtle population recovery. Direct conservation
+payments of this kind would address two of the three anthropogenic sources of sea turtle
+mortality.
+There are opportunities to immediately implement these holistic recovery measures
+under existing international sea turtle and fisheries treaties and possibly augment them
+with additional bilateral or broader multilateral agreements. National action plans can
+also play a role.
+
+29
+
+References
+Balazs, G.H., Chaloupka, M., 2004. Thirty-year recovery trend in the once depleted
+Hawaiian green sea turtle stock. Biological Conservation 117, 491-498.
+Barrett, Scott. 1998. “Political Economy of the Kyoto Protocol,” Oxford Review of
+Economic Policy, Vol. 14, No. 4, pp. 20-30.
+Barrett, Scott. 1999. “Montreal versus Kyoto: International Cooperation and the Global
+Environment.” In Inge Kaul, Isabelle Grunberg, and Marc A. Stern, editors, Global Public
+Goods: International Cooperation in the 21st Century. Oxford: Oxford University Press.
+Barrett, Scott. 2003. Environment and Statecraft: The Strategy of Environmental TreatyMaking. Oxford: Oxford University Press.
+Baumol, William and Wallace Oates. 1988. The Theory of Environmental Policy, second
+edition. Cambridge, England: Cambridge University Press.
+Bean, M. 1993. “Incentive-Based Approaches to Conserving Red-Cockaded
+Woodpeckers in the Sandhills of North Carolina.” In W.E. Hudson, ed., Building
+Economic Incentives into the Endangered Species Act. Washington, D.C.: Defenders of
+Wildlife, pp. 19-26.
+Bishop, J. “Voluntary Offsets As A Mechanism for Financing Habitat Conservation,”
+IUCN, Gland, Switzerland, 2 December, 2003.
+Bovenbag, A. Lans and Lawrence Goulder. 1999. “Environmental Taxation.” In A.
+Auerbach and Martin Feldstein, editors, Handbook of Public Economics. New York:
+North-Holland.
+Brown, Gardner M., Jr. and Jason Shogren. 1998. “Economics of the Endangered
+Species Act,” Journal of Economic Perspectives, Vol. 12, No. 3, pp. 3-20.
+Cervigni, R. 1993. Biodiversity: Incentives to Deforest and Tradable Development
+Rights. CSERGE Working Paper GEC 93-07. London: University College London .
+Chaloupka, M. 2003. Stochastic simulation modeling of loggerhead population
+dynamics given exposure to competing mortality risks in the western South Pacific.
+Pages 275-294 in A.B. Bolten and B.E. Witherington (Editors) Loggerhead Sea Turtles,
+Smithsonian Institution Press, 319 pp.
+Chan, E.H. and H.C. Liew. 1996. Decline of the leatherback population in Terenganu,
+Malaysia, 1956-1995. Chelonian Conservation and Biology, Vol. 2, No. 2, pp 196-203.
+Chomitz, K., T. Thomas, A. Brandão. 2003. “Creating Markets for Habitat Conservation
+When Habitats Are Heterogeneous.” Paper presented to the Fourth BioEcon Workshop
+on the Economics of Biodiversity Conservation: Economic Analysis of Policies for
+Biodiversty Conservation. Venice International University, Venice, 28-29 August, 2003.
+
+30
+
+Cropper, Maureen and Wallace Oates. 1992. “Environmental Economics: A Survey.”
+Journal of Economic Literature, Vol. 30, pp. 675-750. Reprinted in Robert N. Stavins,
+ed., Economics of the Environment: Selected Readings. New York: W.W. Norton & Co.,
+2000, pp. 50-130.
+Dutton, D.L., Dutton, P.H., Chaloupka, M., Boulon, R.H. In prep. Long term nest
+
+protection initiates recovery of a Caribbean leatherback turtle Dermochelys
+coriacea population. Biological Conservation. In review.
+Dutton, P.H., L. Sarti, R. Márquez, and D. Squires. 2002. “Sea Turtle Conservation
+Across The Shared Marine Border,” in L. Fernandez, editor, Both Sides of the Border:
+Transboundary Environmental Management Issues Facing Mexico and the United
+States, Kluwer Academic Publishers, sponsored by IGCC, University of California, San
+Diego.
+FAO. 2004. Expert consultation on interactions between sea turtles and fisheries within
+an ecosystem context. FAO Fisheries Report No. 738. FAO, Rome, 37p.
+Fernandez, Linda and Larry Karp. 1998. “Restoring Wetlands through Wetlands
+Mitigation Banks," Environmental and Resource Economics, Vol. 12,
+pp. 323-344.
+Ferraro, P. And A. Kiss. 2002. ”Direct Payments to Conserve Biodiversity.” Science, Vol.
+298, pp. 1718-1719.
+Folmer, Henk, Nick Hanley, and Fanny Mi feldt. 1998. Game-Theoretic Modelling of
+Environmental and Resource Problems: An Introduction,” Chapter 1 in Nick Hanley and
+Henk Folmer, eds. Game Theory and the Environment. Cheltenham, UK: Edward Elgar.
+Giordano, Mark. 2002. “The Internationalization of Wildlife and Efforts Towards Its
+Management: A Conceptual Framework and the Historic Record.” Georgetown
+International Environmental Law Review, Vol. XIV, Issue 4, pp. 607-628.
+Giordano, Mark. 2002. “Wildlife Treaties Series.” Georgetown International
+Environmental Law Review, Vol. XIV, Issue 4, pp. 629-692.
+Golombek, Rolf, Cathrine Hagem, and Michael Hoel. 1995. “Efficient Incomplete
+International Climate Agreements.” Resource and Energy Economics, Vol. 17, No. 1, pp.
+25-46. Reprinted in Alstair Ulph, editor, Environmental Policy, International Agreements,
+and International Trade. Oxford: Oxford University Press, 2001.
+Goulder, Lawrence. 1998. “Environmental Policy Making in a Second-Best Setting.”
+Journal of Applied Economics, Vol. 1, No. 2, reprinted in Robert N. Stavins, editor,
+Economics of the Environment: Selected Readings, fourth edition. New York: W.W.
+Norton, 2000.
+Gra l, H., J. Kokott, M. Kulessa, J. Luther, F. Nurscheler, R. Sauerborn, H.
+Schellnhuber, R. Schubert, and E. Schulze. 2002. Changing the Use of Global
+Commons. Special Report, German Advisory Council on Global Change, Berlin.
+
+31
+
+Hanley, Nick and Clive Spash. 1993. Cost-Benefit Analysis and the Environment.
+Aldershot: Edward Elgar.
+Hanley, Nick, Jason Shogren, and Ben White. 1997. Environmental Economics in
+Theory and Practice. Oxford: Oxford University Press.
+Hawaii Longline Association. 2003. “Biological Assessment: Proposed Management
+Regime for the Hawaii Pelagic Longline Fishery.” Processed, 64
+Heal, Geoffrey. 2000. Nature and the Marketplace: Capturing the Value of the
+Ecosystem. Island Press.
+Hoel, Michael. 1994. “Efficient Climate Policy in the Presence of Free-Riders.” Journal of
+Environmental Economics and Management, Vol. 27, pp. 259-274. Reprinted in Alstair
+Ulph, editor, Environmental Policy, International Agreements, and International Trade.
+Oxford: Oxford University Press, 2001.
+Kolstad, Charles. 1999. Environmental Economics. Oxford: Oxford University Press.
+Magat, Wesley. 1978. “Pollution Control and Technological Advance: A Dynamic Model
+of the Firm,” Journal of Environmental Economics and Management, Vol. 5, No. 1, pp. 125.
+McCracken ML (2000) Estimation of the sea turtle take and mortality in the Hawaiian
+longline fisheries. Administrative Report H-00-06, Honolulu Laboratory, Southwest
+Fisheries Science Center, National Marine Fisheries Service, NOAA, Honolulu, Hawaii, p
+1-29
+Meylan AB, Donnelly M (1999) Status justification for listing the hawksbill turtle (Eretmochelys
+imbricata) as critically endangered on the 1996 IUCN Red List of Threatened Animals. Chelonian
+Conserv Biol 3: 200-224
+National Marine Fisheries Service and US Fish and Wildlife Service (1998a) Recovery Plan for
+US Pacific Populations of the Loggerhead Turtle (Caretta caretta). National Marine Fisheries
+Service, Silver Spring, Maryland, USA
+National Marine Fisheries Service and US Fish and Wildlife Service (1998b) Recovery Plan for
+US Pacific Populations of the Leatherback Turtle (Dermochelys coriacea). National Marine
+Fisheries Service, Silver Spring, Maryland, USA
+National Marine Fisheries Service and US Fish and Wildlife Service (1998c) Recovery Plan for
+US Pacific Populations of the Hawksbill Turtle (Eretmochelys imbricata). National Marine
+Fisheries Service, Silver Spring, Maryland, USA
+
+National Marine Fisheries Service and US Fish and Wildlife Service (1998d) Recovery
+Plan for US Pacific Populations of the Olive Ridley Turtle (Lepidochelys olivacea).
+National Marine Fisheries Service, Silver Spring, Maryland, USA
+Nichols, W.J., A. Resendiz, and C. Mayoral-Russeau. 2000. Biology and conservation of
+loggerhead turtles (Caretta caretta) in Baja California, Mexico. Pp. 169-171, in
+Proceedings of the Nineteenth Annual Symposium on Sea Turtle Conservation and
+Biology, 2-6 March, 1999, South Padre Island, Texas. NOAA-NMFS Tech Memo.
+
+32
+
+Olson, T.G., D.D. Murphy, and R.D. Thornton. 1993. “The Habitat Conservation Method:
+A Proposal for Creating Tradeable Credits in Endangered Species Habitat.” In W.E.
+Hudson, ed., Building Economic Incentives into the Endangered Species Act.
+Washington, D.C.: Defenders of Wildlife, pp. 27-36.
+Panayotou, T. 1994. “Conservation of Biodiversity and Economic Development: The
+Concept of Transferable Development Rights.” Environmental and Resource Economics,
+Vol. 14, pp. 91-110.
+Pearson, Charles. 2000. Economics and the Global Environment. Cambridge, England:
+Cambridge University Press.
+Poiner IR, Harris ANM (1996) The incidental capture, direct mortality and delayed
+mortality of turtles in Australia’s northern prawn fishery. Mar Biol 125: 813–825
+Polasky, Stephen. 2002. “The Economics of Wetland Ecosystem Restoration and
+Mitigation: Discussion.” American Journal of Agricultural Economics, Vol. 84, No. 5, pp.
+1379-1380.
+Polovina, J. and Peter Dutton. 2003. “Identification of Conservation Activities Which
+Would Result in Saving to Leatherback and Loggerhead Populations Impacted by the
+Hawaii Longline Fishery.” Memo Submitted by J. Polovina, NOAA Fisheries, to the
+Hawaii Longline Associated dated June 24, 2003.
+Portney, Paul. 2003. “Market-Based Approaches to Environmental Policy: A ‘Refresher’
+Course.” Resources, No. 151, pp. 15-18.
+Robert, B. 1999. “Endangered Species Mitigation Banking: Promoting Recovery Through
+Habitat Conservation Planning under the Endangered Species Act.” Science of the Total
+Environment. 1999 October 18. pp. 24011-2419.
+Robins JB (1995) Estimated catch and mortality of sea turtles from the east coast otter
+trawl fishery of Queensland, Australia. Biol Conserv 74: 157-167
+Schmalansee, Richard, Paul Joskow, A. Denny Ellerman, Juan Pablo Montero, and
+Elizabeth Bailey. 1998. “An Interim Evaluation of Sulfur Dioxide Emissions Trading.”
+Journal of Economic Perspectives, Vol. 12, No. 3, pp. 53-68. Reprinted in Robert
+Stavins, editor, Economics of the Environment: Selected Readings, fourth edition. New
+York: W.W. Norton & Co.
+Shim, Sangmin. 2003. “Koreas’s Leading Role in Joining the Kyoto Protocol with the
+Flexibilityh Mechanisms as ‘Side Payments’.” Giordana, Mark. 2002. “The
+Internationalization of Wildlife and Efforts Towards Its Management: A Conceptual
+Framework and the Historic Record.” Georgetown International Environmental Law
+Review, Vol. XV, Issue 2, pp. 203-246.
+Shogren and Tschirhart (2001). Protecting Endangered Species in the United States :
+Biological Needs, Political Realities, Economic Choices. Cambridge, U.K.: Cambridge
+University Press.
+
+33
+
+Stavins, Robert. 1998. “What Can We Learn from the Grand Policy Experiment?
+Lessons from SO2 Allowance Trading.” Journal of Economic Perspectives, Vol. 12, No.
+3, pp. 69-88. Reprinted in Robert N. Stavins, ed., Economics of the Environment:
+Selected Readings. New York: W.W. Norton & Co., 2000, pp. 50-130.
+Sterner, Thomas (2003). Policy Instruments for Environmental and Natural Resource
+Management. Washington, D.C.: Resources for the Future.
+Swanson, Timothy and Sam Johnson. 1999. Global Environmental Problems and
+International Environmental Agreements: The Economics of International Institution
+Building. Edward Elgar.
+Tietenberg, Tom. “Economic Instruments for Environmental Regulation.” Oxford Review
+of Economic Policy, Vol. 6, No. 1, pp. 17-33. Reprinted in Robert N. Stavins, ed.,
+Economics of the Environment: Selected Readings. New York: W.W. Norton & Co.,
+2000, pp. 373-395..
+Troëng, S., Rankin, E., 2004. Long-term conservation efforts contribute to positive green
+turtle Chelonia mydas nesting trend at Tortuguero, Costa Rica. Biological Conservation.
+In press.
+Victor, David, Kal Raustiala, and Eugene Skolnikoff. 1998. “Introduction and Overview.”
+Chapter 1 in David Victor, Kal Raustiala, and Eugene Skonikoff, eds., The
+Implementation and Effectiveness of International Environmental Commitments: Theory
+and Practice. Cambridge, Mass: MIT Press.
+Victor, David. 2001. The Collapse of the Kyoto Protocol and the Struggle to Slow Global
+Warming. Princeton University Press.
+Wagner, Ulrich J. 2001. “The Design of Stable International Environmental Agreements:
+Economy Theory and Political Economy,” Journal of Economic Surveys, Vol. 15, No. 3,
+pp. 377-411.
+Watson, J., D. Foster, S. Epperly, and A. Shah. 2003. “Experiments in the Western
+Atlantic Northeast Distant Waters to Evaluate Sea Turtle Mitigation Measures in the
+Pelagic Longline Fishery.” Report on Experiments in 2002 and 2002. U.S. Department of
+Commerce, NOAA Fisheries, 89 pp.
+Welch, L. 1995. “Property Rights Conflicts under the Endangered Species Act:
+Protection of the Red-Cockaded Woodpecker.” In B. Yandle, The Takings Debate.
+Wenders, John. 1975. “Methods for Pollution Control and the Rate of Change in
+Pollution Abatement Technology.” Water Resource Research, Vol. 11, No. 3, pp. 393396.
+Wetherall JA, Balazs, GH, Tokunaga RA, Yong MM (1993) Bycatch of marine turtles in
+North Pacific high-seas driftnet fisheries and impacts on the stocks. North Pacific Fish
+Comm Bull 53: 519-538
+
+34
+
+Wold, Chris. 1997. “The Status of Sea Turtles under International Environmental Law
+and International Environmental Agreements.” in Sea Turtles: A Shared Resource in
+Central America. Processed, Northwestern School of Law, Lewis and Clark College, 38
+pp.
+Wold, Chris. 2002. The Status of Sea Turtles under International Environmental Law and
+International Environmental Agreements, 5 J. Int'
+l Wildlife L. & Pol'
+y 11.
+
+35
+
+Waif paragraphs……..
+These recovery measures include protecting nesting females, protecting against harvest
+of eggs and killing of adult females at nesting sites, protecting against beach
+degradation, collecting eggs and incubating them, head starting, relocating eggs to
+minimize risk, hiring local villagers to protect nesting sites, introducing alternative
+sources of income to substitute for subsistence or small-scale commercial harvests, egg
+rescue schemes, grassroots environmental education programs, bilateral conservation
+programs such as between Mexico and US, improving habitat at all stages of life cycle,
+along with technology or even production standards.
+
+36
+
+37
+View publication stats
+
+

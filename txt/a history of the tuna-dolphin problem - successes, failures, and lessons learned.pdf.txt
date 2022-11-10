@@ -1,0 +1,1925 @@
+REVIEW
+published: 23 November 2021
+doi: 10.3389/fmars.2021.754755
+
+A History of the Tuna-Dolphin
+Problem: Successes, Failures, and
+Lessons Learned
+Lisa T. Ballance 1* , Tim Gerrodette 2† , Cleridy E. Lennert-Cody 3 , Robert L. Pitman 1 and
+Dale Squires 4
+1
+Marine Mammal Institute, Oregon State University, Newport, OR, United States, 2 Southwest Fisheries Science Center,
+NOAA Fisheries, La Jolla, CA, United States, 3 Inter-American Tropical Tuna Commission, La Jolla, CA, United States,
+4
+University of California, San Diego, La Jolla, CA, United States
+
+Edited by:
+Ellen Hines,
+San Francisco State University,
+United States
+Reviewed by:
+Louisa Shobhini Ponnampalam,
+MareCet Research Organization,
+Malaysia
+Andrew Read,
+Duke University, United States
+*Correspondence:
+Lisa T. Ballance
+Lisa.Ballance@oregonstate.edu
+† Retired
+
+Specialty section:
+This article was submitted to
+Marine Conservation
+and Sustainability,
+a section of the journal
+Frontiers in Marine Science
+Received: 06 August 2021
+Accepted: 25 October 2021
+Published: 23 November 2021
+Citation:
+Ballance LT, Gerrodette T,
+Lennert-Cody CE, Pitman RL and
+Squires D (2021) A History of the
+Tuna-Dolphin Problem: Successes,
+Failures, and Lessons Learned.
+Front. Mar. Sci. 8:754755.
+doi: 10.3389/fmars.2021.754755
+
+Multispecies aggregations of tuna, dolphins, and seabirds are prevalent and
+conspicuous in the vast waters of the eastern tropical Pacific and form the basis of
+a commercial fishery for yellowfin tuna (Thunnus albacares) through setting on schools
+of dolphins, which is among the largest tuna fisheries in the world. Incidental dolphin
+mortality associated with the development and early years of the fishery was high;
+by 1993 it was estimated that eastern spinner dolphins (Stenella longirostris orientalis)
+had been reduced to 44% and northeastern offshore spotted dolphins (S. attenuata
+attenuata) to 19% of pre-fishery levels. Efforts to reduce this mortality began at the
+inception of the fishery and comprised a diverse array of approaches: modifications to
+fishing methods and fishing gear (backdown, Medina panel, high-intensity floodlights,
+swimmers to disentangle and release dolphins); U.S. legislation (through the U.S.
+Marine Mammal Protection Act, MMPA, and subsequent amendments); international
+agreements (including the International Dolphin Conservation Program that established
+dolphin mortality limits, and the legally binding multilateral Agreement on the
+International Dolphin Conservation Program); and economic incentives [notably through
+establishment of the U.S. dolphin-safe label and positive certification by the Marine
+Stewardship Council (MSC)]. Together, these bycatch mitigation efforts have been
+remarkably successful; dolphin mortality due to entanglement as recorded by fisheries
+observers (hereafter, entanglement mortality) has been reduced by > 99%. Despite this,
+the degree to which dolphin populations have recovered remains unclear. Multiple lines
+of evidence indicate that individual dolphins experience multiple sets in their lifetimes
+and although causality has not been established, research suggests that chase and
+encirclement might have impacts on dolphins in addition to entanglement mortality.
+These impacts potentially include increased fetal and/or calf mortality, separation of
+nursing females and their calves, decreased fecundity, increased predation, disruption
+of mating and other social systems, and ecological disruption. The strong management
+emphasis on monitoring entanglement mortality, and the infrastructure necessary to
+
+Frontiers in Marine Science | www.frontiersin.org
+
+1
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+support this monitoring (in particular, 100% observer coverage on large purse-seiners)
+require funding to the extent that other activities, particularly continued surveys to
+monitor stock status and clarify the potential influence of other effects of the fishery
+on dolphin populations, are currently inadequately funded.
+Keywords: dolphin bycatch, tuna purse-seine fishery, dolphin safe, eastern tropical Pacific (ETP), spotted dolphin,
+spinner dolphin, yellowfin tuna
+
+INTRODUCTION
+
+often accompanied by multispecies flocks of seabirds (dominated
+by Procellariidae, Sulidae, and Laridae). The tuna, dolphins, and
+most of the seabird species are found throughout the tropics
+and although they associate to a certain degree in other tropical
+oceans of the world, the prevalence of this assemblage is a
+conspicuous feature and a hallmark of the ETP. There, habitat
+of tuna is compressed to the warm and shallow waters of
+the surface mixed layer by an extensive and hypoxic oxygenminimum zone, and the association potentially decreases the
+risk of predation for dolphins and/or tuna (Scott et al., 2012).
+Seabirds benefit from increased feeding success because dolphins
+and tuna chase prey to the surface (Au and Pitman, 1986;
+Ballance et al., 1997).
+
+It has been over 60 years since the commercial fishing industry
+first began to catch tuna in association with dolphins in a
+vast and remote eastern tropical Pacific Ocean. The incidental
+mortality of dolphins in this fishery formed the basis for what
+became known as “the tuna-dolphin problem.” Efforts to lower
+dolphin mortality provide one of the most successful examples
+to date of interdisciplinary approaches to bycatch mitigation
+and include modifications to fishing methods and gear, changes
+in national legislations and international agreements, and the
+generalized adoption of eco-labeling and marine stewardship
+certification schemes. Economics, politics, law, policy, and ethics,
+with regard to the conservation and use of marine resources and
+the protection of marine mammals, have been deeply intertwined
+throughout, and this debate has had important echoes in the
+public opinion and in the media. Underlying the ways to address
+this issue in its entirety has been science, at the forefront of
+developing field and analytical methods to collect data to inform
+bycatch mitigation actions.
+The story is long, complex, and multifaceted. The account
+below is presented in terms of types of bycatch mitigation efforts
+rather than a chronology of events. These events played out so
+that they often influenced one another in both constructive and
+counter-productive ways. For clarity, we provide a chronology
+in Table 1. In the context of bycatch mitigation, the story is
+mostly of success; since inception of this fishery, associated
+dolphin mortality has been reduced by more than 99%. And
+the story is ongoing, and the fishery continues to operate.
+However, there has been no mechanism in place to monitor
+the status of the associated dolphin populations for well over a
+decade, and so the conservation status of affected dolphin stocks
+remains uncertain.
+
+Development of the Tuna Purse-Seine
+Fishery and Resulting Dolphin Bycatch
+These multispecies aggregations can be large (tons of yellowfin
+tuna—the target species, and hundreds to thousands of
+dolphins and seabirds), diverse (Au, 1991), and are highly
+visible at the ocean surface. Because of this, it is possible
+to visually locate large schools of tuna by searching for
+seabird flocks that closely track the schools and/or dolphins
+at the sea surface. Additionally, the association is strong—
+tuna remain with the dolphins even when the latter leave a
+feeding aggregation. The conspicuousness of this association,
+the reliability and tenacity of the bond between the tuna
+and dolphins, and the large body size of the tuna in these
+aggregations (bringing a higher price than smaller tuna)
+prompted the development of an efficient and lucrative purseseine fishery for yellowfin tuna that continues to this day,
+accounting for about 61% of all purse-seine catch of yellowfin
+tuna in the eastern Pacific Ocean in 2018 (Perrin, 1968;
+National Research Council, 1992; Inter-American Tropical
+Tuna Commission [IATTC], 2019). (The remaining ∼39% are
+captured in ways that do not involve setting on dolphins,
+primarily by setting on tuna schools that are associated with
+natural and human-made free-floating objects, and by setting
+on tuna schools that are not associated with either floating
+objects or dolphins).
+Prior to the development of modern purse seines, tropical
+tuna were caught one at a time, on hooks, using pole-and-line
+methods (National Research Council, 1992). The development
+of durable synthetic netting and a hydraulically driven powerblock to haul very large nets (1500–2000 m long and 120–
+250 m deep) made it possible to deploy purse seines around
+entire schools of tuna (Gosliner, 1999). In what are known
+as “dolphin sets,” fishermen aboard purse-seine vessels locate
+schools of tuna by searching for dolphins and seabird flocks. The
+
+THE PROBLEM: DOLPHIN BYCATCH IN
+THE EASTERN TROPICAL PACIFIC
+YELLOWFIN TUNA PURSE-SEINE
+FISHERY
+The Tuna-Dolphin-Seabird Assemblage
+In the waters of the eastern tropical Pacific Ocean (ETP),
+here defined as extending from 25◦ N to 10◦ S latitude and the
+western coasts of the Americas as far as 150◦ W longitude, largebodied yellowfin tuna (Thunnus albacares) associate with several
+species of dolphins: pantropical spotted (Stenella attenuata),
+spinner (S. longirostris) and, to a lesser extent, short-beaked
+common (Delphinus delphis) dolphins. These assemblages are
+
+Frontiers in Marine Science | www.frontiersin.org
+
+2
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+TABLE 1 | (Continued)
+
+TABLE 1 | Timeline of significant events associated with mitigation of dolphin
+mortality in the yellowfin tuna purse-seine fishery of the eastern tropical Pacific.
+
+1959
+
+Backdown first practiced by U.S. Captain Anton Meizetich
+
+1961
+
+Annual dolphin mortality estimated to be 550,000
+
+1971
+
+U.S. tuna purse-seine captains Harold and Joseph Medina report
+decrease in dolphin net entanglement and kill associated with use of
+the Medina panel
+
+1972
+
+Passage of the U.S. MMPA, including requirement for dolphin mortality
+levels to be reduced to “insignificant levels approaching zero”
+
+1973
+
+Medina panel used by 60–70% of the U.S. tuna purse-seine fleet
+
+1975
+
+95% of dolphins captured in dolphin sets estimated to be released
+through backdown
+
+1979
+
+IATTC begins dolphin conservation program modeled on U.S. effort
+
+1981
+
+U.S. embargoes Mexican tuna;
+MMPA amended to: (a) Reduce incidental mortality of marine mammals
+to levels approaching zero, (b) conduct research on locating and
+catching yellowfin tuna not associated with incidental take of dolphins
+
+1984
+
+U.S. proportion of total purse-seine fleet practicing dolphin sets drops
+to 42% (from 75% in mid 1970s);
+MMPA amended to: (a) prescribe dolphin mortality quotas for U.S.
+fleet, (b) require comparability in dolphin mortality between U.S. and
+foreign fleet, (c) direct research to assess dolphin abundance and
+trends
+Annual dolphin mortality estimated to be 133,000;
+U.S. lifts 1981 embargo against Mexican tuna;
+Use of high-intensity floodlights during dolphin sets made at night
+becomes mandatory for the U.S. fleet
+
+1986
+
+1986–
+1990
+
+U.S. NOAA Fisheries conducts annual research vessel surveys to
+estimate dolphin abundance and trends, clarify stock structure, and
+characterize the ecosystem
+
+1987
+
+Undercover video footage from Panamanian yellowfin tuna purse-seine
+vessel depicting dolphin kill airs on U.S. national television
+
+1988
+
+MMPA amended to: (a) prohibit sundown sets; (b) require 100%
+observer coverage on U.S. vessels and comparable coverage for the
+foreign fleet; (c) place restrictions on use of explosives to herd
+dolphins; (d) establish vessel performance standards; (e) require
+research to identify alternative methods of catching tuna; (f) establish
+stock-specific dolphin mortality limits for foreign fleet and metrics for
+comparability between foreign and U.S. vessels
+
+1990
+
+Three largest tuna canners in U.S. announce they will no longer
+purchase tuna caught on dolphins;
+MMPA amended through Dolphin Protection Consumer Information
+Act thereby establishing the U.S. dolphin-safe label (defined as no sets
+made on dolphins during the entire trip for which tuna were captured,
+as verified by a certified observer)
+
+1992
+
+La Jolla Agreement reached thereby establishing the International
+Dolphin Conservation Program
+
+1993
+
+Eastern spinner and northeastern offshore spotted dolphins declared
+depleted under the MMPA
+
+1995
+
+U.S. fleet no longer setting on dolphins, thereby achieving zero dolphin
+mortality;
+Declaration of Panama established
+
+1997
+
+MMPA amended to establish International Dolphin Conservation
+Program Act
+
+1998–
+2000
+
+U.S. NOAA Fisheries conducts annual research vessel surveys to
+estimate dolphin abundance and trends, clarify stock structure, and
+characterize the ecosystem
+
+1999
+
+Agreement on the International Dolphin Conservation Program
+established
+
+2001
+
+Voluntary “AIDCP dolphin-safe label” created by the Parties to the
+Agreement on the International Dolphin Conservation Program for tuna
+caught in the eastern Pacific Ocean
+
+2002
+
+U.S. government scientists submit final report to Congress pertaining
+to research on “whether the intentional deployment on or encirclement
+of dolphins with purse seine nets is having a significant adverse impact
+on any depleted dolphin stock in the eastern tropical Pacific Ocean”;
+
+U.S. Secretary of Commerce makes “final finding” that the “intentional
+deployment on or encirclement of dolphins with purse seine nets is not
+having a significant adverse effect on any depleted dolphin stock in the
+Eastern Tropical Pacific ocean”;
+U.S. dolphin-safe definition changed to include tuna caught with
+dolphins if no dolphins were killed or seriously injured during those sets
+U.S. District Court issues hold on the 2002 change in definition of
+dolphin safe;
+U.S. NOAA Fisheries conducts research vessel surveys to estimate
+dolphin abundance and trends, clarify stock structure, and characterize
+the ecosystem
+
+2004
+
+U.S. District Court requires that the U.S. label definition remain
+unchanged from initial 1990 definition
+
+2006
+
+U.S. NOAA Fisheries conducts research vessel surveys to estimate
+dolphin abundance and trends, clarify stock structure, and characterize
+the ecosystem
+
+2008
+
+Mexico files formal complaint with World Trade Organization against
+U.S. claiming that the dolphin-safe label creates unfair trade
+discrimination
+
+2017
+
+Pacific Alliance for Sustainable Tuna (PAST) earns Marine Stewardship
+Council certification for tuna caught by setting on dolphins in the
+eastern tropical Pacific
+
+2018
+
+World Trade Organization Appeals Judges find the U.S. dolphin-safe
+label to be in compliance with international trade regulations
+
+2019
+
+Net canopies and collapses decrease from 22 and 29% of dolphin sets,
+respectively, in 1986–1.1% for both;
+Trial dolphin abundance survey conducted, funded by the government
+of Mexico and PAST
+
+See main text for references. IATTC, Inter-American Tropical Tuna Commission;
+MMPA, U.S. Marine Mammal Protection Act; NOAA, National Oceanic and
+Atmospheric Administration.
+
+search methods have evolved over time, from search primarily
+conducted with high-powered binoculars to search conducted
+primarily with radar and helicopters (Lennert-Cody et al.,
+2016). The helicopter is also used to confirm the presence and
+abundance of tuna once a sighting of birds and/or dolphins
+has been made. Speedboats are then used to chase the dolphins
+toward the purse-seine vessel, corral them into the net, and
+prevent their escape as the net is set around them. Once
+encircled, the bottom of the net is pursed capturing both the
+dolphins and the tuna that remain with them during the chase
+(Figure 1)1 .
+Bycatch is often assumed to be or explicitly defined as
+incidental (as opposed to deliberate) capture, and in this context,
+it could be argued that dolphins should not be considered
+bycatch in this fishery because they are intentionally captured.
+However, because the dolphins are not the ultimate target
+species and because they are released or discarded after capture
+(see below), in the context of this fishery they are globally
+recognized as bycatch. Explicitly, it is dolphin mortality and
+serious injury associated with capture that is the problem
+(although other potential effects of bycatch on dolphins have
+been hypothesized, see below). For this reason, we refer to
+dolphin bycatch mortality or dolphin mortality as the problem
+that mitigation efforts have been focused on solving. Here,
+we follow the explicit definition of bycatch as mortality or
+serious injury (of dolphins) that are captured and discarded
+(Hall, 1996).
+1
+
+(Continued)
+
+Frontiers in Marine Science | www.frontiersin.org
+
+2003
+
+3
+
+https://www.youtube.com/watch?v=IB96vsn6XPY
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+Achieving the goal of releasing dolphins alive and retaining
+tuna in dolphin sets has been challenging because the body size
+of the two species is so similar. The number of dolphins killed
+through time has varied dramatically (Figure 2). Mortality in
+the earliest years of the fishery (1960s and 1970s) is not known
+with precision but without a doubt was very high (hundreds of
+thousands killed per year; Lo and Smith, 1971) with an estimated
+peak of 550,000 in 1961 (Smith, 1983). By the late 1970s, due
+to changes in purse-seine gear, fishing practices, and statutory
+regulations, mortality dropped significantly, and by 1980 had
+declined to about 20,000 dolphins per year. For a variety of
+reasons (see below), mortality increased in the late 1980s and then
+
+dropped again; since 2000 mortality has remained low (on the
+order of a thousand dolphins per year; Inter-American Tropical
+Tuna Commission [IATTC], 2015, 2019).
+
+The Impact of Bycatch Mortality on
+Dolphin Populations
+When the practice of setting on dolphins began, the taxonomy
+of open-ocean dolphins was poorly known; indeed, the first
+scientific reports of dolphin mortality came from Bill Perrin, a
+graduate student who was collecting specimens for a taxonomic
+study (Perrin, 1968). Beginning in the 1970s, observers were
+placed on U.S. purse-seine vessels to record dolphin mortality
+and collect tissue and bone samples. These data made it clear
+that the dolphins killed in association with this fishery were
+predominantly pantropical species, that spotted and spinner
+dolphins were the species most heavily impacted, and that
+some populations within each of these two species were
+morphologically distinct from those elsewhere. Scientists now
+recognize three stocks (management units recognized by the
+MMPA) that have been of major focus. Two are named
+subspecies: Coastal spotted dolphin (S. attenuata graffmani)
+and eastern spinner dolphin (S. longirostris orientalis), and the
+third, the northeastern offshore spotted dolphin, is a distinct
+population within the offshore spotted dolphin subspecies
+(S. attenuata attenuata). The degree of differentiation in
+distributions, morphology, and genetics between these and other
+stocks within these two species varies (Leslie et al., 2019, and
+references therein).
+Scientists also know a fair bit about abundance of these
+dolphin stocks and trends in abundance through time, although
+estimating these metrics in the vast region that is the ETP is a
+formidable task and significant knowledge gaps and uncertainty
+remain. Prior to the start of the tuna purse-seine fishery and
+through the period of highest mortality in the 1960s, there
+were no estimates of dolphin abundance. During the 1970s,
+U.S. government scientists pioneered methods of ship-based
+line-transect surveys using 25X binoculars to estimate dolphin
+abundance. Although by the late 1970s it was clear that dolphin
+mortality was large relative to estimated population sizes, it
+was not until 1993 that sufficient data had been collected, and
+analytical methods developed, to estimate that eastern spinner
+dolphins had been reduced to 44% and northeastern offshore
+spotted dolphins to 19% of pre-fishery levels (Wade, 1993a,b,
+respectively). Both stocks were subsequently declared “depleted”
+under the MMPA (with depletion defined as stock abundance
+below 60% of carrying capacity).
+By the mid-1990s dolphin mortality had declined to levels
+so low, relative to abundance, that recovery of depleted dolphin
+stocks was anticipated. However, surveys carried out in 1998–
+2000 indicated no recovery at the expected rate of 4% (Gerrodette
+and Forcada, 2005); recovery rates below this would have been
+difficult to detect given the statistical power of the survey.
+Modeling found equal support for hypotheses which attributed
+the lack of recovery to the fishery or to changes in the ecosystem
+(Wade et al., 2007). The intensity of fishing—it is estimated that
+every single dolphin of the two primary targeted species was
+
+FIGURE 1 | Aerial photograph of a purse-seine set on a school of tuna and
+dolphins. The purse-seine vessel is deploying the net in a large circle around
+the entire school while a skiff holds the end of the net in place. In this
+photograph the net is not yet closed; four speedboats are driving in tight
+circles near the opening to prevent the dolphins (and tuna) from escaping.
+Source: Inter-American Tropical Tuna Commission.
+
+FIGURE 2 | Estimated number of dolphins killed annually in the eastern
+tropical Pacific tuna purse-seine fishery, total for all dolphins and separately for
+the stocks of the two dolphin species with the highest number killed (Wade
+et al., 2007; Inter-American Tropical Tuna Commission [IATTC], 2020). The
+inset graph has an expanded vertical scale to show details from 2000 to
+2019; notice the change of scale on the Y -axis.
+
+Frontiers in Marine Science | www.frontiersin.org
+
+4
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+chased and encircled multiple times every year—meant that even
+a small effect of this activity on dolphin survival or reproduction
+would be enough to plausibly explain the lack of recovery (Reilly
+et al., 2005, see below).
+Additional surveys conducted in 2003 and 2006 produced
+higher estimates of eastern spinner and northeastern offshore
+spotted dolphins, indicating that a recovery might be starting,
+although the substantial uncertainty surrounding the estimates
+of abundance meant that the 95% confidence interval on
+growth rate still included 0 (Gerrodette et al., 2008). Putting
+the bycatch mortality and abundance estimates together in
+a population model indicated that the two main affected
+stocks were indeed increasing (Inter-American Tropical Tuna
+Commission [IATTC], 2009). There have been no new dolphin
+abundance estimates since 2006, but reported dolphin mortality
+has remained low, < 0.1% of population size for each stock.
+
+mortality relative to dolphin population sizes), the time required
+to extract dolphins from the nets was an immediate problem for
+fishers. Even as the fleet was still converting vessels from poleand-line methods to dolphin sets using purse seines, the industry
+began working to reduce dolphin entanglement in purse-seine
+nets, thereby decreasing mortality associated with these sets.
+Subsequent to passage of the MMPA in 1972, U.S. government
+scientists were also directed to contribute to mitigation of dolphin
+mortality (see below).
+
+Backdown
+“Backdown” refers to a method developed by fishers to release
+dolphins from the pursed net. It involves running a vessel in
+reverse after the seine has been pursed and approximately twothirds of the net brought on board the vessel. This pulls the net
+into a long and narrow channel with captured dolphins tending
+to congregate at the far end, at or near the ocean surface. As the
+vessel continues to move in reverse, the corkline at the far end
+is pulled underwater, spilling the dolphins out, over the top of
+the net (Figure 3). The tuna tend to remain below the dolphins
+in a deeper part of the net. This method is believed to have first
+been applied in the context of dolphin sets in 1959 by the captain
+of a vessel based in San Diego, California, U.S. Subsequent to
+further development in 1961, the use of backdown spread rapidly
+through the San Diego-based fleet, which was conducting the
+majority of dolphin sets at that time (Barham et al., 1977).
+Dolphins that do not escape on their own, are hand-hauled over
+
+BYCATCH MITIGATION THROUGH
+MODIFICATIONS IN FISHING METHODS
+AND FISHING GEAR
+Dolphin mortality was immediately recognized as a problem by
+the yellowfin tuna purse-seine fishing industry (see below). While
+concern regarding the impact of this mortality in the context
+of conservation would not come to light for another decade
+(simply because so little was known about the magnitude of
+
+FIGURE 3 | Backdown procedure in progress. As the tuna vessel moves backward to the right in this schematic, the net is drawn into a long channel. The corkline
+at the far end (left) is pulled under water 1–3 m, and the dolphins (referred to as “porpoise” in this figure, and in the early years of the fishery) escape. The Medina
+panel (labeled “medina strip” in this figure) and Apron are panels of netting with smaller mesh size to prevent dolphins from becoming entangled as they escape.
+Source: Leeper, 1976.
+
+Frontiers in Marine Science | www.frontiersin.org
+
+5
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+following the Medina Panel model, skill and judgment of
+the captain and crew, operational characteristics of the purseseine vessel and skiff, potential fouling of the mesh with
+planktonic invertebrates, and wind and sea conditions (Perrin,
+1969). Likely related to these factors, most dolphin mortality
+tended to occur during a small number of sets, often when
+tonnage of tuna or number of dolphins were particularly high
+(Barham et al., 1977).
+One factor directly correlated with dolphin mortality was
+time of day (Coan et al., 1992). Most dolphin sets were
+made during daylight (90% in a sample of 20,722 dolphin sets
+during 1979–1988; Coan et al., 1992) because some daylight
+is generally required to conduct search. The relatively small
+proportion of dolphin sets made during the night accounted
+for a disproportionate number of dolphin deaths and a higher
+mortality rate (e.g., 10% of 20,722 sets during 1979–1988
+accounted for 30% of the dolphin mortality; Coan et al.,
+1992). This is because restricted visibility at night impairs the
+ability to control the purse-seine net during backdown. In
+the early 1980s, the tuna industry began to experiment with
+the use of high-intensity floodlights to illuminate dolphins
+in the nets at night, thereby facilitating net control. Dolphin
+mortality from night sets that used other types of lights, or
+no lights, was significantly higher than night sets using highintensity floodlights (Coan et al., 1992). Use of the latter became
+mandatory for the U.S. tuna fleet in 1986, and subsequently, for
+non-U.S. vessels when a “sundown set” prohibition came into
+effect (see below). Fishers must now complete backdown no later
+than 30 min after sunset.
+
+the corkline by vessel crew who enter the water or work from a
+raft inside the net (see below).
+Gear workshops for vessel skippers, to share information and
+refine backdown techniques, were held during the early 1970s
+and facilitated even more widespread use of the method (see
+below). By 1975, about 95% of dolphins captured in dolphin sets
+were being released during backdown, with another 3% released
+through other methods (Southwest Fisheries Center, 1975 as cited
+in Gosliner, 1999). Backdown effectiveness and post-backdown
+rescue were further improved through research conducted by
+U.S. government scientists in collaboration with the industry
+(Ralston, 1977 as cited in Gosliner, 1999).
+
+The Medina Panel
+The Medina panel was developed to reduce dolphin
+entanglement in the mesh of the purse-seine. Generally,
+dolphins avoid contact with the net, but when they do not,
+their flippers, flukes, and rostra can become entangled, and
+they drown. During “disaster sets,” whole schools of panicked
+dolphins, including hundreds of individuals, have drowned.
+This problem was recognized early by the U.S. tuna fleet and
+following a 1970 meeting of fishing captains, Captain Harold
+Medina placed a 720 ft wide by 33 ft deep panel in the backdown
+area with 2-inch mesh netting (instead of the typical 4 1/4-inch
+mesh; Barham et al., 1977; Figure 3). He and his cousin, Captain
+Joseph Medina, Jr., who modified his vessel’s purse-seine net
+similarly, reported a decrease in dolphin entanglement and
+mortality during the 1971 fishing season. By the end of the
+1972 season, what became known as the “Medina Panel” had
+voluntarily been installed in 40–50% of U.S. tuna seiners, and
+in 60–70% by 1973. Subsequent research by U.S. government
+scientists further improved the effectiveness of the Medina
+Panel through adjustments in mesh size and development of
+the “porpoise apron,” a trapezoid-shaped panel of small-mesh
+webbing immediately above the Medina Panel (Barham et al.,
+1977; Coe et al., 1984; Gosliner, 1999; Figure 3).
+Since at least the mid-1980s, the Inter-American Tropical
+Tuna Commission (IATTC) has offered “net alignment”
+inspections to fishing vessels of the international fleet (Bratten,
+1983), which help fishing captains determine the best net
+configuration to allow them to successfully implement backdown
+(see below). These inspections, also referred to as “trial” sets,
+typically involve 1 day at sea during which a staff member of
+the IATTC onboard the vessel monitors the net position and
+crew activities during a simulated set, including implementation
+of the backdown procedure. The IATTC staff member enters
+the water on a raft inside the net, once the net is pursed, and
+provides suggestions to the captain regarding net alignment so
+that the Medina Panel (also known as the “dolphin safety” panel)
+is properly positioned at the end of the backdown channel.
+
+Use of Swimmers and Divers to Release
+Dolphins
+Dolphins that do not escape from the net during backdown are
+assisted over the corkline by vessel crew working from a raft
+within the pursed net. Dolphins can also become entangled in
+billows of netting (“net canopies”) or in areas where sides of
+the net have come into contact (“net collapses”), contributing to
+mortality (Lennert-Cody et al., 2004). Divers work from within
+the net to release these entangled dolphins below the surface.
+Educational seminars (see below) also provide fishing captains
+with information on how to avoid net canopies and collapses
+and have been highly effective. The occurrence of net canopies
+and net collapses has decreased from 22 and 29% of dolphin sets,
+respectively, in 1986 to 1.1% for both in 2019 (Inter-American
+Tropical Tuna Commission [IATTC], 2020).
+
+Fisher Education on Bycatch Mitigation
+Following on gear workshops conducted by U.S. scientists,
+the IATTC has conducted informational seminars for fishing
+captains since the early 1980s about a range of matters related
+to setting on dolphin-associated tuna. The scope of the material
+presented in these seminars initially focused on the use of
+fishing gear to reduce dolphin mortality (Bratten, 1983) but
+has expanded over time. With ratification of the Agreement
+on the International Dolphin Conservation Program (AIDCP)
+in, 1999 (see below), periodic attendance at these seminars
+
+High-Intensity Floodlights
+Although backdown and the Medina Panel greatly reduced
+dolphin mortality, the absolute number of dolphins killed in
+purse-seine sets remained high. The effectiveness of these fishing
+methods and gear modifications depended on a variety of
+factors including net buoyancy, vessel-specific gear modifications
+
+Frontiers in Marine Science | www.frontiersin.org
+
+6
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+moratorium on regulation. During this moratorium, the U.S.
+tuna industry and U.S. government scientists were expected to
+solve the mortality problem through development of improved
+fishing methods. Scientific studies were initiated, observers
+were placed on fishing boats, fishing gear was inspected, and
+boat captains with high dolphin mortality rates were reviewed.
+Nevertheless, mortality in dolphin sets continued to be high, and
+this prompted a series of amendments to the MMPA beginning in
+1981. These amendments reiterated the goal of reducing dolphin
+mortality rates to levels approaching zero (although economic
+and technological considerations were allowed5 ) and directed the
+Secretary of Commerce to undertake or fund research focused
+on locating and catching yellowfin tuna that did not involve the
+incidental taking of dolphins [“Take” under the MMPA means “to
+harass, hunt, capture, or kill, or attempt to harass, hunt, capture,
+or kill any marine mammal” (16 U.S.C. 1362)].
+The 1981 regulations were restrictive enough to contribute
+to the decision of many U.S. vessels to register under flags of
+other countries (thereby not subject to U.S. legislation) or to fish
+for tuna in other geographic regions, using other methods. As
+U.S. vessels left the fleet, vessels from other countries entered
+so that the number of vessels using dolphin sets continued
+to increase (Sakagawa, 1991; DeMaster et al., 1992; Gosliner,
+1999). Concern that U.S. gains in lowering dolphin mortality
+were being offset by increased mortality from non-U.S. vessels
+prompted the U.S. Congress to enact additional amendments
+to the MMPA in 1984. These: (1) designated quotas of dolphin
+mortality for the U.S. tuna fleet that would carry forward in time
+indefinitely; (2) required that dolphin mortality associated with
+tuna imports would be comparable with the U.S. fleet and allowed
+for embargoes on tuna imports that did not comply; and (3)
+directed research to assess abundance and trends for the affected
+dolphin populations as a means of revising dolphin mortality
+quotas if necessary.
+Following the 1984 amendments to the MMPA, a previous
+embargo imposed on Mexican tuna imports was lifted in
+1986. However, an increase in dolphin mortality in 1986 to
+over 100,000 and other failures to lower dolphin mortality
+prompted additional amendments to the MMPA in 1988.
+These prohibited U.S. vessels from making “sundown sets,”
+required 100% observer coverage on U.S. vessels (see below),
+prohibited the use of explosives other than seal bombs to herd
+dolphins, required research addressing the impact of seal bombs
+on dolphins, established performance standards pertaining to
+dolphin mortality rates for vessels and captains, and required
+that research independent from U.S. government scientists be
+undertaken to identify alternative methods of catching large
+yellowfin tuna that did not involve incidental take of marine
+mammals. The 1988 MMPA amendments also placed additional
+
+became a requirement for fishing captains to be certified to
+set on dolphins under this agreement2 . The purpose of the
+seminars is to: (1) inform captains about gear requirements
+(e.g., flood lights, a minimum of three speed boats with towing
+bridles, and rafts, masks, and snorkels); (2) review factors that
+contribute to dolphin mortality (e.g., setting in high currents,
+the dolphin species involved3 , net canopies and collapses, and
+major equipment malfunctions); (3) review guidelines on actions
+captains can take to avoid high dolphin mortality; and, (4)
+provide information on prohibited actions under the AIDCP4
+(e.g., night sets, use of explosives which were historically used
+to herd dolphins, and other actions leading to infractions against
+captains and potential removal from the “qualified” list).
+
+BYCATCH MITIGATION THROUGH U.S.
+LEGISLATION AND INTERNATIONAL
+AGREEMENTS
+Three factors have had a major influence on how U.S. legislation,
+other national legislations, and international agreements have
+developed, how they have influenced one another, and how
+effective they have been with respect to reducing dolphin
+mortality. First, dolphin sets occur throughout an area that is
+large and remote, including the Exclusive Economic Zones of ten
+nations (Mexico, Guatemala, El Salvador, Honduras, Nicaragua,
+Costa Rica, Panama, Ecuador, Peru, and France) as well as the
+high seas (Figure 4). The sheer size and remoteness of the
+region, and the multinational nature of the fishery (see below),
+complicate data collection, regulation, and enforcement. Second,
+the market for tuna in the U.S. is large and lucrative, and access
+to this market has been and, in some cases, continues to be a
+strong draw for the sale of canned tuna products, including those
+derived from dolphin sets. Third, although the method of setting
+on tuna associated with dolphins was developed on U.S. vessels,
+and most of the fleet practicing this method were U.S. vessels
+in the 1960s and 1970s, very few U.S. vessels have fished this
+way since the early 1990s, and the fleet using dolphin sets is
+now comprised of vessels from 9 other nations. The result has
+been a change in focus on mitigation of dolphin mortality to the
+international arena.
+
+U.S. Legislation
+The magnitude of dolphin mortality in the ETP tuna purseseine fishery first came to widespread public attention in the
+U.S. in the mid-1960s. The public outcry over the scale of
+dolphin mortality was one of the factors that ultimately drove
+the creation and passage of the MMPA in 1972. From its
+inception, the MMPA included provisions for reducing dolphin
+mortality to “insignificant levels approaching zero” after a 2-year
+
+“. . .it shall be the immediate goal that the incidental kill or incidental serious
+injury of marine mammals permitted in the course of commercial fishing
+operations be reduced to insignificant levels approaching a zero mortality
+and serious injury rate; provided that this goal shall be satisfied in the case
+of the incidental taking of marine mammals in the course of purse seine
+fishing for yellowfin tuna by a continuation of the application of the best
+marine mammal safety techniques and equipment that are economically and
+technologically practicable.” https://www.congress.gov/97/statute/STATUTE-95/
+STATUTE-95-Pg979.pdf
+5
+
+2
+
+https://www.iattc.org/PDFFiles/AIDCP/_English/AIDCP_Maintaining%
+20qualified%20captain%20list.pdf
+3
+Eastern spinner and common dolphins have higher mortality rates than offshore
+spotted dolphins (Lennert-Cody et al., 2004), related to behavior within the pursed
+net (Pryor and Norris, 1978).
+4
+http://www.iattc.org/PDFFiles/AIDCP/_English/AIDCP.pdf
+
+Frontiers in Marine Science | www.frontiersin.org
+
+7
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+FIGURE 4 | A wide-ranging fishery—distribution of purse-seine sets on dolphins during 2010 in the eastern tropical Pacific; a total of 11,645 sets are shown
+(Source: Inter-American Tropical Tuna Commission [IATTC], 2015).
+
+and coastal spotted dolphins, prohibited commercial handling
+of tuna in the U.S. that had been caught on dolphins,
+and authorized funds for research focused on dolphin-safe
+methods of locating and catching large yellowfin tuna. More
+amendments in 1997 established the International Dolphin
+Conservation Program Act (IDCPA), the U.S. implementation
+of the International Agreement on the International Dolphin
+Conservation Program (see below), to which the U.S. is a
+Party. Among other things, the IDCPA directed scientists of
+the U.S. National Marine Fisheries Service (NMFS) to conduct
+research to determine “whether the intentional deployment on
+or encirclement of dolphins with purse-seine nets is having a
+significant adverse impact on any depleted dolphin stock in
+the eastern tropical Pacific Ocean.” According to the statute,
+the answer to this question would determine whether the
+U.S. Department of Commerce would be allowed to change
+the definition of “dolphin-safe tuna” under the MMPA to
+match that definition adopted under the International Dolphin
+Conservation Program (see below).
+
+requirements on tuna imports by tightening the requirement
+that dolphin mortality be comparable to that of the U.S. fleet,
+establishing stock-specific mortality limits, restricting imports
+from third-party countries, and directing that non-U.S. vessels
+achieve observer coverage comparable to the U.S. fleet.
+The requirement that tuna imports from non-U.S. vessels
+be regulated the same as tuna caught on U.S. vessels
+became the focus of much litigation. This was further
+fueled by graphic and widespread dissemination of video
+depicting dolphin kills in the fishery and subsequent voluntary
+actions by U.S. tuna canners to buy only tuna caught using
+methods other than setting on dolphins. The MMPA was
+again amended in 1990 through the Dolphin Protection
+Consumer Information Act (DPCIA) establishing the “dolphinsafe” label (see below). Amendments in 1992 established the
+International Dolphin Conservation Act. This act provided
+a mechanism for lifting tuna embargos by the U.S. against
+other countries, revised dolphin mortality quotas for the U.S.
+fleet, prohibited intentional sets on depleted eastern spinner
+
+Frontiers in Marine Science | www.frontiersin.org
+
+8
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+mortality would be verified by fisheries observers, which would
+be placed on every boat over 363 metric tons (i.e., “large” purseseine vessels). Although it did not come to pass (see below), some
+participating nations expected that in exchange for formalization
+of these binding commitments that would be enshrined in the
+AIDCP, the U.S. Congress would amend the MMPA to lift the
+embargoes for tuna caught in compliance with the La Jolla
+Agreement, allowing access to the U.S. market for all such tuna.
+The expectation also included a change in the definition of
+dolphin safe (see below) to include any tuna caught in the ETP
+in a set in which no dolphins were observed to be killed.
+In 1998, features of the La Jolla Agreement and the Declaration
+of Panama were formally incorporated into a legally binding,
+multilateral agreement establishing the Agreement on the
+International Dolphin Conservation Program (AIDCP, Hedley,
+2001). The AIDCP has three primary objectives: (1) progressively
+reduce incidental dolphin mortalities in the tuna purse-seine
+fishery in the Agreement Area to levels approaching zero,
+through the setting of annual DMLs; (2) seek ecologically sound
+means of capturing large yellowfin tuna not in association with
+dolphins; and (3) ensure the long-term sustainability of the tuna
+stocks in the Agreement Area, and other marine resources related
+to this fishery, taking into consideration the interrelationship
+among species in the ecosystem.
+
+International Agreements
+As the proportion of U.S. vessels setting on dolphins decreased,
+and the proportion of non-U.S. vessels increased, concern and
+focus on monitoring and reducing dolphin mortality became
+international. The Inter-American Tropical Tuna Commission
+(IATTC), an international commission responsible for the
+conservation and management of tuna and other living marine
+resources in the eastern Pacific Ocean6 , began a dolphin
+conservation program in 1979, modeled on the U.S. effort. In
+1992, in part due to the increasing focus on comparability
+of dolphin mortality to the U.S. fleet under the MMPA and
+the dolphin-safe label (see below), fishing countries setting on
+dolphins agreed to increase observer coverage, institute skipper
+review panels, and meet a schedule of decreasing dolphin
+quotas on an individual boat basis. The agreement came to be
+known as the La Jolla Agreement (Inter-American Tropical Tuna
+Commission [IATTC], 1993), and it resulted in the establishment
+of the International Dolphin Conservation Program. A key
+feature was an allowable limit of dolphin mortality, known as
+the Dolphin Mortality Limit (DML). Establishing this on a pervessel basis was a remarkable success. Once a vessel reached
+its own DML it was required to cease dolphin sets, thereby
+placing the fate of a vessel in the hands of the captain and
+crew. Oversight of DMLs occurs through the IATTC. All vessels
+requesting DMLs receive them; a vessel changing flags retains
+its DML and its record of dolphin mortality during the year
+to date, and the new flag state enforces the DML obligations;
+DMLs are not transferable, rather DMLs from vessels renouncing
+or forfeiting their assigned limits are redistributed among other
+vessels although some ad hoc transfers among vessels are also
+allowed (Allen et al., 2010).
+The La Jolla Agreement also established an International
+Review Panel (IRP; Bayliff, 2001), serving as an international
+forum for reviewing compliance-related matters. In a pioneering
+move to promote transparency, the IRP included not only
+governmental representatives of the Parties to the Agreement but
+also elected representatives of the industry and of environmental
+non-governmental organizations. The IRP was tasked with the
+review of cases for which the data collected by a fisheries observer
+indicate apparent non-compliance by the vessel with the La Jolla
+Agreement. For example, the IRP reviews cases of apparent use
+of explosives during any phase of the dolphin set, as well as
+the timing of the release of the net skiff relative to sundown
+(possible night sets). Because the IATTC has no enforcement
+power, disciplinary action associated with any case that is found
+to be in non-compliance is the responsibility of the government
+of the vessel’s flag state.
+The La Jolla Agreement was followed by the Declaration of
+Panama in 1995, signed by 12 nations, including the U.S. These
+nations reaffirmed a commitment to reduce dolphin mortality to
+levels approaching zero and declared their intention to formally
+establish strict stock-specific DMLs on a per-vessel basis. Dolphin
+
+BYCATCH MITIGATION THROUGH
+ECONOMIC INCENTIVES:
+ECO-LABELING AND MARINE
+FISHERIES CERTIFICATION
+The U.S. Dolphin-Safe Label
+By the late 1980s, 40–50% of purse-seine trips by non-U.S.
+vessels carried a fisheries observer. This allowed for statistically
+reliable estimates of dolphin mortality associated with dolphin
+sets (Joseph, 1994). The numbers provided by IATTC through the
+latter part of the 1980s were high (Figure 2). Graphic depictions
+of the nature of this mortality were made public when an activist,
+working undercover aboard a Panamanian purse seiner in 1987,
+took video footage that was aired on U.S. national television
+(Brower, 1989). The 1988 amendments to the MMPA (requiring
+that dolphin mortality associated with tuna imported from other
+countries be comparable to the U.S. fleet) and ensuing litigation
+based on claims of non-compliance provided additional incentive
+for environmental groups to pursue a consumer boycott and
+to push legislation requiring that tuna be labeled according
+to the method in which it was caught. This perfect storm of
+events was followed in April of 1990 by the three largest U.S.
+tuna canners (Star-Kist, Chicken of the Sea, and Bumble Bee)
+voluntarily declaring that they would no longer purchase tuna
+captured in association with dolphins. Shortly thereafter (that
+same year, 1990), the Dolphin Protection Consumer Information
+Act (DPCIA) was passed with amendments of the MMPA. It
+established what we refer to here as the U.S. “dolphin-safe”
+label, mandating that no sets on dolphins were made during
+the entire trip for which tuna were captured, as verified by a
+
+6
+
+The IATTC, one of five regional tuna fisheries management organizations in the
+world, is responsible for the conservation and management of tuna and other
+marine resources in the eastern Pacific Ocean, from the coast of the Americas to
+150◦ W, between 50◦ S–50◦ N. http://www.iattc.org/.
+
+Frontiers in Marine Science | www.frontiersin.org
+
+9
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+(2) available data were insufficient to clearly resolve the matter of
+whether or not there had been substantial ecosystem changes in
+the ETP that would inhibit or enhance these populations’ ability
+to recover; and (3) the fishery may have effects on dolphins at the
+population level in addition to the reported mortality (see below).
+On 31 December 2002, the U.S. Secretary of Commerce
+made a “final finding” that the “intentional deployment on or
+encirclement of dolphins with purse-seine nets is not having a
+significant adverse effect on any depleted dolphin stock in the
+Eastern Tropical Pacific Ocean.” With this, the definition of
+dolphin safe changed to include tuna caught with dolphins if
+no dolphins were killed or seriously injured during those sets.
+The decision was immediately (that same day) challenged by a
+group of non-governmental organizations that included Earth
+Island Institute, the Humane Society of the U.S., and the Oceanic
+Society, and, in April of 2003, the U.S. District Court issued
+a hold on the change in definition of dolphin safe. Following
+another year of litigation, the court ordered that no further
+proceedings on the matter would be allowed due to repeated
+failures by the Secretary to heed Congress’ intent and instructions
+from previous courts and required that the U.S. label definition
+remain unchanged (U.S. District Court for the Northern District
+of California, 2004).
+Even prior to these developments, the U.S. dolphin-safe label
+had already become the subject of tension and international
+trade disputes that have now spanned three decades. In
+accordance with the DPCIA and following the establishment
+of the dolphin-safe label in 1990, the U.S. placed an embargo
+on tuna from Mexico in February 1991, and subsequently
+on eleven additional countries. Also in 1991, a three-person
+dispute resolution panel agreed with Mexico that the U.S.
+embargo violated the General Agreements on Tariffs and Trade
+(GATT), an international agreement that limits the use of
+trade restrictions. Although this decision was never adopted
+as a formal GATT ruling (Gosliner, 1999), it set the stage for
+subsequent litigation.
+This litigation played out in various hearings and proceedings
+overseen by the World Trade Organization (WTO), a global
+international organization dealing with the rules of trade between
+nations. Various nations (through reserving third-party rights)
+were involved; the formal complaint was brought to the WTO
+by Mexico in 2008 with claims that the U.S. violated articles
+of GATT by creating unfair trade discrimination with the
+dolphin-safe label. The argument centered on the fact that
+only tuna caught in the ETP was subject to criteria associated
+with the dolphin-safe label and that tuna caught elsewhere
+could use the label without following the strict requirements
+imposed in the ETP. In this context, the WTO ruled against
+the U.S. in 2012. Modifications to the labeling policy made
+
+certified observer. Vessels considered too small to deploy nets
+around dolphins (fish-carrying capacity ≤ 363 metric tons) were
+exempted (Gosliner, 1999).
+A number of dolphin-safe labels then developed in conformity
+with the MMPA’s dolphin-safe labeling definition, and these
+proved to be powerful marketing tools. Prominent on canned
+tuna, the labels, combined with environmental organization
+campaigns to pressure major U.S. retailors, effectively excluded
+tuna caught on dolphins from an extremely large and lucrative
+U.S. market. At that time (1990), only non-U.S. vessels were
+setting on dolphins and the desire to re-enter this market formed
+the basis for The La Jolla Agreement, The Declaration of Panama,
+100% fisheries observer coverage on all large vessels7 , and the
+establishment of vessel-specific DMLs. Following the Declaration
+of Panama, the 1997 amendments to the MMPA included a
+provision for a change in the definition of dolphin safe. But the
+change was later conditioned by the U.S. Congress on research to
+determine whether the chase and encirclement of dolphins was
+having “a significant adverse impact” on dolphin populations.
+The logic was that if the very act of chasing, encircling, and
+releasing dolphins was having a negative effect on dolphin
+populations, it would be misleading to label tuna caught by
+such methods “dolphin safe.” From the perspective of other
+signatories to the Panama Declaration, these conditions were
+perceived as a retreat from the commitments made by the U.S.,
+and there were concerns by some that if increased access to
+the U.S. market was not realized, support for the international
+agreement that had been negotiated might decline. Given that
+the vast majority of the fishery was conducted by non-U.S.
+vessels, the logical extension of these concerns was that failure
+to change the U.S. label definition might have the ironic result
+of undermining international efforts to conserve and recover
+depleted dolphin stocks.
+Nevertheless, under direction from the U.S. Congress,
+research to address whether the chase and encirclement of
+dolphins was having “a significant adverse impact” on dolphin
+populations proceeded. This research included estimation of
+dolphin abundance and trends through time, quantification of
+ecosystem variability, and studies on potential non-lethal impacts
+of the fishery on dolphins (Reilly et al., 2005). The research
+program was developed with the IATTC and the U.S. Marine
+Mammal Commission (an independent U.S. government agency
+established through the MMPA and charged with furthering
+the conservation of marine mammals and their environment).
+The research methods, results, and conclusions went through
+extensive peer review. The final research report was submitted
+to the U.S. Congress in 2002 (Reilly et al., 2005) and concluded
+that: (1) The two dolphin stocks declared depleted under the
+MMPA were not recovering at a rate expected given their
+levels of depletion and the recorded mortality from the fishery8 ;
+
+for northeastern offshore spotted dolphins, and 448,608 (CV = 22.9%) for
+eastern spinner dolphins. In a letter to the U.S. Secretary of Commerce,
+https://iattc.org/PDFFiles/AIDCP/_English/AIDCP_%20Report%20to%20the%
+20US%20Secretary%20of%20Commerce.pdf the IATTC argued that given the
+low observed mortality rates and dolphin population sizes in the hundreds of
+thousands, that the slow recovery observed is what should be expected rather
+than the higher rates expected by NMFS (INTER-American Tropical Tuna
+Commission [IATTC], 2002; see also Inter-American Tropical Tuna Commission
+[IATTC], 2015).
+
+7
+
+The 100% observer coverage is achieved through a combination of observers of
+the IATTC and observers of national observer programs (Bayliff, 2001).
+8
+However, the NMFS surveys did show slow growth rates in the dolphin
+populations, albeit statistically non-significant ones, with northeastern
+offshore spotted and eastern spinner dolphins growing at rates of 1.7 and
+1.4% per year, respectively (Reilly et al., 2005). The average of the abundance
+estimates for the years 1998, 1999, and 2000 were 641,153 (CV1 = 16.9%)
+
+Frontiers in Marine Science | www.frontiersin.org
+
+10
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+Marine fisheries certifications are programs designed to increase
+consumer awareness of environmental impacts and sustainability
+of fisheries. These certifications range from regional to global in
+scale and impact. Typically, they establish standards for impact
+and/or sustainability, review fisheries, and provide fisheryspecific ratings through lists or ecolabels to better inform
+consumers and concerned citizens. The number of marine
+fisheries certification programs is growing as fishing industries,
+environmental regulators, politicians, economists, biologists, and
+consumers increasingly recognize the value of promoting the
+sustainable use of living marine resources, and the influence that
+these certification programs have on the public at large.
+
+Among the best known of marine fisheries certification
+programs is the Marine Stewardship Council (MSC). Established
+in 1996, MSC is an international non-profit organization whose
+stated mission is to use their ecolabel and fishery certification
+program to reward sustainable fishing practices and influence
+consumer choice when buying seafood, thereby transforming the
+seafood market to a sustainable basis.
+The MSC became a catalyst for another effort to obtain
+broader market accessibility for tuna caught on dolphins in the
+ETP when the Pacific Alliance for Sustainable Tuna (PAST)
+earned MSC certification in 2017. PAST was formed in 2014
+as an alliance of four companies representing over 90% of
+the yellowfin and skipjack tuna industry in Mexico. These
+companies use purse seines in the ETP to capture tuna by
+setting on schools associated with dolphins, or on unassociated
+schools (“free schools”). The sustainability assessment was carried
+out by a third-party certification body and included extensive
+review by scientists and stakeholder consultation, as is standard
+practice by MSC. Certification was based on the fact that the
+fishery adheres to the AIDCP rule that all vessels carry an
+independent observer to ensure compliance, and that the goal
+of each set on tuna associated with dolphins is to release all
+captured dolphins alive. To facilitate the latter, and as already
+required by the AIDCP, all vessels in the fleet use purse-seine
+nets with Medina Panels, practice backdown, and carry gear
+for swimmers should it be necessary to assist dolphins over the
+corkline of the net.
+A final condition of MSC certification for PAST was
+that it formally commit to a sustainability action plan. This
+plan consisted of five components (Figure 5) and included
+a commitment to provide significant financial investment in
+an international research program to conduct a fisheriesindependent survey to assess the status of dolphin populations
+in the ETP. This latter condition was associated with public
+concern regarding the status of dolphin populations impacted
+by dolphin sets.
+Although some steps have been made toward development of
+a plan to update assessments of the status of dolphin populations
+(the previous assessment having been conducted in 2006),
+adoption of a survey plan by the AIDCP has yet to occur and
+funding sources for such a plan are yet to be identified. Progress
+toward assessing stock status includes: a review of available
+methodology for estimating dolphin abundance, including but
+not limited to ship-based surveys (Johnson et al., 2018); and
+development of ship-based survey design options (Oedekoven
+et al., 2018), which include new methodology to explore
+the possibility of negative bias in the abundance estimates
+(Barlow, 2015)11 . In addition, a trial dolphin survey, funded
+by the government of Mexico and PAST, was conducted in
+November 2019 with the goal of testing a survey vessel provided
+by the government of Mexico and new drone-based survey
+methodology. The results of this trial survey indicate that the
+
+9
+
+11
+
+in 2013 strengthened the criteria used to ensure that tuna
+caught in other regions and sold under the dolphin-safe label
+was caught without injuring or killing dolphins, but a 2015
+ruling by a WTO compliance panel found these changes to
+be unacceptable. A second change in U.S. policy followed in
+2016, but the WTO again ruled against the U.S. in 2017, and
+authorized Mexico to impose $163M U.S. in trade sanctions
+annually against the U.S. until the dolphin-safe label complied
+with international trade laws. The U.S. once again responded
+with tighter policy and, finally, the WTO found the label to
+be compliant. At the time of this writing, the definition of
+dolphin safe under the MMPA remains unchanged (i.e., tuna
+labeled as dolphin safe were captured using methods other than
+setting on dolphins).
+
+The Agreement on the International
+Dolphin Conservation Program
+Dolphin-Safe Label
+In 2001, a voluntary “AIDCP dolphin-safe label” was created by
+the Parties to the AIDCP for tuna caught in the eastern Pacific
+Ocean9 . The AIDCP dolphin-safe label is only available to vessels
+that have a DML and applies to tuna caught during fishing
+operations in which no dolphin mortality or serious injury is
+observed. The vessel’s fisheries observer makes the determination
+regarding whether the catch qualifies as dolphin safe under the
+AIDCP just before the tuna is brailed and loaded into wells
+on board the vessel. During any fishing trip, a vessel can catch
+tuna that qualify as dolphin safe under the AIDCP, and tuna
+that do not qualify for the label; each type of tuna is stored in
+separate vessel wells and tracked using forms10 that follow the
+tuna from capture to market. Thus, tuna caught in association
+with dolphins can be certified as dolphin safe through the AIDCP,
+even though they do not meet the definition of dolphin safe
+under the U.S. label. Because of this difference between the
+AIDCP definition of dolphin safe and the U.S definition, tuna
+products bearing the AIDCP dolphin safe label are not allowed
+in the U.S. market.
+
+Marine Fisheries Certification
+
+http://www.iattc.org/PDFFiles/AIDCP/_English/AIDCP_Educational-moduleon-the-AIDCP.pdf and http://www.iattc.org/PDFFiles/AIDCP/_English/AIDCP_
+Dolphin-Safe-certification-system.pdf
+10
+http://www.iattc.org/PDFFiles/AIDCP/_English/AIDCP_Tuna-TrackingSystem.pdf
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Negative bias in the estimates of abundance can result if dolphin schools on
+the survey trackline are not seen by the search team. Should the results of Barlow
+(2015) be confirmed with a mark-recapture field study (e.g. Borchers, 2012), this
+would imply that abundance is greater than has been previously estimated, which
+could have implications for the determination of stock status.
+
+11
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+FIGURE 5 | Components of the sustainability action plan of the Pacific Alliance for Sustainability of Tuna. This plan was a condition of the Marine Stewardship
+Council’s certification of tuna caught by setting on dolphins (downloaded from https://www.pacifictunaalliance.org/sustainability/msc-action-plan.html on 15 May
+2020).
+
+that disrupting it through dolphin sets and tuna capture may
+have negative consequences. Additionally, dolphin sets involve
+a high-speed chase, encirclement and confinement in a net,
+and release during the backdown process, all of which have
+the potential to create disruption and stress. Increased fetal
+and/or calf mortality, separation of nursing females and their
+calves, decreased fecundity, increased predation, disruption of
+mating and other social systems, and ecological disruption have
+all been suggested as possible negative effects associated with
+setting on dolphins (see below; also, Perryman and Foster,
+1980; Au, 1991). Causality between dolphin sets and these
+effects has not been established, and arguments have been
+made that they would not be expected to be significant12 .
+Additionally, studies based on fishery data require some
+assumptions which may not be possible to validate. Nonetheless,
+research has revealed correlations that are consistent with
+
+survey vessel should perform well for marine mammal surveys
+and that the double-platform survey protocol involving drones
+is feasible, but that further testing of drone models and camera
+equipment will be required (Oedekoven et al., 2021). Although
+Mexico has expressed the desire to move forward in the future
+with a full survey, the plans for this survey have not been
+publicly released.
+
+POSSIBLE EFFECTS OF THE FISHERY IN
+ADDITION TO ENTANGLEMENT
+MORTALITY
+Tuna and dolphins in the ETP naturally co-occur in large
+aggregations. Presumably, they derive mutual benefits from coschooling. Data from tagged individuals show that both tuna
+and dolphins join and leave these multi-species aggregations
+on a fluid and daily basis (Scott et al., 2012), but the
+prevalence of this association in the ETP raises the possibility
+
+Frontiers in Marine Science | www.frontiersin.org
+
+12
+
+https://iattc.org/PDFFiles/AIDCP/_English/AIDCP_%20Report%20to%20the%
+20US%20Secretary%20of%20Commerce.pdf
+
+12
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+activity nearby in space and time. They also found that recent
+exposure to purse seine sets was significantly lower for pregnant
+as compared with non-pregnant females.
+The degree to which these effects may have populationlevel consequences is associated with the degree to which the
+fishery interacts with dolphins individually, and at the population
+level. Evidence that individual dolphins experience multiple
+sets in their lifetimes dates at least to the 1970s. A 1976
+research cruise designed to refine fishing methods and gear,
+also incorporated behavioral studies of dolphins. This research
+indicated that dolphins may learn from exposure to dolphin
+sets, as evidenced by apparent hiding underwater in response
+to an approaching purse-seiner, avoiding encirclement through
+maneuvers that made it difficult to herd them into the net, and
+once in the net, congregating away from the vessel and net walls,
+and moving to the apex of the net before backdown (Pryor
+and Norris, 1978). More recent research has shown that evasive
+behavior of dolphins has increased over time and was strongest
+where fishing was most intense (Lennert-Cody and Scott, 2005).
+Reilly et al. (2005) used mean values from 1998 to 2000 and
+estimated that there were over 5,000 sets on northeastern offshore
+spotted dolphins per year, resulting in 6.8 million dolphins
+chased and 2.0 million dolphins encircled in purse-seine nets
+annually. For eastern spinner dolphins, the numbers were about
+2,500 sets per year, resulting in 2.5 million dolphins chased, and
+300,000 dolphins captured annually. When divided by the mean
+estimated abundances during the same years, a northeastern
+offshore spotted dolphin was chased 10.6 times and captured 3.2
+times per year on average, and an eastern spinner dolphin chased
+5.6 and captured 0.7 times per year.
+
+the hypothesis that chase and encirclement result in negative
+impacts on dolphins.
+For example, in many dolphin schools encircled by purseseine nets, dependent calves were missing (Archer et al., 2001).
+Based on an analysis of 77,361 individuals from two spotted
+dolphin stocks killed in 9,397 sets between 1973 and 1990,
+75–95% of lactating females did not have their nursing calves
+with them (Borchers, 2012). The estimated total “calf deficit”
+ranged from 10 s to 8300 calves per year and, assuming these
+dependent calves did not survive separation from their mothers,
+represented a 14% increase above the number of calves killed
+as reported by fisheries observers. A possible mechanism to
+explain this calf deficit is that females with dependent calves are
+separated during the chase prior to the set of the purse-seine net
+(Noren and Edwards, 2007). In bottlenose dolphins, the normal
+echelon swimming position of a calf is energetically beneficial to
+a calf, but costly to a mother (Noren, 2008, 2013; Noren et al.,
+2008). Because the chase is a fast-moving, chaotic environment
+(National Research Council, 1992), it may be difficult for mothers
+and calves to maintain their normal swimming positions. As
+well, there are multiple points during the fishing process when
+calves could be separated from the mothers and not recorded
+as observed mortality, should they die later as a result of the
+separation (Archer et al., 2001).
+Negative relationships between fishing activity and dolphin
+reproductive rates have also been documented by several studies.
+Based on tissue samples collected by observers, Perrin and
+Henderson (1984) compared reproductive rates and ages at
+sexual maturity in eastern spinner dolphins among areas with
+different amounts of dolphin fishing, and Barlow (1985) and
+Chivers and Myrick (1993) did the same for northeastern offshore
+spotted dolphins. Their expectations were that the more heavily
+fished, and therefore more depleted, dolphin populations would
+show density-dependent responses, with higher reproductive
+rates and younger ages at sexual maturity. In fact, they found
+the opposite, negative relationships between fishing activity and
+metrics associated with dolphin reproductive rates. Perrin and
+Mesnick (2003) quantified that sexual dimorphism was high and
+testis size low for eastern spinner dolphins relative to other
+populations of this species, indicating a polygynous mating
+system. They concluded that social disruption of eastern spinner
+dolphin schools associated with chase and encirclement in the
+purse-seine fishery could negatively impact reproductive output,
+especially if dominant males were removed from schools. In an
+analysis of photographs of entire schools of spotted and spinner
+dolphins taken from a research vessel-based helicopter from 1987
+through 2003, Cramer et al. (2008) found an inverse correlation
+between the annual proportion of calves in a school (a proxy for
+reproductive rate) and the annual number of purse seine sets for
+spotted dolphins (but not spinners). They also found an inverse
+correlation between the length of calves at independence (a proxy
+for duration of nursing) and the annual number of purse seine
+sets, again for spotted dolphins but not spinners. Finally, Kellar
+et al. (2013) analyzed hormone levels from 212 skin and blubber
+biopsy samples from female spotted dolphins collected between
+1998 and 2003. They found that the proportion of pregnant
+females in a school was negatively related to an index of fishing
+
+Frontiers in Marine Science | www.frontiersin.org
+
+DISCUSSION: REMAINING
+CHALLENGES AND LESSONS LEARNED
+Remaining Challenges
+Absolute abundance of dolphins has featured prominently in the
+context of evaluating the impact of the fishery and establishing
+international and U.S. management schemes. In particular,
+absolute abundance estimates have been used in population
+dynamics models to evaluate dolphin stock status, and to
+determine per-stock per-year mortality limits (AIDCP Annex
+III)13 . Historically, these estimates have been based on fisheriesindependent surveys conducted by NOAA, but the most recent
+of these was conducted in 2006 (see below). Previous attempts to
+develop indices of relative abundance from fisheries-dependent
+observer data (Buckland and Anganuzzi, 1988; Lennert-Cody
+et al., 2016) have proven problematic because of non-random
+distribution of search effort relative to dolphin abundance and
+time-varying biases associated with changes in fisher search
+behavior. It is unlikely that other methods of assessing stock
+status, such as close-kin genetics, will be available in the near
+13
+
+The per-stock per-year mortality limit for each stock is based on the lower bound
+of the confidence interval on abundance (Barlow et al., 1995; Inter-American
+Tropical Tuna Commission [IATTC], 2006). Should the annual mortality exceed
+the limit for a stock, all sets on that stock, and on any mixed-species dolphin
+schools that contain that stock, are prohibited for that year.
+
+13
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+co-schooling tuna and dolphins through the purse-seine
+setting process.
+
+future (Johnson et al., 2018). It is, therefore, generally agreed
+that there is an ongoing need for fisheries-independent surveys
+to estimate absolute abundance of dolphins.
+Conducting fisheries-independent surveys requires significant
+funding; the lack of such funding largely explains the long time
+since the most recent survey. The cost of a single (1 year),
+two-vessel survey comparable to those conducted by NOAA
+and incorporating drone-related methodological improvements
+has been estimated at US$11M–$15M (Oedekoven et al.,
+2018). Recommendations have been made to conduct
+back-to-back surveys over several years to obtain pooled
+estimates of abundance with greater precision than that of
+single-year estimates (Oedekoven et al., 2018), which would
+greatly increase costs. In-kind contributions, particularly
+for vessels, could potentially reduce survey costs by roughly
+US$3M per vessel, but this could leave the survey schedule
+vulnerable to the fiscal status and internal research priorities of
+a few countries.
+Ultimately, a stable plan for long-term funding of fisheriesindependent dolphin surveys is needed. Critical to its
+development is a thorough review of the benefits of current
+bycatch mitigation measures relative to their costs. An evaluation
+of trade-offs associated with maintaining 100% observer coverage
+on large purse-seine vessels (currently requiring on the order
+of U.S. $1.6M annually) would be particularly insightful.
+Quantitative analysis of the level of observer coverage necessary
+to estimate total fleet bycatch with a specified precision, absent
+a substantial observer effect (vessels following all protocols to
+minimize dolphin mortality only when an observer is present),
+would allow for informed dialogue among all stakeholders
+regarding tradeoffs between costs, goals, and resources. Related
+is the possibility of data collection by Electronic Monitoring
+Systems (EMS) as a means of evaluating bycatch mitigation
+efforts on vessels/trips that do not carry a human observer.
+Although bycatch enumeration is not currently possible
+with EMS, EMS appear capable of collecting data on some
+operational aspects of dolphin sets, including the start time
+of chase and backdown, and the presence of net canopies, net
+collapses and high-mortality sets (Román et al., 2020). Finally,
+a review should also consider the need for other data types.
+For example, life history data are important for estimating age
+distributions and reproductive rates, but these data have not
+been collected since the mid-1990s (Scott et al., 2018). In the
+absence of absolute abundance estimates, stock mortality limits
+have been calculated from projections of absolute abundance
+obtained from population dynamics models. These models
+would likely benefit from biological data that represent the
+current population.
+The strong emphasis currently placed on bycatch mitigation,
+with a goal to reduce it to near zero, presents an interesting
+philosophical, and perhaps practical issue. This emphasis, and
+reliance on observers for enforcement, may distract from other,
+perhaps equally important issues. These include development of
+a long-term data base of biological information which might
+be used to help monitor stock status, more deeply investigating
+potential effects of the fishery other than entanglement mortality,
+and conducting research on the ecological impact of separating
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Lessons Learned
+The six decades of catching tuna by setting on dolphins, and the
+multidisciplinary efforts to mitigate dolphin mortality associated
+with this fishery have been filled with successes and failures. We
+find a number of clear themes in these successes and failures
+that may provide transferable lessons to bycatch mitigation
+efforts in general.
+First, the most significant successes in decreasing bycatch can
+be attributed to modifications in fishing gear and fishing practices
+(see Squires et al., 2021). Most of these were implemented by
+the fishery itself almost as soon as the practice of setting on
+dolphins began, and were continually improved through time,
+albeit supported and improved by scientists associated with the
+U.S. government and IATTC.
+Second, placing the fate of a vessel in its own hands
+has been a powerful incentive to effect reduction of bycatch
+mortality. In particular, the establishment of DMLs proved to be
+remarkably successful because these limits were implemented on
+a vessel-specific basis, thereby rewarding each vessel captain for
+reducing dolphin mortality with the opportunity to continue to
+set on dolphins.
+Third, impacts of a fishery on non-target species may extend
+beyond entanglement mortality. Rich data and rigorous science
+show strong correlations between dolphin sets and increased
+fetal and/or calf mortality, and decreased fecundity of dolphins
+associated with these sets.
+Fourth, science has been a powerful ally, but also an excuse
+for inaction. Research has guided modifications to fishing gear
+and fishing practices that have lowered dolphin mortality; field
+and analytical methods have provided a means to assess dolphin
+abundance and trends; data indicating the potential for effects of
+the fishery in addition to entanglement mortality have provided
+plausible explanations for the apparent slowed recovery of
+dolphin populations. Yet the scientific process is not quick and
+not certain. For example, by the time science provided abundance
+estimates that resulted in a formal listing of depleted under the
+MMPA, the most significant reductions in dolphin mortality had
+long since occurred. And despite unprecedented effort (Kaschner
+et al., 2012), fishery-independent abundance and trend estimates
+are still associated with high levels of uncertainty. The lesson
+is that timely management action could require decisions to be
+made in the face of indicative, but less-than-conclusive, data. It is
+in this context that the Precautionary Principle is relevant (e.g.,
+Kriebel et al., 2001).
+Fifth, unilateral regulation is often inadequate if it does not
+reflect, and is not consistent with, a multilateral one. This is
+obvious in the case of the ETP yellowfin tuna purse-seine fishery
+that is practiced by multiple nations in multiple jurisdictional
+regions, and for which the multilateral regulatory framework is
+that developed and implemented under the AIDCP and, for the
+IATTC, the 2003 Antigua Convention. Additionally, the global
+nature of trade means that even in cases where a fishery is
+more regional, unilateral regulation that would be adequate in
+that context may still be inadequate in a broader one. Related
+
+14
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+are differences between nations in culture and institutions that
+can lead to significant misunderstanding. For example, legal
+and institutional orders differ between member nations of the
+IATTC, and in the context of dolphin-safe, many of these nations
+could not fully understand how the U.S. Congress and courts
+could override agreements that had been previously negotiated
+in multilateral settings. For its part, the U.S. did not fully
+appreciate the subsequent sense of being let down that was felt
+by their negotiating partners who also considered that a formal
+international commitment had been breached.
+And finally, extraction of marine living resources, and
+incidental impacts associated with that extraction, occurs even
+in the most remote parts of the world’s oceans. This is a given;
+sustainability in resource extraction, including maintaining
+healthy marine ecosystems, should be the goal. This is certainly
+not a new concept; we choose to emphasize and support it here.
+
+AUTHOR CONTRIBUTIONS
+TG synthesized existing data from multiple sources to
+construct Figure 2. CL-C provided fact-checking pertaining
+to the fishery and international policy. LB wrote the first
+and synthesized subsequent drafts of the manuscript. All
+authors contributed to conception of the manuscript, wrote
+sections, contributed to revision, read, and approved the
+submitted version.
+
+ACKNOWLEDGMENTS
+We thank Jean-François Pulvenis, Brad Wiley, and Michael
+Scott for their thorough reviews and comments which greatly
+improved this paper.
+
+REFERENCES
+
+Bratten, D. A. (1983). Reducing Dolphin Mortality Incidental to Purse-Seining for
+Tunas in the Eastern Pacific Ocean: A Review of the Tuna-Dolphin Fishing
+Gear Program of the Inter-American Tropical Tuna Commission. Report of the
+International Whaling Commission 33 (SC/34/SM3). The International Whaling
+Commission, The Red House, Station Road, Histon, Cambridge, CB4 4NP,
+599–602.
+Brower, K. (1989). The destruction of dolphins. The Atlantic Magazine Monthly
+July 35–58.
+Buckland, S. T., and Anganuzzi, A. A. (1988). Estimated trends of abundance of
+dolphins associated with tuna in the eastern tropical Pacific. Rep. Int. Whaling
+Comm. 38, 411–437.
+Chivers, S. J., and Myrick, A. C. (1993). Comparison of age at sexual maturity
+and other reproductive parameters for two stocks of spotted dolphin, Stenella
+attenuata. Fish. Bull. 91, 611–618.
+Coan, A. L. Jr., Wallace, K. E., and Jackson, A. R. (1992). Differences in dolphin
+mortality rates in night and day sets for the US eastern tropical Pacific tuna
+purse seine fishery. Mar. Fish. Rev. 54, 7–14.
+Coe, J. M., Holts, D. B., and Butler, R. W. (1984). The “tuna-porpoise” problem:
+NMFS dolphin mortality reduction research, 1970-81. Mar. Fish. Rev. 46,
+18–33.
+Cramer, K. L., Perryman, W. L., and Gerrodette, T. (2008). Declines
+in reproductive output in two dolphin populations depleted by
+the yellowfin tuna purse-seine fishery. Mar. Ecol. Prog. Ser. 369,
+273–285. doi: 10.3354/meps07606
+DeMaster, D. P., Sisson, J., Stevensen, L., and Montgomery, S. (1992). Report of the
+Third and Final Meeting to Review Progress in Reducing Dolphin Mortality in
+the ETP Purse Seine Fishery for Tunas, Long Beach, California, 13-14 November
+1991. NOAA Administrative Report SWR 92-7. Available online at: https://
+repository.library.noaa.gov/view/noaa/26902 (accessed August 6, 2021).
+Gerrodette, T., and Forcada, J. (2005). Non-recovery of two spotted and spinner
+dolphin populations in the eastern tropical Pacific Ocean. Mar. Ecol. Prog. Ser.
+291, 1–21. doi: 10.3354/meps291001
+Gerrodette, T., Watters, G., Perryman, W., and Ballance, L. (2008). . Estimates of
+2006 Dolphin Abundance in the Eastern Tropical Pacific, with Revised Estimates
+from 1986-2003. NOAA Technical Memorandum NOAA-TM-NMFS-SWFSC422. Available online at: https://swfsc.noaa.gov/publications/PubBIN#/search/
+(accessed August 6, 2021).
+Gosliner, M. L. (1999). “The tuna-dolphin controversy,” in Conservation and
+Management of Marine Mammals, eds J. R. Twiss and R. R. Reeves
+(Washington,DC: Smithsonian Institution Press), 120–155.
+Hall, M. A. (1996). On by-catches. Rev. Fish Biol. Fish. 6, 319–352.
+Hedley, C. (2001). The 1998 agreement on the international dolphin conservation
+program: recent developments in the tuna-dolphin controversy in the eastern
+Pacific Ocean. Ocean Dev. Int. Law 32, 71–92. doi: 10.1080/0090832015050
+2203
+Inter-American Tropical Tuna Commission [IATTC] (1993). Annual Report
+of the Inter-American Tropical Tuna Commission, 1992. Available online
+
+Allen, R., Joseph, J., and Squires, D. (2010). “Managing world tuna fisheries
+with emphasis on rights-based management,” in Handbook of Marine
+Fisheries Conservation and Management, eds R. Q. Grafton, R. Hillborn,
+D. Squires, M. Tait, and M. Williams (Oxford: Oxford University Press),
+698–712.
+Archer, F., Gerrodette, T., Chivers, S., and Jackson, A. (2004). Annual estimates of
+the unobserved incidental kill of pantropical spotted dolphin (Stenella attenuata
+attenuata) calves in the tuna purse-seine fishery of the eastern tropical Pacific.
+Fish. Bull. 102, 233–244.
+Archer, F., Gerrodette, T., Dizon, A., Abella, K., and Southern, Š (2001).
+Unobserved kill of nursing dolphin calves in a tuna purse-seine
+fishery. Mar. Mam. Sci. 17, 540–554. doi: 10.1111/j.1748-7692.2001.tb0
+1003.x
+Au, D. W., and Pitman, R. L. (1986). Seabird interactions with dolphins and
+tuna in the eastern tropical Pacific. Condor 88, 304–317. doi: 10.2307/136
+8877
+Au, D. W. K. (1991). Polyspecific nature of tuna schools: sharks, dolphin, and
+seabird associates. Fish. Bull. 89, 343–354. doi: 10.1038/354343a0
+Ballance, L. T., Pitman, R. L., and Reilly, S. B. (1997). Seabird community structure
+along a productivity gradient: importance of competition and energetic
+constraint. Ecology 78, 1502–1518. doi: 10.1890/0012-9658(1997)078[1502:
+scsaap]2.0.co;2
+Barham, E., Taguchi, W., and Reilly, S. (1977). Porpoise rescue methods in the
+yellowfin purse seine fishery and the importance of Medina panel mesh size.
+Mar. Fish. Rev 39, 1–10.
+Barlow, J. (1985). Variability, biases, and trends in reproductive rates of spotted
+dolphins, Stenella attenuata. Fish. Bull. 83, 657–669.
+Barlow, J. (2015). Inferring trackline detection probabilities, g(0), for cetaceans
+from apparent densities in different survey conditions. Mar. Mam. Sci. 31,
+923–943. doi: 10.1111/mms.12205
+Barlow, J., Swartz, S. L., Eagle, C., and Wade, P. R. (1995). U.S. Marine
+Mammal Stock Assessments: Guidelines for Preparation, Background, and a
+Summary of the 1995 Assessments. NOAA Technical Memorandum NMFSOPR-6. Silver Spring, MD: U.S. Deptartment of Commerce, National Oceanic
+and Atmospheric Administration, National Marine Fisheries Service, Office of
+Protected Resources, 73.
+Bayliff, W. H. (2001). Organization, Functions and Achievements of the
+Inter-American Tropical Tuna Commission. Inter-American Tropical
+Tuna Commission Special Report 13. Available onlline at: http:
+//www.iattc.org/PDFFiles/SpecialReports/_English/No-13-2001-BAYLIFF,
+%20WILLIAM%20H_Organization,%20functions,%20and%20achievements%
+20of%20the%20Inter-American%20Tropical%20Tuna%20Commission.pdf
+(accessed August 6, 2021).
+Borchers, D. (2012). A non-technical overview of spatially explicit capturerecapture models. J. Ornithol. 152, 435–444.
+
+Frontiers in Marine Science | www.frontiersin.org
+
+15
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+at: http://www.iattc.org/PDFFiles/AnnualReports/_English/IATTC-AnnualReport_1992.pdf (accessed August 6, 2021).
+Inter-American Tropical Tuna Commission [IATTC] (2002). Scientific Report of
+the on the Status of Dolphins Stocks in the Eastern Pacific Ocean. IATTC Report –
+Oct 2002. Available online at: https://iattc.org/PDFFiles/AIDCP/_English/
+AIDCP_%20Report%20to%20the%20US%20Secretary%20of%20Commerce.
+pdf
+Inter-American Tropical Tuna Commission [IATTC] (2006). Technical Workshop
+on Calculating NMIN for the Dolphin Stocks of the Eastern Pacific Ocean.
+Inter-American Tropical Tuna Commission Special Report 14. Available online
+at: http://www.iattc.org/PDFFiles/SpecialReports/_English/No-14-2006-Staff_
+Technical%20workshop%20on%20calculating%20NMIN%20for%20the%
+20dolphin%20stocks%20of%20the%20eastern%20Pacific%20Ocean.pdf
+(accessed August 6, 2021).
+Inter-American Tropical Tuna Commission [IATTC] (2009). Updated Estimates
+of Nmin and stock Mortality Limits, Document SAB-07-05. 7th Meeting of the
+Scientific Advisory Board to the Inter-American Tropical Tuna Commission.
+Available online at: https://www.iattc.org/Meetings/Meetings2009/AIDCP-22/
+Docs/_English/SAB-07-05_Updated%20estimates%20of%20Nmin%20and%
+20Stock%20Mortality%20Limits.pdf (accessed August 6, 2021).
+Inter-American Tropical Tuna Commission [IATTC] (2015). Annual Report
+of the Inter-American Tropical Tuna Commission, 2010. Available online
+at: http://www.iattc.org/PDFFiles/AnnualReports/_English/IATTC-AnnualReport_2010.pdf (accessed August 6, 2021).
+Inter-American Tropical Tuna Commission [IATTC] (2019). Report on the
+Tuna Fishery, Stocks, and Ecosystem in the Eastern Pacific Ocean in 2018.
+Inter-American Tropical Tuna Commission Fishery Status Report 17. Available
+online at: http://www.iattc.org/PDFFiles/FisheryStatusReports/_English/No17-2019_Tuna%20fishery,%20stocks,%20and%20ecosystem%20in%20the%
+20eastern%20Pacific%20Ocean%20in%202018.pdf (accessed August 6, 2021).
+Inter-American Tropical Tuna Commission [IATTC] (2020). Report
+on the International Dolphin Conservation Program. Inter-American
+Tropical Tuna Commission Document AIDCP-41-02. Available online
+at:
+https://iattc.org/Meetings/Meetings2020/IATTC-95/AIDCP-41/
+_English/AIDCP-41-02_Report%20on%20International%20Dolphin%
+20Conservation%20Program.pdf (accessed August 6, 2021).
+Johnson, K. F., Punt, A. E., and Lennert-Cody, C.E. (eds). (2018). Report of the
+Workshop on Methods for Monitoring the Status of Eastern Tropical Pacific
+Ocean Dolphin Populations. Inter-American Tropical Tuna Commission Special
+Report 22. Available online at: http://www.iattc.org/PDFFiles/SpecialReports/
+_English/No-22-2018-JOHNSON%20KELLI%20FAYE,%20Andre%20E.
+%20Punt%20and%20Cleridy%20E.%20Lennert%20Cody_Report%20of%
+20the%20workshop%20on%20methods%20for%20monitoring%20the%
+20status%20of%20ETP%20dolphin%20populations.pdf (accessed August 6,
+2021).
+Joseph, J. (1994). The tuna-dolphin controversy in the eastern Pacific Ocean:
+biological, economic and political impacts. Ocean Dev. Int. Law 25, 1–30. doi:
+10.1080/00908329409546023
+Kaschner, K., Quick, N. J., Jewell, R., Williams, R., and Harris, C. M. (2012).
+Global coverage of cetacean line-transect surveys: status quo, data gaps
+and future challenges. PLoS One 7:e44075. doi: 10.1371/journal.pone.
+0044075
+Kellar, N. M., Trego, M. L., Chivers, S. J., and Archer, F. I. (2013). Pregnancy
+patterns of pantropical spotted dolphins (Stenella attenuata) in the eastern
+tropical Pacific determined from hormonal analysis of blubber biopsies and
+correlations with the purse-seine tuna fishery. Mar. Biol. 160, 3113–3124. doi:
+10.1007/s00227-013-2299-0
+Kriebel, D., Tickner, J., Epstein, P., Lemons, J., Levins, R., Loechler,
+E. L., et al. (2001). The precautionary principle in environmental
+science. Environ. Health Perspect. 109, 871–876. doi: 10.1289/ehp.0110
+9871
+Leeper, E. M. (1976). Major research effort probes tuna-porpoise bond. BioScience
+26, 533–584. doi: 10.2307/1297266
+Lennert-Cody, C. E., Maunder, M. N., Fiedler, P. C., Minami, M., Gerrodette,
+T., Rusin, J., et al. (2016). Purse-seine vessels as platforms for monitoring
+the population status of dolphin species in the eastern tropical Pacific Ocean:
+the use of fishing vessels as scientific platforms. Fish. Res. 178, 101–113. doi:
+10.1016/j.fishres.2015.10.005
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Lennert-Cody, C. E., Minami, M., and Hall, M. A. (2004). Incidental mortality of
+dolphins in the eastern Pacific Ocean purse-seine fishery: correlates and their
+spatial association. J. Cetacean Res. Manag. 6, 151–163.
+Lennert-Cody, C. E., and Scott, M. D. (2005). Spotted dolphin evasive response in
+relation to fishing effort. Mar. Mam. Sci. 21, 13–28. doi: 10.1111/j.1748-7692.
+2005.tb01205.x
+Leslie, M. S., Archer, F. I., and Morin, P. A. (2019). Mitogenomic differentiation
+in spinner (Stenella longirostris) and pantropical spotted dolphins
+(S. attenuata) from the eastern tropical Pacific Ocean. Mar. Mam. Sci. 35,
+522–551.
+Lo, N. C. H., and Smith, T. D. (1971). Dolphins in the eastern tropical Pacific,
+1959-72. Fish. Bull. 84:27.
+National Research Council (1992). Dolphins and the Tuna Industry. Washington,
+DC: National Academy Press.
+Noren, S. R. (2008). Infant carrying behaviour in dolphins: costly parental care in
+an aquatic environment. Funct. Ecol. 22, 284–288. doi: 10.1111/j.1365-2435.
+2007.01354.x
+Noren, S. R. (2013). Altered swimming gait and performance of dolphin mothers:
+implications for interactions with tuna purse-seine fisheries. Mar. Ecol. Prog.
+Ser. 482, 255–263. doi: 10.3354/meps10286
+Noren, S. R., Biedenbach, G., Redfern, J. V., and Edwards, E. F. (2008). Hitching
+a ride: the formation locomotion strategy of dolphin calves. Funct. Ecol. 22,
+278–283. doi: 10.1111/j.1365-2435.2007.01353.x
+Noren, S. R., and Edwards, E. F. (2007). Physiological and behavioral development
+in delphinid calves: implications for calf separation and mortality due to tuna
+purse-seine sets. Mar. Mam. Sci. 23, 15–29.
+Oedekoven, C. S., Buckland, S. T., Marshall, L., and Lennert-Cody, C. E. (2018).
+Design of a Survey for Eastern Tropical Pacific Dolphin Stocks. Inter-American
+Tropical Tuna Commission Document MOP-37-02. Available online at:
+http://www.iattc.org/Meetings/Meetings2018/IATTC-93/Docs/_English/
+MOP-37-02_Design%20of%20a%20survey%20for%20eastern%20tropical%
+20Pacific%20dolphin%20stocks.pdf (accessed August 6, 2021).
+Oedekoven, C. S., McMillan, L., Fatima, S., Harris-Brill, D., Faustino, C., Marshall,
+L., et al. (2021). Trial Survey for Eastern Tropical Pacific Dolphins: Project
+Report. Inter-American Tropical Tuna Commission Special Report 24. Available
+online at: https://www.iattc.org/PDFFiles/SpecialReports/_English/No-242021-Mulitiple_Trial%20survey%20for%20Eastern%20Tropical%20Pacific%
+20dolphins%20Project%20report.pdf (accessed August 6, 2021).
+Perrin, W. F. (1968). The porpoise and the tuna. Sea Front. 14, 166–174. doi:
+10.1371/journal.pone.0197220
+Perrin, W. F. (1969). Using porpoises to catch tuna. World Fish. 18, 42–45.
+Perrin, W. F., and Henderson, J. R. (1984). Growth and reproductive
+rates in two populations of spinner dolphins, Stenella longirostris, with
+different histories of exploitation. Rep. Int. Whaling Comm. Spec. Issue 6,
+417–430.
+Perrin, W. F., and Mesnick, S. L. (2003). Sexual ecology of the spinner dolphin,
+Stenella longirostris: geographic variation in mating system. Mar. Mam. Sci. 19,
+462–483. doi: 10.1111/j.1748-7692.2003.tb01315.x
+Perryman, W. L., and Foster, T. C. (1980). Preliminary Report on Predation by Small
+Whales, Mainly the False Killer Whale Pseudorca crassidens, on dolphins (Stenella
+spp. and Delphinus delphis) in the Eastern Tropical Pacific. Southwest Fisheries
+Center Administrative Report LJ-80-05. La Jolla, CA: National Marine Fisheries
+Service.
+Pryor, K., and Norris, K. S. (1978). The tuna/porpoise problem: behavioral aspects.
+Oceanus 21, 31–37.
+Ralston, F. (1977). A Workshop to Assess Research Related to the Porpoise/ Tuna
+Problem, 28 February, 1-2 March. Southwest Fisheries Center Administrative
+Report No. lJ-77-15. La Jolla, CA: Southwest Fisheries Service, National Marine
+Fisheries Service.
+Reilly, S. B., Donahue, M. A., Gerrodette, T., Forney, K., Wade, P., Ballance,
+L., et al. (2005). Report of the Scientific Research Program Under the
+International Dolphin Conservation Program Act. NOAA Technical
+Memorandum NOAA-TM-NMFS-SWFSC-372. Available online at:
+https://swfsc-publications.fisheries.noaa.gov/publications/TM/SWFSC/
+NOAA-TM-NMFS-SWFSC-372.PDF (accessed August 6, 2021).
+Román, M., Lopez, J., Lennert-Cody, C. E., Ureña, E., and Aires-da-Silva,
+A. (2020). An Electronic Monitoring System for the tuna fisheries in
+the eastern Pacific Ocean: Objectives and standards. Inter-American
+
+16
+
+November 2021 | Volume 8 | Article 754755
+
+Ballance et al.
+
+The Tuna-Dolphin Problem
+
+Tropical Tuna Commission Document SAC-11-10. Available online at:
+https://www.iattc.org/Meetings/Meetings2020/SAC-11/Docs/_English/SAC11-10_Standards%20for%20electronic%20monitoring%20(EM).pdf (accessed
+November 8, 2021).
+Sakagawa, G. T. (1991). Are U.S. regulations on tuna-dolphin fishing driving
+U.S. seiners to foreign-flag registry? N. Am. J. Fish. Manag. 11, 241–252. doi:
+10.1577/1548-8675(1991)011<0241:ausrot>2.3.co;2
+Scott, M. D., Chivers, S. J., Olson, R. J., Fiedler, P. C., and Holland, K. (2012). Pelagic
+predator associations: tuna and dolphins in the eastern tropical Pacific Ocean.
+Mar. Ecol. Prog. Ser. 458, 283–302. doi: 10.3354/meps09740
+Scott, M. D., Lennert-Cody, C. E., Gerrodette, T., Chivers, S. J., Danil, K., Hohn,
+A. A., et al. (2018). Data Available for Assessing Dolphin Population Status in
+the Eastern Tropical Pacific Ocean. Inter-American Tropical Tuna Commission
+Special Report 23. Available online at: http://www.iattc.org/PDFFiles/
+SpecialReports/_English/No-23-2018-Mulitiple_Data%20available%20for%
+20assessing%20dolphin%20population%20status%20in%20the%20ETP.pdf
+(accessed August 6, 2021).
+Smith, T. D. (1983). Changes in size of three dolphin (Stenella spp.) populations in
+the eastern tropical Pacific. Fish. Bull. 81, 1–13.
+Southwest Fisheries Center (1975). Progress of Research on Porpoise Mortality
+Incidental to Tuna Purse-Seine Fishing for Fiscal Year 1975. Southwest Fisheries
+Center Administrative Report No. lJ-75-68. La Jolla, CA: National Oceanic and
+Atmospheric Administration, National Marine Fisheries Service, Southwest
+Fisheries Center.
+Squires, D. E., Lent, R., Dutton, P. H., Dagorn, L., and Ballance, L. T. (2021). Credit
+systems for bycatch and biodiversity conservation. Front. Mar. Sci. 8:613279.
+doi: 10.3389/fmars.2021.613279
+U.S. District Court for the Northern District of California (2004). Earth Island
+Institute et al., v. Donald Evans et al. No. C 03-0007 TEH Order Granting
+Plaintiffs’ Motion for Summary Judgment and Denying Defendants’ Motion for
+Summary Judgment. San Francisco, CA: United States District Court, N.D.
+California.
+
+Frontiers in Marine Science | www.frontiersin.org
+
+Wade, P. R. (1993a). Assessment of the Northeastern stock of Offshore Spotted
+Dolphin (Stenella attenuata). Southwest Fisheries Science Center Administrative
+Report LJ 93-18. La Jolla, CA: NOAA Southwest Fisheries Science
+Center.
+Wade, P. R. (1993b). Estimation of historical population size of the eastern spinner
+dolphin (Stenella longirostris orientalis). Fish. Bull. 91, 775–787.
+Wade, P. R., Watters, G. M., Gerrodette, T., and Reilly, S. B. (2007). Depletion
+of spotted and spinner dolphins in the eastern tropical Pacific: modeling
+hypotheses for their lack of recovery. Mar. Ecol. Prog. Ser. 343, 1–14. doi:
+10.3354/meps07069
+Author Disclaimer: The views expressed in this work are personal to the author
+and do not reflect a formal position of the Inter-American Tropical Tuna
+Commission.
+Conflict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could be construed as a
+potential conflict of interest.
+Publisher’s Note: All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their affiliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated in
+this article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Copyright © 2021 Ballance, Gerrodette, Lennert-Cody, Pitman and Squires. This
+is an open-access article distributed under the terms of the Creative Commons
+Attribution License (CC BY). The use, distribution or reproduction in other forums
+is permitted, provided the original author(s) and the copyright owner(s) are credited
+and that the original publication in this journal is cited, in accordance with accepted
+academic practice. No use, distribution or reproduction is permitted which does not
+comply with these terms.
+
+17
+
+November 2021 | Volume 8 | Article 754755
+
+

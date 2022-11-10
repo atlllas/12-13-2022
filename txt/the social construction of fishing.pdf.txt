@@ -1,0 +1,1245 @@
+Copyright © 2009 by the author(s). Published here under license by the Resilience Alliance.
+Finley, C. 2009. The social construction of fishing, 1949. Ecology and Society 14(1): 6. [online] URL: http:
+//www.ecologyandsociety.org/vol14/iss1/art6/
+
+Insight, part of a Special Feature on Pathways to Resilient Salmon Ecosystems
+
+The Social Construction of Fishing, 1949
+Carmel Finley 1
+
+ABSTRACT. The theoretical construction known as maximum sustained yield (MSY) exists in three
+realms: as science, as policy, and as a legal concept. Despite substantial criticism by scientists and
+economists, MSY remains at the heart of fisheries science and fisheries management. This paper suggests
+that its institutional resilience springs more from its policy and legal roles than from its scientific strength.
+Maximum sustained yield was adopted as the goal of American fisheries policy in 1949. Between 1949
+and 1955, the State Department pushed for its adoption internationally. In this paper, I first look briefly at
+the relationship between fishing and foreign policy goals during this period. Second, I look at how fishing
+was understood during 1949, when the American High Seas Fishing Policy was adopted. Third, I look at
+the actions of the 1955 International Technical Conference on the Conservation of the Living Resources
+of the Sea and how American actions shaped the development of fisheries science and the modern fishery
+management process.
+Key Words: fisheries history; fisheries management; Milner B. Schaefer; salmon; surplus production
+theory; Wilbert M. Chapman; William C. Herrington
+
+INTRODUCTION
+There is a large body of scientific and economic
+thought that is critical of maximum sustained yield
+(MSY) as the objective of fisheries management
+(Larkin 1977, McGoodwin 1990, Bottom 1997,
+Pauly and Maclean 2003, Roberts 2007). Yet MSY
+remains at the heart of fisheries science and fisheries
+management and is firmly entrenched in legal and
+policy documents, treaties, and commissions.
+Although it has been modified (altered from
+maximum harvest to optimum harvest), such
+constrictions are recent and do not substantially alter
+the thrust of the policy, which has been to justify
+relatively high harvests. This entrenchment of MSY
+in policy, scientific, and legal mandates has made
+it more difficult for scientists and policy makers to
+implement policies that will enhance resilience in
+ocean ecosystems (Pauly 1994, Healey 2009).
+The analysis of the failures of MSY has tended to
+come from scientists and economists, who have
+looked at the problems in relative isolation, trying
+to “fix” the science and ignoring the political context
+in which the science was developed (Finlayson
+1
+
+Department of History, Oregon State University
+
+1994). My analysis looks at the post-World War II
+context in which MSY was shaped and the political
+forces that resulted in its adoption as the goal of
+international fisheries management in 1955.
+Between 1945 and 1958, fisheries concerns were
+tightly coupled with foreign policy for many
+countries, as fishing boats were a source of territorial
+claims in a world that officially upheld the freedom
+of the seas and limited coastal waters to 3 miles (4.8
+km).
+It took fisheries scientists until the 1930s to prove
+scientifically that the Victorian scientist T. S.
+Huxley had been incorrect when he said that the
+great sea fishes were inexhaustible and that it was
+futile to try to regulate the great fisheries. During
+this period, scientists worked to formulate strategy
+of what would constitute “rational fishing,” where
+both fish stocks and fishermen would be managed
+together (Kyle 1905, Thompson 1936, Russell
+1942, Graham 1943, Sharp 1995). The adoption of
+MSY diverted scientists from this conversation,
+focusing the science on estimating critical harvest
+points, where the catch would be maximized yet
+sustained (Smith 1994).
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+Maximum sustained yield essentially reflects the
+idea that the fish and the ocean system are infinitely
+resilient, an assumption that facilitated the
+enormous expansion of global fishing after World
+War II. It further postulates that scientists will be
+able to correctly estimate the critical points, where
+the greatest number of fish are at their maximum
+growth, a harvest level that can be sustained.
+Maximum sustained yield also embedded a number
+of anthropogenic ideas (Lichatowich 1999) about
+fish abundance (Huxley 1883, Stone 1884). The
+ocean was essentially unchanging, implying steady
+states or equilibrium in fish populations (Francis
+1980). Fishing, which was seen as part of the total
+mortality that fish faced, played a role in
+maintaining the equilibrium by removing older fish,
+freeing up resources for young fish that grow faster.
+If a stock was overharvested, fishing pressure could
+be relaxed and the stock would recover to previously
+high levels.
+It also reflects an agricultural model of
+conservation, and a belief that fish populations are
+malleable and can be controlled for human benefit
+(McEvoy 1988) and that the oceans can be reordered
+to produce high-value species. Fish were widely
+transplanted and hatcheries offered the promise of
+restoring depleted stocks, especially for salmon
+(Oncorhynchus spp., Salmo spp.), but also for such
+ocean species as plaice (Pleuronectes platessa)
+(Shelbourne 1971). With the discovery of the
+Oregon Moist Pellet and improved hatchery
+survival during the 1950s, scientists assumed that
+the limiting factor in unlimited salmon production
+—juvenile survival—had been surmounted (Hublou
+et al. 1959). The ocean “pasture” was unlimited in
+its ability to rear salmon in such numbers that most
+of the fish were “surplus” to what was needed to
+provide eggs for propagation.
+Hatchery expansion in the Pacific Northwest
+occurred during a period of favorable survival
+conditions for West Coast salmonids, but also a
+period of intense pressure to produce more fish for
+social reasons. Under such conditions, hatcheries
+became politically acceptable symbols of more fish
+(Scarnecchia 1988). They ensured that whereas the
+stocks were conserved under MSY, there would still
+be plenty of fish for growing numbers of fishers and
+anglers. Thus, MSY offered a scientific basis for
+management that met multiple political and
+economic objectives.
+
+American Hegemony in Science
+There is a growing body of literature about
+American hegemony in science after World War II,
+but most of it deals with interactions among
+Americans and European physicists (Doel 1997,
+Krige 2006). Other works concentrate on the
+development of American science during the Cold
+War (Leslie 1993) and the field of oceanography
+(Oreskes and Rainger 2000, Rainger 2001, Hamblin
+2005).
+In contrast, little scholarly attention has been given
+to the development of fisheries science in the postwar period, with the exception of a large number of
+studies on the collapse of Atlantic cod (Gadus
+morhua), (Finlayson 1994, Parsons and Beckett
+1994, Hutchings and Myers 1995, Hannesson 1996,
+Wright 2001, Pope 2004, Hubbard 2006). Legal
+scholars have not seen the U.S. as being successful
+in transferring its post-war power into dominance
+in fishing (Hollick 1981, Scheiber 1989). But this
+legal analysis does not take into account the
+American role in the adoption of post-war fisheries
+science, or its influence in the development of the
+modern fisheries management process.
+When examined within a larger context of American
+scientific influence after World War II, the U.S. was
+extremely successful in shaping both fisheries
+science and the fisheries management process. This
+is because fisheries issues were tightly tied to
+foreign policy concerns within the State Department
+between 1945 and 1958. Three American fisheries
+scientists, Wilbert McLeod Chapman (1910–1970),
+William C. Herrington (1903–1991), and Milner B.
+Schaefer (1913–1970), played significant roles in
+bringing fisheries science into the State Department.
+In the process, they decisively shaped the
+development of American fisheries science.
+FISHERIES AND AMERICAN FOREIGN
+POLICY
+The cornerstone of foreign policy during this period
+was open seas and open skies: for American planes,
+submarines, naval vessels, and fishing boats
+(Paterson 1992). The U.S. wanted a string of
+military bases throughout the Pacific and a fleet of
+American boats catching tuna (Thunnus spp.) in the
+Mandated Islands, where the Japanese had
+developed a fishery during the 1920s (Kishinouye
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+1923, U.S. Navy 1944, Supreme Commander Allied
+Powers (SCAP) 1949, Schaller 1985).
+These objectives were threatened by the territorial
+claims filed by Mexico and Latin American
+countries between 1945 and 1955. Peru, Chile, and
+Ecuador were moving aggressively to expand their
+territorial limits, threatening to impose restrictions
+on illegal whaling (Fraser et al. 1977, Tonnessen
+and Johnson 1982) and on American fishing for bait
+stocks (Wolff 1980). The Latin Americans claimed
+bait fish were overfished, but the U.S. responded
+there was no scientific evidence of overharvest
+(Wilbert M. Chapman to the American Tuna
+Association (ATA), 9 August 1950, ATA files, Box
+27, Folder, “Fisheries Industries Advisors,” Scripps
+Institution of Oceanography).
+A State Department reorganization in 1944 resulted
+in responsibility for fisheries being placed in the
+commodity division of the economic branch. In a
+storm of protest, the industry argued that fisheries
+involved vital national interests, diplomacy, and
+international law. Industry representatives met in
+January 1944 in Los Angeles and created the Pacific
+Fisheries Congress to push for a greater voice within
+the State Department. Pacific Fisherman publisher
+Miller Freeman was chairman (Miller Freeman
+Papers, Box 5, Folder 36, University of Washington
+Special Collections).
+The American fishing industry was under severe
+pressure. New England fishermen sought a tariff
+against fillets from Canada, Norway, and Iceland
+(Dewar 1983). In southern California, the tuna
+industry was concerned that tuna exports from Japan
+would destroy their markets, as Japanese tuna had
+during the 1930s. The West Coast salmon industry
+was worried about the return of the Japanese to the
+international waters of Bristol Bay, where they had
+fished for king crab (Paralithodes camtschaticus)
+and bottomfish during the 1930s. In early 1947,
+Secretary of State George Marshall approved the
+creation of an under-secretary advisor for the
+industry.
+Wilbert McLeod Chapman was appointed in April
+1948. Born in Kalama, Washington, Chapman
+graduated from the University of Washington in
+1937 with a doctoral degree in ichthyology. He
+worked for various state and federal fisheries
+agencies before the war, when he was sent to the
+equatorial Pacific to help create a small fishery
+
+designed to provide fresh fish to military troops. He
+returned to his job as the Curator of Fishes at the
+California Academy of the Sciences in San
+Francisco, with a goal of expanding American
+fisheries into the Mandated Islands, the Marshall,
+Caroline, and Marianas. In 1948, he was named
+director of the School of Fisheries at the University
+of Washington. His State Department appointment
+was announced in the spring.
+The most immediate crisis facing Chapman in
+Washington was the negotiation of a treaty with 11
+European countries and Canada to regulate the
+depleted North Atlantic fisheries. With the collapse
+of the California sardines (Sardinops caerulea),
+American purse seine boats were pouring into the
+tuna fishery off Mexico, which wanted a fisheries
+agreement that would include license fees on the
+purse seine boats. A peace treaty was also being
+negotiated with Japan, but the question of where the
+Japanese would be allowed to fish was a significant
+sticking point (Scheiber 2001).
+FISHERIES SCIENCE AND DIPLOMACY
+Under Chapman, fisheries science became a tool of
+diplomacy within the U.S. State Department.
+Within months of arriving in Washington, Chapman
+crafted the U.S. High Seas Fisheries Policy. The
+policy goals were to reinforce the Truman
+Proclamation of 1945, to uphold the principle of the
+freedom of the seas, and to establish that fish stocks
+could be conserved without claiming expanded
+territorial limits (Watt 1979). The scientific
+foundation of the policy was MSY, which Chapman
+defined as making “possible the maximum
+production of food from the sea on a sustained basis
+year after year” (Chapman 1949).
+The High Seas Policy was published in the Secretary
+of State Bulletin on 16 January 1949. A fisheries
+treaty with Mexico was signed on 25 January 1949.
+Three days later, on 28 January 1949, an agreement
+was signed to regulate the North Atlantic,
+establishing the International North Atlantic
+Fisheries Commission (INCAP). On 31 May 1949,
+a convention was signed with Costa Rica to create
+the Inter-American Tropical Tuna Commission
+(IATTC). The U.S. actions imposed a fisheries goal
+before discussions among scientists began. One of
+Chapman’s goals was to avoid any international
+control over American fishing (Chapman 1949).
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+All three treaties, and the two commissions they
+established, were to be managed to produce MSY.
+The High Seas Policy formalized what had been
+unofficial American fisheries policy since the days
+of Spencer Fullerton Baird and the creation of the
+U.S. Fish Commission (Allard 1978). The idea of
+harvesting the maximum was reinforced during
+World War II, when Secretary of the Interior Harold
+Ickes assumed control of fishing policy with the goal
+of maximum production for the war effort, a policy
+that accelerated the catch of both California sardines
+and Alaskan salmon (Cooley 1963, McEvoy 1986).
+Chapman’s High Seas Policy rested on an implied
+scientific formulation, yet the critical document was
+not published in a refereed scientific journal, but in
+the Bulletin of the Secretary of State. There are no
+formal references. The graph that supports the
+theory (Fig. 1) has no numerical scale on the axes.
+It is a theoretical construction with no quantitative
+dimension. There was no quantitative evidence
+given to demonstrate or otherwise justify its actual
+relation to nature.
+However, the High Seas Policy offered the solution
+to several political problems. The Canadians were
+urging action to control the growing number of
+foreign boats fishing in the western Atlantic. They
+sought a treaty with the European nations, but the
+United States did not want to subject itself to a
+European convention (Rozwadowski 2002). The
+convention with Costa Rica allowed the
+establishment of a scientific investigation into the
+rapidly expanding American tuna fishery,
+addressing Latin American concerns about the
+overfishing of baitfish stocks (Wolff 1980).
+The High Seas Policy also outlined the American
+preferred option for regulating fisheries through the
+creation of bilateral or multilateral commissions
+with limited authority. Chapman’s model of
+management was the International Pacific Halibut
+Commission, established by Canada and the U.S. in
+1923 to reverse the declines in the halibut
+(Hippoglossus stenolepis) stocks (Dunn 2002).
+CHAPMAN CONCEPT OF THE ROLE OF
+FISHING
+The idea of maximum harvest as a goal of fishing
+is based in a utilitarian philosophy that resources
+are to be used and that not to harvest is wasteful. It
+reflects progressive ideals of efficiency and
+
+expertise, where trained experts would be able to
+estimate when the maximum harvest had been
+attained (Hays 1959). It also reflects a growing
+industrialization of nature after 1920 as scientific
+concepts of industrial management were increasingly
+applied to natural resource systems in an effort to
+standardize and increase production (Josephson
+2002). These concepts are also reflected in the
+statutory mandates of the U.S. Forest Service and
+the Bureau of Land Management (Cortner and
+Moote 1999). Holling and Meffe call pesticides,
+monoculture, fire suppression, and clearcutting
+“pathologies,” used by managers to try to control
+the natural world (Holling and Meffe 1996).
+The adoption of MSY was grounded in Cold War
+politics, but also in an anthropogenic approach to
+explaining the oceans (Holm et al. 2001) that saw
+the ocean in terms of essentially benign agricultural
+metaphors: it could be farmed, and we could raise
+as many fish as we needed in hatcheries. Wild fish
+were crops to be harvested (Bottom 1997, Bottom
+et al. 2009). Sending large nets across the bottom
+of the oceans was akin to plowing (Pauly et al. 2002).
+Managers believed regulation should be light and
+that technology brought progress by making the
+natural world more efficient. If resources were
+overharvested, they could recover (Smith 1990).
+The goal of post-war science was not to establish
+how much of a resource could be harvested but to
+determine how to exceed natural limits (Hirt 1994,
+Robbins 1997).
+Chapman believed that as the intensity of fishing on
+a stock increased, the reproductive capacity of the
+fish population also increased for reasons that
+scientists did not understand, perhaps because there
+was more food for the fish that were left or because
+there was less predation. He expressed the
+relationship in a dome-shaped curve:
+The meaning of this curve is that for any
+particular population of fish there is an
+optimum point of fishing intensity which, if
+sustained, will yield the maximum crop of
+fish year after year. Less fishing is wasteful,
+for the surplus of fish dies from natural
+causes without benefit to mankind; more
+fishing is wasteful because it depletes the
+population and so results actually in a
+smaller crop (Chapman 1949).
+The implication here seems to be an
+acknowledgement that fish populations fluctuate,
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+Fig. 1. Chapman’s graph, published in the U.S. High Seas Fisheries Policy, U.S. Department of State
+Bulletin XX: 69.
+
+sometimes widely, but fishing produced the
+conditions that allowed the population to respond
+and produce the maximum amount of fish on a
+sustained basis, year after year.
+In other words, fishing played an integral role in
+stabilizing fish populations. Just as American
+settlers in the 19th century believed that the rain
+followed the plow, so Chapman seems to be saying
+that fishing created the conditions to produce more
+fish.
+For Chapman, a key concept was that management
+was only necessary when fishing intensity passed
+the point of maximum return, a point that could only
+be determined by scientists (Pauly and Maclean
+2003).
+Chapman left the State Department in 1951,
+replaced by William C. Herrington, who had
+
+extensive experience with the New England
+fisheries during his years with the U.S. Fish and
+Wildlife Service before being sent to Japan to head
+the fisheries section of the Natural Resources
+Division of the SCAP. The SCAP was pushing for
+the resumption of Japanese whaling in Antarctica
+and the return of tuna boats to the Mandated Islands.
+The international situation continued to cause
+problems for domestic fishermen. Mexican and
+South American countries seized American fishing
+boats in both the Atlantic and the Pacific. As tuna
+exports from Japan increased greatly during the
+early 1950s, they pushed American tuna off the
+grocery store shelves. The southern California boats
+joined with New England fishermen in seeking tariff
+protection from imports. The State Department
+opposed all tariffs, based on foreign policy
+consideration of expanding trade with strategically
+important Japan and Iceland, where the U.S. wanted
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+to maintain an air base. The American fishing
+industry was one of the nation’s first sectors to have
+domestic jobs sacrificed for foreign policy
+considerations (Eckes 1992).
+
+international organization to give binding
+recommendations in settling fishing disputes
+(NARA, RG 59 Box 1538, 398.245, memorandum
+of conversation at Mexican Ministry for Foreign
+Relations, 31 March 1955).
+
+SURPLUS PRODUCTION THEORY
+
+The actions by the Latin Americans in seeking to
+create a regional 200-mile (322-km) limit alarmed
+not only the U.S., but Britain as well, which was
+seeking to maintain its access to cod stocks off
+Norway, Iceland, and Newfoundland. Herrington
+began negotiations with the British during the
+summer of 1954 (record of Anglo-American
+Discussions on the Continental Shelf and Fishery
+Problems, Foreign Office, 22 July 1954, British
+Archives, FO 371/115380.)
+
+In 1953, the International Law Commission
+recommended that new ocean law was needed to
+deal with the escalating fisheries conflicts. It
+recommended that a new international body be
+created, under the auspices of the Food and
+Agricultural Organization (FAO) of the United
+Nations, with binding authority, and that territorial
+waters be expanded from 3 miles to 6 miles (4.8–
+9.7 km). The U.S. opposed the recommendations,
+and in December of 1954, Herrington went to the
+United Nations and suggested that a technical
+conference be held in April to give guidance to the
+law commission, scheduled to meet in June in
+Geneva (speech by William C. Herrington,
+University of Rhode Island, 27 June 1966,
+American Tuna Association files, Box 29, unlabeled
+folder, Scripps Institution of Oceanography).
+Three weeks before the conference started, on 27
+March 1955, Ecuador seized two American flag
+fishing vessels, the Arctic Maid and the Santa Ana,
+off the Ecuadorian coast. An American seaman was
+seriously wounded by gunfire from the Ecuadorian
+patrol vessel. Fines of more than $49 000 were
+imposed on the vessel, despite strong American
+protests. Ecuador’s ambassador to the U.S., Jose
+Chiriboga, apologized for the shooting, but said
+Ecuador was bound by the international agreement
+it had signed with Peru and Chile to take action to
+protect its maritime waters (State Department
+Memorandum of Conservation, 31 March 1955,
+Box 4142, 811.245, NARA RG 59). Tensions were
+high as the delegates headed to Rome.
+The International Technical Conference on the
+Conservation of the Living Resources of the Sea
+was held between 18 April and 10 May 1955, at
+FAO headquarters in Rome. It was billed as a
+scientific meeting, but it was in fact a political one,
+focused on halting the escalating number of
+territorial claims being made against the industrial
+fishing nations (Hollick 1978, Beverton 1994). The
+American objective was to formulate a new set of
+recommendations for the law commission,
+scotching the ideas of expanding state territorial
+waters to 6 miles (9.7 km) and creating an
+
+As far as the U.S. was concerned, the technical
+conference was about much more than fish (draft
+instructions to the U.S. Delegation, William C.
+Herrington, 30 March 1955, papers of Edward
+Allen, Box 23, Folder “UN International
+Conference,” University of Washington Special
+Collections). The U.S. did not want the conference
+to deal with territorial issues (Floyd McDougall to
+P.V. Cardon, 4 October 1954, unlabeled folder,
+FAO Files 14 FI 159 RG 14). Herrington traveled
+to Ottawa, Gothenburg, Oslo, Stockholm, and
+London during February 1955 for consultations
+(summary record of an informal meeting held in
+London on 9–10 February 1955, British Archives,
+FO 371/115380). He also traveled to Havana and
+Mexico City, and arrived in Rome a week before
+the meeting to consult with delegates from France,
+Greece, Panama, Turkey, and Nationalist China
+(Department of State Instruction, 28 March 1955,
+Box 1538, Folder 398.245, NARA RG 59).
+Herrington crafted the agenda to showcase
+American fisheries science, specifically the work of
+Milner B. Schaefer, director of the IATTC, on the
+rapidly growing American tuna fishery in the
+Pacific. Schaefer presented two papers, the first
+suggesting an approach to fisheries research and the
+second detailing the spectacular success of the
+American tuna fishery off Latin America (Schaefer
+1955a, b). During 1953, American boats had taken
+274 million pounds of tuna, mainly off Peru,
+encapsulating one of the reasons why Latin
+Americans were so unhappy with the American
+fleet.
+Schaefer’s tuna paper reflects the two critical
+assumptions that were made at Rome: (1) the
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+biological assumption that fish populations had
+“surplus” production that could safely be harvested
+and that scientists would be able to pinpoint these
+harvest targets, and (2) the economic assumption
+that when catches dropped, fishing would decline
+because it was no longer economic for fishing to
+continue. The fishery did not need to be regulated
+because free market forces controlled effort.
+
+being managed at close to MSY levels and
+management intervention, in the form of restrictions
+to slow the catch, was not warranted. When the
+stocks had recovered to MSY levels, the fishing
+level could be increased. Subsequently, many
+scientists would question the validity of the second
+set of data points, and their fit to what would come
+to be called a Schaefer curve (McGoodwin 1990).
+
+Schaefer’s tuna paper featured his reconstruction of
+the tuna catch through the 1930s, from logbooks
+kept by fishermen. Schaefer had used the data to
+plot the catch, effort, and size distribution of
+yellowfin (Thunnus albacares). The yellowfin data
+(Fig. 2) generally show two clusters: a tight one in
+the data from 1934–1945, close to the rising arc of
+the dome-shaped curve, as the fish grew and put on
+weight. A second set of data points recorded the
+post-war catch, clustered near the peak of the curves,
+when the population is at its maximum. A critical
+omission was that Schaefer had been unable to find
+a way to age tuna.
+
+Schaefer’s whole biological–economic model
+presumed that markets were open, when in fact they
+were not. Through the centuries, many fisheries had
+enjoyed subsidies of various sorts, such as bounties
+on the catching of cod in New England (Morison
+1941). Especially after 1945, governments
+embarked on a series of subsidies for the fishing
+industry in most industrialized countries, including
+the U.S., Britain, Japan, and the Soviet Union. The
+scale and range of the subsidies varied, but
+substantial amounts of government money were
+invested into the fishing industries of most
+developed nations. The development of fisheries in
+poorer countries, through such programs as the
+FAO, also acted to subsidize fisheries development.
+Government programs subsidized the cost of
+building boats and processing facilities, and the
+development and marketing of new fish products,
+most through low-interest loans. Tariffs are also a
+form of subsidy, and various countries introduced
+protective measures to protect their fishermen from
+low-cost imports.
+
+Schaefer concluded that in 1953, yellowfin tuna
+appeared to be fished at near MSY levels, but danger
+of serious overfishing had decreased and
+construction of new vessels was not economically
+attractive (Schaefer 1955b). Schaefer’s analysis fit
+an economic theory widely publicized in the 1930s,
+that fish stocks could not be exterminated because
+as soon as the fish were thinned and fishing was no
+longer profitable, fishing would decline, thanks to
+business failure (Taylor 1930). In other words, open
+markets would solve the biological problem, with
+no need for fishing restrictions. Skipjack
+(Katsuwonus pelamis) runs fluctuated greatly but,
+despite heavy fishing, showed no signs of decline.
+Fishing could substantially increase before reaching
+MSY levels.
+Schaefer’s curve clearly illustrated the argument he
+was making: fish had surplus production that could
+safely be harvested, and when the catch per unit
+effort (CPUE) dropped, fishing would slow and the
+stocks would be given time to rebound to optimal
+levels. Introducing restrictions as the catch was
+increasing was not necessary. The fishery could
+regulate itself.
+Although surplus production theory purported to be
+based on biology, it rested on an economic trigger:
+a decline in the CPUE. In Schaefer’s yellowfin
+example, economic conditions had halted the
+expansion of fishing. Therefore, the fishery was
+
+When fish catches fell, the economic incentive to
+leave the industry was neutralized by government
+actions. If anything, once government spending was
+established, subsidies continued, creating the
+pressure for more assistance, and continually
+thwarting the expected corrective action of the
+markets (Ludwig et al. 1993, Schrank 1998). In a
+truly sociologically flexible system, where
+fishermen could easily enter and leave fisheries to
+take other employment during bad times, this
+economic trigger might have worked. But the
+fisheries market was not open. Government
+subsidies (initiated for both domestic and foreign
+policy reasons) were extensive and expanding, and
+most fishermen had no other occupations to turn to
+when fishing was poor (Fisheries Research Board
+of Canada 1956, Vickers 1994).
+As adopted in 1955, MSY meant that countries
+could not act to restrict fishing by foreign boats until
+it could be established scientifically that stocks were
+being depleted and the attainment of MSY
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+Fig. 2. Schaefer’s curve showing yellowfin tuna populations and the catch from 1934–1953 (Source:
+Schaefer 1955b).
+
+jeopardized (papers of D. B. Finn, misc. notes, 1955
+Conference, Folder 14, FAO 14 FI 159 RG 14). This
+was a substantial burden of proof that smaller
+countries, such as Peru, Ecuador, and Chile, found
+difficult to meet.
+By refusing to place restrictions on fisheries as they
+were being developed, the 1955 meeting justified
+the expenditure of government funds to expand
+fishing throughout the world’s oceans. This
+government money contributed to overcapitalization,
+one of the most difficult problems in regulating
+fisheries (Christy 1997).
+Another of the legacies of this 1955 meeting is the
+establishment of a pattern that is still repeated 60
+years later, of taking fish without regulation until
+
+critical biological estimates have been reached.
+Measures to slow or halt fishing have mixed success
+in conserving stocks. The development of derby or
+Olympic fisheries have also had substantial social
+costs to fishermen and have increased costs to
+managers (Healey 1998)
+American actions substantially shaped both the
+direction of fisheries science and the fisheries
+management process in three ways. First, the actions
+at Rome prevented the implementation of
+restrictions on fisheries as they were being
+developed. Second, the U.S. rejected any discussion
+of an international management organization with
+binding authority to regulate fishing and the
+territorial questions it raised, in favor of the creation
+of bilateral and multilateral commissions, generally
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+with limited regulatory authority. Third, the U.S.
+influenced the institutionalization of the idea that
+fish stocks had “surplus” that could safely be
+harvested, paving the way for the development of
+derby fishing. This last factor assumed that
+scientists would soon have the ability to predict
+these critical harvest points—or MSY—and that
+effective action could be taken to rein in fishing.
+The establishment of MSY has generally been
+interpreted as being a positive step for global
+fisheries as this science-based concept would result
+in the safe development of fisheries while sustaining
+stocks in perpetuity (Scheiber 1989, Hubbard 2006).
+Global fish catches increased by 6.8% a year
+through the 1950s (from 18.5 million mt in 1950 to
+31.2 million in 1959), assuring policy makers and
+scientists that the adoption of MSY had been wise
+and prudent (Garcia and Newton 1994).
+This perception of scientific management was
+strengthened by the publication in the early 1950s
+of what biologist Tim B. Smith calls the three partial
+theories of MSY. The yield per recruit theory, by
+British scientists Raymond Beverton and Sidney
+Holt, dealt with estimating the maximum yield from
+each cohort of a fish population. The spawner and
+recruit theory, devised by Canadian William Ricker,
+estimated the optimum number of spawners for each
+year class of fish. Schaefer’s surplus production
+theory estimated the maximum total harvest of fish
+every year from a standing population (Smith 1994).
+Smith wrote that the three theories came to dominate
+fisheries research for more than four decades but
+that biologists were unable to find a way to unify
+them into a comprehensive management regime.
+This “defined narrow terms of reference for the
+future study of fisheries biology,” he wrote (Smith
+1994).
+I contend that the three partial theories could not be
+successfully unified in a comprehensive scientific
+theory because MSY was driven more by its policy
+concerns than by its science. The 1955 Rome
+meeting was described by its planners and
+participants as being “scientific and technical,”
+designed to provide guidance to the International
+Law Commission. However, the meeting was a
+political one, held in response to actions by Latin
+American countries, seeking to restrict American
+fishing for baitfish. The American position was
+shared by several European nations, concerned that
+countries such as Iceland also were moving to
+restrict fishing by foreign boats.
+
+Estimating MSY from the partial theories depends
+on high-quality data, which cannot be obtained from
+fisheries as they develop because regulations are
+prohibited until the fishery shows signs of
+overfishing. The MSY has to be exceeded before it
+can be established (Hilborn and Walters 1992).
+Policy makers showcased MSY and pushed for its
+adoption because it supported their objective—
+upholding the freedom of the seas and the right of
+industrialized nations to continue to fish wherever
+their technology allowed them to do so.
+The adoption of MSY was not unanimous. In
+particular, Britain’s chief fisheries scientist,
+Michael Graham, argued vigorously during the
+planning for the Rome meeting and during the
+conference itself, that MSY was not an appropriate
+goal for fisheries management (Graham 1955).
+Graham argued the focus should be on “controlling
+man’s activities so as to produce the maximum
+sustainable yield of products in a form most useful
+to man,” (British Archives, MAF 209/32 summary
+record of an informal meeting held in London on 9–
+10 February 1955). D. B. Finn, head of the fisheries
+division of the FAO, which hosted the meeting, also
+opposed the MSY goal, arguing that it was a
+theoretical concept with no scientific agreement
+about its meaning. He thought it was not an
+appropriate goal for management (papers of D. B.
+Finn, FAO 14 Fl 159 RG 14, Folder April–May 1954
+conference).
+Finn assigned Sidney Holt, who had moved to the
+FAO in 1952, to write a critique of MSY and
+Schaefer’s surplus production theory, but although
+the paper went through four drafts, it was not
+included in the conference’s published documents.
+Holt argued against research aimed at estimating a
+“critical point” for ocean fishery management. He
+said the objective could only be met with an
+“infinitely high fishing intensity and hence at a
+correspondingly high cost; it is therefore a totally
+unreal objective for resource use” (papers of D. B.
+Finn, FAO 14 Fl 159 RG 14, Folder April–May 1954
+conference, italics in the original). Holt meant that
+excess harvesting capacity would develop under an
+MSY scenario.
+Graham argued in “The Fish Gate” that unlimited
+fisheries were unprofitable (Graham 1943). He had
+hired Beverton and Holt to pursue his hypothesis
+that a conservative fishing regime, with restrictions
+imposed early, produced a greater yield of fish and
+protected stocks that had not yet spawned (Beverton
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+and Holt 1957). But at the Rome meeting, when it
+came time to vote on the structure and form of future
+fisheries science, the head of the British delegation,
+Minister of Fisheries Ronald Wall, supported the
+American position. Britain was also interested in its
+own line of fishing boats in foreign waters—
+including Newfoundland and New England.
+Graham’s preferred course of action—the
+introduction of restrictions as a fishery was growing
+—could have supported the political positions of
+Peru, Ecuador, and Chile, which were attempting to
+control American bait fishing off their coasts. It also
+would have supported the position of Iceland, which
+had encouraged the United Nations to hold the
+conference in the first place.
+After the Rome conference ended, Herrington and
+Chapman drove to Geneva, for the meeting of the
+International Law Commission. The ILC accepted
+the “technical advice” of the Rome meeting and
+MSY was adopted at the policy level in 1958. A
+theoretical concept, MSY is reinforced by its
+existence in multiple fields, first as policy, then as
+science, then as a legal construct adopted in national
+and international treaties. The criticism that was
+leveled at the adoption of MSY had dropped from
+sight and there have been no further attempts to
+create an international body with binding authority
+to rule in fisheries disputes. The overall shape of
+modern fisheries management was fixed at Rome
+on a scientific foundation that was distorted by
+political objectives and contained several untested
+assumptions about fish stocks.
+
+pressure. The policy makers also assumed an open
+market, when in fact most of the countries involved
+were substantially subsidizing fisheries for a variety
+of social, political, and economic objectives.
+The existence of MSY in multiple realms—
+politically, scientifically, and legally—has reinforced
+its perception as being based in science rather than
+in policy. With the focus firmly on establishing
+harvest points for individual fish, our attention has
+been diverted away from the overall impact of
+fishing on ocean ecosystems. The failure of MSY
+to protect stocks has contributed to public
+disillusionment over the ability of scientists to
+manage resources.
+Once established at the policy level, MSY proved
+to be resilient indeed. It became institutionalized
+and the early criticism of its scientific weaknesses
+was forgotten (Holt and Talbot 1978, Barber 1988).
+It has also been entrenched at a deeper level, where
+it has acted as a legal and political instrument that
+controlled scientific ideas about how nature works.
+This entrenchment at the legal, political, and
+philosophical levels has contributed to the
+persistence of MSY. But the establishment of MSY
+in the first place owed more to justifying a political
+and economic agenda than it did to sustaining fish
+stocks.
+Responses to this article can be read online at:
+http://www.ecologyandsociety.org/vol14/iss1/art6/responses/
+
+CONCLUSIONS
+
+Acknowledgments:
+
+Policy makers at Rome (and certainly some of the
+scientists) saw the science as being on the verge of
+not only understanding the ocean, but having a
+certain ability to control its processes. Man and his
+technology were benevolent forces in a hostile
+natural world. The Rome delegates approved three
+resolutions, including language that the immediate
+aim of conservation was to conduct fishing activities
+so as to increase, or at least sustain, the yield of
+fishing. “Scientifically sound” measures were also
+to be taken to improve the resource.
+
+Thank you to Sidney Holt, Jim Lichatowich, Tony
+Koslow, and Dan Bottom for discussions around this
+paper.
+
+A critical misunderstanding at Rome was
+underestimating the fishing capacity of the fleet that
+was being built and overestimating the ability of fish
+to reproduce in the face of such enormous fishing
+
+Barber, W. E. 1988. Maximum sustained yield lives
+on. North American Journal of Fisheries
+Management 8(2):153–157.
+
+LITERATURE CITED
+Allard, D. C. Jr. 1978. Spencer Fullerton Baird and
+the U.S. Fish Commission. Arno Press, New York,
+New York, USA.
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+Beverton, R. J. H. 1994. The state of fisheries
+science. Pages 25–54 in C. Voitlander, editor. The
+state of the world’s fisheries resources. International
+Science Publisher, Lebanon, New Hampshire,
+USA.
+Beverton, R. J. H., and S. J. Holt. 1957. On the
+dynamics of exploited fish populations. Chapman
+and Hall, London, UK.
+Bottom, D. L. 1997. To till the waters: a history of
+ideas in fisheries conservation. Pages 569–597 in
+D. J. Stouder, P. A. Bisson, and R. J. Naiman,
+editors. Pacific salmon and their ecosystems: status
+and future options. Chapman and Hall, New York,
+New York, USA.
+Bottom, D. L., K. K. Jones, C. A. Simenstad, and
+C. L. Smith. 2009. Reconnecting social and
+ecological resilience in salmon ecosystems.
+Ecology and Society 14(1): 5. [online] URL: http://
+www.ecologyandsociety.org/vol14/iss1/art5/.
+
+Dunn, R. J. 2002. William Francis Thompson
+(1889–1965) and his pioneering studies of Pacific
+halibut (Hippoglossus stenolepis). Marine Fisheries
+Review 63(2):5–14.
+Eckes, A. E. 1992. Trading American interests.
+Foreign Affairs 71(4):135–54.
+Finlayson, A. C. 1994. Fishing for truth: a
+sociological analysis of northern cod stock
+assessments from 1977–1990. Memorial University
+of Newfoundland, St. John’s, Newfoundland,
+Canada.
+Fisheries Research Board of Canada. 1956. The
+commercial fisheries of Canada. Department of
+Fisheries of Canada and the Fisheries Research
+Board, Ottawa, Ontario, Canada.
+Francis, R. C. 1980. Fisheries science now and in
+the future: a personal view. New Zealand Journal
+of Marine and Freshwater Research 14(1):95–100.
+
+Chapman, W. M. 1949. United States policy on
+high seas fisheries. U.S. Department of State,
+Washington, D.C., USA. Bulletin XX:67–80.
+
+Fraser, N., P. Jacobson, M. Ottoway, and L.
+Chester. 1977. Aristotle Onassis. Times Newspaper
+Limited, London, UK.
+
+Christy, F. 1997. Economic waste in fisheries:
+impediments to change and conditions for
+improvement. Pages 28–39 in E. K. Pikitch, D. D.
+Huppert, and M. P. Sissenwine. Global trends,
+fisheries management. American Fisheries Society,
+Bethesda, Maryland, USA.
+
+Garcia, S. M., and C. Newton. 1994. Current
+situation, trends, and prospects in world capture
+fisheries. Pages 3–27 in E. K. Pikitch, D. D.
+Huppert, and M. P. Sissenwine. Global trends,
+fisheries management. American Fisheries Society,
+Bethesda, Maryland, USA.
+
+Cooley, R. A. 1963. Politics and conservation: the
+decline of Alaska salmon. The Conservation
+Foundation, New York, New York, USA.
+
+Graham, M. 1943. The fish gate. Faber and Faber
+Limited, London, UK.
+
+Cortner, H. J., and M. A. Moote. 1999. The politics
+of ecosystem management. Island Press, Washington,
+D.C., USA.
+
+———. 1955. A first approximation to a modern
+theory of fishing. Pages 56–57 in Proceedings,
+International Technical Conference for the
+Conservation of the Living Resources of the Sea, 18
+April–10 May 1955, Rome, Italy. United Nations
+Publications 1956, IIB1.
+
+Dewar, M. E. 1983. Industry in trouble: the federal
+government and the New England fisheries. Temple
+University Press, Philadelphia, Pennsylvania, USA.
+Doel, R. E. 1997. Scientists as policymakers,
+advisors, and intelligence agents: linking
+contemporary diplomatic history with the history of
+contemporary science. Pages 215–244 in Thomas
+Soderqvist, editor. The historiography of
+contemporary science and technology. Harwood
+Academic Publishers, Amsterdam, The Netherlands.
+
+Hamblin, J. D. 2005. Oceanographers and the cold
+war: disciples of marine science. University of
+Washington Press, Seattle, Washington, USA.
+Hannesson, R. 1996. Fisheries mismanagement:
+the case of the North Atlantic cod. Fishing News
+Books, Oxford, UK.
+Hays, S. P. 1959. Conservation and the gospel of
+efficiency. Harvard University Press, Cambridge,
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+Massachusetts, USA.
+Healey, M. C. 1998. The paradox of fairness: the
+impact of escalating complexity on fisheries
+management. Marine Policy 22(2):109–118, 115.
+Healey, M. C. 2009. Resilient salmon, resilient
+fisheries for British Columbia. Ecology and Society
+14(1): 2. [online] URL: http://www.ecologyandsoc
+iety.org/vol14/iss1/art2/.
+Hilborn, R., and C. J. Walters. 1992. Quantitative
+fisheries stock assessment: choice, dynamics and
+uncertainty. Chapman and Hall, New York, New
+York, USA.
+Hirt, P. 1994. A conspiracy of optimism:
+management of the national forests since World War
+II. University of Nebraska Press, Lincoln, Nebraska,
+USA.
+Hollick, A. L. 1978. The roots of U.S. fisheries
+policy. Ocean Development and International Law
+Journal 5(1):61–105.
+——— 1981. U.S. foreign policy and the law of the
+sea. Princeton University Press, Princeton, New
+Jersey, USA.
+Holling, C. S., and G. K. Meffe. 1996. Command
+and control and the pathology of natural resource
+management. Conservation Biology 10(2):328–
+337.
+Holm, P., T. D. Smith, and D. J. Starkey. 2001.
+Introduction. Pages xiii–xix in P. Holm, T. D. Smith,
+and D. J. Starkey. The exploited seas: new directions
+for marine environmental history. Memorial
+University Press, St. John’s, Newfoundland,
+Canada.
+
+Hutchings, J. A., and R. A. Myers. 1995. The
+biological collapse of Atlantic cod off Newfoundland
+and Labrador. Pages 25–44, in R. Arnson and L.
+Felt, editors. The North Atlantic fisheries:
+successes, failures and challenges. University of
+Prince Edward Island Press, Charlottetown, Prince
+Edward Island, Canada.
+Huxley, T. H. 1883. Inaugural address. Fisheries
+Exhibition Literature 4:1–22.
+Josephson, P. R. 2002. Industrialized nature: brute
+force technology and the transformation of the
+natural world. Island Press, Washington, D.C.,
+USA.
+Kishinouye, K. 1923. Contributions to the
+comparative study of the so-called scombroid
+fishes. Journal of the College of Agriculture,
+Imperial University of Tokyo 8(3):293–475.
+Krige, J. 2006. American hegemony and the
+postwar reconstruction of science in Europe. MIT
+Press, Cambridge, Massachusetts, USA.
+Kyle, H. M. 1905. Statistics of the North Sea
+fisheries. Part III. Summary of the available
+fisheries statistics and their value for the solution of
+the problem of overfishing. Rapports, Conseil
+Permanent International pour l’Exploration de la
+Mer 3.
+Larkin, P. A. 1977. An epitaph for the concept of
+maximum sustained yield. Transactions of the
+American Fisheries Society 106(1):1–11.
+Leslie, S. W. 1993. The cold war and American
+science. Columbia University Press, New York,
+New York, USA.
+
+Holt, S., and L. M. Talbot. 1978. New principles
+for the conservation of wild living resources.
+Wildlife Monographs 59.
+
+Lichatowich, J. 1999. Salmon without rivers: a
+history of the Pacific salmon crisis. Island Press,
+Washington, D.C., USA.
+
+Hubbard, J. 2006. A science on the scales: the rise
+of Canadian Atlantic fisheries biology, 1898–1939.
+University of Toronto Press, Toronto, Ontario,
+Canada.
+
+Ludwig, D., R. Hilborn, and C. Walters. 1993.
+Uncertainty, resource exploitation, and conservation:
+lessons from history. Science 260(17):17–36.
+
+Hublou, W. F., J. Wallis, T. B. McKee. D. K. Law,
+R. O. Sinnhuber, and T. C. Yu. 1959. Development
+of the Oregon Moist Pellet Diet. Research Briefs,
+Fish Commission of Oregon 7(1):28–56.
+
+McEvoy, A. F. 1986. The fisherman’s problem:
+ecology and law in the California fisheries.
+Cambridge University Press, Cambridge, UK.
+———. 1988. Towards an interactive theory of
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+nature and culture: ecology, production, and
+cognition in the California fishing industry. Pages
+211–229 in D. Worster, editor. The ends of the earth:
+perspectives on modern environmental history.
+Cambridge University Press, Cambridge, UK.
+McGoodwin, J. R. 1990. Crisis in the world’s
+fisheries: people, problems and politics. Stanford
+University Press, Stanford, California, USA.
+Morison, S. E. 1941. The maritime history of
+Massachusetts, 1783–1860. Houghton Mifflin
+Company, Boston, Massachusetts, USA.
+
+Robbins, W. 1997. Landscapes of promise: the
+Oregon story: 1900–1940. University of Washington
+Press, Seattle, Washington, USA.
+Roberts. C. 2007. The unnatural history of the sea.
+Island Press, Washington, D.C., USA.
+Rozwadowski, H. M. 2002. The sea knows no
+boundaries: a century of marine science at ICES.
+University of Washington Press, Seattle, Washington,
+USA.
+Russell, E. S. 1942. The overfishing problem.
+Cambridge University Press, Cambridge, UK.
+
+Oreskes, N., and R. Rainger. 2000. Science and
+security before the atomic bomb: the loyalty case of
+Harold U. Sverdrup. Studies in the History and
+Philosophy of Modern Physics 31(3):309–369.
+
+Scarnecchia, D. L. 1988. Salmon management and
+the search for values. Canadian Journal of Fisheries
+and Aquatic Sciences 45(11):2042–2050, 2–44.
+
+Parsons, L. S., and J. S. Beckett. 1994. Fisheries
+management in Canada: the case of Atlantic
+groundfish. Pages 73–79 in E. K. Pikitch, D. D.
+Huppert, and M. P. Sissenwine. Global trends,
+fisheries management. American Fisheries Society,
+Bethesda, Maryland, USA.
+
+Schaefer, M. B. 1955a. The scientific basis for a
+conservation program. Pages 15–55 in Proceedings,
+International Technical Conference for the
+Conservation of the Living Resources of the Sea, 18
+April–10 May 1955, Rome, Italy. United Nations
+Publications 1956, IIB1.
+
+Paterson, T. G. 1992. On every front: the making
+and unmaking of the cold war. W. W. Norton and
+Company, New York, New York, USA.
+
+———. 1955b. Scientific investigation of the
+tropical tuna resources of the eastern Pacific. Pages
+194–221 in Proceedings, International Technical
+Conference for the Conservation of the Living
+Resources of the Sea, 18 April–10 May 1955, Rome,
+Italy. United Nations Publications 1956, IIB1.
+
+Pauly, D. 1994. On the sex of fish and the gender
+of scientists. Chapman and Hall, London, UK.
+Pauly, D., V. Christensen, S. Guenette, T. J.
+Pitcher, U. R. Sumaila, C. J. Walters, R. Watson,
+and D. Zeller. 2002. Towards sustainability in
+world fisheries. Nature 418:689–695.
+Pauly, D., and J. Maclean. 2003. In a perfect
+ocean: the state of fisheries and ecosystems in the
+North Atlantic ocean. Island Press, Washington, D.
+C., USA.
+
+Schaller, M. 1985. The American occupation of
+Japan: the origins of the cold war in Asia. Oxford
+University Press, Oxford, UK.
+Scheiber, H. N. 1989. Origins of abstention doctrine
+in ocean law: Japanese–U.S. relations and the
+Pacific fisheries, 1937–1958. Ecology Law
+Quarterly 16:23–101.
+
+Pope, P. E. 2004. Fish into wine: the Newfoundland
+plantation in the seventeenth century.University of
+North Carolina Press, London, UK and Chapel Hill,
+North Carolina, USA.
+
+———. 2001. Inter-allied conflicts and ocean law,
+1945–1953: the occupation command’s revival of
+Japanese whaling and marine fisheries. Institute of
+European and American Studies, Academic Sinica,
+Taipei, Taiwan.
+
+Rainger, R. 2001. Constructing a landscape for
+postwar science: Roger Revelle, the Scripps
+Institution of Oceanography, and the University of
+California, San Diego. Minerva 39:327–352.
+
+Schrank, W. B. 1998. The failure of the Canadian
+seasonal fishermen’s unemployment insurance
+reform during the 1960s and 1970s. Marine Policy
+22(1):67–81.
+
+Ecology and Society 14(1): 6
+http://www.ecologyandsociety.org/vol14/iss1/art6/
+
+Sharp, G. D. 1995. It’s about time: new beginning
+and old good ideas in fisheries science. Fisheries
+Oceanography 4(4):324–341.
+
+a fishing industry and its international
+ramifications—the end of an era. Arizona State
+University Press, Tempe, Arizona, USA.
+
+Shelbourne, J. E. 1971. The Artificial Propagation
+of Marine Fish. Second edition. The Academic
+Press, Jersey City, New Jersey, USA.
+
+Wright, M. 2001. A fishery for modern times: the
+state and the industrialization of the Newfoundland
+fishery, 1934–1968. Oxford University Press,
+London, UK.
+
+Smith, B. L. R. 1990 American science policy since
+World War II. The Brookings Institute, Washington,
+D.C., USA.
+Smith, T. 1994. Scaling fisheries: the science of
+measuring the effects of fishing, 1855–1955.
+Cambridge University Press, Cambridge, UK.
+Stone, L. 1884. The artificial propagation of salmon
+in the Columbia River basin. Transactions of the
+American Fish Cultural Association 13:21–31.
+Supreme Commander Allied Powers. 1949.
+Japan’s natural resources, a comprehensive survey.
+Hosakawa Printing Company, Tokyo, Japan.
+Taylor, H. F. 1930. Trends of progress in the fish
+industry. Canadian Fisheries Annual, Ottawa,
+Ontario, Canada.
+Thompson, W. H. 1936. Conservation of the
+Pacific halibut, an international experiment.
+Smithsonian Institution, Washington, D.C., USA.
+Tonnessen, J. N., and A. O. Johnsen. 1982. The
+history of modern whaling. R. I. Christophersen,
+translator. C. Hurst and Company and Australian
+National University Press, London, UK and
+Canberra, Australia.
+U.S. Navy. 1944. The fishing industry of the
+Japanese mandated islands. Office of the Chief of
+Naval Operations, Washington, D.C., USA.
+Vickers, D. 1994. Farmers and fishermen: two
+centuries of work in Essex County, Massachusetts,
+1630–1830. University of North Carolina Press,
+Chapel Hill, North Carolina, USA.
+Watt, D. C. 1979. First steps in the enclosure of the
+oceans: the origins of Truman’s proclamation on the
+resources of the continental shelf, 28 September
+1945. Marine Policy 3(3):211–224.
+Wolff, T. 1980. In pursuit of tuna: the expansion of
+
+
